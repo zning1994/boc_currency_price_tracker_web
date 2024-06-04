@@ -22,7 +22,7 @@ jobs:
       with:
         repository: zning1994/boc_currency_price_tracker
         branch: main
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PRIVATE_TOEKEN }}
         path: scripts
     
     - name: Install Python latest
