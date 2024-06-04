@@ -46,6 +46,7 @@ jobs:
         python boc_currency_price.py JPY
         python boc_currency_price.py SAR
         python generate_readme.py
+        echo bocurrencyprice.techina.science > docs/CNAME
         mv docs ../;
 
     - name: Commit files
