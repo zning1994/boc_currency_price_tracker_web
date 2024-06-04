@@ -1,10 +1,10 @@
 name: 'Fetch currency price from BOC Actions'
 
 on:
-  # push:
-  #   branches: ["main"]
+  push:
+    branches: ["main"]
   schedule:
-    - cron: '*/25 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   build:
