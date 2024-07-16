@@ -1,6 +1,33 @@
 [
     {
         "currency_name": "EUR",
+        "spot_exchange_buying_price": 789.12,
+        "cash_buying_price": 765.59,
+        "spot_selling_price": 794.65,
+        "cash_selling_price": 798.53,
+        "bank_of_china_conversion_price": 780.47,
+        "publish_date": "2024.07.16 15:13:14"
+    },
+    {
+        "currency_name": "EUR",
+        "spot_exchange_buying_price": 788.98,
+        "cash_buying_price": 765.46,
+        "spot_selling_price": 794.51,
+        "cash_selling_price": 798.39,
+        "bank_of_china_conversion_price": 780.47,
+        "publish_date": "2024.07.16 15:08:08"
+    },
+    {
+        "currency_name": "EUR",
+        "spot_exchange_buying_price": 788.89,
+        "cash_buying_price": 765.37,
+        "spot_selling_price": 794.42,
+        "cash_selling_price": 798.3,
+        "bank_of_china_conversion_price": 780.47,
+        "publish_date": "2024.07.16 15:04:09"
+    },
+    {
+        "currency_name": "EUR",
         "spot_exchange_buying_price": 788.8,
         "cash_buying_price": 765.28,
         "spot_selling_price": 794.33,
@@ -151,32 +178,5 @@
         "cash_selling_price": 798.28,
         "bank_of_china_conversion_price": 780.47,
         "publish_date": "2024.07.16 11:34:47"
-    },
-    {
-        "currency_name": "EUR",
-        "spot_exchange_buying_price": 789.01,
-        "cash_buying_price": 765.49,
-        "spot_selling_price": 794.54,
-        "cash_selling_price": 798.42,
-        "bank_of_china_conversion_price": 780.47,
-        "publish_date": "2024.07.16 11:29:25"
-    },
-    {
-        "currency_name": "EUR",
-        "spot_exchange_buying_price": 788.99,
-        "cash_buying_price": 765.47,
-        "spot_selling_price": 794.52,
-        "cash_selling_price": 798.4,
-        "bank_of_china_conversion_price": 780.47,
-        "publish_date": "2024.07.16 11:19:23"
-    },
-    {
-        "currency_name": "EUR",
-        "spot_exchange_buying_price": 788.85,
-        "cash_buying_price": 765.33,
-        "spot_selling_price": 794.38,
-        "cash_selling_price": 798.26,
-        "bank_of_china_conversion_price": 780.47,
-        "publish_date": "2024.07.16 11:00:59"
     }
 ]
