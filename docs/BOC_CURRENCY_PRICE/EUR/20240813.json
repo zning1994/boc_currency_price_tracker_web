@@ -1,6 +1,24 @@
 [
     {
         "currency_name": "EUR",
+        "spot_exchange_buying_price": 780.37,
+        "cash_buying_price": 757.1,
+        "spot_selling_price": 785.84,
+        "cash_selling_price": 789.67,
+        "bank_of_china_conversion_price": 782.17,
+        "publish_date": "2024.08.13 18:22:02"
+    },
+    {
+        "currency_name": "EUR",
+        "spot_exchange_buying_price": 780.23,
+        "cash_buying_price": 756.97,
+        "spot_selling_price": 785.7,
+        "cash_selling_price": 789.53,
+        "bank_of_china_conversion_price": 782.17,
+        "publish_date": "2024.08.13 18:05:59"
+    },
+    {
+        "currency_name": "EUR",
         "spot_exchange_buying_price": 780.32,
         "cash_buying_price": 757.05,
         "spot_selling_price": 785.79,
@@ -160,23 +178,5 @@
         "cash_selling_price": 789.92,
         "bank_of_china_conversion_price": 782.17,
         "publish_date": "2024.08.13 16:53:28"
-    },
-    {
-        "currency_name": "EUR",
-        "spot_exchange_buying_price": 780.74,
-        "cash_buying_price": 757.46,
-        "spot_selling_price": 786.21,
-        "cash_selling_price": 790.05,
-        "bank_of_china_conversion_price": 782.17,
-        "publish_date": "2024.08.13 16:47:33"
-    },
-    {
-        "currency_name": "EUR",
-        "spot_exchange_buying_price": 780.74,
-        "cash_buying_price": 757.46,
-        "spot_selling_price": 786.21,
-        "cash_selling_price": 790.05,
-        "bank_of_china_conversion_price": 782.17,
-        "publish_date": "2024.08.13 16:47:15"
     }
 ]
