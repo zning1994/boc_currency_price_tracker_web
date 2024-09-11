@@ -1,6 +1,15 @@
 [
     {
         "currency_name": "JPY",
+        "spot_exchange_buying_price": 5.0015,
+        "cash_buying_price": 4.8574,
+        "spot_selling_price": 5.0356,
+        "cash_selling_price": 5.0526,
+        "bank_of_china_conversion_price": 5.0034,
+        "publish_date": "2024.09.11 19:31:14"
+    },
+    {
+        "currency_name": "JPY",
         "spot_exchange_buying_price": 5.0061,
         "cash_buying_price": 4.8619,
         "spot_selling_price": 5.0402,
@@ -169,14 +178,5 @@
         "cash_selling_price": 5.0558,
         "bank_of_china_conversion_price": 5.0034,
         "publish_date": "2024.09.11 16:25:10"
-    },
-    {
-        "currency_name": "JPY",
-        "spot_exchange_buying_price": 5.0064,
-        "cash_buying_price": 4.8622,
-        "spot_selling_price": 5.0405,
-        "cash_selling_price": 5.0576,
-        "bank_of_china_conversion_price": 5.0034,
-        "publish_date": "2024.09.11 16:21:49"
     }
 ]
