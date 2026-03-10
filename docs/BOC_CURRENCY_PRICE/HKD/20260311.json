@@ -1,6 +1,15 @@
 [
     {
         "currency_name": "HKD",
+        "spot_exchange_buying_price": 87.69,
+        "cash_buying_price": 87.69,
+        "spot_selling_price": 88.05,
+        "cash_selling_price": 88.05,
+        "bank_of_china_conversion_price": 88.2,
+        "publish_date": "2026.03.11 07:46:58"
+    },
+    {
+        "currency_name": "HKD",
         "spot_exchange_buying_price": 87.67,
         "cash_buying_price": 87.67,
         "spot_selling_price": 88.03,
@@ -169,14 +178,5 @@
         "cash_selling_price": 88.0,
         "bank_of_china_conversion_price": 88.2,
         "publish_date": "2026.03.11 02:35:50"
-    },
-    {
-        "currency_name": "HKD",
-        "spot_exchange_buying_price": 87.64,
-        "cash_buying_price": 87.64,
-        "spot_selling_price": 88.0,
-        "cash_selling_price": 88.0,
-        "bank_of_china_conversion_price": 88.2,
-        "publish_date": "2026.03.11 02:35:29"
     }
 ]
