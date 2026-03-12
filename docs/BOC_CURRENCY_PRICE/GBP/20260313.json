@@ -1,6 +1,15 @@
 [
     {
         "currency_name": "GBP",
+        "spot_exchange_buying_price": 915.95,
+        "cash_buying_price": 915.95,
+        "spot_selling_price": 922.75,
+        "cash_selling_price": 922.75,
+        "bank_of_china_conversion_price": 922.25,
+        "publish_date": "2026.03.13 06:49:35"
+    },
+    {
+        "currency_name": "GBP",
         "spot_exchange_buying_price": 915.74,
         "cash_buying_price": 915.74,
         "spot_selling_price": 922.54,
@@ -169,14 +178,5 @@
         "cash_selling_price": 922.96,
         "bank_of_china_conversion_price": 922.25,
         "publish_date": "2026.03.13 02:04:56"
-    },
-    {
-        "currency_name": "GBP",
-        "spot_exchange_buying_price": 916.15,
-        "cash_buying_price": 916.15,
-        "spot_selling_price": 922.96,
-        "cash_selling_price": 922.96,
-        "bank_of_china_conversion_price": 922.25,
-        "publish_date": "2026.03.13 02:00:05"
     }
 ]
