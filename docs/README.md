@@ -2,12 +2,12 @@
 
 This README file shows the currency prices from [BOC Currency Price](https://www.boc.cn/sourcedb/whpj/).
 
-Currency links: (Date for 20260330)
+Currency links: (Date for 20260331)
 
-- [USD](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/USD/20260330.json)
-- [AED](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/AED/20260330.json)
-- [HKD](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/HKD/20260330.json)
-- [EUR](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/EUR/20260330.json)
-- [GBP](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/GBP/20260330.json)
-- [JPY](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/JPY/20260330.json)
-- [SAR](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/SAR/20260330.json)
+- [USD](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/USD/20260331.json)
+- [AED](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/AED/20260331.json)
+- [HKD](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/HKD/20260331.json)
+- [EUR](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/EUR/20260331.json)
+- [GBP](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/GBP/20260331.json)
+- [JPY](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/JPY/20260331.json)
+- [SAR](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/SAR/20260331.json)
