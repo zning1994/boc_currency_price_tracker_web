@@ -1,48 +1,13 @@
-# BOC Currency Price
+# BOC currency price archive
 
-Daily JSON snapshots of Bank of China exchange rates (source: <https://www.boc.cn/sourcedb/whpj/>).
+Raw JSON snapshots of Bank of China exchange rates, updated every 30
+minutes. This is the data CDN — for the public site with charts and an
+API reference, go to <https://bocurrencyprice.techina.science>.
 
-Today's data (20260425, Asia/Shanghai):
+Direct file URL pattern:
 
-- [AED 阿联酋迪拉姆](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/AED/20260425.json)
-- [AUD 澳大利亚元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/AUD/20260425.json)
-- [BND 文莱元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/BND/20260425.json)
-- [BRL 巴西雷亚尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/BRL/20260425.json)
-- [CAD 加拿大元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/CAD/20260425.json)
-- [CHF 瑞士法郎](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/CHF/20260425.json)
-- [CZK 捷克克朗](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/CZK/20260425.json)
-- [DKK 丹麦克朗](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/DKK/20260425.json)
-- [EUR 欧元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/EUR/20260425.json)
-- [GBP 英镑](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/GBP/20260425.json)
-- [HKD 港币](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/HKD/20260425.json)
-- [HUF 匈牙利福林](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/HUF/20260425.json)
-- [IDR 印尼卢比](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/IDR/20260425.json)
-- [ILS 以色列谢克尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/ILS/20260425.json)
-- [INR 印度卢比](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/INR/20260425.json)
-- [JPY 日元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/JPY/20260425.json)
-- [KHR 柬埔寨瑞尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/KHR/20260425.json)
-- [KRW 韩国元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/KRW/20260425.json)
-- [KWD 科威特第纳尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/KWD/20260425.json)
-- [MNT 蒙古图格里克](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/MNT/20260425.json)
-- [MOP 澳门元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/MOP/20260425.json)
-- [MXN 墨西哥比索](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/MXN/20260425.json)
-- [MYR 林吉特](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/MYR/20260425.json)
-- [NOK 挪威克朗](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/NOK/20260425.json)
-- [NPR 尼泊尔卢比](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/NPR/20260425.json)
-- [NZD 新西兰元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/NZD/20260425.json)
-- [PHP 菲律宾比索](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/PHP/20260425.json)
-- [PKR 巴基斯坦卢比](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/PKR/20260425.json)
-- [QAR 卡塔尔里亚尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/QAR/20260425.json)
-- [RSD 塞尔维亚第纳尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/RSD/20260425.json)
-- [RUB 卢布](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/RUB/20260425.json)
-- [SAR 沙特里亚尔](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/SAR/20260425.json)
-- [SEK 瑞典克朗](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/SEK/20260425.json)
-- [SGD 新加坡元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/SGD/20260425.json)
-- [THB 泰国铢](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/THB/20260425.json)
-- [TRY 土耳其里拉](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/TRY/20260425.json)
-- [TWD 新台币](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/TWD/20260425.json)
-- [USD 美元](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/USD/20260425.json)
-- [VND 越南盾](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/VND/20260425.json)
-- [ZAR 南非兰特](https://bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/ZAR/20260425.json)
+```
+https://data-bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/<CCY>/<YYYYMMDD>.json
+```
 
-Each JSON file is an array of rate snapshots for that currency on that date. See the scraper repo README for the full schema and timezone contract.
+For example: <https://data-bocurrencyprice.techina.science/BOC_CURRENCY_PRICE/USD/20260425.json>

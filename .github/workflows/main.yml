@@ -1,9 +1,10 @@
 # Bank of China exchange-rate scraper — web repo workflow.
-# Last updated 2026-04-25 (phase 1):
-#   - Checkout target now boc_currency_price_tracker_new (replaces old private repo).
-#   - Single `--all` invocation; 40 currencies, per-currency failure tolerance.
-#   - Dropped the redundant ad-m/github-push-action; inline git push only.
-#   - Cron lowered from */15 to */30 — row-level dedup absorbs the resolution loss.
+# This repo is a pure data CDN; portal/API live in sibling repos.
+# Last updated 2026-04-25 (phase 3 cutover):
+#   - Stopped invoking generate_readme.py (homepage now lives in the
+#     portal repo, not here).
+#   - Removed CNAME echo from the workflow — docs/CNAME is committed
+#     in-tree and points at data-bocurrencyprice.techina.science.
 
 name: 'Fetch currency price from BOC Actions'
 
@@ -43,18 +44,16 @@ jobs:
             pip install -r ./scripts/requirements.txt
           fi
 
-      - name: Fetch and generate
+      - name: Fetch
         run: |
           cd scripts
           python boc_currency_price.py --all --data-dir ../docs/BOC_CURRENCY_PRICE
-          python generate_readme.py --out-dir ..
-          echo bocurrencyprice.techina.science > ../docs/CNAME
 
       - name: Commit if changed
         run: |
           git config --local user.email "zhn038@gmail.com"
           git config --local user.name "ZNing"
-          git add docs README.md 2>/dev/null || git add docs
+          git add docs/BOC_CURRENCY_PRICE
           if git diff --staged --quiet; then
             echo "No rate change since last run, skipping commit."
             exit 0
