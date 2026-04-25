@@ -47,7 +47,7 @@ jobs:
         run: |
           cd scripts
           python boc_currency_price.py --all --data-dir ../docs/BOC_CURRENCY_PRICE
-          python generate_readme.py
+          python generate_readme.py --out-dir ..
           echo bocurrencyprice.techina.science > ../docs/CNAME
 
       - name: Commit if changed
