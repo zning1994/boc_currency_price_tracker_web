@@ -1,68 +1,63 @@
+# Bank of China exchange-rate scraper — web repo workflow.
+# Last updated 2026-04-25 (phase 1):
+#   - Checkout target now boc_currency_price_tracker_new (replaces old private repo).
+#   - Single `--all` invocation; 40 currencies, per-currency failure tolerance.
+#   - Dropped the redundant ad-m/github-push-action; inline git push only.
+#   - Cron lowered from */15 to */30 — row-level dedup absorbs the resolution loss.
+
 name: 'Fetch currency price from BOC Actions'
 
 on:
   push:
     branches: ["main"]
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-    - name: Checkout from repo
-      uses: actions/checkout@main
-      with:
-        ref: main
+      - name: Checkout from repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
 
-    - name: Checkout private tools
-      uses: actions/checkout@main
-      with:
-        repository: zning1994/boc_currency_price_tracker
-        branch: main
-        token: ${{ secrets.PRIVATE_TOEKEN }}
-        path: scripts
-    
-    - name: Install Python latest
-      uses: actions/setup-python@main
-      with:
-        python-version: '3.x'
-        architecture: 'x64'
+      - name: Checkout scraper
+        uses: actions/checkout@v4
+        with:
+          repository: zning1994/boc_currency_price_tracker_new
+          ref: main
+          token: ${{ secrets.PRIVATE_TOEKEN }}
+          path: scripts
 
-    - name: Install dependencies
-      run: |
-        if [ -f ./scripts/requirements.txt ]; then pip install -r ./scripts/requirements.txt; fi
- 
-    - name: Doing fetch and convert
-      run: |
-        cd scripts;
-        python boc_currency_price.py AED
-        python boc_currency_price.py USD
-        python boc_currency_price.py EUR
-        python boc_currency_price.py HKD
-        python boc_currency_price.py GBP
-        python boc_currency_price.py JPY
-        python boc_currency_price.py SAR
-        python generate_readme.py
-        echo bocurrencyprice.techina.science > docs/CNAME
-        cp -r docs ../;
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-    - name: Commit if changed
-      run: |
-        git config --local user.email "zhn038@gmail.com"
-        git config --local user.name "ZNing"
-        git add .
-        if git diff --staged --quiet; then
-          echo "No rate change since last run, skipping commit."
-          exit 0
-        fi
-        git commit -m "chore: update currency price $(date '+%Y-%m-%d %H:%M:%S')"
-        git push
- 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+      - name: Install dependencies
+        run: |
+          if [ -f ./scripts/requirements.txt ]; then
+            pip install -r ./scripts/requirements.txt
+          fi
+
+      - name: Fetch and generate
+        run: |
+          cd scripts
+          python boc_currency_price.py --all --data-dir ../docs/BOC_CURRENCY_PRICE
+          python generate_readme.py
+          echo bocurrencyprice.techina.science > ../docs/CNAME
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "zhn038@gmail.com"
+          git config --local user.name "ZNing"
+          git add docs README.md 2>/dev/null || git add docs
+          if git diff --staged --quiet; then
+            echo "No rate change since last run, skipping commit."
+            exit 0
+          fi
+          git commit -m "chore: update currency price $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
