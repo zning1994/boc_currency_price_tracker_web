@@ -49,12 +49,17 @@ jobs:
         echo bocurrencyprice.techina.science > docs/CNAME
         cp -r docs ../;
 
-    - name: Commit files
+    - name: Commit if changed
       run: |
         git config --local user.email "zhn038@gmail.com"
         git config --local user.name "ZNing"
         git add .
-        git commit -m "chore: update currency price $(date "+%Y-%m-%d %H:%M:%S")"
+        if git diff --staged --quiet; then
+          echo "No rate change since last run, skipping commit."
+          exit 0
+        fi
+        git commit -m "chore: update currency price $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
  
     - name: Push changes
       uses: ad-m/github-push-action@master
