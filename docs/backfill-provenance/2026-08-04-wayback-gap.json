@@ -1,0 +1,57 @@
+{
+    "schema_version": 1,
+    "imported_at_utc": "2026-08-04T05:06:49Z",
+    "importer_commit": "052b9f5",
+    "captures": [
+        {
+            "capture_timestamp": "20260731012227",
+            "captured_at_utc": "2026-07-31T01:22:27Z",
+            "original_url": "https://www.boc.cn/sourcedb/whpj/",
+            "replay_url": "https://web.archive.org/web/20260731012227id_/https://www.boc.cn/sourcedb/whpj/",
+            "expected_publish_date": "2026.07.31 09:15:43",
+            "publish_at_utc": "2026-07-31T01:15:43Z",
+            "publish_at_local": "2026-07-31T09:15:43+08:00",
+            "raw_html_sha256": "378a2011970564606ca4d47350a6edd9de35ddf0d960f2b5a32646d8f4fa5623",
+            "source_rows": 40
+        },
+        {
+            "capture_timestamp": "20260731184025",
+            "captured_at_utc": "2026-07-31T18:40:25Z",
+            "original_url": "https://www.boc.cn/sourcedb/whpj/",
+            "replay_url": "https://web.archive.org/web/20260731184025id_/https://www.boc.cn/sourcedb/whpj/",
+            "expected_publish_date": "2026.08.01 02:39:02",
+            "publish_at_utc": "2026-07-31T18:39:02Z",
+            "publish_at_local": "2026-08-01T02:39:02+08:00",
+            "raw_html_sha256": "765c9b36c2c2a0e016b4ae9ab9db58fb56866563f473d627af7f70ebc5975e38",
+            "source_rows": 40
+        },
+        {
+            "capture_timestamp": "20260801210546",
+            "captured_at_utc": "2026-08-01T21:05:46Z",
+            "original_url": "https://www.boc.cn/sourcedb/whpj/",
+            "replay_url": "https://web.archive.org/web/20260801210546id_/https://www.boc.cn/sourcedb/whpj/",
+            "expected_publish_date": "2026.08.02 00:00:05",
+            "publish_at_utc": "2026-08-01T16:00:05Z",
+            "publish_at_local": "2026-08-02T00:00:05+08:00",
+            "raw_html_sha256": "1535c5016378eb10c40d2f9c6ebd385e9a1c7367f7542fed75d49900585a1f98",
+            "source_rows": 40
+        }
+    ],
+    "summary": {
+        "source_rows": 120,
+        "candidate_files": 120,
+        "affected_dates": [
+            "20260731",
+            "20260801",
+            "20260802"
+        ],
+        "initial_combined_rows": 215,
+        "final_rows": 214,
+        "stored_rows_by_publish_date": {
+            "2026.07.31 09:15:43": 39,
+            "2026.08.01 02:39:02": 40,
+            "2026.08.02 00:00:05": 40
+        },
+        "result_sha256": "5cc1f4fe27fb3979c42551492417913193e1c6f08e38955e9e06721104c305b1"
+    }
+}

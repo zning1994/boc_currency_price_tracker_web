@@ -2,7 +2,7 @@
 
 This repo is a **pure data CDN** for Bank of China exchange-rate
 snapshots. It has no source code — only the JSON archive committed by a
-scheduled workflow that runs every 30 minutes.
+scheduled workflow that runs every 10 minutes.
 
 For everything else you probably want, go to one of these:
 
@@ -17,11 +17,12 @@ For everything else you probably want, go to one of these:
 ```
 docs/
 ├── BOC_CURRENCY_PRICE/<CCY>/<YYYYMMDD>.json   # 40 currencies × ~880 days
+├── backfill-provenance/*.json                  # audited historical imports
 └── CNAME                                       # data-bocurrencyprice.techina.science
-.github/workflows/main.yml                      # cron */30 — fetch + commit
+.github/workflows/main.yml                      # cron */10 — fetch + commit
 ```
 
-The git history is the immutable archive — every 30-minute cron tick
+The git history is the immutable archive — every 10-minute cron tick
 that finds a price change becomes a `chore: update currency price …`
 commit. Don't `git rebase` or `git push --force` here; consumers point
 at specific dates.
