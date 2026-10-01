@@ -2251,6 +2251,39 @@
     },
     {
       "code": "GBP",
+      "date": "2026-09-16",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "c0fac878cfb1faea6e8ceb7cebdffd17f05432bc9ba1d9d9cb6377b190705bba",
+      "captured_at_utc": "2026-10-01T17:16:01.705Z",
+      "total_pages": 14,
+      "actual_pages": 14,
+      "raw_rows": 262,
+      "unique_timestamps": 259,
+      "first_publish_date": "2026.09.16 00:00:05",
+      "last_publish_date": "2026.09.16 23:53:34",
+      "stored_rows_after_price_dedup": 213,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        2
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260916.json",
+      "capture_path": "raw/GBP-20260916.raw.json",
+      "archive_sha256": "d1387b16fc3758565fe17ae6d58ce02be132b8d39d7d9f27dabd52fd58ae17bc"
+    },
+    {
+      "code": "GBP",
       "date": "2026-09-19",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
       "capture_sha256": "9cf8766b7c05a015a3fa8105ef50432fb32ffaa5d8d8df242418cf87d8e31f5f",
@@ -2670,6 +2703,39 @@
     },
     {
       "code": "HKD",
+      "date": "2026-09-16",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "079724d7c36fbcac87a747ba0e7a4a69901a18a4724159b1488e394aaefb791e",
+      "captured_at_utc": "2026-10-01T17:16:07.472Z",
+      "total_pages": 14,
+      "actual_pages": 14,
+      "raw_rows": 262,
+      "unique_timestamps": 259,
+      "first_publish_date": "2026.09.16 00:00:05",
+      "last_publish_date": "2026.09.16 23:53:34",
+      "stored_rows_after_price_dedup": 50,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        2
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260916.json",
+      "capture_path": "raw/HKD-20260916.raw.json",
+      "archive_sha256": "fc3b673574cb79269bca5111188b01a35bf75bc8286e88358b3283c7f94248cc"
+    },
+    {
+      "code": "HKD",
       "date": "2026-09-19",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
       "capture_sha256": "227fa29e538efb0243253958a3778dd0152a3aa238e9b68f2dc2486276e3e20b",
@@ -3054,6 +3120,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260914.json",
       "capture_path": "raw/JPY-20260914.raw.json",
       "archive_sha256": "8620f8bbdffd4803ad0ef667e4b79db688cc4b7fac3721856162563c473b4cb5"
+    },
+    {
+      "code": "JPY",
+      "date": "2026-09-15",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "abc655d77a2815849f57b5fdaf79a8437246e2d8881f61103707e96b879ea6eb",
+      "captured_at_utc": "2026-10-01T17:15:55.933Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 252,
+      "first_publish_date": "2026.09.15 00:00:05",
+      "last_publish_date": "2026.09.15 23:58:29",
+      "stored_rows_after_price_dedup": 231,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260915.json",
+      "capture_path": "raw/JPY-20260915.raw.json",
+      "archive_sha256": "50fa1b965d206d14a248934c0aba03ac75b032f99e0bbba2c5c958d08fecead9"
     },
     {
       "code": "JPY",
@@ -3920,7 +4018,7 @@
       "archive_sha256": "563acd937cf8c5dd5df17a6869981debcd97a0aac0e2eadb72136dad9e7ba216"
     }
   ],
-  "completed_pairs": 144,
+  "completed_pairs": 147,
   "planned_pairs": 1080,
-  "remaining_pairs": 936
+  "remaining_pairs": 933
 }
