@@ -3364,47 +3364,47 @@
       "name": "土耳其里拉",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TRY/20260905.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/TRY-20260905.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "TWD",
       "name": "新台币",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260905.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/TWD-20260905.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "VND",
       "name": "越南盾",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260905.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/VND-20260905.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "ZAR",
       "name": "南非兰特",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260905.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/ZAR-20260905.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3412,11 +3412,11 @@
       "name": "文莱元",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BND-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3424,11 +3424,11 @@
       "name": "巴西雷亚尔",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BRL-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 63,
-      "validated": 63,
-      "published": 60,
-      "pending": 801
+      "captured": 66,
+      "validated": 66,
+      "published": 63,
+      "pending": 798
     }
   },
   "priority_codes": [
