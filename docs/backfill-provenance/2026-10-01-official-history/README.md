@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-205/1080 approved original-40-currency pairs validated; 875 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+208/1080 approved original-40-currency pairs validated; 872 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 |AUD|2026-09-21|10|192|188|142|
 |AUD|2026-09-22|13|260|255|216|
 |AUD|2026-09-23|13|247|243|215|
+|AUD|2026-09-24|16|318|315|273|
 |AUD|2026-09-26|1|8|5|3|
 |AUD|2026-09-27|1|6|3|1|
 |CAD|2026-09-04|15|290|287|242|
@@ -72,6 +73,8 @@
 |CAD|2026-09-20|1|7|3|1|
 |CAD|2026-09-21|10|192|188|144|
 |CAD|2026-09-22|13|260|255|208|
+|CAD|2026-09-23|13|247|243|213|
+|CAD|2026-09-24|16|317|314|258|
 |CAD|2026-09-26|1|8|5|3|
 |CAD|2026-09-27|1|6|3|1|
 |EUR|2026-09-04|15|290|287|223|
@@ -216,4 +219,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Seven regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 205 captured, 205 validated, 200 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 208 captured, 208 validated, 205 independently verified on production CDN. Captured-only items are not complete.
