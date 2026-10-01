@@ -1024,12 +1024,12 @@
       "name": "英镑",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260904.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/GBP-20260904.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "GBP",
@@ -1048,11 +1048,11 @@
       "name": "英镑",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/GBP-20260906.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1348,12 +1348,12 @@
       "name": "日元",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260904.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/JPY-20260904.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "JPY",
@@ -1672,23 +1672,23 @@
       "name": "港币",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260904.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/HKD-20260904.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HKD",
       "name": "港币",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260905.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HKD-20260905.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13010,10 +13010,10 @@
   ],
   "progress": {
     "primary": {
-      "captured": 85,
-      "validated": 85,
-      "published": 82,
-      "pending": 131
+      "captured": 87,
+      "validated": 87,
+      "published": 85,
+      "pending": 129
     },
     "remaining": {
       "captured": 0,
