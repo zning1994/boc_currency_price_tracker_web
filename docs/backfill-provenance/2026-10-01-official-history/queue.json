@@ -2968,47 +2968,47 @@
       "name": "泰国铢",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260904.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/THB-20260904.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "TRY",
       "name": "土耳其里拉",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TRY/20260904.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/TRY-20260904.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "TWD",
       "name": "新台币",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260904.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/TWD-20260904.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "VND",
       "name": "越南盾",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260904.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/VND-20260904.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3016,11 +3016,11 @@
       "name": "南非兰特",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260904.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/ZAR-20260904.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3028,11 +3028,11 @@
       "name": "文莱元",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260905.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BND-20260905.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 30,
-      "validated": 30,
-      "published": 27,
-      "pending": 834
+      "captured": 33,
+      "validated": 33,
+      "published": 30,
+      "pending": 831
     }
   },
   "priority_codes": [

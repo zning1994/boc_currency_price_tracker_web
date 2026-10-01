@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-246/1080 approved original-40-currency pairs validated; 834 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+249/1080 approved original-40-currency pairs validated; 831 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 |AUD|2026-09-29|13|254|251|209|
 |AUD|2026-09-30|12|224|221|183|
 |BND|2026-09-04|15|290|287|213|
+|BND|2026-09-05|3|55|52|28|
 |BRL|2026-09-04|15|290|287|158|
 |CAD|2026-09-04|15|290|287|242|
 |CAD|2026-09-05|3|55|52|35|
@@ -250,6 +251,8 @@
 |USD|2026-09-28|13|246|242|155|
 |USD|2026-09-29|13|254|251|112|
 |USD|2026-09-30|12|224|221|96|
+|VND|2026-09-04|15|289|287|7|
+|ZAR|2026-09-04|15|289|287|188|
 
 Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserve each returned page, original seven-cell table strings, source timestamps and capture time. No verification credentials are retained. Complete returned pages do not establish that BOC retains every originally published quote. Weekend queries can contain only a few timestamps through 10:30:00.
 
@@ -257,4 +260,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Eight regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 246 captured, 246 validated, 243 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 249 captured, 249 validated, 246 independently verified on production CDN. Captured-only items are not complete.
