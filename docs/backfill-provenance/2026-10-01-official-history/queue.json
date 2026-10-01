@@ -1252,11 +1252,11 @@
       "name": "英镑",
       "date": "2026-09-23",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260923.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/GBP-20260923.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1564,11 +1564,11 @@
       "name": "日元",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260922.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/JPY-20260922.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1900,23 +1900,23 @@
       "name": "港币",
       "date": "2026-09-23",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260923.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/HKD-20260923.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HKD",
       "name": "港币",
       "date": "2026-09-24",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260924.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HKD-20260924.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13010,10 +13010,10 @@
   ],
   "progress": {
     "primary": {
-      "captured": 160,
-      "validated": 160,
-      "published": 159,
-      "pending": 56
+      "captured": 163,
+      "validated": 163,
+      "published": 160,
+      "pending": 53
     },
     "remaining": {
       "captured": 0,
