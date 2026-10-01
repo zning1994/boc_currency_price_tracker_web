@@ -1658,6 +1658,43 @@
       "archive_sha256": "99bf840cbf839c6d92e1d3dcae3756310fd27c23b927dba693c48539076bcec6"
     },
     {
+      "code": "BND",
+      "date": "2026-09-07",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "3c56a790cdf3e62a62a947c364e0050128a859425a744a6b895c0c76735a390d",
+      "captured_at_utc": "2026-10-01T22:10:28.132Z",
+      "total_pages": 11,
+      "actual_pages": 11,
+      "raw_rows": 218,
+      "unique_timestamps": 214,
+      "first_publish_date": "2026.09.07 00:00:05",
+      "last_publish_date": "2026.09.07 23:56:36",
+      "stored_rows_after_price_dedup": 162,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        18
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.07 16:36:34"
+      ],
+      "independent_review_sha256": "fc9a6c37d0a1cf0917c31ec54f853854486e63407f28f88c0672470abdf7ac25",
+      "independent_review_path": "raw/BND-20260907.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260907.json",
+      "capture_path": "raw/BND-20260907.raw.json",
+      "archive_sha256": "5cad1b8e44b09b93b7aca75e387c61bbf74aaaa7b0ce32154766f638458589b0"
+    },
+    {
       "code": "BRL",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -1732,6 +1769,36 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260906.json",
       "capture_path": "raw/BRL-20260906.raw.json",
       "archive_sha256": "194bf696ac1be81491f8e929a5dced9a636b04155567b3677010a154cfa5c0ad"
+    },
+    {
+      "code": "BRL",
+      "date": "2026-09-07",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "6cab8731d0022dcb5a16979fecb7a8a29d6b86e9dc18af076dcb46ec7c9d0550",
+      "captured_at_utc": "2026-10-01T22:10:28.138Z",
+      "total_pages": 11,
+      "actual_pages": 11,
+      "raw_rows": 218,
+      "unique_timestamps": 214,
+      "first_publish_date": "2026.09.07 00:00:05",
+      "last_publish_date": "2026.09.07 23:56:36",
+      "stored_rows_after_price_dedup": 29,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        18
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260907.json",
+      "capture_path": "raw/BRL-20260907.raw.json",
+      "archive_sha256": "a05b3234d08a970da66a2683b6d00c33a714a267cef8d376e4a853e644bf9050"
     },
     {
       "code": "CAD",
@@ -2589,6 +2656,36 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260906.json",
       "capture_path": "raw/CHF-20260906.raw.json",
       "archive_sha256": "d34cf8bbba5b9981d23e7d8cd5f56641831e98857086ca3723f5ed268be9d810"
+    },
+    {
+      "code": "CHF",
+      "date": "2026-09-07",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "f4520c7242fb47635bc2248edb10a6e7139a202278d7d371505a92078a033a4c",
+      "captured_at_utc": "2026-10-01T22:10:28.144Z",
+      "total_pages": 11,
+      "actual_pages": 11,
+      "raw_rows": 218,
+      "unique_timestamps": 214,
+      "first_publish_date": "2026.09.07 00:00:05",
+      "last_publish_date": "2026.09.07 23:56:36",
+      "stored_rows_after_price_dedup": 171,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        18
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260907.json",
+      "capture_path": "raw/CHF-20260907.raw.json",
+      "archive_sha256": "527844dc730b2dd5b2a64d056963547d9ab3059e3326c0259c771ba9b39e84e8"
     },
     {
       "code": "CZK",
@@ -8715,7 +8812,7 @@
       "archive_sha256": "641a901c277deb4646e728fd1e3aa930f106e05debca8288b02bf9c441cd7250"
     }
   ],
-  "completed_pairs": 312,
+  "completed_pairs": 315,
   "planned_pairs": 1080,
-  "remaining_pairs": 768
+  "remaining_pairs": 765
 }
