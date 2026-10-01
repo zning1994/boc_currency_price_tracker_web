@@ -4300,23 +4300,23 @@
       "name": "韩元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KRW-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KWD",
       "name": "科威特第纳尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/KWD-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 139,
-      "validated": 139,
-      "published": 138,
-      "pending": 725
+      "captured": 140,
+      "validated": 140,
+      "published": 139,
+      "pending": 724
     }
   },
   "priority_codes": [
