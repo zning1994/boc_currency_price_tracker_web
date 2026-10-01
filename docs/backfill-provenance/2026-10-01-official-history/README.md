@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-126/1080 approved original-40-currency pairs validated; 954 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+129/1080 approved original-40-currency pairs validated; 951 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -31,12 +31,15 @@
 |AED|2026-09-28|13|246|242|170|
 |AED|2026-09-29|13|254|251|158|
 |AED|2026-09-30|12|224|221|127|
+|AUD|2026-09-05|3|55|52|30|
 |AUD|2026-09-06|1|6|3|1|
 |AUD|2026-09-13|1|9|3|1|
 |AUD|2026-09-20|1|7|3|1|
+|AUD|2026-09-27|1|6|3|1|
 |CAD|2026-09-06|1|6|3|1|
 |CAD|2026-09-13|1|9|3|1|
 |CAD|2026-09-20|1|7|3|1|
+|CAD|2026-09-27|1|6|3|1|
 |EUR|2026-09-04|15|290|287|223|
 |EUR|2026-09-05|3|55|52|32|
 |EUR|2026-09-06|1|6|3|1|
@@ -137,4 +140,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Seven regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 126 captured, 126 validated, 123 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 129 captured, 129 validated, 126 independently verified on production CDN. Captured-only items are not complete.
