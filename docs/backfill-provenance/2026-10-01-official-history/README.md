@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-11/1080 approved original-40-currency pairs complete; 1069 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+12/1080 approved original-40-currency pairs complete; 1068 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 |EUR|2026-09-04|15|290|287|223|
 |EUR|2026-09-05|3|55|52|32|
 |EUR|2026-09-06|1|6|3|1|
+|EUR|2026-09-07|11|218|214|164|
 |GBP|2026-09-05|3|55|52|32|
 |USD|2026-09-04|15|290|287|92|
 |USD|2026-09-05|3|55|52|2|
