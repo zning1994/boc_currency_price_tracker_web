@@ -3436,47 +3436,47 @@
       "name": "瑞士法郎",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CHF-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CZK",
       "name": "捷克克朗",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CZK-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "DKK",
       "name": "丹麦克朗",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/DKK-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HUF",
       "name": "匈牙利福林",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HUF-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3484,11 +3484,11 @@
       "name": "印尼卢比",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/IDR/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/IDR-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3496,11 +3496,11 @@
       "name": "以色列谢克尔",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ILS/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/ILS-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 69,
-      "validated": 69,
-      "published": 66,
-      "pending": 795
+      "captured": 72,
+      "validated": 72,
+      "published": 69,
+      "pending": 792
     }
   },
   "priority_codes": [
