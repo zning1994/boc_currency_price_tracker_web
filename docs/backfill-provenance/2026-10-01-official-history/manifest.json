@@ -450,6 +450,28 @@
       "archive_sha256": "3bffdbebf4250526d9ea3b9e70e6b068ef4804c254dadb5975403b462a4f130c"
     },
     {
+      "code": "AED",
+      "date": "2026-09-19",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "83872710b18e45a01c19a3fac885fe4b227b0efc4724cd5f415ab63576873371",
+      "captured_at_utc": "2026-10-01T13:48:05.984Z",
+      "total_pages": 3,
+      "actual_pages": 3,
+      "raw_rows": 45,
+      "unique_timestamps": 42,
+      "first_publish_date": "2026.09.19 00:00:05",
+      "last_publish_date": "2026.09.19 10:30:00",
+      "stored_rows_after_price_dedup": 18,
+      "page_row_counts": [
+        20,
+        20,
+        5
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/AED/20260919.json",
+      "capture_path": "raw/AED-20260919.raw.json",
+      "archive_sha256": "2289367e0aa339fd202e8f13cee6c0e8e34b4a03f1d70e404609b3644c1d7d72"
+    },
+    {
       "code": "EUR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -886,6 +908,28 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/EUR/20260918.json",
       "capture_path": "raw/EUR-20260918.raw.json",
       "archive_sha256": "66e7a0228f3a7fd92aa7fd685b73087af27eaf44aa0f6d4d40c75b14989109df"
+    },
+    {
+      "code": "EUR",
+      "date": "2026-09-19",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "da1eafe571b8a1df59ef97df3b93d6332aebb6a265aec88bf9f5786533dae1f9",
+      "captured_at_utc": "2026-10-01T13:48:05.984Z",
+      "total_pages": 3,
+      "actual_pages": 3,
+      "raw_rows": 45,
+      "unique_timestamps": 42,
+      "first_publish_date": "2026.09.19 00:00:05",
+      "last_publish_date": "2026.09.19 10:30:00",
+      "stored_rows_after_price_dedup": 31,
+      "page_row_counts": [
+        20,
+        20,
+        5
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/EUR/20260919.json",
+      "capture_path": "raw/EUR-20260919.raw.json",
+      "archive_sha256": "3e36d971b0898def3dc1359e0bebeeb5f81bde21195602c1a1b65c2aff9c7595"
     },
     {
       "code": "GBP",
@@ -1346,9 +1390,31 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/USD/20260918.json",
       "capture_path": "raw/USD-20260918.raw.json",
       "archive_sha256": "cec5e0381b6e816344555de309be5b579a4c913863075ba3accd40d20b31eab4"
+    },
+    {
+      "code": "USD",
+      "date": "2026-09-19",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "6a8af48e51feead38005ac3165e96efcdebea59cceb3eea5de711400eb5d7942",
+      "captured_at_utc": "2026-10-01T13:48:05.984Z",
+      "total_pages": 3,
+      "actual_pages": 3,
+      "raw_rows": 45,
+      "unique_timestamps": 42,
+      "first_publish_date": "2026.09.19 00:00:05",
+      "last_publish_date": "2026.09.19 10:30:00",
+      "stored_rows_after_price_dedup": 6,
+      "page_row_counts": [
+        20,
+        20,
+        5
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/USD/20260919.json",
+      "capture_path": "raw/USD-20260919.raw.json",
+      "archive_sha256": "86154386257e046de5a7989b805e58ec3271f02b689fa544539f15a4511eb789"
     }
   ],
-  "completed_pairs": 46,
+  "completed_pairs": 49,
   "planned_pairs": 1080,
-  "remaining_pairs": 1034
+  "remaining_pairs": 1031
 }
