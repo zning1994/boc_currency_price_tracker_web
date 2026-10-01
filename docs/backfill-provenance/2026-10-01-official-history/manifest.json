@@ -2593,6 +2593,45 @@
       "archive_sha256": "9fb0c7be5c1a0c334dd00fc7f10265d3dcac069a35270364a70df7305998ba94"
     },
     {
+      "code": "GBP",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "808b400f8ec2cda31d732ccd59cb32fca1aecea19f834e7c93ad84e42465838e",
+      "captured_at_utc": "2026-10-01T18:04:37.588Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 228,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "9c336a8d952c9212fd1d4a4a9ecbf9ad9cb72ddd18872ac59a26f4ae92ee0d39",
+      "independent_review_path": "raw/GBP-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260928.json",
+      "capture_path": "raw/GBP-20260928.raw.json",
+      "archive_sha256": "86347d9130f9c31e4ac93cda289dd8e52aabd01888e67c6ec0fb8a6647dbc47e"
+    },
+    {
       "code": "HKD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -3273,6 +3312,38 @@
       "archive_sha256": "5241044c3350e476078c86932238149f15bbc3cabe46c3a2ab18516897fe0911"
     },
     {
+      "code": "HKD",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "1a380ac3bc1f65616ca7d40a8aee91960d5effb04cbb3acf9e502f491a541ea5",
+      "captured_at_utc": "2026-10-01T18:04:37.588Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 70,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260928.json",
+      "capture_path": "raw/HKD-20260928.raw.json",
+      "archive_sha256": "8c997a49607707be420047400b0b840dc282d2321fcafe1ab70662ff250582e5"
+    },
+    {
       "code": "JPY",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -3886,6 +3957,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260924.json",
       "capture_path": "raw/JPY-20260924.raw.json",
       "archive_sha256": "7d579a61eb5dbcb7e4bff0f53d3cdf91f32714f3caa9ffa594fe44cea0d70d39"
+    },
+    {
+      "code": "JPY",
+      "date": "2026-09-25",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "194a30d235a23ff851e456523f45e5f5a80564dc76c35cec483b42439dd6b57e",
+      "captured_at_utc": "2026-10-01T18:04:37.588Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 252,
+      "first_publish_date": "2026.09.25 00:00:05",
+      "last_publish_date": "2026.09.25 22:51:11",
+      "stored_rows_after_price_dedup": 226,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260925.json",
+      "capture_path": "raw/JPY-20260925.raw.json",
+      "archive_sha256": "3975f5cd0fa9fdaf3547eaf25a7e2eec45544bfa179b176790e1a12f470d52fa"
     },
     {
       "code": "JPY",
@@ -4710,7 +4813,7 @@
       "archive_sha256": "563acd937cf8c5dd5df17a6869981debcd97a0aac0e2eadb72136dad9e7ba216"
     }
   ],
-  "completed_pairs": 168,
+  "completed_pairs": 171,
   "planned_pairs": 1080,
-  "remaining_pairs": 912
+  "remaining_pairs": 909
 }
