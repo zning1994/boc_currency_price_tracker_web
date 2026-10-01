@@ -97,8 +97,8 @@
       "name": "美元",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/USD/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "captured",
+      "capture_path": "raw/USD-20260909.raw.json",
       "priority_group": "primary"
     },
     {
@@ -331,8 +331,8 @@
       "name": "阿联酋迪拉姆",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/AED/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "captured",
+      "capture_path": "raw/AED-20260908.raw.json",
       "priority_group": "primary"
     },
     {
@@ -9770,8 +9770,8 @@
   ],
   "progress": {
     "primary": {
-      "captured": 15,
-      "pending": 201
+      "captured": 17,
+      "pending": 199
     },
     "remaining": {
       "captured": 0,
