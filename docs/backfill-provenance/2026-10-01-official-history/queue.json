@@ -3508,47 +3508,47 @@
       "name": "印度卢比",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/INR/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/INR-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KHR",
       "name": "柬埔寨瑞尔",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KHR/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KHR-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KRW",
       "name": "韩元",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KRW-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KWD",
       "name": "科威特第纳尔",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/KWD-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3556,11 +3556,11 @@
       "name": "蒙古图格里克",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MNT-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3568,11 +3568,11 @@
       "name": "澳门元",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MOP/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MOP-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 75,
-      "validated": 75,
-      "published": 72,
-      "pending": 789
+      "captured": 78,
+      "validated": 78,
+      "published": 75,
+      "pending": 786
     }
   },
   "priority_codes": [
