@@ -3544,47 +3544,47 @@
       "name": "科威特第纳尔",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KWD-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MNT",
       "name": "蒙古图格里克",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MNT-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MOP",
       "name": "澳门元",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MOP/20260906.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MOP-20260906.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MXN",
       "name": "墨西哥比索",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MXN/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MXN-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3592,11 +3592,11 @@
       "name": "林吉特",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MYR-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3604,11 +3604,11 @@
       "name": "挪威克朗",
       "date": "2026-09-06",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260906.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NOK-20260906.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 78,
-      "validated": 78,
-      "published": 75,
-      "pending": 786
+      "captured": 81,
+      "validated": 81,
+      "published": 78,
+      "pending": 783
     }
   },
   "priority_codes": [
