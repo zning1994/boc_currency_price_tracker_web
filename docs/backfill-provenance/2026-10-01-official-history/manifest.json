@@ -34,6 +34,28 @@
       "archive_sha256": "13ffe27ddb75522e90fd800f44c6089e8ddedcc57072d7fa83e53c0535420d8e"
     },
     {
+      "code": "GBP",
+      "date": "2026-09-05",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "e834e27e7dcd9abcdebef48edab91c52d6b98227bcc8ef7f3fc5628ce8c9d75e",
+      "captured_at_utc": "2026-10-01T11:57:35.035Z",
+      "total_pages": 3,
+      "actual_pages": 3,
+      "raw_rows": 55,
+      "unique_timestamps": 52,
+      "first_publish_date": "2026.09.05 00:00:05",
+      "last_publish_date": "2026.09.05 10:30:00",
+      "stored_rows_after_price_dedup": 32,
+      "page_row_counts": [
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260905.json",
+      "capture_path": "raw/GBP-20260905.raw.json",
+      "archive_sha256": "f64ad90b7544f6b54ca9f78e3520f65182b1c07ad3d6f0f8854d4313a7306a88"
+    },
+    {
       "code": "USD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -90,7 +112,7 @@
       "archive_sha256": "0f8c562f9078658cf899caec32449794345a68d444564f3617a0db80cd39d751"
     }
   ],
-  "completed_pairs": 3,
+  "completed_pairs": 4,
   "planned_pairs": 1080,
-  "remaining_pairs": 1077
+  "remaining_pairs": 1076
 }
