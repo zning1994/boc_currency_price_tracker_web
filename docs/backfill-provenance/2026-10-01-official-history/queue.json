@@ -1240,12 +1240,12 @@
       "name": "英镑",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260922.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/GBP-20260922.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "GBP",
@@ -1552,12 +1552,12 @@
       "name": "日元",
       "date": "2026-09-21",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260921.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/JPY-20260921.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "JPY",
@@ -1888,23 +1888,23 @@
       "name": "港币",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260922.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/HKD-20260922.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HKD",
       "name": "港币",
       "date": "2026-09-23",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260923.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HKD-20260923.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13010,10 +13010,10 @@
   ],
   "progress": {
     "primary": {
-      "captured": 159,
-      "validated": 159,
-      "published": 156,
-      "pending": 57
+      "captured": 160,
+      "validated": 160,
+      "published": 159,
+      "pending": 56
     },
     "remaining": {
       "captured": 0,
