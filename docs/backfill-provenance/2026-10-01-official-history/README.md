@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-225/1080 approved original-40-currency pairs validated; 855 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+228/1080 approved original-40-currency pairs validated; 852 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -202,6 +202,9 @@
 |JPY|2026-09-28|13|246|242|224|
 |JPY|2026-09-29|13|251|248|222|
 |JPY|2026-09-30|12|224|221|199|
+|KHR|2026-09-04|15|290|287|17|
+|KRW|2026-09-04|15|290|287|190|
+|KWD|2026-09-04|15|290|287|218|
 |USD|2026-09-04|15|290|287|92|
 |USD|2026-09-05|3|55|52|2|
 |USD|2026-09-06|1|6|3|1|
@@ -234,6 +237,6 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 `manifest.json` records raw and archive SHA-256 hashes, coverage bounds, page counts and storage contract. Published daily files follow existing bare-array schema and continuous five-price-run dedup. No interpolation or current-price substitution is used. Existing files and October 1 data are untouched. New-currency research samples are excluded.
 
-Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Seven regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
+Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Eight regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 225 captured, 225 validated, 222 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 228 captured, 228 validated, 225 independently verified on production CDN. Captured-only items are not complete.
