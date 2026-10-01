@@ -574,8 +574,8 @@
       "name": "欧元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/EUR/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "captured",
+      "capture_path": "raw/EUR-20260908.raw.json",
       "priority_group": "primary"
     },
     {
@@ -9770,8 +9770,8 @@
   ],
   "progress": {
     "primary": {
-      "captured": 14,
-      "pending": 202
+      "captured": 15,
+      "pending": 201
     },
     "remaining": {
       "captured": 0,
