@@ -1,12 +1,13 @@
 # Partial official-history backfill
 
-12/1080 approved original-40-currency pairs complete; 1068 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+14/1080 approved original-40-currency pairs complete; 1066 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
 |AED|2026-09-04|15|289|287|178|
 |AED|2026-09-05|3|55|52|19|
 |AED|2026-09-06|1|6|3|1|
+|AED|2026-09-07|11|218|214|129|
 |EUR|2026-09-04|15|290|287|223|
 |EUR|2026-09-05|3|55|52|32|
 |EUR|2026-09-06|1|6|3|1|
@@ -16,6 +17,7 @@
 |USD|2026-09-05|3|55|52|2|
 |USD|2026-09-06|1|6|3|1|
 |USD|2026-09-07|11|218|214|83|
+|USD|2026-09-08|13|255|251|71|
 
 Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserve each returned page, original seven-cell table strings, source timestamps and capture time. No verification credentials are retained. Complete returned pages do not establish that BOC retains every originally published quote. Weekend queries can contain only a few timestamps through 10:30:00.
 
