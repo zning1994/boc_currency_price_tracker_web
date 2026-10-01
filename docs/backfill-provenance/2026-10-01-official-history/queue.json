@@ -1144,23 +1144,23 @@
       "name": "英镑",
       "date": "2026-09-14",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260914.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/GBP-20260914.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "GBP",
       "name": "英镑",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/GBP-20260915.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1432,12 +1432,12 @@
       "name": "日元",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260911.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/JPY-20260911.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "JPY",
@@ -1468,11 +1468,11 @@
       "name": "日元",
       "date": "2026-09-14",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260914.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/JPY-20260914.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1792,23 +1792,23 @@
       "name": "港币",
       "date": "2026-09-14",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260914.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/HKD-20260914.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HKD",
       "name": "港币",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HKD-20260915.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13010,10 +13010,10 @@
   ],
   "progress": {
     "primary": {
-      "captured": 141,
-      "validated": 141,
-      "published": 138,
-      "pending": 75
+      "captured": 144,
+      "validated": 144,
+      "published": 141,
+      "pending": 72
     },
     "remaining": {
       "captured": 0,
