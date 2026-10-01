@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-188/1080 approved original-40-currency pairs validated; 892 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+191/1080 approved original-40-currency pairs validated; 889 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -38,8 +38,10 @@
 |AUD|2026-09-08|13|255|251|168|
 |AUD|2026-09-09|13|245|242|190|
 |AUD|2026-09-10|13|244|241|194|
+|AUD|2026-09-11|13|248|245|199|
 |AUD|2026-09-12|2|38|35|20|
 |AUD|2026-09-13|1|9|3|1|
+|AUD|2026-09-14|11|215|212|181|
 |AUD|2026-09-19|3|45|42|31|
 |AUD|2026-09-20|1|7|3|1|
 |AUD|2026-09-26|1|8|5|3|
@@ -51,6 +53,7 @@
 |CAD|2026-09-08|13|255|251|194|
 |CAD|2026-09-09|13|245|242|191|
 |CAD|2026-09-10|13|244|241|200|
+|CAD|2026-09-11|13|248|245|207|
 |CAD|2026-09-12|2|38|35|25|
 |CAD|2026-09-13|1|9|3|1|
 |CAD|2026-09-19|3|45|42|23|
@@ -199,4 +202,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Seven regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 188 captured, 188 validated, 185 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 191 captured, 191 validated, 188 independently verified on production CDN. Captured-only items are not complete.
