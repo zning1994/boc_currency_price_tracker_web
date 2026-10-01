@@ -4312,23 +4312,23 @@
       "name": "科威特第纳尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KWD-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MNT",
       "name": "蒙古图格里克",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MNT-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 140,
-      "validated": 140,
-      "published": 139,
-      "pending": 724
+      "captured": 141,
+      "validated": 141,
+      "published": 140,
+      "pending": 723
     }
   },
   "priority_codes": [
