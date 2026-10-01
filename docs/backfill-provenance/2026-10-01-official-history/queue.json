@@ -1096,12 +1096,12 @@
       "name": "英镑",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/GBP-20260910.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "GBP",
@@ -1120,11 +1120,11 @@
       "name": "英镑",
       "date": "2026-09-12",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260912.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/GBP-20260912.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1444,11 +1444,11 @@
       "name": "日元",
       "date": "2026-09-12",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260912.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/JPY-20260912.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1756,23 +1756,23 @@
       "name": "港币",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260911.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/HKD-20260911.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HKD",
       "name": "港币",
       "date": "2026-09-12",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260912.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HKD-20260912.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13010,10 +13010,10 @@
   ],
   "progress": {
     "primary": {
-      "captured": 102,
-      "validated": 102,
-      "published": 100,
-      "pending": 114
+      "captured": 105,
+      "validated": 105,
+      "published": 102,
+      "pending": 111
     },
     "remaining": {
       "captured": 0,
