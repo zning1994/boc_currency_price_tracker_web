@@ -1753,6 +1753,38 @@
       "archive_sha256": "280a664fb1b21cef9b34520506c3b857eaa11092482ab2545a1137dc99e8935d"
     },
     {
+      "code": "GBP",
+      "date": "2026-09-10",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "2a415f001f3b3ac7859df498cbaa3bf284744a8660142162ad62f2378cc18ac6",
+      "captured_at_utc": "2026-10-01T16:04:50.149Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 244,
+      "unique_timestamps": 241,
+      "first_publish_date": "2026.09.10 00:00:05",
+      "last_publish_date": "2026.09.10 23:56:53",
+      "stored_rows_after_price_dedup": 201,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        4
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260910.json",
+      "capture_path": "raw/GBP-20260910.raw.json",
+      "archive_sha256": "5ca8915c2c1be0daf0f89a023d4239df72db57e5e3eaadd419aa7044b4d35bdd"
+    },
+    {
       "code": "HKD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -1953,6 +1985,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260910.json",
       "capture_path": "raw/HKD-20260910.raw.json",
       "archive_sha256": "939e3c4aa0a8cb18f9d9a026f31ccf084b9725f96f7cc135cd752a3905229d61"
+    },
+    {
+      "code": "HKD",
+      "date": "2026-09-11",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "0a68f0b1632da66fa0070eb23fbfa405a3430abf7d7ec7b502745f5e59c3fee1",
+      "captured_at_utc": "2026-10-01T16:04:50.149Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 243,
+      "unique_timestamps": 240,
+      "first_publish_date": "2026.09.11 00:00:05",
+      "last_publish_date": "2026.09.11 23:56:59",
+      "stored_rows_after_price_dedup": 57,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        3
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/HKD/20260911.json",
+      "capture_path": "raw/HKD-20260911.raw.json",
+      "archive_sha256": "e2c4768a795383aab53bfed25cd4a854338ae10cd169f7e1d36d6f35107bf58b"
     },
     {
       "code": "JPY",
@@ -2907,7 +2971,7 @@
       "archive_sha256": "563acd937cf8c5dd5df17a6869981debcd97a0aac0e2eadb72136dad9e7ba216"
     }
   ],
-  "completed_pairs": 100,
+  "completed_pairs": 102,
   "planned_pairs": 1080,
-  "remaining_pairs": 980
+  "remaining_pairs": 978
 }
