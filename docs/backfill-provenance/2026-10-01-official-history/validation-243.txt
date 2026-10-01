@@ -1,0 +1,18 @@
+test_existing_nonconflicting_captures_keep_same_storage (test_backfill.BackfillTests.test_existing_nonconflicting_captures_keep_same_storage) ... ok
+test_full_capture (test_backfill.BackfillTests.test_full_capture) ... ok
+test_history_dropdown_alias_does_not_rewrite_table_rows (test_backfill.BackfillTests.test_history_dropdown_alias_does_not_rewrite_table_rows) ... ok
+test_independent_review_required_and_import_preserves_both (test_backfill.BackfillTests.test_independent_review_required_and_import_preserves_both) ... ok
+test_invalid_captures_rejected (test_backfill.BackfillTests.test_invalid_captures_rejected) ... ok
+test_missing_only_idempotent_and_current_preserved (test_backfill.BackfillTests.test_missing_only_idempotent_and_current_preserved) ... ok
+test_published_archives_are_byte_identical_under_new_history_dedup (test_backfill.BackfillTests.test_published_archives_are_byte_identical_under_new_history_dedup) ... ok
+test_same_second_different_quotes_preserved_in_source_order (test_backfill.BackfillTests.test_same_second_different_quotes_preserved_in_source_order) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 2.203s
+
+OK
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.983s
+
+OK
