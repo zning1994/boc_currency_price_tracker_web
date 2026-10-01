@@ -1,0 +1,119 @@
+[
+  {
+    "code": "USD",
+    "date": "2026-09-28",
+    "original_sha256": "6a321dcc4bcf4191890dbdd38316ff0f869a0285afb5da37b3122af4a6b9d9f3",
+    "review_sha256": "755372e9f0e6932dd58a2721e1aecc208ca76b046298c5bcf10e1f6b6c29d2d5",
+    "first_capture_at_utc": "2026-10-01T14:28:07.338Z",
+    "review_capture_at_utc": "2026-10-01T14:34:24.126Z",
+    "all_pages_and_row_order_identical": true,
+    "same_second_quotes": [
+      {
+        "page": 11,
+        "row_in_page": 17,
+        "cells": [
+          "美元",
+          "670.34",
+          "670.34",
+          "673.16",
+          "673.16",
+          "673.99",
+          "2026/09/28 10:10:54"
+        ]
+      },
+      {
+        "page": 11,
+        "row_in_page": 18,
+        "cells": [
+          "美元",
+          "670.37",
+          "670.37",
+          "673.19",
+          "673.19",
+          "673.99",
+          "2026/09/28 10:10:54"
+        ]
+      }
+    ],
+    "decision": "held: existing scraper timestamp dedup discards a quote; behavior change not yet authorized",
+    "resolution": "Authorized history-only same-second differing tuple preservation; independent full-page review required; no realtime scraper change."
+  },
+  {
+    "code": "AED",
+    "date": "2026-09-28",
+    "original_sha256": "c45e9df29ccdfaf1bdbf14f2156a62cabc523ee74aeaebf58d56650af28ead3d",
+    "review_sha256": "e952c309cd0d8ad60c55ff33ec82e0a1b0ae88cd5dc1ac3cc7398bb17db25d20",
+    "first_capture_at_utc": "2026-10-01T14:28:07.339Z",
+    "review_capture_at_utc": "2026-10-01T14:34:24.126Z",
+    "all_pages_and_row_order_identical": true,
+    "same_second_quotes": [
+      {
+        "page": 11,
+        "row_in_page": 17,
+        "cells": [
+          "阿联酋迪拉姆",
+          "181.56",
+          "181.56",
+          "184.12",
+          "184.12",
+          "183.08",
+          "2026/09/28 10:10:54"
+        ]
+      },
+      {
+        "page": 11,
+        "row_in_page": 18,
+        "cells": [
+          "阿联酋迪拉姆",
+          "181.57",
+          "181.57",
+          "184.13",
+          "184.13",
+          "183.08",
+          "2026/09/28 10:10:54"
+        ]
+      }
+    ],
+    "decision": "held: existing scraper timestamp dedup discards a quote; behavior change not yet authorized",
+    "resolution": "Authorized history-only same-second differing tuple preservation; independent full-page review required; no realtime scraper change."
+  },
+  {
+    "code": "EUR",
+    "date": "2026-09-28",
+    "original_sha256": "92e1a83576b59f228fcd0f19bda41d7b394e768abf915c3a2a9717fd1dd53f5a",
+    "review_sha256": "8f5cbc2185f65d98366ef526b84c7d7bf80250a2257bc61b47d3b6be7a611374",
+    "first_capture_at_utc": "2026-10-01T14:28:07.339Z",
+    "review_capture_at_utc": "2026-10-01T14:34:24.126Z",
+    "all_pages_and_row_order_identical": true,
+    "same_second_quotes": [
+      {
+        "page": 11,
+        "row_in_page": 17,
+        "cells": [
+          "欧元",
+          "762.16",
+          "762.16",
+          "767.75",
+          "767.75",
+          "765.64",
+          "2026/09/28 10:10:54"
+        ]
+      },
+      {
+        "page": 11,
+        "row_in_page": 18,
+        "cells": [
+          "欧元",
+          "762.27",
+          "762.27",
+          "767.86",
+          "767.86",
+          "765.64",
+          "2026/09/28 10:10:54"
+        ]
+      }
+    ],
+    "decision": "held: existing scraper timestamp dedup discards a quote; behavior change not yet authorized",
+    "resolution": "Authorized history-only same-second differing tuple preservation; independent full-page review required; no realtime scraper change."
+  }
+]
