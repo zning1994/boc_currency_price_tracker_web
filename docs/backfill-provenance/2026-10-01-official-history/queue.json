@@ -1108,11 +1108,11 @@
       "name": "英镑",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/GBP/20260911.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/GBP-20260911.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -1420,11 +1420,11 @@
       "name": "日元",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/JPY/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/JPY-20260910.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -2176,12 +2176,12 @@
       "name": "澳大利亚元",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/AUD/20260919.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/AUD-20260919.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "AUD",
@@ -2260,12 +2260,12 @@
       "name": "澳大利亚元",
       "date": "2026-09-26",
       "archive_path": "docs/BOC_CURRENCY_PRICE/AUD/20260926.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/AUD-20260926.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "AUD",
@@ -2500,12 +2500,12 @@
       "name": "加拿大元",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260919.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CAD-20260919.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CAD",
@@ -2584,11 +2584,11 @@
       "name": "加拿大元",
       "date": "2026-09-26",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260926.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/CAD-20260926.raw.json",
       "priority_group": "primary",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13010,10 +13010,10 @@
   ],
   "progress": {
     "primary": {
-      "captured": 135,
-      "validated": 135,
-      "published": 132,
-      "pending": 81
+      "captured": 138,
+      "validated": 138,
+      "published": 135,
+      "pending": 78
     },
     "remaining": {
       "captured": 0,
