@@ -2308,12 +2308,12 @@
       "name": "澳大利亚元",
       "date": "2026-09-30",
       "archive_path": "docs/BOC_CURRENCY_PRICE/AUD/20260930.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/AUD-20260930.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CAD",
@@ -2620,35 +2620,35 @@
       "name": "加拿大元",
       "date": "2026-09-29",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260929.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CAD-20260929.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CAD",
       "name": "加拿大元",
       "date": "2026-09-30",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260930.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CAD-20260930.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "BND",
       "name": "文莱元",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260904.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BND-20260904.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -2656,11 +2656,11 @@
       "name": "巴西雷亚尔",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260904.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BRL-20260904.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -2668,11 +2668,11 @@
       "name": "瑞士法郎",
       "date": "2026-09-04",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260904.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/CHF-20260904.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13012,14 +13012,14 @@
     "primary": {
       "captured": 216,
       "validated": 216,
-      "published": 213,
+      "published": 216,
       "pending": 0
     },
     "remaining": {
-      "captured": 0,
-      "validated": 0,
+      "captured": 3,
+      "validated": 3,
       "published": 0,
-      "pending": 864
+      "pending": 861
     }
   },
   "priority_codes": [
