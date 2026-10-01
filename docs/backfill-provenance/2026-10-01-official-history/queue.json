@@ -3148,47 +3148,47 @@
       "name": "韩元",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260905.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KRW-20260905.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KWD",
       "name": "科威特第纳尔",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260905.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KWD-20260905.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MNT",
       "name": "蒙古图格里克",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260905.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MNT-20260905.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MOP",
       "name": "澳门元",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MOP/20260905.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MOP-20260905.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3196,11 +3196,11 @@
       "name": "墨西哥比索",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MXN/20260905.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MXN-20260905.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -3208,11 +3208,11 @@
       "name": "林吉特",
       "date": "2026-09-05",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260905.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MYR-20260905.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 45,
-      "validated": 45,
-      "published": 42,
-      "pending": 819
+      "captured": 48,
+      "validated": 48,
+      "published": 45,
+      "pending": 816
     }
   },
   "priority_codes": [
