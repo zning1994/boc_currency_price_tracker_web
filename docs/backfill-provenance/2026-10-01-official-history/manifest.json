@@ -267,6 +267,26 @@
       "archive_sha256": "707363d6043027bf3ef8d1b69664675060b1bf900b7ae12aef589144523e6c15"
     },
     {
+      "code": "AED",
+      "date": "2026-09-13",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "c897e8fd81ddd72139fabe7e7dc7d0d96b6820c5a2d4db720060c6e8e457852d",
+      "captured_at_utc": "2026-10-01T13:17:44.032Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 9,
+      "unique_timestamps": 3,
+      "first_publish_date": "2026.09.13 00:00:05",
+      "last_publish_date": "2026.09.13 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        9
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/AED/20260913.json",
+      "capture_path": "raw/AED-20260913.raw.json",
+      "archive_sha256": "2e0c3e8beb2feb6e4325fcb32eb3bfb23f398d10ce890aa2475ce28e6f0c15e0"
+    },
+    {
       "code": "EUR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -520,6 +540,26 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/EUR/20260912.json",
       "capture_path": "raw/EUR-20260912.raw.json",
       "archive_sha256": "bba559ada37bfd6f86cdbb9afe7b4865588ac409dd49340a509c554b7923c6e6"
+    },
+    {
+      "code": "EUR",
+      "date": "2026-09-13",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "855ab27b0df3027f165c1d95f33f9ed39ce27971849eab26f371562774b17d2f",
+      "captured_at_utc": "2026-10-01T13:17:51.141Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 9,
+      "unique_timestamps": 3,
+      "first_publish_date": "2026.09.13 00:00:05",
+      "last_publish_date": "2026.09.13 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        9
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/EUR/20260913.json",
+      "capture_path": "raw/EUR-20260913.raw.json",
+      "archive_sha256": "51f7d8a1e28f808dc02d51bd9c813b0841118dcfc1d7fa866c2f00f64d6b9bac"
     },
     {
       "code": "GBP",
@@ -819,7 +859,7 @@
       "archive_sha256": "5c311ee33091dcf237946522a197542ba5544e575020f6ad177b5e489b96ded4"
     }
   ],
-  "completed_pairs": 29,
+  "completed_pairs": 31,
   "planned_pairs": 1080,
-  "remaining_pairs": 1051
+  "remaining_pairs": 1049
 }

@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-29/1080 approved original-40-currency pairs complete; 1051 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+31/1080 approved original-40-currency pairs complete; 1049 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 |AED|2026-09-10|13|244|241|136|
 |AED|2026-09-11|13|247|244|133|
 |AED|2026-09-12|2|38|35|18|
+|AED|2026-09-13|1|9|3|1|
 |EUR|2026-09-04|15|290|287|223|
 |EUR|2026-09-05|3|55|52|32|
 |EUR|2026-09-06|1|6|3|1|
@@ -22,6 +23,7 @@
 |EUR|2026-09-10|13|244|241|202|
 |EUR|2026-09-11|13|245|242|198|
 |EUR|2026-09-12|2|37|34|24|
+|EUR|2026-09-13|1|9|3|1|
 |GBP|2026-09-05|3|55|52|32|
 |USD|2026-09-04|15|290|287|92|
 |USD|2026-09-05|3|55|52|2|
