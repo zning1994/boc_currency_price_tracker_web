@@ -2044,24 +2044,24 @@
       "name": "澳大利亚元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/AUD/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/AUD-20260908.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "AUD",
       "name": "澳大利亚元",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/AUD/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/AUD-20260909.raw.json",
       "priority_group": "primary",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "AUD",
@@ -13012,7 +13012,7 @@
     "primary": {
       "captured": 184,
       "validated": 184,
-      "published": 182,
+      "published": 184,
       "pending": 32
     },
     "remaining": {
