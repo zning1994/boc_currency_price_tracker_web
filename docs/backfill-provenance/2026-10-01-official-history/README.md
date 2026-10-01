@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-213/1080 approved original-40-currency pairs validated; 867 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+216/1080 approved original-40-currency pairs validated; 864 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 |AUD|2026-09-27|1|6|3|1|
 |AUD|2026-09-28|13|246|242|207|
 |AUD|2026-09-29|13|254|251|209|
+|AUD|2026-09-30|12|224|221|183|
 |CAD|2026-09-04|15|290|287|242|
 |CAD|2026-09-05|3|55|52|35|
 |CAD|2026-09-06|1|6|3|1|
@@ -82,6 +83,8 @@
 |CAD|2026-09-26|1|8|5|3|
 |CAD|2026-09-27|1|6|3|1|
 |CAD|2026-09-28|13|246|242|209|
+|CAD|2026-09-29|13|254|251|211|
+|CAD|2026-09-30|12|224|221|183|
 |EUR|2026-09-04|15|290|287|223|
 |EUR|2026-09-05|3|55|52|32|
 |EUR|2026-09-06|1|6|3|1|
@@ -224,4 +227,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Seven regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 213 captured, 213 validated, 209 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 216 captured, 216 validated, 213 independently verified on production CDN. Captured-only items are not complete.

@@ -1551,6 +1551,37 @@
       "archive_sha256": "3b52e466eb01fb679b813f520d811a6030edf7cf6cad27855c1286d074dfed2e"
     },
     {
+      "code": "AUD",
+      "date": "2026-09-30",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "b93cc5bf33de1fa49809b6f71cf79117b3362f60422134193b8aefb104aebddf",
+      "captured_at_utc": "2026-10-01T20:17:53.911Z",
+      "total_pages": 12,
+      "actual_pages": 12,
+      "raw_rows": 224,
+      "unique_timestamps": 221,
+      "first_publish_date": "2026.09.30 00:00:05",
+      "last_publish_date": "2026.09.30 23:56:09",
+      "stored_rows_after_price_dedup": 183,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        4
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/AUD/20260930.json",
+      "capture_path": "raw/AUD-20260930.raw.json",
+      "archive_sha256": "fbffcdb00403b3deb89c35e6d61fc34a5276994aa60079a95ea98dd3d1704194"
+    },
+    {
       "code": "CAD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -2267,6 +2298,69 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260928.json",
       "capture_path": "raw/CAD-20260928.raw.json",
       "archive_sha256": "66fc92e11c2122c32475f0b60b7a1a937f58f2773e34cdde5a4161cfa2c9d373"
+    },
+    {
+      "code": "CAD",
+      "date": "2026-09-29",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "da803822cb63b09e0550b7208a9eb2a9cceb887480ad799a7b0e63c0c1cc1501",
+      "captured_at_utc": "2026-10-01T20:17:53.902Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 254,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.29 00:00:05",
+      "last_publish_date": "2026.09.29 23:46:03",
+      "stored_rows_after_price_dedup": 211,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        14
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260929.json",
+      "capture_path": "raw/CAD-20260929.raw.json",
+      "archive_sha256": "b49bb4b5dd1686547d0064b9dc9055c4f93ddc98618f9b5b488264cf71060f5d"
+    },
+    {
+      "code": "CAD",
+      "date": "2026-09-30",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "8edd89fb748f3d18a0d7cda819b80459e97d2d50d401a9151ed03921ab965c41",
+      "captured_at_utc": "2026-10-01T20:17:53.919Z",
+      "total_pages": 12,
+      "actual_pages": 12,
+      "raw_rows": 224,
+      "unique_timestamps": 221,
+      "first_publish_date": "2026.09.30 00:00:05",
+      "last_publish_date": "2026.09.30 23:56:09",
+      "stored_rows_after_price_dedup": 183,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        4
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/CAD/20260930.json",
+      "capture_path": "raw/CAD-20260930.raw.json",
+      "archive_sha256": "1db81cc7ab3e3d41129904bddaed6168246b800e20b8f8af35e55ab1d6bb295d"
     },
     {
       "code": "EUR",
@@ -6186,7 +6280,7 @@
       "archive_sha256": "563acd937cf8c5dd5df17a6869981debcd97a0aac0e2eadb72136dad9e7ba216"
     }
   ],
-  "completed_pairs": 213,
+  "completed_pairs": 216,
   "planned_pairs": 1080,
-  "remaining_pairs": 867
+  "remaining_pairs": 864
 }
