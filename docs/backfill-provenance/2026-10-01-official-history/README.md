@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-249/1080 approved original-40-currency pairs validated; 831 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+252/1080 approved original-40-currency pairs validated; 828 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 |BND|2026-09-04|15|290|287|213|
 |BND|2026-09-05|3|55|52|28|
 |BRL|2026-09-04|15|290|287|158|
+|BRL|2026-09-05|3|55|52|33|
 |CAD|2026-09-04|15|290|287|242|
 |CAD|2026-09-05|3|55|52|35|
 |CAD|2026-09-06|1|6|3|1|
@@ -89,7 +90,9 @@
 |CAD|2026-09-29|13|254|251|211|
 |CAD|2026-09-30|12|224|221|183|
 |CHF|2026-09-04|15|290|287|231|
+|CHF|2026-09-05|3|55|52|33|
 |CZK|2026-09-04|15|290|287|126|
+|CZK|2026-09-05|3|55|52|16|
 |DKK|2026-09-04|15|290|287|194|
 |EUR|2026-09-04|15|290|287|223|
 |EUR|2026-09-05|3|55|52|32|
@@ -260,4 +263,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Eight regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 249 captured, 249 validated, 246 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 252 captured, 252 validated, 249 independently verified on production CDN. Captured-only items are not complete.
