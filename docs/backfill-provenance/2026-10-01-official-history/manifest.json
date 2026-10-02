@@ -5888,6 +5888,38 @@
       "archive_sha256": "a638d76fabf0d700d8a869df68774f2788cdd5f1adb7f6fe4262fbe9c68921f5"
     },
     {
+      "code": "IDR",
+      "date": "2026-09-09",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "13ddd9dccc6b467e3f6a2cb9c7df895472716a6d8cc7f116c62199cf01083bfa",
+      "captured_at_utc": "2026-10-02T01:03:16.277Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 245,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.09 00:00:05",
+      "last_publish_date": "2026.09.09 23:56:48",
+      "stored_rows_after_price_dedup": 5,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        5
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/IDR/20260909.json",
+      "capture_path": "raw/IDR-20260909.raw.json",
+      "archive_sha256": "2bcb283729ded519a8c2effc4c12e808b06f048d7b850ad80331cc837104c49c"
+    },
+    {
       "code": "ILS",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -6026,6 +6058,38 @@
       "archive_sha256": "85cfd067377bf93b6db0f03b2af030ae010ce7b95846b769d48cbb20d2ecc64e"
     },
     {
+      "code": "ILS",
+      "date": "2026-09-09",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "abb8203419c89fa2434b45ffc78a28fefdd625eca9e9d097142f361d240a19de",
+      "captured_at_utc": "2026-10-02T01:03:16.292Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 245,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.09 00:00:05",
+      "last_publish_date": "2026.09.09 23:56:48",
+      "stored_rows_after_price_dedup": 209,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        5
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/ILS/20260909.json",
+      "capture_path": "raw/ILS-20260909.raw.json",
+      "archive_sha256": "8f1c02a3cddea4b59fd67a8727c5699b711804135774c11d9bca544457b15ec8"
+    },
+    {
       "code": "INR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -6162,6 +6226,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/INR/20260908.json",
       "capture_path": "raw/INR-20260908.raw.json",
       "archive_sha256": "62bca5a0680d0ffe262b9f757c0fea89a46575de542025b9504553467b7b5afb"
+    },
+    {
+      "code": "INR",
+      "date": "2026-09-09",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "9b22435798592cb897bb510b416c3621ff29e7c045b171833f7114396ee0ef7b",
+      "captured_at_utc": "2026-10-02T01:03:16.302Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 245,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.09 00:00:05",
+      "last_publish_date": "2026.09.09 23:56:48",
+      "stored_rows_after_price_dedup": 126,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        5
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/INR/20260909.json",
+      "capture_path": "raw/INR-20260909.raw.json",
+      "archive_sha256": "4628965d2f2539c88650859b62a77ac17f946439dd661ce36a8e75692caa3c7e"
     },
     {
       "code": "JPY",
@@ -10914,7 +11010,7 @@
       "archive_sha256": "47bf5f79bdb8d81604f3f30a34782f558154d8be8fd0b6c366289db0d227b94f"
     }
   ],
-  "completed_pairs": 382,
+  "completed_pairs": 385,
   "planned_pairs": 1080,
-  "remaining_pairs": 698
+  "remaining_pairs": 695
 }
