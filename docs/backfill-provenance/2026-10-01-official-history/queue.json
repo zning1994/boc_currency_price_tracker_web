@@ -4420,11 +4420,11 @@
       "name": "巴基斯坦卢比",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/PKR-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4432,11 +4432,11 @@
       "name": "卡塔尔里亚尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/QAR-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 148,
-      "validated": 148,
+      "captured": 150,
+      "validated": 150,
       "published": 147,
-      "pending": 716
+      "pending": 714
     }
   },
   "priority_codes": [

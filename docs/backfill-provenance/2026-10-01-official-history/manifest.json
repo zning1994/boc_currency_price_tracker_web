@@ -8390,6 +8390,38 @@
       "archive_sha256": "3b8f307feaca8faf4a27b7662698f0fc7f437a37e49db8648f06f6c95010e809"
     },
     {
+      "code": "PKR",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "08fa5b7b11b7edefd55be70fda3b64398b1cb2d847caed5cf3c2b4343be7f6e9",
+      "captured_at_utc": "2026-10-02T00:27:04.209Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 43,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260908.json",
+      "capture_path": "raw/PKR-20260908.raw.json",
+      "archive_sha256": "b91acfb36dca541c4645c75cf0144b37f3d517187d439ba58cd635251f92cae6"
+    },
+    {
       "code": "QAR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -8494,6 +8526,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260907.json",
       "capture_path": "raw/QAR-20260907.raw.json",
       "archive_sha256": "a4bc2296236961591c56cb1974b6fc5cdb80ffbde14dec849a125a47ca0b1458"
+    },
+    {
+      "code": "QAR",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "b3f0658c08f9926c196fba8bebcff34bde588442457a8067318869d19d6aaebb",
+      "captured_at_utc": "2026-10-02T00:27:04.215Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 254,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 41,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        14
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260908.json",
+      "capture_path": "raw/QAR-20260908.raw.json",
+      "archive_sha256": "73d984ab992af0bfd295a2a2e1dffc55fd66ff9a7d7beca9c4811bc8da010f0b"
     },
     {
       "code": "RSD",
@@ -10338,7 +10402,7 @@
       "archive_sha256": "11cfbc1ffb8dbca9da568c7f58f1ffc07c29b996b33ef06f253a22ea21d8d95d"
     }
   ],
-  "completed_pairs": 364,
+  "completed_pairs": 366,
   "planned_pairs": 1080,
-  "remaining_pairs": 716
+  "remaining_pairs": 714
 }
