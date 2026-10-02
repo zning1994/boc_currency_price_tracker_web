@@ -6103,47 +6103,47 @@
       "name": "文莱元",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/BND-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "BRL",
       "name": "巴西雷亚尔",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/BRL-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CHF",
       "name": "瑞士法郎",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CHF-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CZK",
       "name": "捷克克朗",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260913.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/CZK-20260913.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 291,
-      "validated": 291,
-      "published": 288,
-      "pending": 573
+      "captured": 292,
+      "validated": 292,
+      "published": 291,
+      "pending": 572
     }
   },
   "priority_codes": [
