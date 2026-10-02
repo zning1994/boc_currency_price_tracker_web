@@ -4420,36 +4420,36 @@
       "name": "巴基斯坦卢比",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/PKR-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "QAR",
       "name": "卡塔尔里亚尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/QAR-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RSD",
       "name": "塞尔维亚第纳尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/RSD-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RUB",
@@ -4480,11 +4480,11 @@
       "name": "瑞典克朗",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SEK/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/SEK-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 153,
-      "validated": 153,
-      "published": 148,
-      "pending": 711
+      "captured": 154,
+      "validated": 154,
+      "published": 151,
+      "pending": 710
     }
   },
   "priority_codes": [
