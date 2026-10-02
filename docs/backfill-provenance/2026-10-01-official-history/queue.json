@@ -4744,47 +4744,47 @@
       "name": "林吉特",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MYR-20260909.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NOK",
       "name": "挪威克朗",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NOK-20260909.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NPR",
       "name": "尼泊尔卢比",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NPR-20260909.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NZD",
       "name": "新西兰元",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NZD-20260909.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4792,11 +4792,11 @@
       "name": "菲律宾比索",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/PHP-20260909.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4804,11 +4804,11 @@
       "name": "巴基斯坦卢比",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/PKR-20260909.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 178,
-      "validated": 178,
-      "published": 175,
-      "pending": 686
+      "captured": 181,
+      "validated": 181,
+      "published": 178,
+      "pending": 683
     }
   },
   "priority_codes": [
