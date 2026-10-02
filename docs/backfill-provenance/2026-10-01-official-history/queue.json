@@ -4516,12 +4516,12 @@
       "name": "土耳其里拉",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TRY/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/TRY-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "TWD",
@@ -4552,11 +4552,11 @@
       "name": "南非兰特",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/ZAR-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 159,
-      "validated": 159,
-      "published": 156,
-      "pending": 705
+      "captured": 160,
+      "validated": 160,
+      "published": 157,
+      "pending": 704
     }
   },
   "priority_codes": [

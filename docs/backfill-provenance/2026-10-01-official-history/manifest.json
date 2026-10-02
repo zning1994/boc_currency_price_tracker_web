@@ -10688,9 +10688,41 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260907.json",
       "capture_path": "raw/ZAR-20260907.raw.json",
       "archive_sha256": "11cfbc1ffb8dbca9da568c7f58f1ffc07c29b996b33ef06f253a22ea21d8d95d"
+    },
+    {
+      "code": "ZAR",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "d048c248ec1be34aa24c04c7d96182a0df19e3bddcdfacce58f873daecd6b314",
+      "captured_at_utc": "2026-10-02T00:39:58.872Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 146,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260908.json",
+      "capture_path": "raw/ZAR-20260908.raw.json",
+      "archive_sha256": "47bf5f79bdb8d81604f3f30a34782f558154d8be8fd0b6c366289db0d227b94f"
     }
   ],
-  "completed_pairs": 375,
+  "completed_pairs": 376,
   "planned_pairs": 1080,
-  "remaining_pairs": 705
+  "remaining_pairs": 704
 }
