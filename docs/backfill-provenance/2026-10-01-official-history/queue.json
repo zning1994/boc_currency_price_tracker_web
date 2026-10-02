@@ -4480,47 +4480,47 @@
       "name": "瑞典克朗",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SEK/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/SEK-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "SGD",
       "name": "新加坡元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SGD/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/SGD-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "THB",
       "name": "泰国铢",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/THB-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "TRY",
       "name": "土耳其里拉",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TRY/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/TRY-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 156,
-      "validated": 156,
-      "published": 153,
-      "pending": 708
+      "captured": 157,
+      "validated": 157,
+      "published": 156,
+      "pending": 707
     }
   },
   "priority_codes": [
