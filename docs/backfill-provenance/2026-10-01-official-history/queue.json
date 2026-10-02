@@ -4360,23 +4360,23 @@
       "name": "林吉特",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MYR-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NOK",
       "name": "挪威克朗",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NOK-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4396,11 +4396,11 @@
       "name": "新西兰元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NZD-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 145,
-      "validated": 145,
-      "published": 143,
-      "pending": 719
+      "captured": 147,
+      "validated": 147,
+      "published": 144,
+      "pending": 717
     }
   },
   "priority_codes": [

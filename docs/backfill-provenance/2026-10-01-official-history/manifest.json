@@ -7838,6 +7838,38 @@
       "archive_sha256": "837cf74c249cf031f12ddc782a95ddb208bb8454047a8be191935274323566ed"
     },
     {
+      "code": "NOK",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "aff2f854ee85d3f50ccd0c9e2034b1dcebfb529a0c1ff73c095d4155583bd9dc",
+      "captured_at_utc": "2026-10-02T00:23:58.023Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 166,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260908.json",
+      "capture_path": "raw/NOK-20260908.raw.json",
+      "archive_sha256": "aa9d337ac87dd463988b52b6706c284fa9982c78c899ea29bc47195e14837284"
+    },
+    {
       "code": "NPR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -8080,6 +8112,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260907.json",
       "capture_path": "raw/NZD-20260907.raw.json",
       "archive_sha256": "9603af29581e53f6906fa461b4359b5932800cbb93018a3dc3f3c65a88483638"
+    },
+    {
+      "code": "NZD",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "5cdc74fec832b8d292672566197a96181faf1b3ed613c6ebc03bad97e346b126",
+      "captured_at_utc": "2026-10-02T00:23:58.032Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 184,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260908.json",
+      "capture_path": "raw/NZD-20260908.raw.json",
+      "archive_sha256": "56a7e46c08536af4d6174e8d990e7360b85d259cf0efad47486ea4cf0441e11c"
     },
     {
       "code": "PHP",
@@ -10242,7 +10306,7 @@
       "archive_sha256": "11cfbc1ffb8dbca9da568c7f58f1ffc07c29b996b33ef06f253a22ea21d8d95d"
     }
   ],
-  "completed_pairs": 361,
+  "completed_pairs": 363,
   "planned_pairs": 1080,
-  "remaining_pairs": 719
+  "remaining_pairs": 717
 }
