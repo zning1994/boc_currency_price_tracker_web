@@ -3693,6 +3693,38 @@
       "archive_sha256": "9d2ade93d5f10bfb17790c9aedaf2022e8e1c8194780f16c1c446e82a03b3cac"
     },
     {
+      "code": "CZK",
+      "date": "2026-09-15",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "ad23105eb22229754aff065de399157399edd8b56aa9a5d64a24f088e9c4e0c5",
+      "captured_at_utc": "2026-10-02T21:12:57.438Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 254,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.15 00:00:05",
+      "last_publish_date": "2026.09.15 23:58:29",
+      "stored_rows_after_price_dedup": 106,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        14
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260915.json",
+      "capture_path": "raw/CZK-20260915.raw.json",
+      "archive_sha256": "f770e8c1212fe5faf2d147f05593b60448c9bbf5e466059120e8e68b0e916e79"
+    },
+    {
       "code": "DKK",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -4003,6 +4035,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260914.json",
       "capture_path": "raw/DKK-20260914.raw.json",
       "archive_sha256": "8244f86b983b1c9849203c000f2473855cc7668d6766148cdf11aa6db6faab4a"
+    },
+    {
+      "code": "DKK",
+      "date": "2026-09-15",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "237d8fcece69eb4fbe6967bde66ea8f73e9e15d714be0075893ecec27e8e46f0",
+      "captured_at_utc": "2026-10-02T21:13:02.574Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 252,
+      "first_publish_date": "2026.09.15 00:00:05",
+      "last_publish_date": "2026.09.15 23:58:29",
+      "stored_rows_after_price_dedup": 159,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260915.json",
+      "capture_path": "raw/DKK-20260915.raw.json",
+      "archive_sha256": "c2d6045b69a2edc49a7b92f7273d006b143bae62399919aea0374f8926b236ed"
     },
     {
       "code": "EUR",
@@ -6654,6 +6718,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260914.json",
       "capture_path": "raw/HUF-20260914.raw.json",
       "archive_sha256": "ea58a57bf502dc4e486dddea5913d54a3239897508bdf9993f2d9afd6511a4e8"
+    },
+    {
+      "code": "HUF",
+      "date": "2026-09-15",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "af50c30bccab04a29f261b5aa0d72b7ae7a6755ee0e2dd2c3e39639c7fccddb8",
+      "captured_at_utc": "2026-10-02T21:13:07.670Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 252,
+      "first_publish_date": "2026.09.15 00:00:05",
+      "last_publish_date": "2026.09.15 23:58:29",
+      "stored_rows_after_price_dedup": 230,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260915.json",
+      "capture_path": "raw/HUF-20260915.raw.json",
+      "archive_sha256": "2661ba9576bf483bbffde127c6b7526c2aa4e0655311f3376421c5db01004753"
     },
     {
       "code": "IDR",
@@ -16164,7 +16260,7 @@
       "archive_sha256": "156083e4f79768982c7286635d8b78ffe8be1131a186e8c72669f12c11811520"
     }
   ],
-  "completed_pairs": 571,
+  "completed_pairs": 574,
   "planned_pairs": 1080,
-  "remaining_pairs": 509
+  "remaining_pairs": 506
 }
