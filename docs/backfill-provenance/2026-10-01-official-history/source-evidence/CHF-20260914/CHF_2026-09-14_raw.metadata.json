@@ -1,0 +1,155 @@
+{
+  "source_url": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "source_title": "中国银行外汇牌价",
+  "captured_at_utc_window": [
+    "2026-10-02T19:39:06Z",
+    "2026-10-02T19:40:57Z"
+  ],
+  "query": {
+    "date": "2026-09-14",
+    "currency_label": "瑞士法郎",
+    "currency_code": "CHF"
+  },
+  "browser": {
+    "environment": "dot cloud",
+    "name": "Chrome",
+    "control": "CDP via mcp__cua_repl",
+    "tab_id": "7"
+  },
+  "method": "Normal page UI query, one user-approved slider challenge, then normal next-page clicks. Visible result table cells extracted read-only from DOM. No network replay, credential, token, or cookie extraction.",
+  "raw_file": "CHF_2026-09-14_raw.tsv",
+  "encoding": "UTF-8",
+  "delimiter": "tab",
+  "line_ending": "LF",
+  "trailing_newline": true,
+  "columns": [
+    "page",
+    "货币名称",
+    "现汇买入价",
+    "现钞买入价",
+    "现汇卖出价",
+    "现钞卖出价",
+    "中行折算价",
+    "发布时间"
+  ],
+  "raw_row_count": 216,
+  "distinct_full_data_rows": 213,
+  "page_count": 11,
+  "pages": [
+    {
+      "page": 1,
+      "rows": 20,
+      "first_publication": "2026/09/14 23:58:23",
+      "last_publication": "2026/09/14 22:38:23"
+    },
+    {
+      "page": 2,
+      "rows": 20,
+      "first_publication": "2026/09/14 22:33:23",
+      "last_publication": "2026/09/14 20:58:22"
+    },
+    {
+      "page": 3,
+      "rows": 20,
+      "first_publication": "2026/09/14 20:57:09",
+      "last_publication": "2026/09/14 19:43:22"
+    },
+    {
+      "page": 4,
+      "rows": 20,
+      "first_publication": "2026/09/14 19:38:22",
+      "last_publication": "2026/09/14 18:03:21"
+    },
+    {
+      "page": 5,
+      "rows": 20,
+      "first_publication": "2026/09/14 18:03:11",
+      "last_publication": "2026/09/14 16:38:21"
+    },
+    {
+      "page": 6,
+      "rows": 20,
+      "first_publication": "2026/09/14 16:33:21",
+      "last_publication": "2026/09/14 15:08:21"
+    },
+    {
+      "page": 7,
+      "rows": 20,
+      "first_publication": "2026/09/14 15:03:21",
+      "last_publication": "2026/09/14 13:53:20"
+    },
+    {
+      "page": 8,
+      "rows": 20,
+      "first_publication": "2026/09/14 13:48:20",
+      "last_publication": "2026/09/14 12:03:20"
+    },
+    {
+      "page": 9,
+      "rows": 20,
+      "first_publication": "2026/09/14 11:58:20",
+      "last_publication": "2026/09/14 10:30:00"
+    },
+    {
+      "page": 10,
+      "rows": 20,
+      "first_publication": "2026/09/14 10:30:00",
+      "last_publication": "2026/09/14 09:48:20"
+    },
+    {
+      "page": 11,
+      "rows": 16,
+      "first_publication": "2026/09/14 09:43:20",
+      "last_publication": "2026/09/14 00:00:05"
+    }
+  ],
+  "all_rows_date": "2026/09/14",
+  "all_rows_currency": "瑞士法郎",
+  "publication_order": "non-increasing",
+  "duplicate_groups": [
+    {
+      "row": [
+        "瑞士法郎",
+        "817.39",
+        "817.39",
+        "823.71",
+        "823.71",
+        "826.08",
+        "2026/09/14 10:30:00"
+      ],
+      "occurrences": 2
+    },
+    {
+      "row": [
+        "瑞士法郎",
+        "818.54",
+        "818.54",
+        "824.87",
+        "824.87",
+        "830.72",
+        "2026/09/14 05:30:00"
+      ],
+      "occurrences": 2
+    },
+    {
+      "row": [
+        "瑞士法郎",
+        "818.54",
+        "818.54",
+        "824.87",
+        "824.87",
+        "830.72",
+        "2026/09/14 00:00:05"
+      ],
+      "occurrences": 2
+    }
+  ],
+  "raw_sha256": "af5aa20b0307c3c68058dd03c9d34446283cbe4386b77213669679afa7b5a96b",
+  "browser_copy_integrity": {
+    "utf16_length": 13367,
+    "fnv1a32_utf16": "217905c4",
+    "local_matches_browser_capture": true
+  },
+  "status": "Raw evidence only. Not imported or published. Existing repository validator/capture schema not provided; adaptation required before formal import. Source duplicates preserved.",
+  "scope_limit": "Verified for CHF 2026-09-14 only. Does not establish all-currency coverage or long-term unattended reliability."
+}

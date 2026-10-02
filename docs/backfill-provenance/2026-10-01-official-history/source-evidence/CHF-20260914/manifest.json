@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "purpose": "Private transfer of captured public Bank of China FX evidence to existing validator",
+  "created_at_utc": "2026-10-02T19:50:40.082524+00:00",
+  "files": [
+    {
+      "filename": "CHF_2026-09-14_raw.tsv",
+      "size_bytes": 15161,
+      "sha256": "af5aa20b0307c3c68058dd03c9d34446283cbe4386b77213669679afa7b5a96b"
+    },
+    {
+      "filename": "CHF_2026-09-14_raw.metadata.json",
+      "size_bytes": 3991,
+      "sha256": "86b0bdd84345f09154902b561c0b2203537d8e7d760972c67946e68853e5b78b"
+    }
+  ],
+  "source_page": "https://www.boc.cn/sourcedb/whpjSearch/",
+  "unchanged_source_bytes": true
+}

@@ -1,0 +1,37 @@
+{
+  "zip_sha256": "0fd99c5f9e81af031b9a826c241789cfde5d12b7ab78342684be9d7790f33090",
+  "tsv_sha256": "af5aa20b0307c3c68058dd03c9d34446283cbe4386b77213669679afa7b5a96b",
+  "metadata_sha256": "86b0bdd84345f09154902b561c0b2203537d8e7d760972c67946e68853e5b78b",
+  "raw_sha256": "234d5c0dbf775bb0e10801fe52334015ccd25d569c226edc68d4c85da7d73b30",
+  "raw_bytes": 18445,
+  "raw_matches_cloud_schema_sha": false,
+  "captured_at_utc_rule": "Use actual capture-window end from unchanged metadata.",
+  "row_roundtrip_byte_identical": true,
+  "fnv1a32_utf16": "217905c4",
+  "utf16_length": 13367,
+  "page_row_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    16
+  ],
+  "same_second_price_conflicts": 0,
+  "batch_sha256": "2b77890c6f4b7477764a1d9eaa1699da7f716194f364003c54d9d63e8db08f10",
+  "canonical_raw_field_order": [
+    "source",
+    "date",
+    "code",
+    "name",
+    "captured_at_utc",
+    "total_pages",
+    "pages"
+  ],
+  "cloud_derivative_comparison": "Cloud derivative JSON not supplied. Local raw uses actual metadata capture-window end. Reported cloud derivative SHA differs; exact representation difference cannot be identified without its bytes. All source TSV rows roundtrip byte-identically."
+}
