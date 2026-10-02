@@ -6487,23 +6487,23 @@
       "name": "文莱元",
       "date": "2026-09-14",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260914.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/BND-20260914.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "BRL",
       "name": "巴西雷亚尔",
       "date": "2026-09-14",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260914.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BRL-20260914.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 321,
-      "validated": 321,
-      "published": 320,
-      "pending": 543
+      "captured": 322,
+      "validated": 322,
+      "published": 321,
+      "pending": 542
     }
   },
   "priority_codes": [
