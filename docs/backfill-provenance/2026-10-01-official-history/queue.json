@@ -5179,47 +5179,47 @@
       "name": "菲律宾比索",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/PHP-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "PKR",
       "name": "巴基斯坦卢比",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/PKR-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "QAR",
       "name": "卡塔尔里亚尔",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/QAR-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RSD",
       "name": "塞尔维亚第纳尔",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/RSD-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5227,11 +5227,11 @@
       "name": "卢布",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RUB/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/RUB-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5239,11 +5239,11 @@
       "name": "沙特里亚尔",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SAR/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/SAR-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 213,
-      "validated": 213,
-      "published": 210,
-      "pending": 651
+      "captured": 216,
+      "validated": 216,
+      "published": 213,
+      "pending": 648
     }
   },
   "priority_codes": [
