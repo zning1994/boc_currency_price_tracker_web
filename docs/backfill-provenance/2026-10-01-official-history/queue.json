@@ -4456,24 +4456,24 @@
       "name": "卢布",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RUB/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/RUB-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "SAR",
       "name": "沙特里亚尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SAR/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/SAR-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "SEK",
@@ -4492,11 +4492,11 @@
       "name": "新加坡元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SGD/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/SGD-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4504,11 +4504,11 @@
       "name": "泰国铢",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/THB-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 154,
-      "validated": 154,
-      "published": 151,
-      "pending": 710
+      "captured": 156,
+      "validated": 156,
+      "published": 153,
+      "pending": 708
     }
   },
   "priority_codes": [

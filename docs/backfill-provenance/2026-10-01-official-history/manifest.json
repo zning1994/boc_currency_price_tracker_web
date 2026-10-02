@@ -9218,6 +9218,38 @@
       "archive_sha256": "8c37bee0a0a07779f18bdcbac37b651d2bf2fd776a96c11471c8a7f85423723e"
     },
     {
+      "code": "SGD",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "a68489c4deef5b7316c4c318776c209409fa246c25cc579f8ccc494bd2643b39",
+      "captured_at_utc": "2026-10-02T00:33:40.619Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 173,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/SGD/20260908.json",
+      "capture_path": "raw/SGD-20260908.raw.json",
+      "archive_sha256": "89637c218fccad44f9299fc5108c532938764b2a98f8566b262f42aeb24f1c78"
+    },
+    {
       "code": "THB",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -9322,6 +9354,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260907.json",
       "capture_path": "raw/THB-20260907.raw.json",
       "archive_sha256": "2313f8728d9187217b137785be7fff5f0ea6fc5e958283e7332b76455c790732"
+    },
+    {
+      "code": "THB",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "cb33c4122344752da7a55e67d73106b0779da30444b3b12d8ec64d22e116f486",
+      "captured_at_utc": "2026-10-02T00:33:40.627Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 67,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260908.json",
+      "capture_path": "raw/THB-20260908.raw.json",
+      "archive_sha256": "e12d12fea8afa8387e4e5af3cbe2fc069a87bd88a31424fceb39bfd68351e316"
     },
     {
       "code": "TRY",
@@ -10530,7 +10594,7 @@
       "archive_sha256": "11cfbc1ffb8dbca9da568c7f58f1ffc07c29b996b33ef06f253a22ea21d8d95d"
     }
   ],
-  "completed_pairs": 370,
+  "completed_pairs": 372,
   "planned_pairs": 1080,
-  "remaining_pairs": 710
+  "remaining_pairs": 708
 }
