@@ -9,6 +9,7 @@
 name: 'Fetch currency price from BOC Actions'
 
 on:
+  workflow_dispatch: {}
   push:
     branches: ["main"]
   schedule:
