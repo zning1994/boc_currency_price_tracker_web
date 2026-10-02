@@ -14743,6 +14743,39 @@
       "archive_sha256": "e2a69b2d62f28a990b2f29ee713087632856dd173ebac99c2856af44d4eaf92c"
     },
     {
+      "code": "SAR",
+      "date": "2026-09-16",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "2f4464441ae8b597f2aac8b4ad50fef7ff4c545881bb30cd89f4104e771b0662",
+      "captured_at_utc": "2026-10-02T22:52:58.664Z",
+      "total_pages": 14,
+      "actual_pages": 14,
+      "raw_rows": 262,
+      "unique_timestamps": 259,
+      "first_publish_date": "2026.09.16 00:00:05",
+      "last_publish_date": "2026.09.16 23:53:34",
+      "stored_rows_after_price_dedup": 59,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        2
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/SAR/20260916.json",
+      "capture_path": "raw/SAR-20260916.raw.json",
+      "archive_sha256": "795b908ec2346e9695f1a33837329733cd0ede9a84c1dd388f1a2934218c645a"
+    },
+    {
       "code": "SEK",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -15080,6 +15113,39 @@
       "archive_sha256": "28c488dfa7e8ebe11824335edc8f6859ae92c1406913e0cf2d24908dcce9431c"
     },
     {
+      "code": "SEK",
+      "date": "2026-09-16",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "a8003835bf956c5c3be52c6473f3f846639b5debf8b9492f66ceb595281bbe06",
+      "captured_at_utc": "2026-10-02T22:53:04.430Z",
+      "total_pages": 14,
+      "actual_pages": 14,
+      "raw_rows": 262,
+      "unique_timestamps": 259,
+      "first_publish_date": "2026.09.16 00:00:05",
+      "last_publish_date": "2026.09.16 23:53:34",
+      "stored_rows_after_price_dedup": 164,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        2
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/SEK/20260916.json",
+      "capture_path": "raw/SEK-20260916.raw.json",
+      "archive_sha256": "6f0afa8721886348e8cc9565d9f789ef9c553abcda7f41f0efd0a12f0b90f185"
+    },
+    {
       "code": "SGD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -15415,6 +15481,39 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/SGD/20260915.json",
       "capture_path": "raw/SGD-20260915.raw.json",
       "archive_sha256": "e03bc8a884b087617049ad928f59719974e55d4d3454bb3c38fc93d283f403f4"
+    },
+    {
+      "code": "SGD",
+      "date": "2026-09-16",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "6c0bb65f7a91bb54c7aef4733719e2733b942fbcb8911c7323ca8b73a5750d2e",
+      "captured_at_utc": "2026-10-02T22:53:10.760Z",
+      "total_pages": 14,
+      "actual_pages": 14,
+      "raw_rows": 262,
+      "unique_timestamps": 259,
+      "first_publish_date": "2026.09.16 00:00:05",
+      "last_publish_date": "2026.09.16 23:53:34",
+      "stored_rows_after_price_dedup": 178,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        2
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/SGD/20260916.json",
+      "capture_path": "raw/SGD-20260916.raw.json",
+      "archive_sha256": "efca211c5bcb1b973fef4bd8f5e610f1fdd2dae78d7efccb09445d87f1c77674"
     },
     {
       "code": "THB",
@@ -17884,7 +17983,7 @@
       "archive_sha256": "a14a863e70dfb108331d9bebbc852b882ad36102e940d7bc3d5897212ece4459"
     }
   ],
-  "completed_pairs": 624,
+  "completed_pairs": 627,
   "planned_pairs": 1080,
-  "remaining_pairs": 456
+  "remaining_pairs": 453
 }
