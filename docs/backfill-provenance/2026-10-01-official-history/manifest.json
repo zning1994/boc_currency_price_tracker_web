@@ -8249,6 +8249,26 @@
       "archive_sha256": "c0320c0cb229a78cc8e9aa39c83a116f48030fe2b58a2e882c60d6b682336922"
     },
     {
+      "code": "KHR",
+      "date": "2026-09-13",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "bc3ebbb1655e8bdc2d540471d3b5ed891c9aecdbcadbc8923305cf2585214407",
+      "captured_at_utc": "2026-10-02T16:52:40.728Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 9,
+      "unique_timestamps": 3,
+      "first_publish_date": "2026.09.13 00:00:05",
+      "last_publish_date": "2026.09.13 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        9
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KHR/20260913.json",
+      "capture_path": "raw/KHR-20260913.raw.json",
+      "archive_sha256": "6f8c5e51a21ef7decfe57e970deea05aed1f7a5521e89f762f90d13e467b6bc5"
+    },
+    {
       "code": "KRW",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -8508,6 +8528,27 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260912.json",
       "capture_path": "raw/KRW-20260912.raw.json",
       "archive_sha256": "0c26a144090a85faeca32b778220b4a52a6c89a3959add5683406071b5b48235"
+    },
+    {
+      "code": "KRW",
+      "date": "2026-09-13",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "65fdd9b20f2666a6984723ea073e8cbbc119071974c8ef715a69b78fee19ff0a",
+      "captured_at_utc": "2026-10-02T16:53:57.304Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 9,
+      "unique_timestamps": 3,
+      "first_publish_date": "2026.09.13 00:00:05",
+      "last_publish_date": "2026.09.13 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        9
+      ],
+      "history_dropdown_label": "韩元",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260913.json",
+      "capture_path": "raw/KRW-20260913.raw.json",
+      "archive_sha256": "0ccb15f6ed2ac849dc00cc4bacdab33f3198963aa9bbd651dd594840e27f22a5"
     },
     {
       "code": "KWD",
@@ -14647,7 +14688,7 @@
       "archive_sha256": "3b941f1b0ebd442aa6cf82026cfd0c5127e3f179286d468dec94bae607055028"
     }
   ],
-  "completed_pairs": 513,
+  "completed_pairs": 515,
   "planned_pairs": 1080,
-  "remaining_pairs": 567
+  "remaining_pairs": 565
 }
