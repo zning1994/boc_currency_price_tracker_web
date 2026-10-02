@@ -4963,35 +4963,35 @@
       "name": "巴西雷亚尔",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/BRL-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CHF",
       "name": "瑞士法郎",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CHF-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CZK",
       "name": "捷克克朗",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/CZK-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4999,11 +4999,11 @@
       "name": "丹麦克朗",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/DKK-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5011,11 +5011,11 @@
       "name": "匈牙利福林",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HUF-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 194,
-      "validated": 194,
-      "published": 192,
-      "pending": 670
+      "captured": 197,
+      "validated": 197,
+      "published": 194,
+      "pending": 667
     }
   },
   "priority_codes": [
