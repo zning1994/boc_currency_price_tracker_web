@@ -5335,47 +5335,47 @@
       "name": "文莱元",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260911.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/BND-20260911.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "BRL",
       "name": "巴西雷亚尔",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260911.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/BRL-20260911.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CHF",
       "name": "瑞士法郎",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260911.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CHF-20260911.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "CZK",
       "name": "捷克克朗",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260911.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/CZK-20260911.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5383,11 +5383,11 @@
       "name": "丹麦克朗",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260911.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/DKK-20260911.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5395,11 +5395,11 @@
       "name": "匈牙利福林",
       "date": "2026-09-11",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260911.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HUF-20260911.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 227,
-      "validated": 227,
-      "published": 224,
-      "pending": 637
+      "captured": 230,
+      "validated": 230,
+      "published": 227,
+      "pending": 634
     }
   },
   "priority_codes": [
