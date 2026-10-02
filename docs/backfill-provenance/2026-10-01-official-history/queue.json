@@ -5059,47 +5059,47 @@
       "name": "柬埔寨瑞尔",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KHR/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KHR-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KRW",
       "name": "韩元",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KRW-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KWD",
       "name": "科威特第纳尔",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/KWD-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MNT",
       "name": "蒙古图格里克",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MNT-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 203,
-      "validated": 203,
-      "published": 200,
-      "pending": 661
+      "captured": 204,
+      "validated": 204,
+      "published": 203,
+      "pending": 660
     }
   },
   "priority_codes": [
