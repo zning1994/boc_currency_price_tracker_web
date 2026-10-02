@@ -5095,23 +5095,23 @@
       "name": "蒙古图格里克",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260910.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MNT-20260910.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MOP",
       "name": "澳门元",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MOP/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MOP-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5119,11 +5119,11 @@
       "name": "墨西哥比索",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MXN/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MXN-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -5131,11 +5131,11 @@
       "name": "林吉特",
       "date": "2026-09-10",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260910.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MYR-20260910.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 204,
-      "validated": 204,
-      "published": 203,
-      "pending": 660
+      "captured": 207,
+      "validated": 207,
+      "published": 204,
+      "pending": 657
     }
   },
   "priority_codes": [
