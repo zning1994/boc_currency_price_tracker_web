@@ -4708,47 +4708,47 @@
       "name": "蒙古图格里克",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MNT-20260909.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MOP",
       "name": "澳门元",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MOP/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MOP-20260909.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MXN",
       "name": "墨西哥比索",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MXN/20260909.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MXN-20260909.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MYR",
       "name": "林吉特",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MYR-20260909.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4756,11 +4756,11 @@
       "name": "挪威克朗",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NOK-20260909.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4768,11 +4768,11 @@
       "name": "尼泊尔卢比",
       "date": "2026-09-09",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260909.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NPR-20260909.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 175,
-      "validated": 175,
-      "published": 172,
-      "pending": 689
+      "captured": 178,
+      "validated": 178,
+      "published": 175,
+      "pending": 686
     }
   },
   "priority_codes": [
