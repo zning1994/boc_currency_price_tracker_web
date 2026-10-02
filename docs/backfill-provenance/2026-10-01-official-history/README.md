@@ -1,6 +1,6 @@
 # Partial official-history backfill
 
-530/1080 approved original-40-currency pairs validated; 550 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+533/1080 approved original-40-currency pairs validated; 547 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 |SGD|2026-09-10|13|244|241|189|
 |SGD|2026-09-11|13|253|250|201|
 |SGD|2026-09-12|2|38|35|22|
+|SGD|2026-09-13|1|9|3|1|
 |THB|2026-09-04|15|290|287|97|
 |THB|2026-09-05|3|55|52|8|
 |THB|2026-09-06|1|6|3|1|
@@ -471,6 +472,7 @@
 |THB|2026-09-10|13|244|241|91|
 |THB|2026-09-11|13|253|250|77|
 |THB|2026-09-12|2|38|35|14|
+|THB|2026-09-13|1|9|3|1|
 |TRY|2026-09-04|15|290|287|98|
 |TRY|2026-09-05|3|55|52|4|
 |TRY|2026-09-06|1|6|3|1|
@@ -480,6 +482,7 @@
 |TRY|2026-09-10|13|244|241|47|
 |TRY|2026-09-11|13|253|250|74|
 |TRY|2026-09-12|2|38|35|2|
+|TRY|2026-09-13|1|9|3|1|
 |TWD|2026-09-04|15|290|287|95|
 |TWD|2026-09-05|3|55|52|19|
 |TWD|2026-09-06|1|6|3|1|
@@ -541,4 +544,4 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Eight regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 530 captured, 530 validated, 527 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 533 captured, 533 validated, 530 independently verified on production CDN. Captured-only items are not complete.
