@@ -1,0 +1,38 @@
+{
+  "reports": [
+    {
+      "code": "KHR",
+      "raw_sha256": "450a83582769fa45914b155c854f8cd2d0b392f63340dcc13442ca6c63f16299",
+      "pages": 11,
+      "raw_rows": 216,
+      "stored_rows": 12,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "KRW",
+      "raw_sha256": "471d9dfd2032e174ca5eda1bc6a39fb12e7950a864ebb1c72663da6ed9388fc7",
+      "pages": 11,
+      "raw_rows": 216,
+      "stored_rows": 171,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "KWD",
+      "raw_sha256": "da77093c7ac588f461a43d9703c437bc824fe49bce137346c7d2497677100975",
+      "pages": 11,
+      "raw_rows": 216,
+      "stored_rows": 181,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "88a6b10eab3cc2ac84ca464eca81aed0e058482165e63e95512f8b293e06567c"
+}
