@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-SAR-SEK-SGD-20260915",
+  "created_at_utc": "2026-10-02T21:54:58.623465+00:00",
+  "files": [
+    {
+      "filename": "SAR-20260915.raw.json",
+      "size_bytes": 22561,
+      "sha256": "110d48ce1831dc798c7033f802ed70db8ad03c3924476980f8b94b798cb22fbe"
+    },
+    {
+      "filename": "SAR-20260915.metadata.json",
+      "size_bytes": 3152,
+      "sha256": "a8762a02976a9dd7fbfbd3944d38aab8a592a881d5088cfcb01fe80f540c7853"
+    },
+    {
+      "filename": "SAR_2026-09-15_raw.tsv",
+      "size_bytes": 18721,
+      "sha256": "98f35204b34fe86713483104aa60554d6c9918f159d0077f506a075368fce923"
+    },
+    {
+      "filename": "SEK-20260915.raw.json",
+      "size_bytes": 20452,
+      "sha256": "23e2a04338a4c99e4379ae0fe9f132a21aaae224b905f58666ce1ce50aaa8e2a"
+    },
+    {
+      "filename": "SEK-20260915.metadata.json",
+      "size_bytes": 3152,
+      "sha256": "0bc1f781207200f86a5c314d1d245e5665d1d6ec8363e8eda57b024c48397ca3"
+    },
+    {
+      "filename": "SEK_2026-09-15_raw.tsv",
+      "size_bytes": 16615,
+      "sha256": "c67c0f158883b27b2fd5fb9fa2dcc732d094cdfa6c07dba949c9925a4bac2a9f"
+    },
+    {
+      "filename": "SGD-20260915.raw.json",
+      "size_bytes": 21821,
+      "sha256": "e254f971a19ae8a70e3af109f41ad518eb098cf46cf8223fd6f0eeba5e41f533"
+    },
+    {
+      "filename": "SGD-20260915.metadata.json",
+      "size_bytes": 3152,
+      "sha256": "0769df821bffa38c47e4c287d49da91b06bc6a641d93369181b339fb1f46f48e"
+    },
+    {
+      "filename": "SGD_2026-09-15_raw.tsv",
+      "size_bytes": 17984,
+      "sha256": "ee220f38ffa0af8df4cff8b75e164ce75a3c467f40d05111b8c2abb99e298ae4"
+    },
+    {
+      "filename": "batch-SAR-SEK-SGD-20260915.manifest.json",
+      "size_bytes": 10026,
+      "sha256": "81837577096a2dc7a9ca237b9e225cfcd7a1f99491adeeaefce1825c8d7bcd4b"
+    }
+  ],
+  "validation": [
+    {
+      "code": "SAR",
+      "raw_rows": 255,
+      "distinct_rows": 252,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "SEK",
+      "raw_rows": 255,
+      "distinct_rows": 252,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "SGD",
+      "raw_rows": 255,
+      "distinct_rows": 252,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}

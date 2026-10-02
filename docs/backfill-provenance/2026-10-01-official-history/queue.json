@@ -7123,47 +7123,47 @@
       "name": "卡塔尔里亚尔",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260915.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/QAR-20260915.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RSD",
       "name": "塞尔维亚第纳尔",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260915.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/RSD-20260915.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RUB",
       "name": "卢布",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RUB/20260915.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/RUB-20260915.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "SAR",
       "name": "沙特里亚尔",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SAR/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/SAR-20260915.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -7171,11 +7171,11 @@
       "name": "瑞典克朗",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SEK/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/SEK-20260915.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -7183,11 +7183,11 @@
       "name": "新加坡元",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/SGD/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/SGD-20260915.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 376,
-      "validated": 376,
-      "published": 373,
-      "pending": 488
+      "captured": 379,
+      "validated": 379,
+      "published": 376,
+      "pending": 485
     }
   },
   "priority_codes": [
