@@ -9632,6 +9632,38 @@
       "archive_sha256": "09690697926aa5bf2f91a5323ac2ed3aee20d5e19002d6d227f3a58a2d75fc04"
     },
     {
+      "code": "TWD",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "3c48634789ce616333c140cc8528f819fcb93bc49f17e317e44b7303dd5414cf",
+      "captured_at_utc": "2026-10-02T00:37:38.803Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 77,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260908.json",
+      "capture_path": "raw/TWD-20260908.raw.json",
+      "archive_sha256": "7401b251d07f8a2ce3ef668d64d510795c9bfae8ab67ea33658fcaae0899238d"
+    },
+    {
       "code": "USD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -10520,6 +10552,38 @@
       "archive_sha256": "5c095e0522e6b08db5b04c20290d5b0c58117da9a046aa8098b7cd6d61beeb5f"
     },
     {
+      "code": "VND",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "f0426466bc09f3ffd309afcbc4f883736381108a1b83f4d0bbb8ccc38b5b3543",
+      "captured_at_utc": "2026-10-02T00:37:38.812Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 255,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 11,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        15
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260908.json",
+      "capture_path": "raw/VND-20260908.raw.json",
+      "archive_sha256": "492679f82f2473e86d8e2210fdb5911edf5b7a511a69656d7d6d8922419f27b3"
+    },
+    {
       "code": "ZAR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -10626,7 +10690,7 @@
       "archive_sha256": "11cfbc1ffb8dbca9da568c7f58f1ffc07c29b996b33ef06f253a22ea21d8d95d"
     }
   ],
-  "completed_pairs": 373,
+  "completed_pairs": 375,
   "planned_pairs": 1080,
-  "remaining_pairs": 707
+  "remaining_pairs": 705
 }

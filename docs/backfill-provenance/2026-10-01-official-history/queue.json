@@ -4528,11 +4528,11 @@
       "name": "新台币",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/TWD-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -4540,11 +4540,11 @@
       "name": "越南盾",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/VND-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 157,
-      "validated": 157,
+      "captured": 159,
+      "validated": 159,
       "published": 156,
-      "pending": 707
+      "pending": 705
     }
   },
   "priority_codes": [
