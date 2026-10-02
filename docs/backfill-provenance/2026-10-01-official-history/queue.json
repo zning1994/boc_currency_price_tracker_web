@@ -4372,47 +4372,47 @@
       "name": "挪威克朗",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NOK-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NPR",
       "name": "尼泊尔卢比",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NPR-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NZD",
       "name": "新西兰元",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NZD-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "PHP",
       "name": "菲律宾比索",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/PHP-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 147,
-      "validated": 147,
-      "published": 144,
-      "pending": 717
+      "captured": 148,
+      "validated": 148,
+      "published": 147,
+      "pending": 716
     }
   },
   "priority_codes": [
