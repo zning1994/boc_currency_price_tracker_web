@@ -6271,47 +6271,47 @@
       "name": "墨西哥比索",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MXN/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MXN-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "MYR",
       "name": "林吉特",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/MYR-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NOK",
       "name": "挪威克朗",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NOK-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "NPR",
       "name": "尼泊尔卢比",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260913.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NPR-20260913.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -6319,11 +6319,11 @@
       "name": "新西兰元",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260913.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/NZD-20260913.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -6331,11 +6331,11 @@
       "name": "菲律宾比索",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260913.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/PHP-20260913.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 305,
-      "validated": 305,
-      "published": 302,
-      "pending": 559
+      "captured": 308,
+      "validated": 308,
+      "published": 305,
+      "pending": 556
     }
   },
   "priority_codes": [
