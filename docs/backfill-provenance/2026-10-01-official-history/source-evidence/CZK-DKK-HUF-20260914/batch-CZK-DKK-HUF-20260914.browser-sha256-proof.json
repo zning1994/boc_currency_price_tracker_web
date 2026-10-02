@@ -1,0 +1,164 @@
+{
+  "method": "SHA-256 computed independently in browser REPL over original full JSON captured from visible DOM, using pure JavaScript string processing; self-test abc passed. Compared with Python hashlib of restored files. No browser network, alternate control, or hidden state used.",
+  "proof": [
+    {
+      "code": "CZK",
+      "raw_file": "CZK-20260914.raw.json",
+      "browser_original_sha256": "bee9a05b4c5a1f9751db09fff9488c11a33e12702aa7bbe511ed460dfb7699f5",
+      "saved_file_sha256": "bee9a05b4c5a1f9751db09fff9488c11a33e12702aa7bbe511ed460dfb7699f5",
+      "full_sha256_match": true,
+      "page_sha256": [
+        {
+          "page": 1,
+          "sha256": "6dacb22d23e88029eb5830a7f559e2325d116470f88513ffc04c7ae301dcb2de"
+        },
+        {
+          "page": 2,
+          "sha256": "ac8871445f76036af150d595c7c381c16859c4b9ef962b76877658afd28a8f44"
+        },
+        {
+          "page": 3,
+          "sha256": "002c54070699e460b046f8ad67eed19b4efc587c5696f91f507ad6abff15a82b"
+        },
+        {
+          "page": 4,
+          "sha256": "3bb70994106ece2d86e60491f7a43188f3eaed97c290e1398530a9788fcab216"
+        },
+        {
+          "page": 5,
+          "sha256": "3651efa3da8b36b736b65375062f2cc4896d02d59b888585af4f9627f41a420b"
+        },
+        {
+          "page": 6,
+          "sha256": "b8f54790666a4ad67e7d5b78892bc3e62d05c0afda407d0913acb2b5cebeab9a"
+        },
+        {
+          "page": 7,
+          "sha256": "5f0c7f6e63d553b9d4c4d798af990bc7c4b9f0bd945a0f19d544b649e9631edd"
+        },
+        {
+          "page": 8,
+          "sha256": "00e1e9e7db101ee16228b441a3dcf6de356073b0104be7f832970243dae9fe33"
+        },
+        {
+          "page": 9,
+          "sha256": "e19a64140b55d3a85c9dd7761b6b0e53adf425f2a7301a88ce0d93eaf24c9736"
+        },
+        {
+          "page": 10,
+          "sha256": "070f27ff69a340c84cf8f9192c533155be58bad702b593a0e6d830a79f9cf587"
+        },
+        {
+          "page": 11,
+          "sha256": "cf2e5d7a17d2a8aa8cb8cc5181d149d3b2bed91b696b36d5386b99cd362e30b5"
+        }
+      ]
+    },
+    {
+      "code": "DKK",
+      "raw_file": "DKK-20260914.raw.json",
+      "browser_original_sha256": "2ac97037c9ff377c812731b774c5bc8db4fa2911c447936aa4ed4ad855d2b799",
+      "saved_file_sha256": "2ac97037c9ff377c812731b774c5bc8db4fa2911c447936aa4ed4ad855d2b799",
+      "full_sha256_match": true,
+      "page_sha256": [
+        {
+          "page": 1,
+          "sha256": "f687f1b3d0118c8704569a77f4a748c742a2a5fe6780333f476ee035f4f42d35"
+        },
+        {
+          "page": 2,
+          "sha256": "c20cf09114f499abc48fb9e27a7ab2d6266b995c26d4f4b2174958f19d6c6133"
+        },
+        {
+          "page": 3,
+          "sha256": "2a83aca06b74d43a41887d4939f9428de6037c05c0c794e7d3f26372f472ad53"
+        },
+        {
+          "page": 4,
+          "sha256": "362951b5ff436d6e0d90a991758fbc743c324beeefe89a6c07f97167d9ea525c"
+        },
+        {
+          "page": 5,
+          "sha256": "d4f536eee7ae8798e0001db422e15fe14234d6272bfad3cfc59cee51b68758c2"
+        },
+        {
+          "page": 6,
+          "sha256": "ea3a024609f872c9b6e7b7b3686175fc18b13260bd1360cb98217aae63cb066c"
+        },
+        {
+          "page": 7,
+          "sha256": "6c08973ffe7ac079294c2af3ef564d5c79f32818f599aa42a250fb8520408270"
+        },
+        {
+          "page": 8,
+          "sha256": "86d6aef93aab14a74c673a7707f095b8ddcf162461daa95a7d53c3363bfbd204"
+        },
+        {
+          "page": 9,
+          "sha256": "a3b89a55ecd1fe66a3741e2108634248922b1b93c10264638292320410a6c5a4"
+        },
+        {
+          "page": 10,
+          "sha256": "c54f73f050fc9004f82c49ad08a48727cfc829b0c74779256e6912a8d9e5eea0"
+        },
+        {
+          "page": 11,
+          "sha256": "3a9c556e7e99b404a836808efad97276d8387cf6a5a2cefe3cc7d0acaf710659"
+        }
+      ]
+    },
+    {
+      "code": "HUF",
+      "raw_file": "HUF-20260914.raw.json",
+      "browser_original_sha256": "02818b2ec27e0869a77e0d24ce5c33ba4ac865d4bd14c47a950b7141654da8c4",
+      "saved_file_sha256": "02818b2ec27e0869a77e0d24ce5c33ba4ac865d4bd14c47a950b7141654da8c4",
+      "full_sha256_match": true,
+      "page_sha256": [
+        {
+          "page": 1,
+          "sha256": "8f21ee5bdab5b46111e9780dd836c46eaa6aa7c5b8554c41ef1708b422584617"
+        },
+        {
+          "page": 2,
+          "sha256": "0a3d5b5d83a574b8937d5e68635a4d3de7fc2c96b4c6d66d5b409dd3649af47f"
+        },
+        {
+          "page": 3,
+          "sha256": "547d922eba8138611f9c1457c5fd34ba7619638e6ae1cf83d41d65e8693c634c"
+        },
+        {
+          "page": 4,
+          "sha256": "5e6d24f992207ea14e195fbeff69072a8401cf1ee0ed1dcf28a82179c53ea725"
+        },
+        {
+          "page": 5,
+          "sha256": "f720b378309d39bfbfa8b9c0ae80ae1cab1ba977d17e388664df3635e4f60163"
+        },
+        {
+          "page": 6,
+          "sha256": "875b16ba08fd52e6235555e961d95a5b79517222af10c2fb271a2693232a0b04"
+        },
+        {
+          "page": 7,
+          "sha256": "925eeaddd2ea45fbcd77871090cbd44a6351b0fa4d43fc011cbdc403211d67e5"
+        },
+        {
+          "page": 8,
+          "sha256": "c812082a0989b38f59d8b737533a93b10fdffaa06bc4e29d22933f6008af8cdd"
+        },
+        {
+          "page": 9,
+          "sha256": "f9d59adfd9d722c35e988f9107615cd6b79a97bf28174e5130937c75f1b4bd20"
+        },
+        {
+          "page": 10,
+          "sha256": "34e2df96dcf59bb97d0bc6ab70f4414d1d691732fb806e7cbf07e068d169dc70"
+        },
+        {
+          "page": 11,
+          "sha256": "65cdfa7a02faedc12b071e3ff34e14554f989e4d07770655c1996bb3b7613b2a"
+        }
+      ]
+    }
+  ]
+}

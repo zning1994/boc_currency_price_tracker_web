@@ -1,0 +1,39 @@
+{
+  "code": "HUF",
+  "raw_json": "/workspace/shared/boc-cloud-test/HUF-20260914.raw.json",
+  "bytes": 19124,
+  "sha256": "02818b2ec27e0869a77e0d24ce5c33ba4ac865d4bd14c47a950b7141654da8c4",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/HUF_2026-09-14_raw.tsv",
+  "tsv_sha256": "4042b0dec04fc354029c911b70eb8fa3155c8a980ecbe97928841ab10fd48147",
+  "capture_window_utc": [
+    "2026-10-02T20:05:00.673Z",
+    "2026-10-02T20:06:49.063Z"
+  ],
+  "captured_at_utc": "2026-10-02T20:06:49.063Z",
+  "pages": 11,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    16
+  ],
+  "raw_rows": 216,
+  "distinct_rows": 213,
+  "same_second_conflicts": {},
+  "original_browser_json_utf16_length": 16954,
+  "original_browser_json_fnv1a32_utf16": "6234b20e",
+  "original_browser_full_json_integrity_match": true,
+  "timestamps": "All 216 timestamps independently read from this currency UI, then exact equality to reference CHF timeline verified in browser before lossless encoding. The final JSON is standalone. No values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "CHF-20260914.raw.json",
+    "sha256": "ca726172bdab69bb1c321b4757ae458ea18406f60fe4d2a0707fff23db2ea535"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained."
+}

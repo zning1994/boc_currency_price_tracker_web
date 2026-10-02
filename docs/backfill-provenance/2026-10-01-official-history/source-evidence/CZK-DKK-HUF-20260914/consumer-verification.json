@@ -1,0 +1,38 @@
+{
+  "reports": [
+    {
+      "code": "CZK",
+      "raw_sha256": "bee9a05b4c5a1f9751db09fff9488c11a33e12702aa7bbe511ed460dfb7699f5",
+      "pages": 11,
+      "raw_rows": 216,
+      "stored_rows": 101,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "utf16_fnv_matches": true,
+      "tsv_roundtrip_byte_identical": true
+    },
+    {
+      "code": "DKK",
+      "raw_sha256": "2ac97037c9ff377c812731b774c5bc8db4fa2911c447936aa4ed4ad855d2b799",
+      "pages": 11,
+      "raw_rows": 216,
+      "stored_rows": 154,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "utf16_fnv_matches": true,
+      "tsv_roundtrip_byte_identical": true
+    },
+    {
+      "code": "HUF",
+      "raw_sha256": "02818b2ec27e0869a77e0d24ce5c33ba4ac865d4bd14c47a950b7141654da8c4",
+      "pages": 11,
+      "raw_rows": 216,
+      "stored_rows": 190,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "utf16_fnv_matches": true,
+      "tsv_roundtrip_byte_identical": true
+    }
+  ],
+  "batch_sha256": "8eb7891898f7a44655926d7976df70ea37d35a9f16fdb5d3953f001914cfb717"
+}

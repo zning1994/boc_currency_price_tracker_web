@@ -1,0 +1,39 @@
+{
+  "code": "DKK",
+  "raw_json": "/workspace/shared/boc-cloud-test/DKK-20260914.raw.json",
+  "bytes": 18441,
+  "sha256": "2ac97037c9ff377c812731b774c5bc8db4fa2911c447936aa4ed4ad855d2b799",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/DKK_2026-09-14_raw.tsv",
+  "tsv_sha256": "3180e24c6b9a3edff163832c394a9f3497874eed5d8b78a2e8fbcecea712f1a2",
+  "capture_window_utc": [
+    "2026-10-02T20:05:00.626Z",
+    "2026-10-02T20:06:46.974Z"
+  ],
+  "captured_at_utc": "2026-10-02T20:06:46.974Z",
+  "pages": 11,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    16
+  ],
+  "raw_rows": 216,
+  "distinct_rows": 213,
+  "same_second_conflicts": {},
+  "original_browser_json_utf16_length": 16705,
+  "original_browser_json_fnv1a32_utf16": "8f737a1a",
+  "original_browser_full_json_integrity_match": true,
+  "timestamps": "All 216 timestamps independently read from this currency UI, then exact equality to reference CHF timeline verified in browser before lossless encoding. The final JSON is standalone. No values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "CHF-20260914.raw.json",
+    "sha256": "ca726172bdab69bb1c321b4757ae458ea18406f60fe4d2a0707fff23db2ea535"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained."
+}
