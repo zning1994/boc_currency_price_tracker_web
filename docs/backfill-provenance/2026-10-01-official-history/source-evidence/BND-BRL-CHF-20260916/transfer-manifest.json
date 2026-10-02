@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-BND-BRL-CHF-20260916",
+  "created_at_utc": "2026-10-02T22:09:56.413505+00:00",
+  "files": [
+    {
+      "filename": "BND-20260916.raw.json",
+      "size_bytes": 18486,
+      "sha256": "a5de018afff6e5eb2300175063b7f9f1a6572ea058c287757c39a24a11770161"
+    },
+    {
+      "filename": "BND-20260916.metadata.json",
+      "size_bytes": 3150,
+      "sha256": "c4e4b29c64919dc41cb95b5f358484606e4a52fbcae9325ee0ab4e6866232bb9"
+    },
+    {
+      "filename": "BND_2026-09-16_raw.tsv",
+      "size_bytes": 14540,
+      "sha256": "9aaf7362700de1714d40f6fa697f14d86a17e07b985ca8109103d1222b4d05ad"
+    },
+    {
+      "filename": "BRL-20260916.raw.json",
+      "size_bytes": 20053,
+      "sha256": "336d7325751c49f15182a063e4269cacfa97024c4be59f5a749d04c06fbda97f"
+    },
+    {
+      "filename": "BRL-20260916.metadata.json",
+      "size_bytes": 3273,
+      "sha256": "6e6cf7cb536bfba199b1b97158f4df95df1fa8170992dd2255ae0bcb3f3d3194"
+    },
+    {
+      "filename": "BRL_2026-09-16_raw.tsv",
+      "size_bytes": 16101,
+      "sha256": "f4a63c9c3e7fbf55ed94208cb8a2daba5bab6aedddd19ae6fdc76e6513d8322e"
+    },
+    {
+      "filename": "CHF-20260916.raw.json",
+      "size_bytes": 22336,
+      "sha256": "725039ea853258ea96b9c3bb0b593979e80289fec929409d5d8ec6c2b527e8be"
+    },
+    {
+      "filename": "CHF-20260916.metadata.json",
+      "size_bytes": 3273,
+      "sha256": "c90469f0ff6ffccd40cd066973b98caefd59cfba20775964287cc634f2bbc4d8"
+    },
+    {
+      "filename": "CHF_2026-09-16_raw.tsv",
+      "size_bytes": 18387,
+      "sha256": "3bb866bb3b532844d9784a59641f06a807872b6d00365e63caf96be1bb289e06"
+    },
+    {
+      "filename": "batch-BND-BRL-CHF-20260916.manifest.json",
+      "size_bytes": 10290,
+      "sha256": "065ecf7a0e5adaa26846612cc17599e682c7a9e3dbe3def104a0555ba02b1237"
+    }
+  ],
+  "validation": [
+    {
+      "code": "BND",
+      "raw_rows": 262,
+      "distinct_rows": 259,
+      "pages": 14,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "BRL",
+      "raw_rows": 262,
+      "distinct_rows": 259,
+      "pages": 14,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "CHF",
+      "raw_rows": 262,
+      "distinct_rows": 259,
+      "pages": 14,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
