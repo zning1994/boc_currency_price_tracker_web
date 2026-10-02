@@ -6139,23 +6139,23 @@
       "name": "捷克克朗",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260913.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CZK-20260913.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "DKK",
       "name": "丹麦克朗",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260913.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/DKK-20260913.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -6163,11 +6163,11 @@
       "name": "匈牙利福林",
       "date": "2026-09-13",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260913.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/HUF-20260913.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 292,
-      "validated": 292,
-      "published": 291,
-      "pending": 572
+      "captured": 294,
+      "validated": 294,
+      "published": 292,
+      "pending": 570
     }
   },
   "priority_codes": [
