@@ -6943,47 +6943,47 @@
       "name": "印尼卢比",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/IDR/20260915.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/IDR-20260915.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "ILS",
       "name": "以色列谢克尔",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ILS/20260915.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/ILS-20260915.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "INR",
       "name": "印度卢比",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/INR/20260915.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/INR-20260915.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KHR",
       "name": "柬埔寨瑞尔",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KHR/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/KHR-20260915.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -6991,11 +6991,11 @@
       "name": "韩元",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/KRW-20260915.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -7003,11 +7003,11 @@
       "name": "科威特第纳尔",
       "date": "2026-09-15",
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260915.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/KWD-20260915.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 361,
-      "validated": 361,
-      "published": 358,
-      "pending": 503
+      "captured": 364,
+      "validated": 364,
+      "published": 361,
+      "pending": 500
     }
   },
   "priority_codes": [

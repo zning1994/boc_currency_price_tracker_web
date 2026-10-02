@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-KHR-KRW-KWD-20260915",
+  "created_at_utc": "2026-10-02T21:29:39.893210+00:00",
+  "files": [
+    {
+      "filename": "KHR-20260915.raw.json",
+      "size_bytes": 19568,
+      "sha256": "0f25a8d54dabfabe809b66dd16f904e5ed681cb116faad4d7b8e6c0b02cc262b"
+    },
+    {
+      "filename": "KHR-20260915.metadata.json",
+      "size_bytes": 3152,
+      "sha256": "6b7a237935e92f2d5292f20cc91e13df2f7d1a1f7b4032ef541fc8a8ba986da2"
+    },
+    {
+      "filename": "KHR_2026-09-15_raw.tsv",
+      "size_bytes": 15728,
+      "sha256": "9f1076a1a45ef37ae7ba5228a86538ff7f1094b4b5d40fb31b469036fd99b403"
+    },
+    {
+      "filename": "KRW-20260915.raw.json",
+      "size_bytes": 20933,
+      "sha256": "a654637f148f89c6ba768e8f7bd698407423a61bc9594543cadedd595c3db703"
+    },
+    {
+      "filename": "KRW-20260915.metadata.json",
+      "size_bytes": 3179,
+      "sha256": "2dc953701d0e0439886ba298b3fc7548e35aab33e9c053f52025cfb25e6849be"
+    },
+    {
+      "filename": "KRW_2026-09-15_raw.tsv",
+      "size_bytes": 17099,
+      "sha256": "51bcf37823a4782c9e10c434ab84b816771c8d0d056981b137e71ede4cacc335"
+    },
+    {
+      "filename": "KWD-20260915.raw.json",
+      "size_bytes": 21066,
+      "sha256": "7803e2f0e191f3b0c9d482eafbd158b54ffd6ba0287907b214b132f3f3afe763"
+    },
+    {
+      "filename": "KWD-20260915.metadata.json",
+      "size_bytes": 3152,
+      "sha256": "6f92be64d824e3f6bb7a842845d4fd871ccb94cbf21a4ac256bf2dfc8f713b48"
+    },
+    {
+      "filename": "KWD_2026-09-15_raw.tsv",
+      "size_bytes": 17223,
+      "sha256": "c407221b0a923ef97fb29a1b51d6abdee29134cc39e41a7bce03c2d47d1af35e"
+    },
+    {
+      "filename": "batch-KHR-KRW-KWD-20260915.manifest.json",
+      "size_bytes": 10055,
+      "sha256": "1a6624b2251fd28ff9b772bcdd5af7209fead1bdb0701b077d3d796a77a2566b"
+    }
+  ],
+  "validation": [
+    {
+      "code": "KHR",
+      "raw_rows": 255,
+      "distinct_rows": 252,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "KRW",
+      "raw_rows": 255,
+      "distinct_rows": 252,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "KWD",
+      "raw_rows": 255,
+      "distinct_rows": 252,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
