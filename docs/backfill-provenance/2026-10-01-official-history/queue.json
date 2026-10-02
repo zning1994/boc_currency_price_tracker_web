@@ -4408,12 +4408,12 @@
       "name": "菲律宾比索",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260908.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/PHP-20260908.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "PKR",
@@ -4444,11 +4444,11 @@
       "name": "塞尔维亚第纳尔",
       "date": "2026-09-08",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260908.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/RSD-20260908.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13016,10 +13016,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 150,
-      "validated": 150,
-      "published": 147,
-      "pending": 714
+      "captured": 151,
+      "validated": 151,
+      "published": 148,
+      "pending": 713
     }
   },
   "priority_codes": [

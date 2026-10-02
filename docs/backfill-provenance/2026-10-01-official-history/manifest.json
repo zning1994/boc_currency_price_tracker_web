@@ -8666,6 +8666,38 @@
       "archive_sha256": "e048e2a5849b7fd22ce9e5a6bbdb37155d5f05969f4bc5e7a4f775744d90e222"
     },
     {
+      "code": "RSD",
+      "date": "2026-09-08",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "287c5bbf94127a3cc6b9113317d50c33e37d6cc238fca9ed476469accb4c2c50",
+      "captured_at_utc": "2026-10-02T00:28:35.586Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 254,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.08 00:00:05",
+      "last_publish_date": "2026.09.08 23:56:42",
+      "stored_rows_after_price_dedup": 192,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        14
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260908.json",
+      "capture_path": "raw/RSD-20260908.raw.json",
+      "archive_sha256": "47ac5da21abc75b68e1e90cdad9279bd019d941b86f37894d421585b7e4e5dbb"
+    },
+    {
       "code": "RUB",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -10402,7 +10434,7 @@
       "archive_sha256": "11cfbc1ffb8dbca9da568c7f58f1ffc07c29b996b33ef06f253a22ea21d8d95d"
     }
   ],
-  "completed_pairs": 366,
+  "completed_pairs": 367,
   "planned_pairs": 1080,
-  "remaining_pairs": 714
+  "remaining_pairs": 713
 }
