@@ -1,0 +1,87 @@
+{
+  "batch": "batch-030",
+  "base_head": "07da690d3fab72810b37b4953a3a97a72ce06420",
+  "source_dir": "october-source-batch030",
+  "source_coverage": 92,
+  "remaining": 43,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "TWD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "d32ab7269fa7cd399872c140e480da56466fdb823b15764a5d8b273e09886eac",
+      "source_sha256": "cc5151a36b0c95cbb2b53bffc054910e364f1440018a271b4b8f908bec486055",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 39,
+      "result_rows": 82,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "TWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 20.18,
+          "spot_selling_price": null,
+          "cash_selling_price": 22.11,
+          "bank_of_china_conversion_price": 21.05,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        },
+        {
+          "currency_name": "TWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 20.17,
+          "spot_selling_price": null,
+          "cash_selling_price": 22.1,
+          "bank_of_china_conversion_price": 21.05,
+          "publish_date": "2026.10.02 14:56:18",
+          "publish_at_utc": "2026-10-02T06:56:18Z",
+          "publish_at_local": "2026-10-02T14:56:18+08:00"
+        },
+        {
+          "currency_name": "TWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 20.18,
+          "spot_selling_price": null,
+          "cash_selling_price": 22.11,
+          "bank_of_china_conversion_price": 21.05,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "VND",
+      "day": "20261002",
+      "changed": false,
+      "result_sha256": "008f2350cd348bbb39467fa9625eeaf83ddf6c232e2d91bbff25cf3b14fb00e7",
+      "source_sha256": "651c845a4faa57616d284db45f636abcc4f05c92d5e7644ba81fd52358e7245a",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "ZAR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "a7bd3cafae0f2eb92240e917ef4e702e28fe2ee1c0ad0c921bf2ca59db77a62b",
+      "source_sha256": "7fc76da57a9b28798802721d4c9d6f0a733d6ccb8a1c8b9e63ef2f6e35b86c04",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 69,
+      "result_rows": 137,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
