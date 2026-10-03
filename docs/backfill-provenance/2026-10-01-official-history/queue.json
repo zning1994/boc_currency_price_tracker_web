@@ -8827,47 +8827,47 @@
       "name": "捷克克朗",
       "date": "2026-09-20",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260920.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/CZK-20260920.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "DKK",
       "name": "丹麦克朗",
       "date": "2026-09-20",
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260920.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/DKK-20260920.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "HUF",
       "name": "匈牙利福林",
       "date": "2026-09-20",
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260920.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/HUF-20260920.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "IDR",
       "name": "印尼卢比",
       "date": "2026-09-20",
       "archive_path": "docs/BOC_CURRENCY_PRICE/IDR/20260920.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/IDR-20260920.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -8875,11 +8875,11 @@
       "name": "以色列谢克尔",
       "date": "2026-09-20",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ILS/20260920.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/ILS-20260920.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -8887,11 +8887,11 @@
       "name": "印度卢比",
       "date": "2026-09-20",
       "archive_path": "docs/BOC_CURRENCY_PRICE/INR/20260920.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/INR-20260920.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 515,
-      "validated": 515,
-      "published": 512,
-      "pending": 349
+      "captured": 518,
+      "validated": 518,
+      "published": 515,
+      "pending": 346
     }
   },
   "priority_codes": [

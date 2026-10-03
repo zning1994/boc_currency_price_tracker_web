@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-IDR-ILS-INR-20260920",
+  "created_at_utc": "2026-10-03T01:24:25.839950+00:00",
+  "files": [
+    {
+      "filename": "IDR-20260920.raw.json",
+      "size_bytes": 796,
+      "sha256": "efb20fc8c1eee58973c81f901ca2e78757d98aa66964bb0698b575bdd79c99e2"
+    },
+    {
+      "filename": "IDR-20260920.metadata.json",
+      "size_bytes": 1688,
+      "sha256": "42ff69325689cd190ded535918d746fcdb124c743da445020a0920f8175e7a16"
+    },
+    {
+      "filename": "IDR_2026-09-20_raw.tsv",
+      "size_bytes": 601,
+      "sha256": "c61ec423b34546e0f7d14349c428ac75b5158d8c4c037a79f0d33cb34cd3892c"
+    },
+    {
+      "filename": "ILS-20260920.raw.json",
+      "size_bytes": 760,
+      "sha256": "d19dd86c7b588f753ff41d89c34a14cb160027667be3441f5e853cc81951e090"
+    },
+    {
+      "filename": "ILS-20260920.metadata.json",
+      "size_bytes": 1688,
+      "sha256": "3af2f710738e2ce5c7042ac8ebbc5ac725ac36eeb1deaa4e411c5d4877ce16b3"
+    },
+    {
+      "filename": "ILS_2026-09-20_raw.tsv",
+      "size_bytes": 559,
+      "sha256": "fe742b1dcbb6a90eace73b1d8f1f0a35e10e524c0f041701f03f8372a421128b"
+    },
+    {
+      "filename": "INR-20260920.raw.json",
+      "size_bytes": 712,
+      "sha256": "724c2507b5f2bfe55f143ba86a4c6ea7d1fffd7cf41a6cc06fe05b3702968979"
+    },
+    {
+      "filename": "INR-20260920.metadata.json",
+      "size_bytes": 1688,
+      "sha256": "713e33cdf5d4de6bf42e79399b5510bdb28b77a40e99e5c1769645d4ee261e1b"
+    },
+    {
+      "filename": "INR_2026-09-20_raw.tsv",
+      "size_bytes": 517,
+      "sha256": "b5d4b16159f183565d8205d98a5540f6a420ea33db4ae50626bbab53e90b8c41"
+    },
+    {
+      "filename": "batch-IDR-ILS-INR-20260920.manifest.json",
+      "size_bytes": 5274,
+      "sha256": "913fe488fb6048f47a5918cfcd6e000a52b3649bf0595622b43876545b48adc5"
+    }
+  ],
+  "validation": [
+    {
+      "code": "IDR",
+      "raw_rows": 7,
+      "distinct_rows": 3,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "ILS",
+      "raw_rows": 7,
+      "distinct_rows": 3,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "INR",
+      "raw_rows": 7,
+      "distinct_rows": 3,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
