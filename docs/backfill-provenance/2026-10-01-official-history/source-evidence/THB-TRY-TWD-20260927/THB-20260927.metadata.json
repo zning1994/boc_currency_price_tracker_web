@@ -1,0 +1,37 @@
+{
+  "code": "THB",
+  "raw_json": "THB-20260927.raw.json",
+  "bytes": 649,
+  "sha256": "ae43b52d0420ae4dfdd75a07865b3179bdd4cc1980997f0be0e538238a6b7d83",
+  "raw_tsv": "THB_2026-09-27_raw.tsv",
+  "tsv_sha256": "751413e4ff5278e8543aa48f444e8ff7056c676d668c50a9f23c0c0cf49a036a",
+  "capture_window_utc": [
+    "2026-10-03T06:48:18.739Z",
+    "2026-10-03T06:48:18.739Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:48:18.739Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "ae43b52d0420ae4dfdd75a07865b3179bdd4cc1980997f0be0e538238a6b7d83",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "b5e2bd7ce97a5f1c0e23715d7ffebd2a763420aa7704c3833ade3d5307553184"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260927.raw.json",
+    "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "ec6520f22e5147de073343cebd7a20036d646a04e026afe307413d0beead25f4",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
