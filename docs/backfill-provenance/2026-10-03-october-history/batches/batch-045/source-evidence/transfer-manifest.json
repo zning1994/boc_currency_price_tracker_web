@@ -1,0 +1,105 @@
+{
+  "format_version": 1,
+  "scope": "Authorized October 1-3 manual history backfill source evidence; October 3 is an intraday observation snapshot, not a completed full day. Separate from September completed history.",
+  "batch": "BOC-VND-ZAR-ZMW-20261003",
+  "created_at_utc": "2026-10-03T13:44:16.579632+00:00",
+  "files": [
+    {
+      "filename": "VND-20261003.raw.json",
+      "size_bytes": 688,
+      "sha256": "3a23add4e9a4bd88aeff37de87b5cbf4bbfc00f419abc77ce0c360cbae13fa50"
+    },
+    {
+      "filename": "VND-20261003.metadata.json",
+      "size_bytes": 2019,
+      "sha256": "c2d9b227e4d8ef71b64e339b3dcc9c2be5a69ae77c65896ae871b33c4431865d"
+    },
+    {
+      "filename": "VND_2026-10-03_raw.tsv",
+      "size_bytes": 496,
+      "sha256": "714dbb9c59ad9eebd2e4aafa800b1c5cf148caa16948548d73bf54469a6ee813"
+    },
+    {
+      "filename": "ZAR-20261003.raw.json",
+      "size_bytes": 740,
+      "sha256": "1d4540e0a1e0e38511f362e291a78467b47327732fa814ec98527cb0a10e49b3"
+    },
+    {
+      "filename": "ZAR-20261003.metadata.json",
+      "size_bytes": 2019,
+      "sha256": "7acf1b989966281e830b89fd1b730ad42588345f6d23a76ef1b3be592ac46d56"
+    },
+    {
+      "filename": "ZAR_2026-10-03_raw.tsv",
+      "size_bytes": 545,
+      "sha256": "bcdd9f465d08628ad3fd29b97d704ca045daf6d644467d425b9cd90d302efbb2"
+    },
+    {
+      "filename": "ZMW-20261003.raw.json",
+      "size_bytes": 664,
+      "sha256": "ac487403a821531ca1998517a9235ec444d4ffdfe62295983a6fff5592f3f3d8"
+    },
+    {
+      "filename": "ZMW-20261003.metadata.json",
+      "size_bytes": 2019,
+      "sha256": "e2ee4a675359259d6a55bd0cfe0288dcc5aa6988387831dc7527ac87ff6d994e"
+    },
+    {
+      "filename": "ZMW_2026-10-03_raw.tsv",
+      "size_bytes": 477,
+      "sha256": "3890df68985fe3f6533361177efd76054d4fe710e677faf8f2d846221c69dab8"
+    },
+    {
+      "filename": "batch-VND-ZAR-ZMW-20261003.manifest.json",
+      "size_bytes": 6315,
+      "sha256": "f4376156978339317d89991841ae8d000ca3309986553267b7b22c6c72417619"
+    }
+  ],
+  "validation": [
+    {
+      "date": "2026-10-03",
+      "code": "VND",
+      "is_intraday_snapshot": true,
+      "captured_at_utc": "2026-10-03T13:42:39.959Z",
+      "newest": "2026/10/03 10:30:00",
+      "oldest": "2026/10/03 00:00:05",
+      "raw_rows": 7,
+      "distinct_rows": 4,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-03",
+      "code": "ZAR",
+      "is_intraday_snapshot": true,
+      "captured_at_utc": "2026-10-03T13:43:08.280Z",
+      "newest": "2026/10/03 10:30:00",
+      "oldest": "2026/10/03 00:00:05",
+      "raw_rows": 7,
+      "distinct_rows": 4,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-03",
+      "code": "ZMW",
+      "is_intraday_snapshot": true,
+      "captured_at_utc": "2026-10-03T13:43:37.216Z",
+      "newest": "2026/10/03 10:30:00",
+      "oldest": "2026/10/03 00:00:05",
+      "raw_rows": 6,
+      "distinct_rows": 4,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
