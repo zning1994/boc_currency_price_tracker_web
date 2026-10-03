@@ -12,6 +12,12 @@ on:
   workflow_dispatch: {}
   push:
     branches: ["main"]
+    # Data/provenance publication still deploys Pages, but needs no new scrape.
+    # Any other code or configuration change retains the push trigger.
+    paths-ignore:
+      - 'docs/BOC_CURRENCY_PRICE/**'
+      - 'docs/backfill-provenance/**'
+      - 'README.md'
   schedule:
     - cron: '*/10 * * * *'
 
