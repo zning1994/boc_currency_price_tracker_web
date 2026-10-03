@@ -1,0 +1,44 @@
+{
+  "code": "NZD",
+  "raw_json": "/workspace/shared/boc-cloud-test/NZD-20260919.raw.json",
+  "bytes": 3968,
+  "sha256": "451d692c377d1a85ddab2d48de20be300a49086574e3d5c558ce3bbe73de4da6",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/NZD_2026-09-19_raw.tsv",
+  "tsv_sha256": "90aeab45f296a508c801c6cc39928fc0676adb6fb2a7870120d6040427ee8e22",
+  "capture_window_utc": [
+    "2026-10-03T01:04:50.637Z",
+    "2026-10-03T01:04:52.263Z"
+  ],
+  "captured_at_utc": "2026-10-03T01:04:52.263Z",
+  "pages": 3,
+  "page_counts": [
+    20,
+    20,
+    5
+  ],
+  "raw_rows": 45,
+  "distinct_rows": 42,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "451d692c377d1a85ddab2d48de20be300a49086574e3d5c558ce3bbe73de4da6",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "a79375a848c713415cd00767b9e5b9ff2812c5ee19e5f8aa9c790e4e3db4eefe"
+    },
+    {
+      "page": 2,
+      "sha256": "ea4039000d2f94ab0a3449811b5daa9ff59136bd6b0d039b4a8ed1b676d2f698"
+    },
+    {
+      "page": 3,
+      "sha256": "d1ca03e9f9e49e4d6d916fefcd456f8d3b7e8292c2e5443b5545fc5238fa0af0"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260919.raw.json",
+    "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+}

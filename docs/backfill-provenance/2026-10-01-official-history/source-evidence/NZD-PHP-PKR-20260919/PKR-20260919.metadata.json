@@ -1,0 +1,44 @@
+{
+  "code": "PKR",
+  "raw_json": "/workspace/shared/boc-cloud-test/PKR-20260919.raw.json",
+  "bytes": 3733,
+  "sha256": "291d6fe4eb1968c3a23a34b63536219437cf05f41e0b1f71ec510b30f5b2040b",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/PKR_2026-09-19_raw.tsv",
+  "tsv_sha256": "b720d17e1913b40ccff815c760673d98975eb44935db42116d915289468d40a7",
+  "capture_window_utc": [
+    "2026-10-03T01:04:50.660Z",
+    "2026-10-03T01:04:52.248Z"
+  ],
+  "captured_at_utc": "2026-10-03T01:04:52.248Z",
+  "pages": 3,
+  "page_counts": [
+    20,
+    20,
+    5
+  ],
+  "raw_rows": 45,
+  "distinct_rows": 42,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "291d6fe4eb1968c3a23a34b63536219437cf05f41e0b1f71ec510b30f5b2040b",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "7e07e1bf864cc2be5a929e88f33e2067143679fe433c316cf9c78f02312ca1e9"
+    },
+    {
+      "page": 2,
+      "sha256": "717a6d5d88333cbf8724e9e11e1f7e60a529178a781835ba105c83e86372f4d6"
+    },
+    {
+      "page": 3,
+      "sha256": "1ff0e474749cd865fe03ae2fb116e6c693f881f21551d792e6fcf9b854bf331d"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260919.raw.json",
+    "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+}
