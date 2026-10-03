@@ -2275,6 +2275,45 @@
       "archive_sha256": "7bd6ecaba29302d4b056da9a333e92e6c4715c35e45271f395803d5d4ab1c3cd"
     },
     {
+      "code": "BND",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "ae4274f224a57b31d9ca842c7bd99c5700eec89eef471fea7ee65ec6c4729a53",
+      "captured_at_utc": "2026-10-03T06:52:08.338Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 198,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "2b83b9a6e76d9a07912f7ea983ed9b353329a837e7f182c7ada915b37fc33c02",
+      "independent_review_path": "raw/BND-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260928.json",
+      "capture_path": "raw/BND-20260928.raw.json",
+      "archive_sha256": "5271066fbd02388888bc3c9f9366816065566e12503a42ba3ae14a7aac5b43c8"
+    },
+    {
       "code": "BRL",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -2952,6 +2991,45 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260927.json",
       "capture_path": "raw/BRL-20260927.raw.json",
       "archive_sha256": "998ba9b52b02ea0f2c4790957ca21f0c864359df345cf1defe9161a3e10b5537"
+    },
+    {
+      "code": "BRL",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "2725407e54be3670afa9f5c29d2092da38c3bef4a5f5b1b0121267daf11c5dd5",
+      "captured_at_utc": "2026-10-03T06:52:20.653Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 136,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "c538a885d7dc23355b1b4d8a41523b90e2e2b40d59df05bf94c9d2e44f4697dd",
+      "independent_review_path": "raw/BRL-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260928.json",
+      "capture_path": "raw/BRL-20260928.raw.json",
+      "archive_sha256": "32c2d54b85859b1f6d7a9ccf7c27ccfd5f1ae755978cad1d60614d38f324401c"
     },
     {
       "code": "CAD",
@@ -4412,6 +4490,45 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260927.json",
       "capture_path": "raw/CHF-20260927.raw.json",
       "archive_sha256": "eaf426796715602d40cf1405bff232dd3ce59187a96355cfb9615d8e3a93fd29"
+    },
+    {
+      "code": "CHF",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "d7050154e76d55891f87fab67c435ffceb760473a71d25419630f96db8ea9cd9",
+      "captured_at_utc": "2026-10-03T06:52:32.756Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 245,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 221,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        5
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "24378b8711feb4beabe957bca0ae08f83a07cb3a0ac2198cac542648bde39e7c",
+      "independent_review_path": "raw/CHF-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260928.json",
+      "capture_path": "raw/CHF-20260928.raw.json",
+      "archive_sha256": "e4f6ea6c0f18d8d8736a9768e03a8ba1eca6c2040d7c25e6db14f96d44ea40ed"
     },
     {
       "code": "CZK",
@@ -28065,7 +28182,7 @@
       "archive_sha256": "bfee740af24aacb76f1cfc37e275eb41055ac3719a47d452d7b15f4e0aded24f"
     }
   ],
-  "completed_pairs": 984,
+  "completed_pairs": 987,
   "planned_pairs": 1080,
-  "remaining_pairs": 96
+  "remaining_pairs": 93
 }

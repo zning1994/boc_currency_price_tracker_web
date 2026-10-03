@@ -1,0 +1,125 @@
+{
+  "code": "CHF",
+  "raw_json": "CHF-20260928.raw.json",
+  "bytes": 20915,
+  "sha256": "d7050154e76d55891f87fab67c435ffceb760473a71d25419630f96db8ea9cd9",
+  "raw_tsv": "CHF_2026-09-28_raw.tsv",
+  "tsv_sha256": "4458c50f65b3eca4dde69b38e588ff589f7bca5b0d7cca897ac3a525c75adbf7",
+  "capture_window_utc": [
+    "2026-10-03T06:51:48.147Z",
+    "2026-10-03T06:52:32.756Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:52:32.756Z",
+  "pages": 13,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    5
+  ],
+  "raw_rows": 245,
+  "distinct_rows": 243,
+  "same_second_conflicts": {
+    "2026/09/28 10:10:54": [
+      [
+        "806.72",
+        "806.72",
+        "812.96",
+        "812.96",
+        "811.23"
+      ],
+      [
+        "806.68",
+        "806.68",
+        "812.92",
+        "812.92",
+        "811.23"
+      ]
+    ]
+  },
+  "original_browser_json_sha256": "d7050154e76d55891f87fab67c435ffceb760473a71d25419630f96db8ea9cd9",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "969f42267000bc2736f94d2b9d64704991713311aee23ec419e814138e4c9053"
+    },
+    {
+      "page": 2,
+      "sha256": "eee8581eed11567521a23c4dde0373d2d6bce133369ceced679e27db256618bc"
+    },
+    {
+      "page": 3,
+      "sha256": "a79549fbb15fe3effb06f77c4b03690483ad4af3a462a5e36c51ba5d9a73936e"
+    },
+    {
+      "page": 4,
+      "sha256": "08248479d92ebbf70bbace93c0cfa6fa80f37ea70ab28e5142e0061b1b105f27"
+    },
+    {
+      "page": 5,
+      "sha256": "70fe8c46c75d0b332e02d40f2f57c47f2ab12b6792e9eaa1d0b1ffed878f9c65"
+    },
+    {
+      "page": 6,
+      "sha256": "46b14c7aee0ce4a7180e464961c911545d122199a39730dcce186fae9a6159e9"
+    },
+    {
+      "page": 7,
+      "sha256": "cfa022e0215c0bf67182942d36561c47d84151a262cdcf391e02eb51d5168fa0"
+    },
+    {
+      "page": 8,
+      "sha256": "ca310c9dfd955cc3996d71fd79ec7994db6d82766e3e6e4b5298ebbb5b1af5b1"
+    },
+    {
+      "page": 9,
+      "sha256": "4a7d3bf49ae6078a9d91cc129c57422cf604da52e1dee88ebd78866520751973"
+    },
+    {
+      "page": 10,
+      "sha256": "a0e6fc14c60a7566f2c7676e5fef4239a4973dd96dc0c52770e4c9b5543a14b3"
+    },
+    {
+      "page": 11,
+      "sha256": "4d37921bdb702cbbbcb21687b5b0d429ea4c7990dfc8267e31ebf4a1f654a7ff"
+    },
+    {
+      "page": 12,
+      "sha256": "4e0415a9acf63c9f3bbe72557676d94ba72bd0069747cc3f79aa7b2b9f3c9c8a"
+    },
+    {
+      "page": 13,
+      "sha256": "2f4c4c563fbc8c596841423b8be629fdb4fc3edd3190a0e105cfb5df5f694a95"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": null,
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "128d11fab76be79e4564dab3077d1ec035447ab9348b17625ad78c4385095da8",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true,
+  "same_second_conflict_review": {
+    "status": "source_confirmed_both_quotes_retained",
+    "independent_full_requery_exact_match": true,
+    "evidence_json": "CHF-20260928.conflict-review.json",
+    "evidence_sha256": "88c18f823fddb1c2f6442edf08502d455e9aac5ba09491b45792d738c2ccc314",
+    "review_raw_json": "CHF-20260928.review.raw.json",
+    "review_sha256": "24378b8711feb4beabe957bca0ae08f83a07cb3a0ac2198cac542648bde39e7c",
+    "review_raw_tsv": "CHF_2026-09-28_review_raw.tsv",
+    "review_tsv_sha256": "4458c50f65b3eca4dde69b38e588ff589f7bca5b0d7cca897ac3a525c75adbf7",
+    "capture_window_utc": [
+      "2026-10-03T06:53:54.090Z",
+      "2026-10-03T06:54:40.955Z"
+    ]
+  }
+}

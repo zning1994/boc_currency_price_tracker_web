@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "BND",
+      "raw_sha256": "ae4274f224a57b31d9ca842c7bd99c5700eec89eef471fea7ee65ec6c4729a53",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 198,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "2b83b9a6e76d9a07912f7ea983ed9b353329a837e7f182c7ada915b37fc33c02",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "BRL",
+      "raw_sha256": "2725407e54be3670afa9f5c29d2092da38c3bef4a5f5b1b0121267daf11c5dd5",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 136,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "c538a885d7dc23355b1b4d8a41523b90e2e2b40d59df05bf94c9d2e44f4697dd",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "CHF",
+      "raw_sha256": "d7050154e76d55891f87fab67c435ffceb760473a71d25419630f96db8ea9cd9",
+      "pages": 13,
+      "raw_rows": 245,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 221,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "24378b8711feb4beabe957bca0ae08f83a07cb3a0ac2198cac542648bde39e7c",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "b2419e0042c51e9502ac129aa99f89835ed8fefd9ab6e4c2ab18b6fccc7090e5"
+}

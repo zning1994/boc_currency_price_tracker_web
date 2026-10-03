@@ -1,0 +1,340 @@
+{
+  "format_version": 1,
+  "batch": "BOC-BND-BRL-CHF-20260928",
+  "created_at_utc": "2026-10-03T06:59:56.572149+00:00",
+  "files": [
+    {
+      "filename": "BND-20260928.conflict-review.json",
+      "size_bytes": 3211,
+      "sha256": "0fce41de101e631d59d4c2778871fe62b905e6b188379179c7fe248534910af7"
+    },
+    {
+      "filename": "BND-20260928.review.raw.json",
+      "size_bytes": 17359,
+      "sha256": "2b83b9a6e76d9a07912f7ea983ed9b353329a837e7f182c7ada915b37fc33c02"
+    },
+    {
+      "filename": "BND_2026-09-28_review_raw.tsv",
+      "size_bytes": 13642,
+      "sha256": "3f7e4f2f1844bc639da2a3c45a2b66da0b26beba253020f1568493ac9d865abf"
+    },
+    {
+      "filename": "BND-20260928.raw.json",
+      "size_bytes": 17359,
+      "sha256": "ae4274f224a57b31d9ca842c7bd99c5700eec89eef471fea7ee65ec6c4729a53"
+    },
+    {
+      "filename": "BND-20260928.metadata.json",
+      "size_bytes": 4079,
+      "sha256": "843431113f23917e87472165c2e3f6d8f08b2e790a02c3a9d9fa484e7eb9eac2"
+    },
+    {
+      "filename": "BND_2026-09-28_raw.tsv",
+      "size_bytes": 13642,
+      "sha256": "3f7e4f2f1844bc639da2a3c45a2b66da0b26beba253020f1568493ac9d865abf"
+    },
+    {
+      "filename": "BRL-20260928.conflict-review.json",
+      "size_bytes": 3212,
+      "sha256": "eca951b73827aae5201f85894472566c8b946b6040de4cee057c83ae1c9261bb"
+    },
+    {
+      "filename": "BRL-20260928.review.raw.json",
+      "size_bytes": 18860,
+      "sha256": "c538a885d7dc23355b1b4d8a41523b90e2e2b40d59df05bf94c9d2e44f4697dd"
+    },
+    {
+      "filename": "BRL_2026-09-28_review_raw.tsv",
+      "size_bytes": 15137,
+      "sha256": "c09025b0a1019136608165ed5051a77ee551cd6e8ba09fe1c571cd8f15ee565c"
+    },
+    {
+      "filename": "BRL-20260928.raw.json",
+      "size_bytes": 18860,
+      "sha256": "2725407e54be3670afa9f5c29d2092da38c3bef4a5f5b1b0121267daf11c5dd5"
+    },
+    {
+      "filename": "BRL-20260928.metadata.json",
+      "size_bytes": 4203,
+      "sha256": "8535ba5703e5651724894b4ba99971254157c752d5db064294e16ee68cd39dcc"
+    },
+    {
+      "filename": "BRL_2026-09-28_raw.tsv",
+      "size_bytes": 15137,
+      "sha256": "c09025b0a1019136608165ed5051a77ee551cd6e8ba09fe1c571cd8f15ee565c"
+    },
+    {
+      "filename": "CHF-20260928.conflict-review.json",
+      "size_bytes": 3236,
+      "sha256": "88c18f823fddb1c2f6442edf08502d455e9aac5ba09491b45792d738c2ccc314"
+    },
+    {
+      "filename": "CHF-20260928.review.raw.json",
+      "size_bytes": 20915,
+      "sha256": "24378b8711feb4beabe957bca0ae08f83a07cb3a0ac2198cac542648bde39e7c"
+    },
+    {
+      "filename": "CHF_2026-09-28_review_raw.tsv",
+      "size_bytes": 17208,
+      "sha256": "4458c50f65b3eca4dde69b38e588ff589f7bca5b0d7cca897ac3a525c75adbf7"
+    },
+    {
+      "filename": "CHF-20260928.raw.json",
+      "size_bytes": 20915,
+      "sha256": "d7050154e76d55891f87fab67c435ffceb760473a71d25419630f96db8ea9cd9"
+    },
+    {
+      "filename": "CHF-20260928.metadata.json",
+      "size_bytes": 4104,
+      "sha256": "a2c1f08e3416e87fc8287c60bf92cbd7202cacd164d4deb4cef085d9f275e8a4"
+    },
+    {
+      "filename": "CHF_2026-09-28_raw.tsv",
+      "size_bytes": 17208,
+      "sha256": "4458c50f65b3eca4dde69b38e588ff589f7bca5b0d7cca897ac3a525c75adbf7"
+    },
+    {
+      "filename": "batch-BND-BRL-CHF-20260928.manifest.json",
+      "size_bytes": 13148,
+      "sha256": "3a2b2b48dd37ea4a9eba3be4d3485e50862da8262ba9219d883a3c95e2b2cd78"
+    },
+    {
+      "filename": "batch-BND-BRL-CHF-20260928.review-browser.json",
+      "size_bytes": 881,
+      "sha256": "712c68938d4ff982d86a93b550a4f2cf7680d0555fa8c2453f13ef5920c1c73c"
+    }
+  ],
+  "validation": [
+    {
+      "code": "BND",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "BND-20260928.raw.json",
+        "original_full_sha256": "ae4274f224a57b31d9ca842c7bd99c5700eec89eef471fea7ee65ec6c4729a53",
+        "review_raw_json": "BND-20260928.review.raw.json",
+        "review_full_sha256": "2b83b9a6e76d9a07912f7ea983ed9b353329a837e7f182c7ada915b37fc33c02",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "483.26",
+              "",
+              "567.3",
+              "525.49"
+            ],
+            [
+              "",
+              "483.29",
+              "",
+              "567.33",
+              "525.49"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "文莱元",
+              "",
+              "483.26",
+              "",
+              "567.3",
+              "525.49",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "文莱元",
+              "",
+              "483.29",
+              "",
+              "567.33",
+              "525.49",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "BND-20260928.conflict-review.json",
+        "evidence_sha256": "0fce41de101e631d59d4c2778871fe62b905e6b188379179c7fe248534910af7",
+        "browser_record": {
+          "start": "2026-10-03T06:53:54.065Z",
+          "end": "2026-10-03T06:54:05.878Z",
+          "full_json_sha256": "2b83b9a6e76d9a07912f7ea983ed9b353329a837e7f182c7ada915b37fc33c02",
+          "browser_page_sha256_list_sha256": "6007a10911e0b2b2b564213f3e6bbcaec46e150b6132ba49041c542060234104",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "BRL",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "BRL-20260928.raw.json",
+        "original_full_sha256": "2725407e54be3670afa9f5c29d2092da38c3bef4a5f5b1b0121267daf11c5dd5",
+        "review_raw_json": "BRL-20260928.review.raw.json",
+        "review_full_sha256": "c538a885d7dc23355b1b4d8a41523b90e2e2b40d59df05bf94c9d2e44f4697dd",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "123.13",
+              "",
+              "137.24",
+              "129.56"
+            ],
+            [
+              "",
+              "123.12",
+              "",
+              "137.23",
+              "129.56"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "巴西雷亚尔",
+              "",
+              "123.12",
+              "",
+              "137.23",
+              "129.56",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "巴西雷亚尔",
+              "",
+              "123.13",
+              "",
+              "137.24",
+              "129.56",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "BRL-20260928.conflict-review.json",
+        "evidence_sha256": "eca951b73827aae5201f85894472566c8b946b6040de4cee057c83ae1c9261bb",
+        "browser_record": {
+          "start": "2026-10-03T06:53:54.076Z",
+          "end": "2026-10-03T06:54:17.885Z",
+          "full_json_sha256": "c538a885d7dc23355b1b4d8a41523b90e2e2b40d59df05bf94c9d2e44f4697dd",
+          "browser_page_sha256_list_sha256": "0aae1ba014afee126db373f974dcba7bacc66f5dd5cc661ee0a248271099447b",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "CHF",
+      "raw_rows": 245,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "CHF-20260928.raw.json",
+        "original_full_sha256": "d7050154e76d55891f87fab67c435ffceb760473a71d25419630f96db8ea9cd9",
+        "review_raw_json": "CHF-20260928.review.raw.json",
+        "review_full_sha256": "24378b8711feb4beabe957bca0ae08f83a07cb3a0ac2198cac542648bde39e7c",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "806.72",
+              "806.72",
+              "812.96",
+              "812.96",
+              "811.23"
+            ],
+            [
+              "806.68",
+              "806.68",
+              "812.92",
+              "812.92",
+              "811.23"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 16,
+            "original_row": [
+              "瑞士法郎",
+              "806.68",
+              "806.68",
+              "812.92",
+              "812.92",
+              "811.23",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 16
+          },
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "瑞士法郎",
+              "806.72",
+              "806.72",
+              "812.96",
+              "812.96",
+              "811.23",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          }
+        ],
+        "evidence_json": "CHF-20260928.conflict-review.json",
+        "evidence_sha256": "88c18f823fddb1c2f6442edf08502d455e9aac5ba09491b45792d738c2ccc314",
+        "browser_record": {
+          "start": "2026-10-03T06:53:54.090Z",
+          "end": "2026-10-03T06:54:40.955Z",
+          "full_json_sha256": "24378b8711feb4beabe957bca0ae08f83a07cb3a0ac2198cac542648bde39e7c",
+          "browser_page_sha256_list_sha256": "128d11fab76be79e4564dab3077d1ec035447ab9348b17625ad78c4385095da8",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
