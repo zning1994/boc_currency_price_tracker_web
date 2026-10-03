@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-QAR-RSD-RUB-20260921",
+  "created_at_utc": "2026-10-03T02:23:36.913290+00:00",
+  "files": [
+    {
+      "filename": "QAR-20260921.raw.json",
+      "size_bytes": 17500,
+      "sha256": "b65e06c56900bc8016d04be2be6f54d2c0fe547282e89ec251d775cffda31534"
+    },
+    {
+      "filename": "QAR-20260921.metadata.json",
+      "size_bytes": 2992,
+      "sha256": "2c37d84178b2f6426f877146bea1e457e9a0b5f93b39f9d8faf494fcc7899921"
+    },
+    {
+      "filename": "QAR_2026-09-21_raw.tsv",
+      "size_bytes": 14539,
+      "sha256": "47f8ffb177d7ebbbc7f7a6ac76af7716c27e1d8e510c06472cd8c0070d62d7d3"
+    },
+    {
+      "filename": "RSD-20260921.raw.json",
+      "size_bytes": 15893,
+      "sha256": "e6086d2639af5d6be4636bc4bf30507a47c95591c0a8c59a6cada7baa4e51f65"
+    },
+    {
+      "filename": "RSD-20260921.metadata.json",
+      "size_bytes": 2992,
+      "sha256": "e310ba06e4c670aa5365151cf3a0e6ccdf2f4041ea6f115a52eb3b84e2140765"
+    },
+    {
+      "filename": "RSD_2026-09-21_raw.tsv",
+      "size_bytes": 12929,
+      "sha256": "f05e39886fa10202d8d44a8638d55902b895d7454ae4c5d47297ef437dfd8a1a"
+    },
+    {
+      "filename": "RUB-20260921.raw.json",
+      "size_bytes": 13332,
+      "sha256": "cd73fdb371622481ddd70b3b92d3e106369727f8ae4f0be9e33b14fd93f3bf59"
+    },
+    {
+      "filename": "RUB-20260921.metadata.json",
+      "size_bytes": 2992,
+      "sha256": "65e822848e2d1cdfecd73317ee3d6bb7e3ade2c02dcc45ca2c9c343996cd61de"
+    },
+    {
+      "filename": "RUB_2026-09-21_raw.tsv",
+      "size_bytes": 10383,
+      "sha256": "dca61384ad8fa9396f291a5ece479815120a79e66f13aef2933a96a95e96b804"
+    },
+    {
+      "filename": "batch-QAR-RSD-RUB-20260921.manifest.json",
+      "size_bytes": 9474,
+      "sha256": "f15ad374a0ab6e88ab9896e39f9276faa47ed9681aea171136af0633c6663844"
+    }
+  ],
+  "validation": [
+    {
+      "code": "QAR",
+      "raw_rows": 192,
+      "distinct_rows": 188,
+      "pages": 10,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "RSD",
+      "raw_rows": 192,
+      "distinct_rows": 188,
+      "pages": 10,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "RUB",
+      "raw_rows": 192,
+      "distinct_rows": 188,
+      "pages": 10,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
