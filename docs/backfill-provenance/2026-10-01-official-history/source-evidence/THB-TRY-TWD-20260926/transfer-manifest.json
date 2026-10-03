@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-THB-TRY-TWD-20260926",
+  "created_at_utc": "2026-10-03T06:21:35.744052+00:00",
+  "files": [
+    {
+      "filename": "THB-20260926.raw.json",
+      "size_bytes": 801,
+      "sha256": "b432d98c38b86c4b21b206867b2be701a930c1511d0d2d9986f0f557555dd302"
+    },
+    {
+      "filename": "THB-20260926.metadata.json",
+      "size_bytes": 1828,
+      "sha256": "18fab267e6ec13b81b3e1a2d15bd13fe8c054995eaae9a3e25bb24ddf84de10d"
+    },
+    {
+      "filename": "THB_2026-09-26_raw.tsv",
+      "size_bytes": 595,
+      "sha256": "969a28ec04907ef99099daa3bee13ebfb1a5b43f708254eadd18a8856a3659b3"
+    },
+    {
+      "filename": "TRY-20260926.raw.json",
+      "size_bytes": 867,
+      "sha256": "4b81d6b29eabba0dc5648ed94a79ec2d0faa4d058d1a189852dd9c2043a2e08f"
+    },
+    {
+      "filename": "TRY-20260926.metadata.json",
+      "size_bytes": 1828,
+      "sha256": "10019f63d256f79951b4ff924a1523a0b728b3a4374a03028725cbaf7937c2b1"
+    },
+    {
+      "filename": "TRY_2026-09-26_raw.tsv",
+      "size_bytes": 655,
+      "sha256": "e89d7ed890727f3b79eb4b6cd442be978d3db0d819cbc0f0e0d70c0a0b397e46"
+    },
+    {
+      "filename": "TWD-20260926.raw.json",
+      "size_bytes": 722,
+      "sha256": "ba882126f137557c750797d957f143c55f230ff116811168dc8f0b22ee249e70"
+    },
+    {
+      "filename": "TWD-20260926.metadata.json",
+      "size_bytes": 1828,
+      "sha256": "dd79d9595950f6ce9b62109d72684bc069f9f90d07362f3d92d296e181d125be"
+    },
+    {
+      "filename": "TWD_2026-09-26_raw.tsv",
+      "size_bytes": 516,
+      "sha256": "2f3e355b3cb121ef40ee63f1395c6b5797cbcc75dbcec8a8ed0774d2ec0102e4"
+    },
+    {
+      "filename": "batch-THB-TRY-TWD-20260926.manifest.json",
+      "size_bytes": 5712,
+      "sha256": "35c4137ea3296f61c79dfa0a5bf0fe880ee0660ba2d9d2e8c51e5d840c27dc43"
+    }
+  ],
+  "validation": [
+    {
+      "code": "THB",
+      "raw_rows": 8,
+      "distinct_rows": 5,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "TRY",
+      "raw_rows": 8,
+      "distinct_rows": 5,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "TWD",
+      "raw_rows": 8,
+      "distinct_rows": 5,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
