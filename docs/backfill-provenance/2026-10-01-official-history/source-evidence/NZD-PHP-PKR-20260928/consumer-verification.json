@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "NZD",
+      "raw_sha256": "ab977530208b90192218c2f4c0c0b760e9190c1b0f134452c2522fdc09717003",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 200,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "bebc9e49af736fae00dff9ef1ef3aaca254ec804d0e76adf6f28cc0e0a52c2bf",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "PHP",
+      "raw_sha256": "f8ed9db3f49add45e64e417debcf8a5f51adb5a8cafd2a9e32820bf2c8c462bf",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 21,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "PKR",
+      "raw_sha256": "7346b324cd089b9dc28ee1afd12c2a015667f9fdba2b12594ba03a2286f73d4d",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 112,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "478ef7768a2e56581d1f6a3b5a6ad08671eb634566ec13a65ff4649be99fe054",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "a644f447dfea6af04913c4dca785342beecf36b1688b3407a8aef0e9745d0601"
+}

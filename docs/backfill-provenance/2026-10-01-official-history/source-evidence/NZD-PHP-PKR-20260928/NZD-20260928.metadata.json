@@ -1,0 +1,128 @@
+{
+  "code": "NZD",
+  "raw_json": "NZD-20260928.raw.json",
+  "bytes": 20993,
+  "sha256": "ab977530208b90192218c2f4c0c0b760e9190c1b0f134452c2522fdc09717003",
+  "raw_tsv": "NZD_2026-09-28_raw.tsv",
+  "tsv_sha256": "c1629335cc79739ae62c40bcec8ce748010996b11f3c63b6a5fe570f37e37fdb",
+  "capture_window_utc": [
+    "2026-10-03T07:26:38.192Z",
+    "2026-10-03T07:26:58.177Z"
+  ],
+  "captured_at_utc": "2026-10-03T07:26:58.177Z",
+  "pages": 13,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    6
+  ],
+  "raw_rows": 246,
+  "distinct_rows": 243,
+  "same_second_conflicts": {
+    "2026/09/28 10:10:54": [
+      [
+        "379.19",
+        "379.19",
+        "382.04",
+        "382.04",
+        "380.51"
+      ],
+      [
+        "379.11",
+        "379.11",
+        "381.96",
+        "381.96",
+        "380.51"
+      ]
+    ]
+  },
+  "original_browser_json_sha256": "ab977530208b90192218c2f4c0c0b760e9190c1b0f134452c2522fdc09717003",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "fb6a3b1cde5aba8b058d907a571865abeaf06d67af2d8c819fc90c85b6ae458b"
+    },
+    {
+      "page": 2,
+      "sha256": "01bb94a85f993a0587cc750510a7ea5a5de5bf78615634b3b5e4fb82d3d9f042"
+    },
+    {
+      "page": 3,
+      "sha256": "09f466e8b53f721f16582db0a81bf33b1940d7c70fbb789d427e5b1ef74b427f"
+    },
+    {
+      "page": 4,
+      "sha256": "14ff59e3492af91c750cfb36013c20d0b1f8ecfe0111b304f6dd36d7f1aff08a"
+    },
+    {
+      "page": 5,
+      "sha256": "02fe6636a3e1d623a55f3582fb2f6a3557174859bbd4cbb1a6d86abb18d0d06c"
+    },
+    {
+      "page": 6,
+      "sha256": "de0ce5c1d619eb452d736879ee4fb4ab378bf2eebee1a71e8bde768f29a2c53d"
+    },
+    {
+      "page": 7,
+      "sha256": "9854bb5635a3241d21d43bd361d8ff20c89e88a00fb92c1581fa144bbaedfca4"
+    },
+    {
+      "page": 8,
+      "sha256": "fffd03669d63681331b209b76f3a2fbabf1333854dc8d9ba46f973c7a0d2b28d"
+    },
+    {
+      "page": 9,
+      "sha256": "44b7aa950cb561c70b8e27247924a5f5d27f05f0af6aee6729236c4196790f7d"
+    },
+    {
+      "page": 10,
+      "sha256": "3d489127a1ba4ab6538af2c478083cb233140ee6fe75ea7037a287a9ede2f3d3"
+    },
+    {
+      "page": 11,
+      "sha256": "53e9766cb6d32389a27d0691dfa637b8915cfb61bf5d2d020729790dcc33f543"
+    },
+    {
+      "page": 12,
+      "sha256": "2a5719a77dfb3938e10ca196c2ace18e53e4615df195f0ee0923343051b1add8"
+    },
+    {
+      "page": 13,
+      "sha256": "4f944d78bd1c3d38643682bc5fc7f284306ca4574120e06bb10e3d3c9fc1bdb6"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "MYR-20260928.raw.json",
+    "sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "b07b9ab553d039f56293425dcfa82b554388e27df0b37c101b4d9cf3d7e6ac35",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true,
+  "same_second_conflict_review": {
+    "status": "source_confirmed_both_quotes_retained",
+    "independent_full_requery_exact_match": true,
+    "evidence_json": "NZD-20260928.conflict-review.json",
+    "evidence_sha256": "13b7cac99f0295e9936d8e6766b339c3b8ebb5a7d8bdd37a92ea11ff1d532818",
+    "review_raw_json": "NZD-20260928.review.raw.json",
+    "review_sha256": "bebc9e49af736fae00dff9ef1ef3aaca254ec804d0e76adf6f28cc0e0a52c2bf",
+    "review_raw_tsv": "NZD_2026-09-28_review_raw.tsv",
+    "review_tsv_sha256": "c1629335cc79739ae62c40bcec8ce748010996b11f3c63b6a5fe570f37e37fdb",
+    "capture_window_utc": [
+      "2026-10-03T07:28:22.179Z",
+      "2026-10-03T07:28:34.013Z"
+    ]
+  }
+}

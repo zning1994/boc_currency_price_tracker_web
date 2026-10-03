@@ -19096,6 +19096,45 @@
       "archive_sha256": "148e92f5e6c41958b568a7563d07ba735c283a4f200fd105ad0be0591b321636"
     },
     {
+      "code": "NZD",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "ab977530208b90192218c2f4c0c0b760e9190c1b0f134452c2522fdc09717003",
+      "captured_at_utc": "2026-10-03T07:26:58.177Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 200,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "bebc9e49af736fae00dff9ef1ef3aaca254ec804d0e76adf6f28cc0e0a52c2bf",
+      "independent_review_path": "raw/NZD-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260928.json",
+      "capture_path": "raw/NZD-20260928.raw.json",
+      "archive_sha256": "03fc41c283854b99de305b0efa43b3005a1f2e00038bd929b7d48d86a3cb9130"
+    },
+    {
       "code": "PHP",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -19776,6 +19815,38 @@
       "archive_sha256": "3dfebae951deecebf880d6519858d696888a953c2264fdfdda108d43ecc3b617"
     },
     {
+      "code": "PHP",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "f8ed9db3f49add45e64e417debcf8a5f51adb5a8cafd2a9e32820bf2c8c462bf",
+      "captured_at_utc": "2026-10-03T07:27:10.500Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 21,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260928.json",
+      "capture_path": "raw/PHP-20260928.raw.json",
+      "archive_sha256": "30b832f30a23aea6aefd07752e5db172baabbb691d205701b3fcf6e16e1ccfe5"
+    },
+    {
       "code": "PKR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -20454,6 +20525,45 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260927.json",
       "capture_path": "raw/PKR-20260927.raw.json",
       "archive_sha256": "2ac53a0f762ed61852642d12b53614db8965ee2551341b90806127d2e74c9c0f"
+    },
+    {
+      "code": "PKR",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "7346b324cd089b9dc28ee1afd12c2a015667f9fdba2b12594ba03a2286f73d4d",
+      "captured_at_utc": "2026-10-03T07:27:22.800Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 112,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "478ef7768a2e56581d1f6a3b5a6ad08671eb634566ec13a65ff4649be99fe054",
+      "independent_review_path": "raw/PKR-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260928.json",
+      "capture_path": "raw/PKR-20260928.raw.json",
+      "archive_sha256": "3bb9432fe01911ea3ad068500016f3e266d07ee7d13ab51edb7712f266d6947b"
     },
     {
       "code": "QAR",
@@ -28718,7 +28828,7 @@
       "archive_sha256": "bfee740af24aacb76f1cfc37e275eb41055ac3719a47d452d7b15f4e0aded24f"
     }
   ],
-  "completed_pairs": 1002,
+  "completed_pairs": 1005,
   "planned_pairs": 1080,
-  "remaining_pairs": 78
+  "remaining_pairs": 75
 }

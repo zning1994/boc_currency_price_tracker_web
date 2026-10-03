@@ -1,0 +1,258 @@
+{
+  "format_version": 1,
+  "batch": "BOC-NZD-PHP-PKR-20260928",
+  "created_at_utc": "2026-10-03T07:30:48.516576+00:00",
+  "files": [
+    {
+      "filename": "NZD-20260928.conflict-review.json",
+      "size_bytes": 3236,
+      "sha256": "13b7cac99f0295e9936d8e6766b339c3b8ebb5a7d8bdd37a92ea11ff1d532818"
+    },
+    {
+      "filename": "NZD-20260928.review.raw.json",
+      "size_bytes": 20993,
+      "sha256": "bebc9e49af736fae00dff9ef1ef3aaca254ec804d0e76adf6f28cc0e0a52c2bf"
+    },
+    {
+      "filename": "NZD_2026-09-28_review_raw.tsv",
+      "size_bytes": 17273,
+      "sha256": "c1629335cc79739ae62c40bcec8ce748010996b11f3c63b6a5fe570f37e37fdb"
+    },
+    {
+      "filename": "NZD-20260928.raw.json",
+      "size_bytes": 20993,
+      "sha256": "ab977530208b90192218c2f4c0c0b760e9190c1b0f134452c2522fdc09717003"
+    },
+    {
+      "filename": "NZD-20260928.metadata.json",
+      "size_bytes": 4227,
+      "sha256": "c4c57e109e686c47c89b8ab33146b3b31360c22875fa5ea719b8a0540341b510"
+    },
+    {
+      "filename": "NZD_2026-09-28_raw.tsv",
+      "size_bytes": 17273,
+      "sha256": "c1629335cc79739ae62c40bcec8ce748010996b11f3c63b6a5fe570f37e37fdb"
+    },
+    {
+      "filename": "PHP-20260928.raw.json",
+      "size_bytes": 20620,
+      "sha256": "f8ed9db3f49add45e64e417debcf8a5f51adb5a8cafd2a9e32820bf2c8c462bf"
+    },
+    {
+      "filename": "PHP-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "746c9203108efe069cd63e8dda172c55d256d793229921ad9323b7e15b78dc68"
+    },
+    {
+      "filename": "PHP_2026-09-28_raw.tsv",
+      "size_bytes": 16897,
+      "sha256": "35b3027413126ffd19b22a1d7ea079ff97cfea5695f4c054568b79c852a9dd1a"
+    },
+    {
+      "filename": "PKR-20260928.conflict-review.json",
+      "size_bytes": 3212,
+      "sha256": "d8162fccb056e95947f296ca3cc6b25432fa18b1bdeabcf6a0d2b354a19003d2"
+    },
+    {
+      "filename": "PKR-20260928.review.raw.json",
+      "size_bytes": 19610,
+      "sha256": "478ef7768a2e56581d1f6a3b5a6ad08671eb634566ec13a65ff4649be99fe054"
+    },
+    {
+      "filename": "PKR_2026-09-28_review_raw.tsv",
+      "size_bytes": 15884,
+      "sha256": "3e10ca85ba1c68d49afee466c609a3e451bd10579c8632999753aacfc21ad659"
+    },
+    {
+      "filename": "PKR-20260928.raw.json",
+      "size_bytes": 19610,
+      "sha256": "7346b324cd089b9dc28ee1afd12c2a015667f9fdba2b12594ba03a2286f73d4d"
+    },
+    {
+      "filename": "PKR-20260928.metadata.json",
+      "size_bytes": 4203,
+      "sha256": "201a5adc7b8d98ee9d8671efd4e5cc15bc7b64f35548ae846e09f3211c0c101b"
+    },
+    {
+      "filename": "PKR_2026-09-28_raw.tsv",
+      "size_bytes": 15884,
+      "sha256": "3e10ca85ba1c68d49afee466c609a3e451bd10579c8632999753aacfc21ad659"
+    },
+    {
+      "filename": "batch-NZD-PHP-PKR-20260928.manifest.json",
+      "size_bytes": 12433,
+      "sha256": "97ee11ee3f67c3ef5f6c57391b4723939dcb48b60ddfe74c003081cf2293e40d"
+    },
+    {
+      "filename": "batch-NZD-PHP-PKR-20260928.review-browser.json",
+      "size_bytes": 588,
+      "sha256": "4a741149d5e0a867c01683a9d635661da431a1a88fbdb1a845962ca6bd40f0fd"
+    }
+  ],
+  "validation": [
+    {
+      "code": "NZD",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "NZD-20260928.raw.json",
+        "original_full_sha256": "ab977530208b90192218c2f4c0c0b760e9190c1b0f134452c2522fdc09717003",
+        "review_raw_json": "NZD-20260928.review.raw.json",
+        "review_full_sha256": "bebc9e49af736fae00dff9ef1ef3aaca254ec804d0e76adf6f28cc0e0a52c2bf",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "379.19",
+              "379.19",
+              "382.04",
+              "382.04",
+              "380.51"
+            ],
+            [
+              "379.11",
+              "379.11",
+              "381.96",
+              "381.96",
+              "380.51"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "新西兰元",
+              "379.11",
+              "379.11",
+              "381.96",
+              "381.96",
+              "380.51",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "新西兰元",
+              "379.19",
+              "379.19",
+              "382.04",
+              "382.04",
+              "380.51",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "NZD-20260928.conflict-review.json",
+        "evidence_sha256": "13b7cac99f0295e9936d8e6766b339c3b8ebb5a7d8bdd37a92ea11ff1d532818",
+        "browser_record": {
+          "start": "2026-10-03T07:28:22.179Z",
+          "end": "2026-10-03T07:28:34.013Z",
+          "full_json_sha256": "bebc9e49af736fae00dff9ef1ef3aaca254ec804d0e76adf6f28cc0e0a52c2bf",
+          "browser_page_sha256_list_sha256": "b07b9ab553d039f56293425dcfa82b554388e27df0b37c101b4d9cf3d7e6ac35",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "PHP",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "PKR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "PKR-20260928.raw.json",
+        "original_full_sha256": "7346b324cd089b9dc28ee1afd12c2a015667f9fdba2b12594ba03a2286f73d4d",
+        "review_raw_json": "PKR-20260928.review.raw.json",
+        "review_full_sha256": "478ef7768a2e56581d1f6a3b5a6ad08671eb634566ec13a65ff4649be99fe054",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "1.9881",
+              "",
+              "2.8609",
+              "2.4261"
+            ],
+            [
+              "",
+              "1.9879",
+              "",
+              "2.8607",
+              "2.4261"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "巴基斯坦卢比",
+              "",
+              "1.9879",
+              "",
+              "2.8607",
+              "2.4261",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "巴基斯坦卢比",
+              "",
+              "1.9881",
+              "",
+              "2.8609",
+              "2.4261",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "PKR-20260928.conflict-review.json",
+        "evidence_sha256": "d8162fccb056e95947f296ca3cc6b25432fa18b1bdeabcf6a0d2b354a19003d2",
+        "browser_record": {
+          "start": "2026-10-03T07:28:22.193Z",
+          "end": "2026-10-03T07:28:46.213Z",
+          "full_json_sha256": "478ef7768a2e56581d1f6a3b5a6ad08671eb634566ec13a65ff4649be99fe054",
+          "browser_page_sha256_list_sha256": "b93a238baff4bbb217db67712479b8201a5c6b6de4c6eec0cd1849332e8b2d0d",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
