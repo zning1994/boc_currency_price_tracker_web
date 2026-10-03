@@ -1,0 +1,17 @@
+{
+  "base_main_sha": "2d221865e6cdbe4f3c5c49ab30702c239732355a",
+  "batch": "batch-027",
+  "source_coverage": 83,
+  "remaining": 52,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/RON/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/RSD/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
