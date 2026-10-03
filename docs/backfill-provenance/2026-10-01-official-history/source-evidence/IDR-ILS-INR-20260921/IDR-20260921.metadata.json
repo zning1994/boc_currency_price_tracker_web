@@ -1,0 +1,82 @@
+{
+  "code": "IDR",
+  "raw_json": "/workspace/shared/boc-cloud-test/IDR-20260921.raw.json",
+  "bytes": 16470,
+  "sha256": "1d272a6d805333e5db3c09cf80c56cc7b50355d831952e7f16682ed30024b543",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/IDR_2026-09-21_raw.tsv",
+  "tsv_sha256": "d56c7f1c40f3a476b02087a0057651da6e4128d71c4a9fc81cf33b3805cb702d",
+  "capture_window_utc": [
+    "2026-10-03T02:03:28.671Z",
+    "2026-10-03T02:03:37.879Z"
+  ],
+  "captured_at_utc": "2026-10-03T02:03:37.879Z",
+  "pages": 10,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    12
+  ],
+  "raw_rows": 192,
+  "distinct_rows": 188,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "1d272a6d805333e5db3c09cf80c56cc7b50355d831952e7f16682ed30024b543",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "ed433f35ed0cf8b1a2f7336ba1e5abf05ffe6d96267c65ed2befdf45b03697ae"
+    },
+    {
+      "page": 2,
+      "sha256": "4a12173a1a0ec20fb39ca33125541bd80bb64dd85474dcfe5f91e466c058caa4"
+    },
+    {
+      "page": 3,
+      "sha256": "212dac664295e2a73add705a76438fad0ec9825ac45a7429e491b7e2b127d533"
+    },
+    {
+      "page": 4,
+      "sha256": "53c32491d3bb5110358df7e5115c227f64279abd41d80b715b0ff445a047c36d"
+    },
+    {
+      "page": 5,
+      "sha256": "0b711ade550fc59b45dddce0d6600f488b92213d6b16fbbbd10edba92062aca4"
+    },
+    {
+      "page": 6,
+      "sha256": "8de3df8ad34f1c72ee828b5954f5ab4791ccccb06d8b9459b8cc6562097b2a7f"
+    },
+    {
+      "page": 7,
+      "sha256": "c58814f49f710cebbd6dd4e1f187f6f49025ee0a9d40a8ae1bfb3cb13a1d0ff5"
+    },
+    {
+      "page": 8,
+      "sha256": "80fbd44a62f12c332b8f57488c3e3007ce6d3d0c96a8bfddcdff1f3fa9063ac3"
+    },
+    {
+      "page": 9,
+      "sha256": "92222492c771734462c1e4d39ef6ccd7e4c52ff216e5b85563a74ef0d3d4a81a"
+    },
+    {
+      "page": 10,
+      "sha256": "c562a240a1202e29e93b27a493b6a6871e4cd80f5ab562e9cf0706b9de867f4a"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260921.raw.json",
+    "sha256": "05ee71aa190b5557417bc32d054ee02a1e0ea5925c67d9f38f3ab9004ba46aa8"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "76f7a90d3c8ddcf2b25e1c15d94d006a01f7c847f7ef68854b89d1d868f6be10",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
