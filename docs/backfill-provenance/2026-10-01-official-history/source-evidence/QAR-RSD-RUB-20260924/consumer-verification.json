@@ -1,0 +1,41 @@
+{
+  "reports": [
+    {
+      "code": "QAR",
+      "raw_sha256": "1589ddb789ea8c2281b02d7c2565e77f46cb47513f18e8daf1077f0fb3d271bb",
+      "pages": 16,
+      "raw_rows": 318,
+      "stored_rows": 118,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "RSD",
+      "raw_sha256": "a4bda3baabbc938c672ccb56cd573f109b516ab634a4ed1ee3cb89d5ad882e71",
+      "pages": 16,
+      "raw_rows": 318,
+      "stored_rows": 281,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "RUB",
+      "raw_sha256": "b5420b4ae8743eec237407956425c919f474d7a1550c9c9e9c4210edfb934a43",
+      "pages": 16,
+      "raw_rows": 318,
+      "stored_rows": 53,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "c2e4ca6dfd8e978b93c8b2b96871b577c2950099a2b530a9a1a15bccd95d4476"
+}
