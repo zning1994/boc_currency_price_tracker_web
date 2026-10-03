@@ -1,0 +1,39 @@
+{
+  "code": "RON",
+  "date": "2026-10-03",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "is_intraday_snapshot": true,
+  "newest": "2026/10/03 10:30:00",
+  "oldest": "2026/10/03 00:00:05",
+  "raw_json": "RON-20261003.raw.json",
+  "bytes": 682,
+  "sha256": "dfbb3916b397c6dcc57e73b3bec3190b214ea7cad5ad2085a0ddac1943d3a76a",
+  "raw_tsv": "RON_2026-10-03_raw.tsv",
+  "tsv_sha256": "dda5473a203a2bca04e178deb1080a479aab7052a964db2c3a675e0c9111e351",
+  "capture_window_utc": [
+    "2026-10-03T13:36:19.677Z",
+    "2026-10-03T13:36:19.677Z"
+  ],
+  "captured_at_utc": "2026-10-03T13:36:19.677Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 4,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "dfbb3916b397c6dcc57e73b3bec3190b214ea7cad5ad2085a0ddac1943d3a76a",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "689de34fc62bf39c38eaf2fd12eeef91d896f015b5ec5c43199ca06e86198ba9"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": null,
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "ad6179db13ee1816b619a5026afe3cf2709fd3549315be2a3e198523fcddb7c4",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
