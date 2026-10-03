@@ -1,0 +1,128 @@
+[
+  {
+    "code": "DKK",
+    "date": "2026-10-03",
+    "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+    "is_intraday_snapshot": true,
+    "newest": "2026/10/03 10:30:00",
+    "oldest": "2026/10/03 00:00:05",
+    "raw_json": "DKK-20261003.raw.json",
+    "bytes": 796,
+    "sha256": "a96ba859fd9c700a52cece2fb2eb9cd11a13f34b25eceacdb667d5457b08fdaf",
+    "raw_tsv": "DKK_2026-10-03_raw.tsv",
+    "tsv_sha256": "9fb0b92fca90a6fcec6deb6798a6a00691ecc19257756ede1e993ab6e5613581",
+    "capture_window_utc": [
+      "2026-10-03T13:21:29.059Z",
+      "2026-10-03T13:21:29.059Z"
+    ],
+    "captured_at_utc": "2026-10-03T13:21:29.059Z",
+    "pages": 1,
+    "page_counts": [
+      7
+    ],
+    "raw_rows": 7,
+    "distinct_rows": 4,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "a96ba859fd9c700a52cece2fb2eb9cd11a13f34b25eceacdb667d5457b08fdaf",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "038128b7692931493ec828bda5919c0657541ae2fb1a04137e6774b4547d33e8"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "AUD-20261003.raw.json",
+      "sha256": "019e0f8f48e9e20216394b6fd151951fdee661a9d20a1515b427d68a5d3536ce"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+    "original_browser_page_sha256_list_sha256": "6bc7f891224298cceacd4abd15868d523d748db850eed89df585491d72b11a56",
+    "original_browser_all_page_sha256_match": true,
+    "tsv_roundtrip_matches_raw_rows": true
+  },
+  {
+    "code": "EUR",
+    "date": "2026-10-03",
+    "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+    "is_intraday_snapshot": true,
+    "newest": "2026/10/03 10:30:00",
+    "oldest": "2026/10/03 00:00:05",
+    "raw_json": "EUR-20261003.raw.json",
+    "bytes": 748,
+    "sha256": "a3a64799c7d969caedfeb72a5afcd91f8c5e50f2d3a1885d9dc35f5a0954ef80",
+    "raw_tsv": "EUR_2026-10-03_raw.tsv",
+    "tsv_sha256": "a43918cce0f128477bf6e37b277ac80a6a1cf46e799d88663ed3031d5a6461f2",
+    "capture_window_utc": [
+      "2026-10-03T13:21:50.423Z",
+      "2026-10-03T13:21:50.423Z"
+    ],
+    "captured_at_utc": "2026-10-03T13:21:50.423Z",
+    "pages": 1,
+    "page_counts": [
+      7
+    ],
+    "raw_rows": 7,
+    "distinct_rows": 4,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "a3a64799c7d969caedfeb72a5afcd91f8c5e50f2d3a1885d9dc35f5a0954ef80",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "6373c4f6a5f897b3ec54a3bbf3eec1aa5bac01bcd776773b691c4b36cdf85b04"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "AUD-20261003.raw.json",
+      "sha256": "019e0f8f48e9e20216394b6fd151951fdee661a9d20a1515b427d68a5d3536ce"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+    "original_browser_page_sha256_list_sha256": "8924fba209829714df484bc5ca75639142fbe5dddc3a4145ebddd6e4e017095f",
+    "original_browser_all_page_sha256_match": true,
+    "tsv_roundtrip_matches_raw_rows": true
+  },
+  {
+    "code": "GBP",
+    "date": "2026-10-03",
+    "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+    "is_intraday_snapshot": true,
+    "newest": "2026/10/03 10:30:00",
+    "oldest": "2026/10/03 00:00:05",
+    "raw_json": "GBP-20261003.raw.json",
+    "bytes": 748,
+    "sha256": "c28e4fd827057f195a0f920141605f98c7334dee4b4d81ca89a3d4bed87aafbe",
+    "raw_tsv": "GBP_2026-10-03_raw.tsv",
+    "tsv_sha256": "708a1a4265b65b2afa8e5c8bb6b910b373ecde56187e1734fb9a9406c143ee21",
+    "capture_window_utc": [
+      "2026-10-03T13:22:15.239Z",
+      "2026-10-03T13:22:15.239Z"
+    ],
+    "captured_at_utc": "2026-10-03T13:22:15.239Z",
+    "pages": 1,
+    "page_counts": [
+      7
+    ],
+    "raw_rows": 7,
+    "distinct_rows": 4,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "c28e4fd827057f195a0f920141605f98c7334dee4b4d81ca89a3d4bed87aafbe",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "34fbe6f8832d6da125642a92149121838bbd1094404a1adc417413418d453f48"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "AUD-20261003.raw.json",
+      "sha256": "019e0f8f48e9e20216394b6fd151951fdee661a9d20a1515b427d68a5d3536ce"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+    "original_browser_page_sha256_list_sha256": "9bc231ec9d41cba3a35df4108ed679d61a91db7a9ecb0aaec225fb75c5b02b66",
+    "original_browser_all_page_sha256_match": true,
+    "tsv_roundtrip_matches_raw_rows": true
+  }
+]
