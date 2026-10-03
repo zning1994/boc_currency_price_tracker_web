@@ -1,0 +1,680 @@
+{
+  "head": "056a12605443cfa80a9afcbba2bbfbea5b992636",
+  "files": [
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/AED/20261001.json",
+      "bytes": 20866,
+      "sha256": "0b9125174d3510cf865815489dd1430e4b6a38193a0ff0ea209b0a3aedcce3d6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/AED/20261002.json",
+      "bytes": 29285,
+      "sha256": "9475c3f88341dc42f1c2fbf162df2bba9345631411404659d6e75044f9009bf7"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/AED/20261003.json",
+      "bytes": 814,
+      "sha256": "d999ad83c7acacc00865ffa586765387f403902f0b9c5189b0f60326ba3f4fcc"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/AUD/20261001.json",
+      "bytes": 45451,
+      "sha256": "306e81fd097336c2bd52dcc8dcad729158de0edb22b39623a9eeef5eab4ad4c2"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/AUD/20261002.json",
+      "bytes": 46947,
+      "sha256": "b7f6d6bf110e79ceebea4f555695d59d67997ef888a5c685d6dc864d3886bee1"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/AUD/20261003.json",
+      "bytes": 816,
+      "sha256": "f220e218f5195a278c4704602df54758ec4b0f076b5d9425b21150b9cba70fd4"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/BND/20261001.json",
+      "bytes": 40631,
+      "sha256": "ca71cb0809206e811cd96cd0b3dffe89c89d3524bfbcd3b0833101c0e3b5a869"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/BND/20261002.json",
+      "bytes": 46067,
+      "sha256": "d1a747aabf4d8af8985aec7040dce6ffda88f21a6f194e499cc719b69fcf91e2"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/BND/20261003.json",
+      "bytes": 808,
+      "sha256": "9d56b36aacc0f1ad81c596e6079a690a0f5af0ca34d53096ff338de50105932d"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/BRL/20261001.json",
+      "bytes": 26855,
+      "sha256": "2f4ab3c42d01479b5a5562c670f35b568edbc0a096153f0773824413aba11be6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/BRL/20261002.json",
+      "bytes": 18510,
+      "sha256": "6bfb4f166494ef5df1c6802e9ba961ea2a14a50016c72c712dc17a5ee63fb820"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/BRL/20261003.json",
+      "bytes": 807,
+      "sha256": "cbeaa472ed1f547cc25ab3b68555f12aa4ab8ac8dedc2cd32accd3545d76c5fa"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CAD/20261001.json",
+      "bytes": 47334,
+      "sha256": "9c1b57a6d8c51a75780b04ac3d55868c871277d180ad3023988cadb3d95dfd68"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CAD/20261002.json",
+      "bytes": 50928,
+      "sha256": "361658d822d7f128c256aa1d5ef8c94bedf114a0b4d70fc1d00534b6c74f7711"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CAD/20261003.json",
+      "bytes": 816,
+      "sha256": "d71dcb3c3a87e4dd5868c6e7fd5204e234d14ba9cc1b906bc8f6bd2192e31f56"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CHF/20261001.json",
+      "bytes": 47278,
+      "sha256": "ebd140441b633497c5ab499efbcb9a0254643fb5bd9be0751eed007ec8ff54eb"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CHF/20261002.json",
+      "bytes": 56818,
+      "sha256": "6f976e89ee44a63103b50d80a50963ce09c4c2df1f6c52996cb1825b12077a14"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CHF/20261003.json",
+      "bytes": 814,
+      "sha256": "5210f027c5c08382bf8200f222c0a73ea9eae4e846e909ac9f9af7b515e69cad"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CZK/20261001.json",
+      "bytes": 33108,
+      "sha256": "79ea7301ab54026673e6667022feee8b7ff91de24ea1cf6eac2c5bc8cf2ebd46"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CZK/20261002.json",
+      "bytes": 36341,
+      "sha256": "132fb8618295b08303d9607c56481d0a9f49e99e2bb9ac49c9800c435d60ff21"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/CZK/20261003.json",
+      "bytes": 802,
+      "sha256": "e7186deddc3d46b6430679699a3dd58c15401a0f5b74b0254a9a13d34027325a"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/DKK/20261001.json",
+      "bytes": 46191,
+      "sha256": "05bc829903c0eec0dcea39b6fdec1a0d3e28c5aa8bcb3bc80a1263dfbc90602c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/DKK/20261002.json",
+      "bytes": 53864,
+      "sha256": "48dede987c5379c750c76974647259ba9f5e738256ce78ea43c0adeab8f3a0f6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/DKK/20261003.json",
+      "bytes": 816,
+      "sha256": "c5216ee2f1c1ad1b3d7dd94e2f33d6076e3f44d069ce2db697bba1f8d3dcec80"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/EUR/20261001.json",
+      "bytes": 48357,
+      "sha256": "181faa2dc4e1aca0b5525430e24c75810b5b553e33d164c4e31be99bcff7adc0"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/EUR/20261002.json",
+      "bytes": 53140,
+      "sha256": "125ff0f6438f9a528d1ffad1449c7f638dd5673437ccd0fa2da26fc584d677e3"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/EUR/20261003.json",
+      "bytes": 816,
+      "sha256": "cf1ebe7749cc6c9f46a1502373ff45ca0064f35be5542d9fc992818f412cd953"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/GBP/20261001.json",
+      "bytes": 49891,
+      "sha256": "6c4148bd4bb6b3e0c7aeb743debc86caebd3bacf6fdb96e26c645599b8b1940f"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/GBP/20261002.json",
+      "bytes": 56878,
+      "sha256": "5560178dc415cbda342dc0f5869a9ecedd3c57b651770dd8a55b21992c4b5268"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/GBP/20261003.json",
+      "bytes": 816,
+      "sha256": "c38582f14e53e11c08319a9efd6535add16da241e3e1d2eef60b046bee138c7e"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/HKD/20261001.json",
+      "bytes": 4347,
+      "sha256": "a7c37d8b5498502f1a5b7c1ad1920c28e0f53674aabc04fa1bb1a64edccb8758"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/HKD/20261002.json",
+      "bytes": 8329,
+      "sha256": "21cb93ca0998283554e2a53569608bfdbeba9a07ae87b2003d435b04a07ea55b"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/HKD/20261003.json",
+      "bytes": 404,
+      "sha256": "05d3a71eaefcf70ca0bdcbf3b547f2ba8b01f0852473c39e05ee05c39aa70cc6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/HUF/20261001.json",
+      "bytes": 51688,
+      "sha256": "9f47f8c7b445e0ec45930da357e4bb6c87405e7b8b9f0e72df9f911cb248c858"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/HUF/20261002.json",
+      "bytes": 61950,
+      "sha256": "7b02c48c906034585c7c164bdaa8692a018042306a74f59658703e9ec4d8add6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/HUF/20261003.json",
+      "bytes": 816,
+      "sha256": "cc1b2db569f711716b0aa6060826882f9492ac521ae8ae399af827dbc63cd333"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/IDR/20261001.json",
+      "bytes": 1465,
+      "sha256": "4e54aa0e5d589977c7035eedf2ff4839e558788670e60ec4cce12e9f722adf92"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/IDR/20261002.json",
+      "bytes": 2195,
+      "sha256": "b6b11ce939666968fd8a205d3a4b493a2afacab80f81bc897ba554c15612244c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/IDR/20261003.json",
+      "bytes": 407,
+      "sha256": "588ac0a0badb8892a867e7be627e32920bf5f64e09fb3e4d00404dbe16466992"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ILS/20261001.json",
+      "bytes": 51525,
+      "sha256": "eac458561191e1954a6185d35806dcf7b65b9cb3eda6f5413775755655bc1ce9"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ILS/20261002.json",
+      "bytes": 56600,
+      "sha256": "0c6f4a0381ec2b29328d7046632c101250e08e5b60f35216cc8d2951970064b1"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ILS/20261003.json",
+      "bytes": 808,
+      "sha256": "5d8abbe8600979fb2fa00d7bdb84c3c08d204c60374409e269205ba92d1adcac"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/INR/20261001.json",
+      "bytes": 13063,
+      "sha256": "4417baaa9c154f19f1c1dae19b734c49eeb8857f6f2595743d5f324ee04ddf85"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/INR/20261002.json",
+      "bytes": 808,
+      "sha256": "449d68c0ecf4d90fd9fe2b20878bc53043cf443edd32240dd26de1bc45fcb4c6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/INR/20261003.json",
+      "bytes": 405,
+      "sha256": "658ea81cde897a29bc12f047f92444f49af7cbbd72dbc7ff75e575762fc8659c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/JPY/20261001.json",
+      "bytes": 50581,
+      "sha256": "1eda04cebea2594a38cc5fb13bcd8c555a21fd95e7037255e69cffdb695e04ad"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/JPY/20261002.json",
+      "bytes": 56098,
+      "sha256": "125507605e397ace516531b54bb612061ec89467263b53a6e34f3570a74a83c2"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/JPY/20261003.json",
+      "bytes": 816,
+      "sha256": "22326a1252dad7f2d4f1c6fb6dfc504e6ea2c9f484a72dbb9f81f7a0b9f41c34"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KHR/20261001.json",
+      "bytes": 2542,
+      "sha256": "4a00fa124b6b4c7b48759917a90c83fb8c36ab48803b860f6458df3218cebf08"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KHR/20261002.json",
+      "bytes": 2906,
+      "sha256": "9cd6f54e66f33281d6e97321344d9646e94745b6d1dd82ae7fea3360a88eabf5"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KHR/20261003.json",
+      "bytes": 405,
+      "sha256": "b6684b0d37b485de9e7f801c67747eaca24b31be2836c530684dd90ebec5f47c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KRW/20261001.json",
+      "bytes": 39962,
+      "sha256": "360074366b6a1036ef0537fa79e14ae99b412f11ac1c8b05cdc2761e28cc7f0e"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KRW/20261002.json",
+      "bytes": 52787,
+      "sha256": "1edcbf9f7ee15c0de6acc35ceb856193424dfde86da468c54b97f7d51a4aa23c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KRW/20261003.json",
+      "bytes": 814,
+      "sha256": "c6833f85c3441dda994118be1b9f8410c0b3a7a618e53089595d5fe378802e47"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KWD/20261001.json",
+      "bytes": 39037,
+      "sha256": "57eb5f6ace087a3c6f1f97a4423d690d6ec820b4f355c98f6235347fd7a408ca"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KWD/20261002.json",
+      "bytes": 39025,
+      "sha256": "5b24660a0b0e4c620c0e3375a69e94aacf079816cbbfd5172367b71396d2416d"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KWD/20261003.json",
+      "bytes": 812,
+      "sha256": "abdc000f387ac12ec1b4873e231356b266a34059ad92056e34c85752ee571d1a"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KZT/20261001.json",
+      "bytes": 2145,
+      "sha256": "23f417f449f78247a19a564234fef91db43edbc1565cd0e4786f9b9be91b78e7"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KZT/20261002.json",
+      "bytes": 3216,
+      "sha256": "476ac7af8aeb101fc518e52395a0edba5dcee1bb5aa911b0b2f35c1d72a10f4c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/KZT/20261003.json",
+      "bytes": 796,
+      "sha256": "f3b98e8374ebf69e3af2c873f7024b39d436f2d2b51b659311648d3761b9d9b8"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MNT/20261001.json",
+      "bytes": 2205,
+      "sha256": "7e1e3fec03a6650454bbf0b951d0a16baf6d2181662d1e27fd186cdf63adafa3"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MNT/20261002.json",
+      "bytes": 1838,
+      "sha256": "9806818f11c4bd7ae3fe2b8eb48acc1599a3df45e75057250ff2f58c287ffdeb"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MNT/20261003.json",
+      "bytes": 409,
+      "sha256": "f37e05353098e8dc7d73fba75bb4a79e788b9e245bc9e64d4c004e6d11a924e8"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MOP/20261001.json",
+      "bytes": 4335,
+      "sha256": "768738765636b93ad0c212e2e3ad8dfb00200805bd7f188b0ad063e1bb8d09bf"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MOP/20261002.json",
+      "bytes": 8306,
+      "sha256": "0a94e332f795512e74f833ef519bbdfedb6f4667d42057ec56bf81d795697b6b"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MOP/20261003.json",
+      "bytes": 403,
+      "sha256": "df34303b378c4f63d28c1fdba846e31ff7c7a0bd15d74e3d8670b69f7ae87ad6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MUR/20261001.json",
+      "bytes": 723,
+      "sha256": "da829e75780961235d0c6a61a92ece8f79104a2ed4689cc31d59c2363c1b2152"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MUR/20261002.json",
+      "bytes": 1083,
+      "sha256": "31cfd12b707d9f8e99085638c6a3e30189d52192cc06209f2fb704af87e2d80a"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MUR/20261003.json",
+      "bytes": 402,
+      "sha256": "294cf88696a282fba5c6c9e98aae18823c84c1abe9c0042527bb92fd069d7668"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MXN/20261001.json",
+      "bytes": 45929,
+      "sha256": "44b266e4a1811cb4d60333ec0e3186f49f4e27ee5682f02afed94db7e7f2716d"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MXN/20261002.json",
+      "bytes": 45191,
+      "sha256": "e7a8df113736ace5c471dcff93be1199353e1008773b6f9fdf4edd25c0f03a53"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MXN/20261003.json",
+      "bytes": 806,
+      "sha256": "39d50b33ab345ff1e61552611b8efda3e5584dc3593fbfa73d5e52790be15ae6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MYR/20261001.json",
+      "bytes": 7260,
+      "sha256": "ab705b247d02297b60b8f688ef84f220d13ab653324471e9c00094c946d2763a"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MYR/20261002.json",
+      "bytes": 9437,
+      "sha256": "15b897002c1c38c4aa0040020e99d184f4a06faffecfc1c9bbe21f7863b88fad"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/MYR/20261003.json",
+      "bytes": 405,
+      "sha256": "29a7ba2086de597593b5c46d18b5ba32f7db54083e3034ec8bc74a03f224bc7d"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NOK/20261001.json",
+      "bytes": 44485,
+      "sha256": "65f1e799ced37b3e35a934f14074868f5fc4b33aef9639b3aa8b50813d516ba2"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NOK/20261002.json",
+      "bytes": 52787,
+      "sha256": "7951fc62b9290bf91af5c7d858cea7e6d773bcd4f7610a12599a50a21dfd7b03"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NOK/20261003.json",
+      "bytes": 806,
+      "sha256": "8e852b54fe16bff866f34fce169110ed0ef95f10c8ee724cf04bf215c0fae09c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NPR/20261001.json",
+      "bytes": 9800,
+      "sha256": "8bf309374c93a95f54208a34a82c58a3c8f7ef9832b074ca703a175f428d0beb"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NPR/20261002.json",
+      "bytes": 405,
+      "sha256": "c85458fd1edb95ac418f7439e17dc49ae4e4f10e235ad87d6b3c87597b2e94d8"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NPR/20261003.json",
+      "bytes": 405,
+      "sha256": "9bb670d26d17715de22efb42d7a15fdb62688db9f93174dd9b630f43514d07cc"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NZD/20261001.json",
+      "bytes": 44406,
+      "sha256": "2494434fbb491edabbc290bf8385673c3d8c5d7caadabcc821c31338e817163a"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NZD/20261002.json",
+      "bytes": 53581,
+      "sha256": "7dd4c732131ee1946a2f8597c3a5471a3c241d37cb4f9661b513a6b39a126e5c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/NZD/20261003.json",
+      "bytes": 816,
+      "sha256": "e884135e6a9bf04aa04b879f43d36bd066a3ab42edb748f2df59c60a4a8fa322"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PHP/20261001.json",
+      "bytes": 5787,
+      "sha256": "5f13346418c5dce8cb9d52c3c38eae61e6834cbcdf93364b8c5f5bf8b0ae2435"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PHP/20261002.json",
+      "bytes": 7589,
+      "sha256": "27bf28ae103269fea8d93c4091d07b334826c772af290471e1ad8c1407bb1739"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PHP/20261003.json",
+      "bytes": 404,
+      "sha256": "58aaef08a695a52fee4e03a880f9d8998b50ee1cdc50e021155186781687a22d"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PKR/20261001.json",
+      "bytes": 2180,
+      "sha256": "e1cfafe87b5c203db832ea42ac949909d5f3d154aad90a152551877709a55473"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PKR/20261002.json",
+      "bytes": 1092,
+      "sha256": "f2a5bd04db85d1a226e1abb8f413376e217f4d631a06f924d11c67f2518dbe02"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PKR/20261003.json",
+      "bytes": 808,
+      "sha256": "994d3610921d75c33fa524cc08d6873c61cfb38bd12a2e396372e61b55e54971"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PLN/20261001.json",
+      "bytes": 51149,
+      "sha256": "f1eec2760c34d7e86e7e7c16f243d90c110213def3cac6b7d50a10b43e1f5c5d"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PLN/20261002.json",
+      "bytes": 55512,
+      "sha256": "a04f7cb54c59d8eb202b089d9cde81c1dbc095d8f0c977f750bc39150c6875a1"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/PLN/20261003.json",
+      "bytes": 807,
+      "sha256": "dac5836967744e6ab2ce791da487d55ed5de8c739b613bc4594a3c8de77050e4"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/QAR/20261001.json",
+      "bytes": 737,
+      "sha256": "a511eb86384cf4d89ae7ee1311bbcac2a47c9ca1c9b3f689a56274e951b2a5aa"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/QAR/20261002.json",
+      "bytes": 409,
+      "sha256": "8707274c474500305cedb63ff9c6a00c234b0d5fdebcd9f194e0c4327f6a3c74"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/QAR/20261003.json",
+      "bytes": 816,
+      "sha256": "6005b8414e869b85c24dd5705baf80c7a760fe63543e0c847375c9e4e86b9e04"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RON/20261001.json",
+      "bytes": 49711,
+      "sha256": "92d36383ec3754dea69025e57b755dc516f0cdc3223ff0f164d009dcb85a2e21"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RON/20261002.json",
+      "bytes": 55883,
+      "sha256": "ae02a39b2ac383956eadc8a29e56a99fef4ac125d144a6a1460e5998a62f88de"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RON/20261003.json",
+      "bytes": 808,
+      "sha256": "4baf87e95919a9e713c8d67880ed734f66a56dc355330bf545a6db1fd5c35e73"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RSD/20261001.json",
+      "bytes": 48259,
+      "sha256": "b594378ed00ec8559616d3554ad85ed10229454dd9a82293d9ce3248589acc37"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RSD/20261002.json",
+      "bytes": 54438,
+      "sha256": "4df02f850fb4afec44781d298afb70b28bc857283287ff26ac2c899b0d877220"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RSD/20261003.json",
+      "bytes": 808,
+      "sha256": "d96f91d77a8d1287aa79c136a765a7e6a6473be2dd7f749390da52277907934e"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RUB/20261001.json",
+      "bytes": 11363,
+      "sha256": "cda264bb81a06fff53ae6d1ec30704b8de17e5a2142f4bec7a4fadb5933d030b"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RUB/20261002.json",
+      "bytes": 4358,
+      "sha256": "47af4f4e7c2d6c7fe20f0095ca3e63c4ee0b4503f9d88b8e1639999cc7ecf584"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/RUB/20261003.json",
+      "bytes": 794,
+      "sha256": "682696200ad37f12c9f0a50aca476fefccb7b18afabb8e60ac1d971c349c5ef3"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SAR/20261001.json",
+      "bytes": 2572,
+      "sha256": "85851b2de79b0ddd1d1afb633bb568a5b4c9a800250251248768a9508cc464ed"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SAR/20261002.json",
+      "bytes": 409,
+      "sha256": "d0cf72cb19f023f2b1797b96930a3df9f91e12dd8233483513ccb87daf08c068"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SAR/20261003.json",
+      "bytes": 409,
+      "sha256": "55accfa53d7a183eeda2ba8f5acafbb530982082b3710ba68c2b504162fe51b2"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SEK/20261001.json",
+      "bytes": 44117,
+      "sha256": "9d02a25a93b28f46d1e02415a6fb2070115024f55c4ac50c79e1a1c04abec4fc"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SEK/20261002.json",
+      "bytes": 30516,
+      "sha256": "59966856da75a71bab921a97f7e3db0eb51b159be86a188237cbb33605648384"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SEK/20261003.json",
+      "bytes": 806,
+      "sha256": "4960afee9360661dfe90ce2e0369d0cbe1ec0715d445ccd6aa4bef6025e41d01"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SGD/20261001.json",
+      "bytes": 45102,
+      "sha256": "e456f9e057b3cb867f96c58f68589b53a9e46844b3826d07c570f09d3a75edda"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SGD/20261002.json",
+      "bytes": 27652,
+      "sha256": "01229fc64ff3f5a4897a0d0cdc472e230e3edf3f1a24fd4bb41f9c9898b664d6"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/SGD/20261003.json",
+      "bytes": 816,
+      "sha256": "fe2de5bf15c4276625d9698b5c3d575213bcf632415640f11379b60eba9c6816"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/THB/20261001.json",
+      "bytes": 23438,
+      "sha256": "515bb14607fe184b2aef6467a92c1b8d2f2f88ce5dabba75d2b7d4e05db86a9c"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/THB/20261002.json",
+      "bytes": 14829,
+      "sha256": "36046f1aa19fdb788d66f6f148e86233a780f7be3df9a2702068d3dafab8be8b"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/THB/20261003.json",
+      "bytes": 804,
+      "sha256": "382e9b1881a701c8ec560bf965d042d581e8b7e91df26751f573473b5ba8edeb"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/TRY/20261001.json",
+      "bytes": 15569,
+      "sha256": "dfafbe9be9c8599549d5d659fc5793241f40ac85ab5341165b5d6e68636a8e42"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/TRY/20261002.json",
+      "bytes": 8030,
+      "sha256": "3493515cc298cab562aad99c12d39ac90cf802de2f0987ca83a88604f079ebe0"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/TRY/20261003.json",
+      "bytes": 404,
+      "sha256": "f1e784000431b399138d46ea898539c83dde8b687e5038f343ebaf0869544fdb"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/TWD/20261001.json",
+      "bytes": 19439,
+      "sha256": "a1a8969f3b7c62b1a99341a7777e868c06a9f9a28b31ae9a39ac3c21b36b21d3"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/TWD/20261002.json",
+      "bytes": 15590,
+      "sha256": "6c325785cd87da69e6dbe8ab8c95f5552584971fdab0b592b1a65c0264d421a0"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/TWD/20261003.json",
+      "bytes": 802,
+      "sha256": "723a65c9904465ca2776a15ef84e78ee8ac620d39c19a811fee164cf2884dcc2"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/USD/20261001.json",
+      "bytes": 1102,
+      "sha256": "a476bca0ded7c6cc9cd3de651c645f05fcd292ea68f9340310f972805f1b43ae"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/USD/20261002.json",
+      "bytes": 409,
+      "sha256": "fa763e6194ceb4094d67f61498f78a91c70cffc40d5b350db9c794b3b9af6b7f"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/USD/20261003.json",
+      "bytes": 409,
+      "sha256": "30a9cb5c8f334fd51b1c1c76cda8a3a719ee734a171e608eba27240932858acf"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/VND/20261001.json",
+      "bytes": 366,
+      "sha256": "e9f9ae404e32c66a0d844cd4201c6509f76cebb686d752223eaab3149f0c5788"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/VND/20261002.json",
+      "bytes": 405,
+      "sha256": "008f2350cd348bbb39467fa9625eeaf83ddf6c232e2d91bbff25cf3b14fb00e7"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/VND/20261003.json",
+      "bytes": 405,
+      "sha256": "15d7b536a4dc13371b90db0799649f97ed02f44030a0a46ff316f2f6267b7da0"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ZAR/20261001.json",
+      "bytes": 40389,
+      "sha256": "db3f432e03c44def230f3ac7b6453f0fb85b1bb80ecd4f76376159ca5378e817"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ZAR/20261002.json",
+      "bytes": 27645,
+      "sha256": "38035a73898373f80684bde9a72c44044050239f3488929942d6b481d0fdd930"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ZAR/20261003.json",
+      "bytes": 804,
+      "sha256": "56be61c4661f1a5a17f558bf8662842d3d8e91859feb061d314d7eaf53a63dae"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ZMW/20261001.json",
+      "bytes": 8279,
+      "sha256": "845ac4dfde36a161893c070f31b7a3c49c1c220d191db92005ab786af1ddd575"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ZMW/20261002.json",
+      "bytes": 5599,
+      "sha256": "c612c235ad59721ee1dde58021c4933bf041fc22841a426c9b7a1de5e0c9cf90"
+    },
+    {
+      "path": "docs/BOC_CURRENCY_PRICE/ZMW/20261003.json",
+      "bytes": 802,
+      "sha256": "34224936f9366491c0c25c1638b660dd728cdec97ce9f61c82b2f0892fde3670"
+    }
+  ]
+}

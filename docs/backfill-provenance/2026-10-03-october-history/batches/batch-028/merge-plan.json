@@ -1,0 +1,88 @@
+{
+  "batch": "batch-028",
+  "base_head": "056a12605443cfa80a9afcbba2bbfbea5b992636",
+  "source_dir": "october-source-batch028",
+  "source_coverage": 86,
+  "remaining": 49,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "RUB",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "c896433642e905193381ef91202dba3d9d4bdf8ff69c026a36245189513ef6a1",
+      "source_sha256": "d35edf747531d88d8158e4860bf3ad0282200c33752643233508ffb0e274aa43",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 11,
+      "result_rows": 26,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "RUB",
+          "spot_exchange_buying_price": 7.68,
+          "cash_buying_price": 7.68,
+          "spot_selling_price": 8.08,
+          "cash_selling_price": 8.08,
+          "bank_of_china_conversion_price": 8.0,
+          "publish_date": "2026.10.02 20:31:12",
+          "publish_at_utc": "2026-10-02T12:31:12Z",
+          "publish_at_local": "2026-10-02T20:31:12+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "SAR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "7d650f01a2165949e7ed85d795590c4d74b26b6c1630e2e2bb62a0eb21866dc1",
+      "source_sha256": "52d2df3109ba9e64778adb98ddb122847463a88850682a9be700ea3e47ad0482",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 1,
+      "result_rows": 3,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "SEK",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "cda07ceb530fc4ad1b57c93e4e04b1c742ae995077ab0a6a2e2be521d96a1803",
+      "source_sha256": "79dcd91257f66640c6883a08bb4de4e34b1d45fb57a02c2883d60a06db2cac1a",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 76,
+      "result_rows": 141,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "SEK",
+          "spot_exchange_buying_price": 66.67,
+          "cash_buying_price": 66.67,
+          "spot_selling_price": 67.21,
+          "cash_selling_price": 67.21,
+          "bank_of_china_conversion_price": 67.23,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        },
+        {
+          "currency_name": "SEK",
+          "spot_exchange_buying_price": 66.64,
+          "cash_buying_price": 66.64,
+          "spot_selling_price": 67.18,
+          "cash_selling_price": 67.18,
+          "bank_of_china_conversion_price": 67.23,
+          "publish_date": "2026.10.02 20:37:20",
+          "publish_at_utc": "2026-10-02T12:37:20Z",
+          "publish_at_local": "2026-10-02T20:37:20+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}
