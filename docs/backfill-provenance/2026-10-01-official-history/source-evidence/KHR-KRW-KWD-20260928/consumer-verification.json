@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "KHR",
+      "raw_sha256": "ba0a464d6988bccc8a359f3c16ee2f055ed8f52a30590e23a65fbe268bb5db50",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 20,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "KRW",
+      "raw_sha256": "06e8f75c1634489c813e1c8239f33c6445ec762cbc25a6740953d6d547d21fbb",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 182,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "9e0884770e22cd20c1e59cb199996b1e2ad741717acd196151bf2fd9f82ad350",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "KWD",
+      "raw_sha256": "61e035494637c1c1cbdfe2362f5f878a5065898bdcee59cc78122f35bf478f47",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 211,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "23c2f7255ac5739d31d25c30194bbf9d70ca3bdf28878d06997dabebf9abf1e8",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "70dcade9984c40dbeeeca74e7bfd64555753caff966226904807645856409e70"
+}
