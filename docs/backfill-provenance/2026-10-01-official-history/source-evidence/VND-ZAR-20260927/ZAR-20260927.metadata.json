@@ -1,0 +1,37 @@
+{
+  "code": "ZAR",
+  "raw_json": "ZAR-20260927.raw.json",
+  "bytes": 682,
+  "sha256": "faa7bec792a2cc008e16f0254ae91ebddb0c503b2e164be03e665193e99a256f",
+  "raw_tsv": "ZAR_2026-09-27_raw.tsv",
+  "tsv_sha256": "6c1efa30cc78d5667d5c0c9b00e6dc072499e680ffe469398c6b9acbed3fabd4",
+  "capture_window_utc": [
+    "2026-10-03T06:50:08.007Z",
+    "2026-10-03T06:50:08.007Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:50:08.007Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "faa7bec792a2cc008e16f0254ae91ebddb0c503b2e164be03e665193e99a256f",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "ce1490455c0e793cee9bc33adbbc48ee427e831c559a0e6140dd1197a38a7fb4"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260927.raw.json",
+    "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "42a3a4538b1b91ddce19e15315861d300610a9ef6cbcb1d2f1c23470bdd4a048",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
