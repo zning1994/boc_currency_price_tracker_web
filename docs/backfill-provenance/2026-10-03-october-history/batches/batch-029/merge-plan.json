@@ -1,0 +1,77 @@
+{
+  "batch": "batch-029",
+  "base_head": "a456de06f9c1e514d70197edfb4e8a7b1272131f",
+  "source_dir": "october-source-batch029",
+  "source_coverage": 89,
+  "remaining": 46,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "SGD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "38dea74e79b7a628781e9af9eb915673db75222ac204e0927c1d2a0d28c42290",
+      "source_sha256": "238b92bba9c64adaef988f0062e071f4e65c041c5940094a9a5056a141e33c0d",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 68,
+      "result_rows": 130,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "SGD",
+          "spot_exchange_buying_price": 522.64,
+          "cash_buying_price": 522.64,
+          "spot_selling_price": 526.58,
+          "cash_selling_price": 526.58,
+          "bank_of_china_conversion_price": 526.07,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "THB",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "8bbefda071c5334f8c120e5e2f2b23119b0d52877e347da8c46b5b831da5a69c",
+      "source_sha256": "d05eb7a05521ed43cbe5214cba382971f1a8c3c66f42edea9ca79072ff3ad01b",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 37,
+      "result_rows": 76,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "TRY",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "e78333a855c6b9b17b5b2b60d4adeae18dbe87c1e8115494e15308b04be2c64d",
+      "source_sha256": "54f748853577e3b67f54f0b72065ac63dce5ee463d6c268a7a7ed7fb986db41b",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 20,
+      "result_rows": 52,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "TRY",
+          "spot_exchange_buying_price": 12.69,
+          "cash_buying_price": 12.69,
+          "spot_selling_price": 14.61,
+          "cash_selling_price": 14.61,
+          "bank_of_china_conversion_price": 13.72,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}
