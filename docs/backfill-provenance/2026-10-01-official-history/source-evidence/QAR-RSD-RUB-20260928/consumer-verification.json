@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "QAR",
+      "raw_sha256": "5c639163645d4788fdfbc5072910b08367f56f5476db87f30f21f67248ad33bf",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 99,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "d113978e54b18202f7a1eab138560dd29f688f7f6efe1e3142a557ac7b830dc9",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "RSD",
+      "raw_sha256": "c2c5f81bb00bb9cbb99139fc7f4d6e3bdeba8e33c439e4c041cd2cb267f2d406",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 211,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "3e169e33a397c72ab6f74dba0caee946d4c92187787eac2c9b3b87068370c7b0",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "RUB",
+      "raw_sha256": "bc06d789801eadd5717c5ad77fb1e122200ae1e57b83a40b1b39dc22786e71db",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 36,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "e29a725a11a26c56b06b1547e9d22a42d15ee4a5bbc4e33e5023596378a6552b"
+}

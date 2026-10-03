@@ -1,0 +1,128 @@
+{
+  "code": "RSD",
+  "raw_json": "RSD-20260928.raw.json",
+  "bytes": 20331,
+  "sha256": "c2c5f81bb00bb9cbb99139fc7f4d6e3bdeba8e33c439e4c041cd2cb267f2d406",
+  "raw_tsv": "RSD_2026-09-28_raw.tsv",
+  "tsv_sha256": "6ef6f41219217644bc4cd9ffe2896f78c34650d401f131620c2d03b7e81cfb17",
+  "capture_window_utc": [
+    "2026-10-03T07:32:29.525Z",
+    "2026-10-03T07:32:54.145Z"
+  ],
+  "captured_at_utc": "2026-10-03T07:32:54.145Z",
+  "pages": 13,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    6
+  ],
+  "raw_rows": 246,
+  "distinct_rows": 243,
+  "same_second_conflicts": {
+    "2026/09/28 10:10:54": [
+      [
+        "6.4431",
+        "",
+        "6.5733",
+        "",
+        "6.5129"
+      ],
+      [
+        "6.4434",
+        "",
+        "6.5736",
+        "",
+        "6.5129"
+      ]
+    ]
+  },
+  "original_browser_json_sha256": "c2c5f81bb00bb9cbb99139fc7f4d6e3bdeba8e33c439e4c041cd2cb267f2d406",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "dac62c70bfb26b1a2ac97adacbada81bcaaefb30258cc827a090c6c5093134bb"
+    },
+    {
+      "page": 2,
+      "sha256": "ea69a035b055490fde3415e177b3cceeb44ba265a78cc1fa77e0af291e4e255f"
+    },
+    {
+      "page": 3,
+      "sha256": "72a109bea72a156f963037c1f0fbc5b0ff2f832bb45707a575ac007c10a79bc2"
+    },
+    {
+      "page": 4,
+      "sha256": "df40626cefc7715d1d105786ccf3afffc611a95fa277f8ceb3866bd443720ae6"
+    },
+    {
+      "page": 5,
+      "sha256": "d4ca3b87673aaa4609a23f9cc08992761e9f2b4c053fed70074c071d0ab44eaf"
+    },
+    {
+      "page": 6,
+      "sha256": "22b6600974d68743fe33316f2898a00f2f2e6c5e532a3a69da4e48e37103b0b4"
+    },
+    {
+      "page": 7,
+      "sha256": "dd0cee7ca19ae884057e95a8c45795e7060a4c22a0452cb792e29a9f0a90f884"
+    },
+    {
+      "page": 8,
+      "sha256": "cf290db78f78209c3634eed22d308e978200264a5cad443900f5c12d09bf0860"
+    },
+    {
+      "page": 9,
+      "sha256": "99ddd2753f7b00988a5528736daa7dfd2c9c527fc940780187c4f5b1570ae686"
+    },
+    {
+      "page": 10,
+      "sha256": "1bc8f421ddd509cc58fd0461e02e2b68d06232fdcdec06480cce85d00f139d5f"
+    },
+    {
+      "page": 11,
+      "sha256": "ee977c1a4fdbbfcc7d6b9e354a28300d2f8f296cad3b7c57aca74f225ac63cca"
+    },
+    {
+      "page": 12,
+      "sha256": "adea9328d8025b4af59b96232a38560ffa076761d3bae7af3d57b31514b4a595"
+    },
+    {
+      "page": 13,
+      "sha256": "9264ee3b842dce4768c381fe693d02f6043c8dcb8d735fb360d424c887aa9ca4"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "MYR-20260928.raw.json",
+    "sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "7995a488d8c468a9584ba0857373c76117d0fa04005c11554105c02ab998b507",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true,
+  "same_second_conflict_review": {
+    "status": "source_confirmed_both_quotes_retained",
+    "independent_full_requery_exact_match": true,
+    "evidence_json": "RSD-20260928.conflict-review.json",
+    "evidence_sha256": "6082b1aaa2ee2b101e645ff456d2e26dc371432f1724e893f74665fd8233a3bc",
+    "review_raw_json": "RSD-20260928.review.raw.json",
+    "review_sha256": "3e169e33a397c72ab6f74dba0caee946d4c92187787eac2c9b3b87068370c7b0",
+    "review_raw_tsv": "RSD_2026-09-28_review_raw.tsv",
+    "review_tsv_sha256": "6ef6f41219217644bc4cd9ffe2896f78c34650d401f131620c2d03b7e81cfb17",
+    "capture_window_utc": [
+      "2026-10-03T07:34:02.303Z",
+      "2026-10-03T07:34:26.873Z"
+    ]
+  }
+}

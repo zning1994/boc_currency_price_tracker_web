@@ -1,0 +1,258 @@
+{
+  "format_version": 1,
+  "batch": "BOC-QAR-RSD-RUB-20260928",
+  "created_at_utc": "2026-10-03T07:36:34.744460+00:00",
+  "files": [
+    {
+      "filename": "QAR-20260928.conflict-review.json",
+      "size_bytes": 3234,
+      "sha256": "2669008332fa49960b43e6bb939bacb773baa303efd9c3052c0cc41f5b3a9179"
+    },
+    {
+      "filename": "QAR-20260928.review.raw.json",
+      "size_bytes": 22435,
+      "sha256": "d113978e54b18202f7a1eab138560dd29f688f7f6efe1e3142a557ac7b830dc9"
+    },
+    {
+      "filename": "QAR_2026-09-28_review_raw.tsv",
+      "size_bytes": 18709,
+      "sha256": "9a0be20fadfff9f55dc03623cc7dfa894790aeb20c0ceeca48ae30db11690c53"
+    },
+    {
+      "filename": "QAR-20260928.raw.json",
+      "size_bytes": 22435,
+      "sha256": "5c639163645d4788fdfbc5072910b08367f56f5476db87f30f21f67248ad33bf"
+    },
+    {
+      "filename": "QAR-20260928.metadata.json",
+      "size_bytes": 4225,
+      "sha256": "b9688e37066e6ca53c16b45599dece8c12d989915d51187aae21b3692c1c4925"
+    },
+    {
+      "filename": "QAR_2026-09-28_raw.tsv",
+      "size_bytes": 18709,
+      "sha256": "9a0be20fadfff9f55dc03623cc7dfa894790aeb20c0ceeca48ae30db11690c53"
+    },
+    {
+      "filename": "RSD-20260928.conflict-review.json",
+      "size_bytes": 3212,
+      "sha256": "6082b1aaa2ee2b101e645ff456d2e26dc371432f1724e893f74665fd8233a3bc"
+    },
+    {
+      "filename": "RSD-20260928.review.raw.json",
+      "size_bytes": 20331,
+      "sha256": "3e169e33a397c72ab6f74dba0caee946d4c92187787eac2c9b3b87068370c7b0"
+    },
+    {
+      "filename": "RSD_2026-09-28_review_raw.tsv",
+      "size_bytes": 16602,
+      "sha256": "6ef6f41219217644bc4cd9ffe2896f78c34650d401f131620c2d03b7e81cfb17"
+    },
+    {
+      "filename": "RSD-20260928.raw.json",
+      "size_bytes": 20331,
+      "sha256": "c2c5f81bb00bb9cbb99139fc7f4d6e3bdeba8e33c439e4c041cd2cb267f2d406"
+    },
+    {
+      "filename": "RSD-20260928.metadata.json",
+      "size_bytes": 4203,
+      "sha256": "cc9e5f1f02e4f2aa52fc54d412aea41a4ae75255f5fb3006817dcb454821844c"
+    },
+    {
+      "filename": "RSD_2026-09-28_raw.tsv",
+      "size_bytes": 16602,
+      "sha256": "6ef6f41219217644bc4cd9ffe2896f78c34650d401f131620c2d03b7e81cfb17"
+    },
+    {
+      "filename": "RUB-20260928.raw.json",
+      "size_bytes": 16477,
+      "sha256": "bc06d789801eadd5717c5ad77fb1e122200ae1e57b83a40b1b39dc22786e71db"
+    },
+    {
+      "filename": "RUB-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "84c4cb28b5aafaa73edaebef549329421bb51f337248f718306d1bf8749a2f59"
+    },
+    {
+      "filename": "RUB_2026-09-28_raw.tsv",
+      "size_bytes": 12763,
+      "sha256": "07d7e24b9aed48c2cb3d92d28e6d4b6eb0adbbf3416710654277fc5e3cf1e62c"
+    },
+    {
+      "filename": "batch-QAR-RSD-RUB-20260928.manifest.json",
+      "size_bytes": 12431,
+      "sha256": "66f4cb6365f3cf957206e10353e22dce3db01255c3fa3269479dbdbdfea2c63f"
+    },
+    {
+      "filename": "batch-QAR-RSD-RUB-20260928.review-browser.json",
+      "size_bytes": 588,
+      "sha256": "52ce3376996935825ecc903f70a8624f9f7f07ba31bb2c99230e43e3e2e76ad7"
+    }
+  ],
+  "validation": [
+    {
+      "code": "QAR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "QAR-20260928.raw.json",
+        "original_full_sha256": "5c639163645d4788fdfbc5072910b08367f56f5476db87f30f21f67248ad33bf",
+        "review_raw_json": "QAR-20260928.review.raw.json",
+        "review_full_sha256": "d113978e54b18202f7a1eab138560dd29f688f7f6efe1e3142a557ac7b830dc9",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "163.96",
+              "163.96",
+              "204.5",
+              "204.5",
+              "184.36"
+            ],
+            [
+              "163.97",
+              "163.97",
+              "204.51",
+              "204.51",
+              "184.36"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "卡塔尔里亚尔",
+              "163.96",
+              "163.96",
+              "204.5",
+              "204.5",
+              "184.36",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "卡塔尔里亚尔",
+              "163.97",
+              "163.97",
+              "204.51",
+              "204.51",
+              "184.36",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "QAR-20260928.conflict-review.json",
+        "evidence_sha256": "2669008332fa49960b43e6bb939bacb773baa303efd9c3052c0cc41f5b3a9179",
+        "browser_record": {
+          "start": "2026-10-03T07:34:02.290Z",
+          "end": "2026-10-03T07:34:14.665Z",
+          "full_json_sha256": "d113978e54b18202f7a1eab138560dd29f688f7f6efe1e3142a557ac7b830dc9",
+          "browser_page_sha256_list_sha256": "7ddf5d57c889055000694dbc67b3f21b7b4617e5f28cb9c5dac951e2ac98680f",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "RSD",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "RSD-20260928.raw.json",
+        "original_full_sha256": "c2c5f81bb00bb9cbb99139fc7f4d6e3bdeba8e33c439e4c041cd2cb267f2d406",
+        "review_raw_json": "RSD-20260928.review.raw.json",
+        "review_full_sha256": "3e169e33a397c72ab6f74dba0caee946d4c92187787eac2c9b3b87068370c7b0",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "6.4431",
+              "",
+              "6.5733",
+              "",
+              "6.5129"
+            ],
+            [
+              "6.4434",
+              "",
+              "6.5736",
+              "",
+              "6.5129"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "塞尔维亚第纳尔",
+              "6.4431",
+              "",
+              "6.5733",
+              "",
+              "6.5129",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "塞尔维亚第纳尔",
+              "6.4434",
+              "",
+              "6.5736",
+              "",
+              "6.5129",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "RSD-20260928.conflict-review.json",
+        "evidence_sha256": "6082b1aaa2ee2b101e645ff456d2e26dc371432f1724e893f74665fd8233a3bc",
+        "browser_record": {
+          "start": "2026-10-03T07:34:02.303Z",
+          "end": "2026-10-03T07:34:26.873Z",
+          "full_json_sha256": "3e169e33a397c72ab6f74dba0caee946d4c92187787eac2c9b3b87068370c7b0",
+          "browser_page_sha256_list_sha256": "7995a488d8c468a9584ba0857373c76117d0fa04005c11554105c02ab998b507",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "RUB",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
