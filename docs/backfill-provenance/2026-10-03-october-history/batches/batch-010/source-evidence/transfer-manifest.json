@@ -1,0 +1,105 @@
+{
+  "format_version": 1,
+  "scope": "Authorized October 1-3 manual history backfill source evidence; October 3 is an intraday observation snapshot, not a completed full day. Separate from September completed history.",
+  "batch": "BOC-NOK-NPR-NZD-20261001",
+  "created_at_utc": "2026-10-03T11:52:55.386151+00:00",
+  "files": [
+    {
+      "filename": "NOK-20261001.raw.json",
+      "size_bytes": 12835,
+      "sha256": "25d81cffaa7e4f490d6a4212ba0af633389461ff03f640b1caec774251e98ca5"
+    },
+    {
+      "filename": "NOK-20261001.metadata.json",
+      "size_bytes": 2874,
+      "sha256": "a28c3dc764aff97b941e598ccca9f5ef049d3f5bf550c45e850cfa57316a3991"
+    },
+    {
+      "filename": "NOK_2026-10-01_raw.tsv",
+      "size_bytes": 10372,
+      "sha256": "1739df25ea627bce16d3e247ce5303bd64373bd7e0490c195a634ea00edda76c"
+    },
+    {
+      "filename": "NPR-20261001.raw.json",
+      "size_bytes": 12268,
+      "sha256": "57bf74285b48b76eaa00395c36759cc52216f6dfa3cbfc8fbd7d6110e62758a2"
+    },
+    {
+      "filename": "NPR-20261001.metadata.json",
+      "size_bytes": 2874,
+      "sha256": "31e7afe76b1e31a562afb3a3e98e0afacebc5228bf6082d2c7ba876f9785cadd"
+    },
+    {
+      "filename": "NPR_2026-10-01_raw.tsv",
+      "size_bytes": 9802,
+      "sha256": "10d009c233875214606e00eb707e6a3b33a2bfb2540bcbbc529ef89a802f4b76"
+    },
+    {
+      "filename": "NZD-20261001.raw.json",
+      "size_bytes": 13698,
+      "sha256": "aaaa0a57ad4b9fd2112f16fc3c01c0776aa306f6b739a0440505582c3e009840"
+    },
+    {
+      "filename": "NZD-20261001.metadata.json",
+      "size_bytes": 2874,
+      "sha256": "91e56bac7cd5fd710939f11234651d5f6e03e41520c1f749893fcd2b9d673833"
+    },
+    {
+      "filename": "NZD_2026-10-01_raw.tsv",
+      "size_bytes": 11235,
+      "sha256": "d39087a3875871ab81a32235548e4b908a7fa2887fb905cb94708ad78aaabcea"
+    },
+    {
+      "filename": "batch-NOK-NPR-NZD-20261001.manifest.json",
+      "size_bytes": 9090,
+      "sha256": "d58c676e5aa384b32d7a879e6b8ec0e23455415161eba3c563d33c1ef790b7d3"
+    }
+  ],
+  "validation": [
+    {
+      "date": "2026-10-01",
+      "code": "NOK",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T11:50:32.898Z",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "pages": 8,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-01",
+      "code": "NPR",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T11:50:39.411Z",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "pages": 8,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-01",
+      "code": "NZD",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T11:51:18.298Z",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "pages": 8,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}

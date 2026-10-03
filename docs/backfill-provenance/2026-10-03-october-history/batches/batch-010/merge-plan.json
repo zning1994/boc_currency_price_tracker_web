@@ -1,0 +1,65 @@
+{
+  "batch": "batch-010",
+  "base_head": "842f3ae6f164bf546e9439d269480cae8b3eb23b",
+  "source_dir": "october-source-batch010",
+  "source_coverage": 34,
+  "remaining": 101,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "NOK",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "65f1e799ced37b3e35a934f14074868f5fc4b33aef9639b3aa8b50813d516ba2",
+      "source_sha256": "25d81cffaa7e4f490d6a4212ba0af633389461ff03f640b1caec774251e98ca5",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 42,
+      "result_rows": 123,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "NPR",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "8bf309374c93a95f54208a34a82c58a3c8f7ef9832b074ca703a175f428d0beb",
+      "source_sha256": "57bf74285b48b76eaa00395c36759cc52216f6dfa3cbfc8fbd7d6110e62758a2",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 2,
+      "result_rows": 27,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "NPR",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 3.5541,
+          "spot_selling_price": null,
+          "cash_selling_price": 5.0524,
+          "bank_of_china_conversion_price": 4.3694,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "NZD",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "2494434fbb491edabbc290bf8385673c3d8c5d7caadabcc821c31338e817163a",
+      "source_sha256": "aaaa0a57ad4b9fd2112f16fc3c01c0776aa306f6b739a0440505582c3e009840",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 43,
+      "result_rows": 121,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
