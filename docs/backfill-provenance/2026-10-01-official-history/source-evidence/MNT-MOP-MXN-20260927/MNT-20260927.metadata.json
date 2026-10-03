@@ -1,0 +1,37 @@
+{
+  "code": "MNT",
+  "raw_json": "MNT-20260927.raw.json",
+  "bytes": 754,
+  "sha256": "317dccae37949a396b00f81c34352d66de106251050f8b2d413afcdc3f15594f",
+  "raw_tsv": "MNT_2026-09-27_raw.tsv",
+  "tsv_sha256": "6ea4f866f800e9fb899e20e77bdfad62bc0c5a0e38f268ee91db1e0f3db7c238",
+  "capture_window_utc": [
+    "2026-10-03T06:40:43.254Z",
+    "2026-10-03T06:40:43.254Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:40:43.254Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "317dccae37949a396b00f81c34352d66de106251050f8b2d413afcdc3f15594f",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "4d02957abea78ea4a8263c3c0893cf9365dcbb20ed3043c626dda66be0266e6d"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260927.raw.json",
+    "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "7ed31c212103050cb1eb13b30a66cb7d871b009d5a583b6bd8e02b2574ef656a",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
