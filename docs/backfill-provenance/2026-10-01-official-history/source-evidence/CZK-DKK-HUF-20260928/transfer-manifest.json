@@ -1,0 +1,176 @@
+{
+  "format_version": 1,
+  "batch": "BOC-CZK-DKK-HUF-20260928",
+  "created_at_utc": "2026-10-03T07:01:21.393420+00:00",
+  "files": [
+    {
+      "filename": "CZK-20260928.raw.json",
+      "size_bytes": 17135,
+      "sha256": "04fc0d3ebcbe3c008228ac6221e6c61acbaab5a7259f5bbb5bbeb63a6e5f4848"
+    },
+    {
+      "filename": "CZK-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "94dad10503c2dbe887f340e63525a8caf796d53f617cfa3bc96d13d3c88d8568"
+    },
+    {
+      "filename": "CZK_2026-09-28_raw.tsv",
+      "size_bytes": 13415,
+      "sha256": "6278d45502bb6eafe1b97f902091ab5bb4de8ca848c4f5682eafa0c3471b8d0e"
+    },
+    {
+      "filename": "DKK-20260928.raw.json",
+      "size_bytes": 20995,
+      "sha256": "82c753dbc036d4f4ca62b6a86c1da3c4369e8282b4fd5455f15d23d3506b14f0"
+    },
+    {
+      "filename": "DKK-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "442372f90ae2d32021d7eec4337e9ee2cd75a930c9c43ac10fc59a7d5985d617"
+    },
+    {
+      "filename": "DKK_2026-09-28_raw.tsv",
+      "size_bytes": 17275,
+      "sha256": "f5c434af7c631fbbce91c5a497bc5a971f6a5a3e23b709730b738343f755cc5a"
+    },
+    {
+      "filename": "HUF-20260928.conflict-review.json",
+      "size_bytes": 3234,
+      "sha256": "27adbc4b61dcd2deaf96e74107457dff76763e56949b55085069a4d4e603b2c3"
+    },
+    {
+      "filename": "HUF-20260928.review.raw.json",
+      "size_bytes": 21720,
+      "sha256": "fbed25cce3fc5d023739ce6cac43cd95dba532f3270a502c8966640cf758d422"
+    },
+    {
+      "filename": "HUF_2026-09-28_review_raw.tsv",
+      "size_bytes": 17997,
+      "sha256": "2cff307524a3eaf51115aa3d777d4ba4145512cd41efa027f68d64cf44b674da"
+    },
+    {
+      "filename": "HUF-20260928.raw.json",
+      "size_bytes": 21720,
+      "sha256": "44bc8a7b668731c744c1fceaa52d5b48304bb7a16afd243ce2f235ae09305230"
+    },
+    {
+      "filename": "HUF-20260928.metadata.json",
+      "size_bytes": 4225,
+      "sha256": "0257f1b465a3b7782dfe5a9a667940123018717775a8fc2e353d1b326270e4e1"
+    },
+    {
+      "filename": "HUF_2026-09-28_raw.tsv",
+      "size_bytes": 17997,
+      "sha256": "2cff307524a3eaf51115aa3d777d4ba4145512cd41efa027f68d64cf44b674da"
+    },
+    {
+      "filename": "batch-CZK-DKK-HUF-20260928.manifest.json",
+      "size_bytes": 11457,
+      "sha256": "9e9f7c546d630f92aa1958827d1ac45108923ff5b890a553ad4c703556461232"
+    },
+    {
+      "filename": "batch-CZK-DKK-HUF-20260928.review-browser.json",
+      "size_bytes": 295,
+      "sha256": "4450131738b7490eea8c40a0e9398e9d942878c50f7aa3de426913fdeaa9c5ea"
+    }
+  ],
+  "validation": [
+    {
+      "code": "CZK",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "DKK",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "HUF",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "HUF-20260928.raw.json",
+        "original_full_sha256": "44bc8a7b668731c744c1fceaa52d5b48304bb7a16afd243ce2f235ae09305230",
+        "review_raw_json": "HUF-20260928.review.raw.json",
+        "review_full_sha256": "fbed25cce3fc5d023739ce6cac43cd95dba532f3270a502c8966640cf758d422",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "2.0721",
+              "2.0721",
+              "2.1139",
+              "2.1139",
+              "2.0974"
+            ],
+            [
+              "2.072",
+              "2.072",
+              "2.1138",
+              "2.1138",
+              "2.0974"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "匈牙利福林",
+              "2.072",
+              "2.072",
+              "2.1138",
+              "2.1138",
+              "2.0974",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "匈牙利福林",
+              "2.0721",
+              "2.0721",
+              "2.1139",
+              "2.1139",
+              "2.0974",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "HUF-20260928.conflict-review.json",
+        "evidence_sha256": "27adbc4b61dcd2deaf96e74107457dff76763e56949b55085069a4d4e603b2c3",
+        "browser_record": {
+          "start": "2026-10-03T06:59:44.632Z",
+          "end": "2026-10-03T06:59:56.905Z",
+          "full_json_sha256": "fbed25cce3fc5d023739ce6cac43cd95dba532f3270a502c8966640cf758d422",
+          "browser_page_sha256_list_sha256": "afdf7a03749e8d89281064750fff72f90841508a2c5d9c6abdd37d26d6be3512",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}

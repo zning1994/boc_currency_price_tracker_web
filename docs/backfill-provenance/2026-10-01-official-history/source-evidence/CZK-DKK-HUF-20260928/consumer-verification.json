@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "CZK",
+      "raw_sha256": "04fc0d3ebcbe3c008228ac6221e6c61acbaab5a7259f5bbb5bbeb63a6e5f4848",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 98,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "DKK",
+      "raw_sha256": "82c753dbc036d4f4ca62b6a86c1da3c4369e8282b4fd5455f15d23d3506b14f0",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 161,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "HUF",
+      "raw_sha256": "44bc8a7b668731c744c1fceaa52d5b48304bb7a16afd243ce2f235ae09305230",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 230,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "fbed25cce3fc5d023739ce6cac43cd95dba532f3270a502c8966640cf758d422",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "9e6f5a867f74bc26cec60ffa405334c4810ee9efd2612fa790b58b55becb0ca7"
+}

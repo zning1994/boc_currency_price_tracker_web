@@ -5211,6 +5211,38 @@
       "archive_sha256": "da3edf09409215e555ad72260d23bf7450c9ea7e016636467d0cedd3f44792f3"
     },
     {
+      "code": "CZK",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "04fc0d3ebcbe3c008228ac6221e6c61acbaab5a7259f5bbb5bbeb63a6e5f4848",
+      "captured_at_utc": "2026-10-03T06:58:29.405Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 98,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/CZK/20260928.json",
+      "capture_path": "raw/CZK-20260928.raw.json",
+      "archive_sha256": "aaccf631fc8d2a44d89f7b888692957625f4da4c3cb1b2f09a96032ae6464f96"
+    },
+    {
       "code": "DKK",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -5896,6 +5928,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260927.json",
       "capture_path": "raw/DKK-20260927.raw.json",
       "archive_sha256": "460bed138c40acffe03c826fca1da1490895b531e31b022c9967cc734dbc4cdc"
+    },
+    {
+      "code": "DKK",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "82c753dbc036d4f4ca62b6a86c1da3c4369e8282b4fd5455f15d23d3506b14f0",
+      "captured_at_utc": "2026-10-03T06:58:41.490Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 161,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/DKK/20260928.json",
+      "capture_path": "raw/DKK-20260928.raw.json",
+      "archive_sha256": "45cba422f41e7b3c28e78b7cc42cd7b4f15818e7a48efc3ba3ab982b97df760f"
     },
     {
       "code": "EUR",
@@ -8922,6 +8986,45 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260927.json",
       "capture_path": "raw/HUF-20260927.raw.json",
       "archive_sha256": "6e802af75a56b5e94d226ae36ff6c15383f16555c408afe83efba276ddf8ef94"
+    },
+    {
+      "code": "HUF",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "44bc8a7b668731c744c1fceaa52d5b48304bb7a16afd243ce2f235ae09305230",
+      "captured_at_utc": "2026-10-03T06:58:53.767Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 230,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "fbed25cce3fc5d023739ce6cac43cd95dba532f3270a502c8966640cf758d422",
+      "independent_review_path": "raw/HUF-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/HUF/20260928.json",
+      "capture_path": "raw/HUF-20260928.raw.json",
+      "archive_sha256": "3909bc08577343a33dd71a653f5be53b9fb68d36eee5023918b7accdedcfd34c"
     },
     {
       "code": "IDR",
@@ -28182,7 +28285,7 @@
       "archive_sha256": "bfee740af24aacb76f1cfc37e275eb41055ac3719a47d452d7b15f4e0aded24f"
     }
   ],
-  "completed_pairs": 987,
+  "completed_pairs": 990,
   "planned_pairs": 1080,
-  "remaining_pairs": 93
+  "remaining_pairs": 90
 }
