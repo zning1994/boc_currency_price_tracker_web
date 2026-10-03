@@ -1,0 +1,65 @@
+{
+  "format_version": 1,
+  "batch": "BOC-VND-ZAR-20260922",
+  "created_at_utc": "2026-10-03T03:20:21.484215+00:00",
+  "files": [
+    {
+      "filename": "VND-20260922.raw.json",
+      "size_bytes": 18264,
+      "sha256": "8a6a211acb5de5bb1d0e6666c0a7db810a8cbb95d632b591ff9d1afc8e33fc7e"
+    },
+    {
+      "filename": "VND-20260922.metadata.json",
+      "size_bytes": 3358,
+      "sha256": "7b2d27383883529b91291bf07c49895909d41e299a75ccbc96369a2436259456"
+    },
+    {
+      "filename": "VND_2026-09-22_raw.tsv",
+      "size_bytes": 14365,
+      "sha256": "6ee75ea7bffb36028a05e6ccc10ec0bc8c5e90f0e0a1699c2a3a708fd1bb4d32"
+    },
+    {
+      "filename": "ZAR-20260922.raw.json",
+      "size_bytes": 20713,
+      "sha256": "6b4802a06dbceb237f1f203b64dc1007a87ec10b22efe51eda6d225f3cab8aaa"
+    },
+    {
+      "filename": "ZAR-20260922.metadata.json",
+      "size_bytes": 3358,
+      "sha256": "4288021cd9008c7ab5d7f42b6952598b7e532ff28a9f3012e02d8442f6d527cb"
+    },
+    {
+      "filename": "ZAR_2026-09-22_raw.tsv",
+      "size_bytes": 16811,
+      "sha256": "0e14b70160ef800e37f9c6295f8d3cf61d44a29ce024b2dc8fabb6c32604885e"
+    },
+    {
+      "filename": "batch-VND-ZAR-20260922.manifest.json",
+      "size_bytes": 7109,
+      "sha256": "7754d542b4eb887df01c32d23cc616a7059ae9a75f476712db637763bdddf7bb"
+    }
+  ],
+  "validation": [
+    {
+      "code": "VND",
+      "raw_rows": 260,
+      "distinct_rows": 255,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "ZAR",
+      "raw_rows": 260,
+      "distinct_rows": 255,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
