@@ -1,0 +1,37 @@
+{
+  "code": "NOK",
+  "raw_json": "NOK-20260927.raw.json",
+  "bytes": 682,
+  "sha256": "661766502a3976ff61eedd99a2ef785a5342cd3a85ad12504e7f7d1f9fefc1a2",
+  "raw_tsv": "NOK_2026-09-27_raw.tsv",
+  "tsv_sha256": "7b09abec829499b2befa09a35775fa1e56682cd887b77ae1deb2d7a664fab269",
+  "capture_window_utc": [
+    "2026-10-03T06:42:05.462Z",
+    "2026-10-03T06:42:05.462Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:42:05.462Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "661766502a3976ff61eedd99a2ef785a5342cd3a85ad12504e7f7d1f9fefc1a2",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "a46795349e99f81f7ce92bf242f0baba9b9b3493ca058106015e5603f069b8d0"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260927.raw.json",
+    "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "8d2055516980815a6c10d3132ea6efc4d4d330ede1903b610ea322987634ec92",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}

@@ -1,0 +1,37 @@
+{
+  "code": "NPR",
+  "raw_json": "NPR-20260927.raw.json",
+  "bytes": 661,
+  "sha256": "c7ede5730e1dacb51d5d27e132780ad86b1e3426d12d4852c4df7b660eb87c50",
+  "raw_tsv": "NPR_2026-09-27_raw.tsv",
+  "tsv_sha256": "f1c9c945d4328a64826ca6de67385ba4ab42377421fdf2df18e3521d99759231",
+  "capture_window_utc": [
+    "2026-10-03T06:42:05.494Z",
+    "2026-10-03T06:42:05.494Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:42:05.494Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "c7ede5730e1dacb51d5d27e132780ad86b1e3426d12d4852c4df7b660eb87c50",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "01fb0870a3e2a486391b837a03b508a44f7e315a5898cfb1a0010b03512d7462"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260927.raw.json",
+    "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "df667da9de41028826eb570e7ec456630166bf51dd652b421a30a1c69afed76e",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
