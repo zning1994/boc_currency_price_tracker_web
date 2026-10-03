@@ -1,0 +1,65 @@
+{
+  "batch": "batch-017",
+  "base_head": "a035a2a2be4e59dc6dc9fb92844f034634aa83f0",
+  "source_dir": "october-source-batch017",
+  "source_coverage": 53,
+  "remaining": 82,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "AUD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "b7f6d6bf110e79ceebea4f555695d59d67997ef888a5c685d6dc864d3886bee1",
+      "source_sha256": "2f202e4fed8516cbae2ffdca7fb2fd8bffa37e61e7c8be882998eaef56a0d609",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 66,
+      "result_rows": 128,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "BND",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "d1a747aabf4d8af8985aec7040dce6ffda88f21a6f194e499cc719b69fcf91e2",
+      "source_sha256": "8ae96b1630d50df0b7cd253f7b481bb94a4f5896ce99930f37fac9cf7a39ba97",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 66,
+      "result_rows": 127,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "BRL",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "6bfb4f166494ef5df1c6802e9ba961ea2a14a50016c72c712dc17a5ee63fb820",
+      "source_sha256": "284edae9d47bb3e71dfd7f98ecc50d5dc4d8d75716b2226bf305e59093eb42b0",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 47,
+      "result_rows": 51,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "BRL",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 121.99,
+          "spot_selling_price": null,
+          "cash_selling_price": 135.98,
+          "bank_of_china_conversion_price": 128.89,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}
