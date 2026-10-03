@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "40183777899c4978d3c5271e57eddf22fa74d8bc",
+  "batch": "batch-013",
+  "source_coverage": 43,
+  "remaining": 92,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/RUB/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/SAR/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/SEK/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

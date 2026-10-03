@@ -1,0 +1,77 @@
+{
+  "batch": "batch-013",
+  "base_head": "40183777899c4978d3c5271e57eddf22fa74d8bc",
+  "source_dir": "october-source-batch013",
+  "source_coverage": 43,
+  "remaining": 92,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "RUB",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "cda264bb81a06fff53ae6d1ec30704b8de17e5a2142f4bec7a4fadb5933d030b",
+      "source_sha256": "95cc1cee857eb886d0098b794cf34a3e702caf1547934f5bd96e259d6eeb15c6",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 6,
+      "result_rows": 32,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "RUB",
+          "spot_exchange_buying_price": 7.68,
+          "cash_buying_price": 7.68,
+          "spot_selling_price": 8.08,
+          "cash_selling_price": 8.08,
+          "bank_of_china_conversion_price": 8.0,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "SAR",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "85851b2de79b0ddd1d1afb633bb568a5b4c9a800250251248768a9508cc464ed",
+      "source_sha256": "2cb3e6f0346f6709e07b38a885e7cd0cc0b10a4c5a230e188b548a57142d8c2b",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 2,
+      "result_rows": 7,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "SAR",
+          "spot_exchange_buying_price": 177.37,
+          "cash_buying_price": 177.37,
+          "spot_selling_price": 179.87,
+          "cash_selling_price": 179.87,
+          "bank_of_china_conversion_price": 178.92,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "SEK",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "9d02a25a93b28f46d1e02415a6fb2070115024f55c4ac50c79e1a1c04abec4fc",
+      "source_sha256": "e62c35e9aee0939b3cf4a379551b09f4e1cfdda54c5f1bafa8a78994aebce6af",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 44,
+      "result_rows": 122,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
