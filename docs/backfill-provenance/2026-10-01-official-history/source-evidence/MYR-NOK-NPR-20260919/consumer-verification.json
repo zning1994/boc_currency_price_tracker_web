@@ -1,0 +1,38 @@
+{
+  "reports": [
+    {
+      "code": "MYR",
+      "raw_sha256": "3b367b3778f9b7877cffd27fe9a801ad68d28cb7469b29d6dda25d3ef457c932",
+      "pages": 3,
+      "raw_rows": 45,
+      "stored_rows": 5,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "NOK",
+      "raw_sha256": "f870f5e90c2bf6c40b042bbab28bdace5c28f5afaa0ca1ecee885ba8ad2fca34",
+      "pages": 3,
+      "raw_rows": 45,
+      "stored_rows": 22,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "NPR",
+      "raw_sha256": "87c5ed64b08e7d56d99a3d0f7e78ccf94921e55f78bda36844ca657cd052fa9a",
+      "pages": 3,
+      "raw_rows": 45,
+      "stored_rows": 7,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "ad2abc2d1bf40893208eb965311c6746a4043a7c4a56ee0d560b4ec0f2e8132c"
+}
