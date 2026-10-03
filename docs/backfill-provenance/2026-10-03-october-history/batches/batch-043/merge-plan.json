@@ -1,0 +1,53 @@
+{
+  "batch": "batch-043",
+  "base_head": "a4b06a609ee78f4730a2aa25bbe05ff4f75ee479",
+  "source_dir": "october-source-batch043",
+  "source_coverage": 129,
+  "remaining": 6,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "SAR",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "55accfa53d7a183eeda2ba8f5acafbb530982082b3710ba68c2b504162fe51b2",
+      "source_sha256": "d91c1451d4bec1b2c4281e312abad6402a0fcc66e073b3554627bccd643959ae",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "SEK",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "4960afee9360661dfe90ce2e0369d0cbe1ec0715d445ccd6aa4bef6025e41d01",
+      "source_sha256": "833e790061848a235b4701ce67332f0111336f84fbcfecd904c2e674eda0a66c",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "SGD",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "fe2de5bf15c4276625d9698b5c3d575213bcf632415640f11379b60eba9c6816",
+      "source_sha256": "e5f8a892325225d9613ed7c7df8d0093384d1e1e672e89c57442d97ecb7e0dcf",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
