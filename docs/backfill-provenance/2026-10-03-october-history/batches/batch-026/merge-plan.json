@@ -1,0 +1,100 @@
+{
+  "batch": "batch-026",
+  "base_head": "27804b0c4b3a36465389be46be7bd4e69b8f4fa8",
+  "source_dir": "october-source-batch026",
+  "source_coverage": 80,
+  "remaining": 55,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "PHP",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "27bf28ae103269fea8d93c4091d07b334826c772af290471e1ad8c1407bb1739",
+      "source_sha256": "b78cc1653f9c064c2e4038e82e4b9c2a59350ac858c5147d0b2adba696c430dc",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 11,
+      "result_rows": 21,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "PHP",
+          "spot_exchange_buying_price": 10.6,
+          "cash_buying_price": 10.6,
+          "spot_selling_price": 10.82,
+          "cash_selling_price": 10.82,
+          "bank_of_china_conversion_price": 10.72,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        },
+        {
+          "currency_name": "PHP",
+          "spot_exchange_buying_price": 10.6,
+          "cash_buying_price": 10.6,
+          "spot_selling_price": 10.82,
+          "cash_selling_price": 10.82,
+          "bank_of_china_conversion_price": 10.72,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "PKR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "f2a5bd04db85d1a226e1abb8f413376e217f4d631a06f924d11c67f2518dbe02",
+      "source_sha256": "647262cb2a8620a1c83a5e5b4da7c4995587689aab7a7916516b74079a379a77",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 3,
+      "result_rows": 3,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "PKR",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 1.9856,
+          "spot_selling_price": null,
+          "cash_selling_price": 2.8574,
+          "bank_of_china_conversion_price": 2.4209,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "PLN",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "a04f7cb54c59d8eb202b089d9cde81c1dbc095d8f0c977f750bc39150c6875a1",
+      "source_sha256": "87840bcd2235626aeb97f8b76b4f1211a4c61e7f61c1c54a8678cbfbeb1656c0",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 74,
+      "result_rows": 153,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "PLN",
+          "spot_exchange_buying_price": 170.45,
+          "cash_buying_price": null,
+          "spot_selling_price": 173.89,
+          "cash_selling_price": null,
+          "bank_of_china_conversion_price": 174.65,
+          "publish_date": "2026.10.02 20:31:12",
+          "publish_at_utc": "2026-10-02T12:31:12Z",
+          "publish_at_local": "2026-10-02T20:31:12+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}

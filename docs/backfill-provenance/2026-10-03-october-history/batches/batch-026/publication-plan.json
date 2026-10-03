@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "27804b0c4b3a36465389be46be7bd4e69b8f4fa8",
+  "batch": "batch-026",
+  "source_coverage": 80,
+  "remaining": 55,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/PHP/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/PKR/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/PLN/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
