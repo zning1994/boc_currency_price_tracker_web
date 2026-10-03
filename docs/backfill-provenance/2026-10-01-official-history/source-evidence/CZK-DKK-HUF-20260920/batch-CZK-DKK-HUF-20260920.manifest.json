@@ -1,0 +1,104 @@
+[
+  {
+    "code": "CZK",
+    "raw_json": "/workspace/shared/boc-cloud-test/CZK-20260920.raw.json",
+    "bytes": 691,
+    "sha256": "8c050def5d6e285b6c1745c8ca0fbe57f07eadb49b6bcbb0b25136e973f18942",
+    "raw_tsv": "/workspace/shared/boc-cloud-test/CZK_2026-09-20_raw.tsv",
+    "tsv_sha256": "807ad9124145554b7b341d703c08347ce13c4d4f96e196a3d23aa69c22a7a2a9",
+    "capture_window_utc": [
+      "2026-10-03T01:20:48.662Z",
+      "2026-10-03T01:20:48.662Z"
+    ],
+    "captured_at_utc": "2026-10-03T01:20:48.662Z",
+    "pages": 1,
+    "page_counts": [
+      7
+    ],
+    "raw_rows": 7,
+    "distinct_rows": 3,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "8c050def5d6e285b6c1745c8ca0fbe57f07eadb49b6bcbb0b25136e973f18942",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "2c025b5919dcabd1fd03133bbce55c480c1069b9f8b221eccf9396e9bb796629"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "BND-20260920.raw.json",
+      "sha256": "504ebea85593c5eb3f92cc35801eb705353b7886cc1d6ac3dca3ef633fc35b96"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+  },
+  {
+    "code": "DKK",
+    "raw_json": "/workspace/shared/boc-cloud-test/DKK-20260920.raw.json",
+    "bytes": 796,
+    "sha256": "d7e5832ac84716179e65fe76656e3e40538a4fca21eef43264a45239b22df024",
+    "raw_tsv": "/workspace/shared/boc-cloud-test/DKK_2026-09-20_raw.tsv",
+    "tsv_sha256": "db2f7ca4d894869164688fe1da814e8fbeed263d362fcc1fd47ab94f59387acf",
+    "capture_window_utc": [
+      "2026-10-03T01:20:48.683Z",
+      "2026-10-03T01:20:48.683Z"
+    ],
+    "captured_at_utc": "2026-10-03T01:20:48.683Z",
+    "pages": 1,
+    "page_counts": [
+      7
+    ],
+    "raw_rows": 7,
+    "distinct_rows": 3,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "d7e5832ac84716179e65fe76656e3e40538a4fca21eef43264a45239b22df024",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "d1d375f6c9e1872639d9ec909884ab3bb94674d2e59bedbe0df37b9937601b21"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "BND-20260920.raw.json",
+      "sha256": "504ebea85593c5eb3f92cc35801eb705353b7886cc1d6ac3dca3ef633fc35b96"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+  },
+  {
+    "code": "HUF",
+    "raw_json": "/workspace/shared/boc-cloud-test/HUF-20260920.raw.json",
+    "bytes": 820,
+    "sha256": "15c12f90f4af410dcd9b635201dbc499cae666d6e2864d509370001fb41b4541",
+    "raw_tsv": "/workspace/shared/boc-cloud-test/HUF_2026-09-20_raw.tsv",
+    "tsv_sha256": "3e5349b5510061fa942734c6e6ca1c234e7b771a5317efe209e9a481aa4dbb5d",
+    "capture_window_utc": [
+      "2026-10-03T01:20:48.707Z",
+      "2026-10-03T01:20:48.707Z"
+    ],
+    "captured_at_utc": "2026-10-03T01:20:48.707Z",
+    "pages": 1,
+    "page_counts": [
+      7
+    ],
+    "raw_rows": 7,
+    "distinct_rows": 3,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "15c12f90f4af410dcd9b635201dbc499cae666d6e2864d509370001fb41b4541",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "c341b7edb7c3c1723f5b112f2644cbee4150b4c294a6ec71f823233e208c69eb"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "BND-20260920.raw.json",
+      "sha256": "504ebea85593c5eb3f92cc35801eb705353b7886cc1d6ac3dca3ef633fc35b96"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+  }
+]
