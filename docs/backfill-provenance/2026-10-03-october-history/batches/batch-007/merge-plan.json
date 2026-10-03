@@ -1,0 +1,77 @@
+{
+  "batch": "batch-007",
+  "base_head": "d5e0140b13114ba29676e48a6e32f6b7236498b1",
+  "source_dir": "october-source-batch007",
+  "source_coverage": 25,
+  "remaining": 110,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "KHR",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "4a00fa124b6b4c7b48759917a90c83fb8c36ab48803b860f6458df3218cebf08",
+      "source_sha256": "45c10ff3bae89cdb7675ce6b9d8fc27fdc5c36ee282cacd95d26b5ec417e4de4",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 3,
+      "result_rows": 7,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "KHR",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 0.1471,
+          "spot_selling_price": null,
+          "cash_selling_price": 0.1838,
+          "bank_of_china_conversion_price": 0.1654,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "KRW",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "360074366b6a1036ef0537fa79e14ae99b412f11ac1c8b05cdc2761e28cc7f0e",
+      "source_sha256": "cf0e4e9b01110a212ae80318979e62525dd6590598fbe6400a7cae868b8d24de",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 41,
+      "result_rows": 109,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "KRW",
+          "spot_exchange_buying_price": 0.4894,
+          "cash_buying_price": 0.4894,
+          "spot_selling_price": 0.4997,
+          "cash_selling_price": 0.4997,
+          "bank_of_china_conversion_price": 0.4958,
+          "publish_date": "2026.10.01 22:34:51",
+          "publish_at_utc": "2026-10-01T14:34:51Z",
+          "publish_at_local": "2026-10-01T22:34:51+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "KWD",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "57eb5f6ace087a3c6f1f97a4423d690d6ec820b4f355c98f6235347fd7a408ca",
+      "source_sha256": "012bccbeebc9bfaa8d10cc425467eec86e998c3cfc43361a93e3cb8428f24c45",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 32,
+      "result_rows": 107,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
