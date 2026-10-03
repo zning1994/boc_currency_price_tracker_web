@@ -1,0 +1,37 @@
+{
+  "code": "SAR",
+  "raw_json": "SAR-20260926.raw.json",
+  "bytes": 899,
+  "sha256": "8c7c7f3925f0a3b209e0fdaf3c4dcefdb4b887858ad5b587e2ad10f66016fc56",
+  "raw_tsv": "SAR_2026-09-26_raw.tsv",
+  "tsv_sha256": "140bda0904720bf41ef82e910fe9d23a0fdb93b24b3db147a181f5462219614e",
+  "capture_window_utc": [
+    "2026-10-03T06:17:05.560Z",
+    "2026-10-03T06:17:05.560Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:17:05.560Z",
+  "pages": 1,
+  "page_counts": [
+    8
+  ],
+  "raw_rows": 8,
+  "distinct_rows": 5,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "8c7c7f3925f0a3b209e0fdaf3c4dcefdb4b887858ad5b587e2ad10f66016fc56",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "1429a9531d218b8688c21454c7c2671724729097eabfbd14259fc195821b9ff5"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260926.raw.json",
+    "sha256": "0ae4d2d23f0134d90565bec0a253e254ccea6bcc6c9818cf2cd21905fdb5425a"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "16259367e225df3163d96b1b3a6b6cc249e154b33dc41091dcfcff92942f4db6",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
