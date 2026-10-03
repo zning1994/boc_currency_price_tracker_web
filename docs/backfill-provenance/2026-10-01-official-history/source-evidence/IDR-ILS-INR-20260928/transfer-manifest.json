@@ -1,0 +1,258 @@
+{
+  "format_version": 1,
+  "batch": "BOC-IDR-ILS-INR-20260928",
+  "created_at_utc": "2026-10-03T07:05:26.815057+00:00",
+  "files": [
+    {
+      "filename": "IDR-20260928.raw.json",
+      "size_bytes": 20715,
+      "sha256": "fee27481db04780c3a96666b61ce24b888f4b7d57b02e22302b6559e1059f3a8"
+    },
+    {
+      "filename": "IDR-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "f02f443bbccd70a7a9bac60cb6e27664129ce076fe32ccddff0bb539131111b5"
+    },
+    {
+      "filename": "IDR_2026-09-28_raw.tsv",
+      "size_bytes": 16995,
+      "sha256": "bc5b739bfbf89b40277c3cacea1678724de13716082f0d54de4c79589b50535a"
+    },
+    {
+      "filename": "ILS-20260928.conflict-review.json",
+      "size_bytes": 3212,
+      "sha256": "b4f69a0a80129a25321734aa3699903a38aa0644f383d8b37c0f3578f3320ec6"
+    },
+    {
+      "filename": "ILS-20260928.review.raw.json",
+      "size_bytes": 19585,
+      "sha256": "c56ab63f6c4f3d4f161dc9944ea3c5c4ca6d732e95e24e1140f6d074d5c56f8b"
+    },
+    {
+      "filename": "ILS_2026-09-28_review_raw.tsv",
+      "size_bytes": 15859,
+      "sha256": "0626b9879285db466cd3a02f75c4d2a32ccf33c7607d5d5c643a05f571f9b486"
+    },
+    {
+      "filename": "ILS-20260928.raw.json",
+      "size_bytes": 19585,
+      "sha256": "e30cecbe6683e84a8619b8891826e1950e726b5697e2c87155c36d5aab03ba45"
+    },
+    {
+      "filename": "ILS-20260928.metadata.json",
+      "size_bytes": 4203,
+      "sha256": "b45d81353f9ed1259fd271ce186fe7e2ff5ca8c8289582d04fdecd66b05d8e12"
+    },
+    {
+      "filename": "ILS_2026-09-28_raw.tsv",
+      "size_bytes": 15859,
+      "sha256": "0626b9879285db466cd3a02f75c4d2a32ccf33c7607d5d5c643a05f571f9b486"
+    },
+    {
+      "filename": "INR-20260928.conflict-review.json",
+      "size_bytes": 3212,
+      "sha256": "83a76eab1088f9e00400872511090120d6d25039603d2b24a413f2f7e69b62c0"
+    },
+    {
+      "filename": "INR-20260928.review.raw.json",
+      "size_bytes": 18103,
+      "sha256": "2f4260b151a2be5056ae606d1e123565f4f8f2df1dcabd5bcf3e6f69a00bf8be"
+    },
+    {
+      "filename": "INR_2026-09-28_review_raw.tsv",
+      "size_bytes": 14383,
+      "sha256": "fef91f2d41c97f81d1f9aa9162e03c3f2956a507e79d003ab9f6ccb615b83468"
+    },
+    {
+      "filename": "INR-20260928.raw.json",
+      "size_bytes": 18103,
+      "sha256": "7ec2af6f4fbd344e5ea3ab6c477dd9a0733abfb7e92e0d33a79a50f055923da5"
+    },
+    {
+      "filename": "INR-20260928.metadata.json",
+      "size_bytes": 4203,
+      "sha256": "2a41c2a6a7c5d40251d3cc1b40e2283bf69f8c76104339ebd17b6a86979146bf"
+    },
+    {
+      "filename": "INR_2026-09-28_raw.tsv",
+      "size_bytes": 14383,
+      "sha256": "fef91f2d41c97f81d1f9aa9162e03c3f2956a507e79d003ab9f6ccb615b83468"
+    },
+    {
+      "filename": "batch-IDR-ILS-INR-20260928.manifest.json",
+      "size_bytes": 12409,
+      "sha256": "717b09f8b322fae5c5c4045f802f2e6ad9ce636a3ad0b2c298e45dabe319f989"
+    },
+    {
+      "filename": "batch-IDR-ILS-INR-20260928.review-browser.json",
+      "size_bytes": 588,
+      "sha256": "c29741018c5b3797498074bc27b991819be70a8f4ca89cef6689dee1dbe2845a"
+    }
+  ],
+  "validation": [
+    {
+      "code": "IDR",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "ILS",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "ILS-20260928.raw.json",
+        "original_full_sha256": "e30cecbe6683e84a8619b8891826e1950e726b5697e2c87155c36d5aab03ba45",
+        "review_raw_json": "ILS-20260928.review.raw.json",
+        "review_full_sha256": "c56ab63f6c4f3d4f161dc9944ea3c5c4ca6d732e95e24e1140f6d074d5c56f8b",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "198.12",
+              "",
+              "242.14",
+              "220.25"
+            ],
+            [
+              "",
+              "198.13",
+              "",
+              "242.15",
+              "220.25"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "以色列谢克尔",
+              "",
+              "198.12",
+              "",
+              "242.14",
+              "220.25",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "以色列谢克尔",
+              "",
+              "198.13",
+              "",
+              "242.15",
+              "220.25",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "ILS-20260928.conflict-review.json",
+        "evidence_sha256": "b4f69a0a80129a25321734aa3699903a38aa0644f383d8b37c0f3578f3320ec6",
+        "browser_record": {
+          "start": "2026-10-03T07:03:57.591Z",
+          "end": "2026-10-03T07:04:09.220Z",
+          "full_json_sha256": "c56ab63f6c4f3d4f161dc9944ea3c5c4ca6d732e95e24e1140f6d074d5c56f8b",
+          "browser_page_sha256_list_sha256": "4e29a5a53883caaaa8ed75701ba329ebf6dcb85f8d6979913eba953a73d13bdb",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "INR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "INR-20260928.raw.json",
+        "original_full_sha256": "7ec2af6f4fbd344e5ea3ab6c477dd9a0733abfb7e92e0d33a79a50f055923da5",
+        "review_raw_json": "INR-20260928.review.raw.json",
+        "review_full_sha256": "2f4260b151a2be5056ae606d1e123565f4f8f2df1dcabd5bcf3e6f69a00bf8be",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "6.6442",
+              "",
+              "7.4081",
+              "7.0133"
+            ],
+            [
+              "",
+              "6.6439",
+              "",
+              "7.4078",
+              "7.0133"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "印度卢比",
+              "",
+              "6.6439",
+              "",
+              "7.4078",
+              "7.0133",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "印度卢比",
+              "",
+              "6.6442",
+              "",
+              "7.4081",
+              "7.0133",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "INR-20260928.conflict-review.json",
+        "evidence_sha256": "83a76eab1088f9e00400872511090120d6d25039603d2b24a413f2f7e69b62c0",
+        "browser_record": {
+          "start": "2026-10-03T07:03:57.603Z",
+          "end": "2026-10-03T07:04:21.412Z",
+          "full_json_sha256": "2f4260b151a2be5056ae606d1e123565f4f8f2df1dcabd5bcf3e6f69a00bf8be",
+          "browser_page_sha256_list_sha256": "9454827ab56a436603c4527e2139f8c3b770b77b89f006784c03ffbd51fd58f0",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
