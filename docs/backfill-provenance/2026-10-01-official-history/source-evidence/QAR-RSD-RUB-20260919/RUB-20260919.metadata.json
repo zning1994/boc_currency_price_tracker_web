@@ -1,0 +1,44 @@
+{
+  "code": "RUB",
+  "raw_json": "/workspace/shared/boc-cloud-test/RUB-20260919.raw.json",
+  "bytes": 3302,
+  "sha256": "9fa0dd9fde9d434d7ffa0756232d63b6eeada6a040dda6c3f29255051dc532fa",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/RUB_2026-09-19_raw.tsv",
+  "tsv_sha256": "5e451abe390720e0d4924dc3ec509526c753abfe94ac5c5a2481a8eab91e7a49",
+  "capture_window_utc": [
+    "2026-10-03T01:07:27.282Z",
+    "2026-10-03T01:07:29.377Z"
+  ],
+  "captured_at_utc": "2026-10-03T01:07:29.377Z",
+  "pages": 3,
+  "page_counts": [
+    20,
+    20,
+    5
+  ],
+  "raw_rows": 45,
+  "distinct_rows": 42,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "9fa0dd9fde9d434d7ffa0756232d63b6eeada6a040dda6c3f29255051dc532fa",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "dbfa1bfeca74a95e3779f39cda4731bf8df1defa6b86672f5f506924eac2caa0"
+    },
+    {
+      "page": 2,
+      "sha256": "d59b4cffa719218e50039febd13039151d6a2142dc82fa1f981b89f18e8b8160"
+    },
+    {
+      "page": 3,
+      "sha256": "9f087f8fd46c49d53dd4372cdeeda0991ef8ea75f5f1bfcd862baf9ee7d94ea9"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260919.raw.json",
+    "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+}
