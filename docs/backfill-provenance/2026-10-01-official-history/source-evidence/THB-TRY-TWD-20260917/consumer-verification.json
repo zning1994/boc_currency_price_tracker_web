@@ -1,0 +1,38 @@
+{
+  "reports": [
+    {
+      "code": "THB",
+      "raw_sha256": "1330ab5c7aa21cac2e609bc84a630d1e71d6b0ecaaccb94ec282f1ffe92f0897",
+      "pages": 15,
+      "raw_rows": 281,
+      "stored_rows": 93,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "TRY",
+      "raw_sha256": "b34d57a6611bebb83f9a42f53660bf39ea153c7027ca69de42bbf9f0b5b5a7ea",
+      "pages": 15,
+      "raw_rows": 281,
+      "stored_rows": 18,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "TWD",
+      "raw_sha256": "f4292187b3cc3caa949f779a7faf3e126935e61eecee999d1c9423716562b4bb",
+      "pages": 15,
+      "raw_rows": 281,
+      "stored_rows": 85,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "dd79aa7f31a5290579e254858853f933affd292964ebf15a820e912562757696"
+}
