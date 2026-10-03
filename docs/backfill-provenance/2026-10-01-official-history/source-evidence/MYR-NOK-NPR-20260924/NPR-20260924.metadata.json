@@ -1,0 +1,112 @@
+{
+  "code": "NPR",
+  "raw_json": "NPR-20260924.raw.json",
+  "bytes": 24312,
+  "sha256": "d4091a1ce55800dc77c1cc33e4a53c831f300776db1f663f66eb6068bf9fc3a5",
+  "raw_tsv": "NPR_2026-09-24_raw.tsv",
+  "tsv_sha256": "fd622049702dda105703026d97446fdc668cb4e30b55133280ceca93138e3ab6",
+  "capture_window_utc": [
+    "2026-10-03T04:38:26.233Z",
+    "2026-10-03T04:39:11.676Z"
+  ],
+  "captured_at_utc": "2026-10-03T04:39:11.676Z",
+  "pages": 16,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    18
+  ],
+  "raw_rows": 318,
+  "distinct_rows": 315,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "d4091a1ce55800dc77c1cc33e4a53c831f300776db1f663f66eb6068bf9fc3a5",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "945b934d1934051531d92086b91f273f93b2d7f390aa6043437cfae7f3a7153a"
+    },
+    {
+      "page": 2,
+      "sha256": "84caa649ddabbcf42da99ce4df13f9bc4aaa128f19270efb057b361e2457c64f"
+    },
+    {
+      "page": 3,
+      "sha256": "9886eca26c3e9977956438a5d7656b08f18327c0c8f8ea9f28359fa8702f3067"
+    },
+    {
+      "page": 4,
+      "sha256": "18148174386ca3dc1d570103fb2c64417765d1ff715dd1ffc6af421e9917c430"
+    },
+    {
+      "page": 5,
+      "sha256": "cdaa4b6552448fe00f443053384feffa0688647d06b6e594e55504e1340f8e93"
+    },
+    {
+      "page": 6,
+      "sha256": "7793242b5278888b7a5c14090a42ca30d0c546cb5d3e7afbcec786b69738b3c9"
+    },
+    {
+      "page": 7,
+      "sha256": "9a8e9f0785ddf42952549100fc938be196c535c12df83c6eabc1ede39703fb4a"
+    },
+    {
+      "page": 8,
+      "sha256": "8a79efa381944d1947fcee57ed4a1e3816f5ec598a034d329f942d3fb7df3a13"
+    },
+    {
+      "page": 9,
+      "sha256": "e2f9b442d06e3bc16cefa2a499540dc94a62dcd170cab792670a7e8ff38c6055"
+    },
+    {
+      "page": 10,
+      "sha256": "c8e877415eb1c86a6b2c08ef9dd1517d14ab06e2a56e8d1772122cb2390b5be4"
+    },
+    {
+      "page": 11,
+      "sha256": "4b602e3629084caa4ea37358e81cfb22857f813a82b4c006aa6cadffa2439136"
+    },
+    {
+      "page": 12,
+      "sha256": "c583a368c935a5a615da6669ff186a05c6b9eac250467fde9679fbbf30e544f8"
+    },
+    {
+      "page": 13,
+      "sha256": "45d2fd7bbd53689b4a34e08a46b5ab0ac97a2254e8c0a4430fbe3e85f9526eba"
+    },
+    {
+      "page": 14,
+      "sha256": "6599a514d0dc88efdcf4206fc3f05fa62430b372b1e7eabc12d1482969442c06"
+    },
+    {
+      "page": 15,
+      "sha256": "4aa86599f927f0a60b8c7bfffb70884407167eed72ecae8ec5623c74553e47e5"
+    },
+    {
+      "page": 16,
+      "sha256": "55d8d7f6185c5bb139491680243a2a4f2f6260187d3373209bfa2dd1c840f3d9"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BRL-20260924.raw.json",
+    "sha256": "125e20680712e2a764a83fbcf500ce125a4eebd63386e1467e414169729f7b4b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "41c4e121a1ab9407e62bc6c4e3e075ac8242d63b34fc9e51271fc41ca53e3e44",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
