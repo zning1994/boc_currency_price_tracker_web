@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "b96c5fdd3a3dda66d2dc15d688ef879f2fa27384",
+  "batch": "batch-002",
+  "source_coverage": 10,
+  "remaining": 125,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/AUD/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/BND/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/BRL/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
