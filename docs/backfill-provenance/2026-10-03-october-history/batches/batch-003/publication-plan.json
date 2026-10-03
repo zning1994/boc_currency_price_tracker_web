@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "9b505e40d4e899e24e282c096a5ec51e5461dc7b",
+  "batch": "batch-003",
+  "source_coverage": 13,
+  "remaining": 122,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/CAD/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/CHF/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/CZK/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
