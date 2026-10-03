@@ -21165,6 +21165,26 @@
       "archive_sha256": "0060f9ff8c4e6120331a684c384d14a82335a0f83fc3cb6c139bc587d9af0577"
     },
     {
+      "code": "VND",
+      "date": "2026-09-20",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "f23893fc669444e5a61df2568265d0aaf294742cc2495fad2f44ef7cc4776fa9",
+      "captured_at_utc": "2026-10-03T01:42:37.454Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 7,
+      "unique_timestamps": 3,
+      "first_publish_date": "2026.09.20 00:00:05",
+      "last_publish_date": "2026.09.20 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        7
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260920.json",
+      "capture_path": "raw/VND-20260920.raw.json",
+      "archive_sha256": "e42622f5b05e6a3c68ba9cdfd4e8be5d7ed607771e7c6b36433700ccbdd6b857"
+    },
+    {
       "code": "ZAR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -21623,9 +21643,29 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260919.json",
       "capture_path": "raw/ZAR-20260919.raw.json",
       "archive_sha256": "cc506ae12ef2a1d8a782f3d674830ac2160a598760efef8300b0f06139161a58"
+    },
+    {
+      "code": "ZAR",
+      "date": "2026-09-20",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "849c09703fc99700a8df297a008fc877d25355b292c94ac976057607ba7c31c5",
+      "captured_at_utc": "2026-10-03T01:42:37.472Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 7,
+      "unique_timestamps": 3,
+      "first_publish_date": "2026.09.20 00:00:05",
+      "last_publish_date": "2026.09.20 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        7
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260920.json",
+      "capture_path": "raw/ZAR-20260920.raw.json",
+      "archive_sha256": "c5ec86d1a8670b5f6f85c856bc7f1d0d100ecdfd5275263016136397ce089633"
     }
   ],
-  "completed_pairs": 758,
+  "completed_pairs": 760,
   "planned_pairs": 1080,
-  "remaining_pairs": 322
+  "remaining_pairs": 320
 }
