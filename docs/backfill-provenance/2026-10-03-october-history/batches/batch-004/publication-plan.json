@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "21cff332901662e55a60140d876a0586760754a3",
+  "batch": "batch-004",
+  "source_coverage": 16,
+  "remaining": 119,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/DKK/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/EUR/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/GBP/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
