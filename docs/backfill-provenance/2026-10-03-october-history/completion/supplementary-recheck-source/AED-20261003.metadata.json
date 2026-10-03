@@ -1,0 +1,39 @@
+{
+  "code": "AED",
+  "date": "2026-10-03",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "is_intraday_snapshot": true,
+  "newest": "2026/10/03 10:30:00",
+  "oldest": "2026/10/03 00:00:05",
+  "raw_json": "/workspace/shared/boc-cloud-test/october-backfill/rechecks/20261003T1345Z/AED-20261003.raw.json",
+  "bytes": 840,
+  "sha256": "8ea060bf18534580e64bb7cfa4a3756a69e374c72ad2e89c03d49747b1c8d65d",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/october-backfill/rechecks/20261003T1345Z/AED_2026-10-03_raw.tsv",
+  "tsv_sha256": "1ad0e8a75cb8a2df01227ce9285c40bced2216ad8abe2b15e224bb8318e1e571",
+  "capture_window_utc": [
+    "2026-10-03T13:46:14.567Z",
+    "2026-10-03T13:46:14.567Z"
+  ],
+  "captured_at_utc": "2026-10-03T13:46:14.567Z",
+  "pages": 1,
+  "page_counts": [
+    7
+  ],
+  "raw_rows": 7,
+  "distinct_rows": 4,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "8ea060bf18534580e64bb7cfa4a3756a69e374c72ad2e89c03d49747b1c8d65d",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "08a21e42a545bb78b5b7122d5ec36180ff952812315b2c15ac620aaae10f1493"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": null,
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "7302bfb83ed264a6c80f7a992af27dce422c3aac3abbe9c716b5fbade7364d06",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}

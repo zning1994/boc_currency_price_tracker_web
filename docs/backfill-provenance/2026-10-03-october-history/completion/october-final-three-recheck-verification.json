@@ -1,0 +1,47 @@
+{
+  "source_dir": "october-final-three-recheck",
+  "zip_sha256": "722b523305495a24e89cf316a05e74b14e984e5d6b53322b07ffc770ab66816f",
+  "verified_at_utc": "2026-10-03T14:00:05.659869+00:00",
+  "all_three_raw_pages_equal_original": true,
+  "all_three_sha_page_tsv_verified": true,
+  "counts_as_new_unique_pairs": false,
+  "unchanged_unique_coverage": 135,
+  "results": [
+    {
+      "code": "AED",
+      "date": "20261003",
+      "captured_at_utc": "2026-10-03T13:46:14.567Z",
+      "original_captured_at_utc": "2026-10-03T11:01:01.715Z",
+      "raw_sha256": "8ea060bf18534580e64bb7cfa4a3756a69e374c72ad2e89c03d49747b1c8d65d",
+      "raw_rows": 7,
+      "distinct_rows": 4,
+      "pages_equal_original": true,
+      "latest_quote_shanghai": "2026/10/03 10:30:00",
+      "day_status": "intraday observation snapshot, not completed day"
+    },
+    {
+      "code": "MUR",
+      "date": "20261003",
+      "captured_at_utc": "2026-10-03T13:46:55.654Z",
+      "original_captured_at_utc": "2026-10-03T10:55:25.110Z",
+      "raw_sha256": "2c79d2300500562ae065e14127c521e81b157107c35786637583a8aeb0301583",
+      "raw_rows": 6,
+      "distinct_rows": 4,
+      "pages_equal_original": true,
+      "latest_quote_shanghai": "2026/10/03 10:30:00",
+      "day_status": "intraday observation snapshot, not completed day"
+    },
+    {
+      "code": "USD",
+      "date": "20261003",
+      "captured_at_utc": "2026-10-03T13:45:31.607Z",
+      "original_captured_at_utc": "2026-10-03T11:01:01.679Z",
+      "raw_sha256": "ebaf72cb655179a9a3ad438ba2dd3d6d9c9045210f9f352c5cbfdeea3873d5cf",
+      "raw_rows": 7,
+      "distinct_rows": 4,
+      "pages_equal_original": true,
+      "latest_quote_shanghai": "2026/10/03 10:30:00",
+      "day_status": "intraday observation snapshot, not completed day"
+    }
+  ]
+}

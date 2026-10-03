@@ -1,0 +1,3529 @@
+{
+  "main_sha": "c583691c42d5a4b6eb38233fdfbe16001fbb9b48",
+  "verified_at_utc": "2026-10-03T13:58:03.822727+00:00",
+  "source_files": 503,
+  "all_committed_source_bytes_equal_verified_transfer_files": true,
+  "results": [
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261002.raw.json",
+      "sha256": "54ebc9da58208f7deb63091d8bd988c5c63f6154d1f0a6cf869b768b41a7ce2d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261003.raw.json",
+      "sha256": "7add894a2c4d65f82b16d76b81d9eacf8e405a691f8be64a4fafdf9e295ddaf5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261003.metadata.json",
+      "sha256": "e5a51d765c2968391dea6dba55ebed69daac567c04815df667bee2a15ef96e81",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/MUR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/MUR-20261003.metadata.json",
+      "sha256": "d8cb255afd50a68fe4721a43d233ece816ed38fca997f89968069eb004213d8a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261001.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261001.changes.json",
+      "sha256": "8ba4512db333c5580f654db772679018a2b048960df93c24b465e4a9798bb10d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261002.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261002.tsv",
+      "sha256": "b3686ef1c29ddc290ceb48136d36a1dee834e3198bc36ed00f53b838aeb37605",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/MUR-20261003.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/MUR-20261003.tsv",
+      "sha256": "b240fa270f38f7328c9428ef7a1e3940442b1cf3be21be71241c74d09584d77f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261003.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261003.tsv",
+      "sha256": "0b11258f0b9f9f3e26b458d98e0254aeb754bc1e94103d813a315bb619b5cd14",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261001.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261001.tsv",
+      "sha256": "e1c7f4eb194a96621d25477efb9e1ed32cd43142819a8577db772b3c85b0afb4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261001.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261001.changes.json",
+      "sha256": "03e3c20e384cbbda7c5f7284e675ee54665e085ad354749374a5be433e3e3d4c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261003.metadata.json",
+      "sha256": "0f88baf06b1f630b04a575e2179de5814e00503a4462020df9a3fffd75efdd11",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261001.raw.json",
+      "sha256": "3f98834f7d47fc29f8a5accf86be9c788ed0700ad451217dc6a07a367d8f0fd1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/october-source-sample.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/october-source-sample.manifest.json",
+      "sha256": "ba16575a9dfa6c9861949430c94969c55c91c4f8bac45fd04c1562a66ce2c1a9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261001.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261001.tsv",
+      "sha256": "c3f0d8915a1ee6f89fa606b459a92e6a147bab0460b32cba460fa114d036446c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261002.metadata.json",
+      "sha256": "9653c2b8f667c8759d211fc4a90264876ba25406f0a5638ac2334c9b3a7b3db6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/all-price-changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/all-price-changes.json",
+      "sha256": "f3a6ac0e9de0c85651c216cf529c872108b8619e51c72f5f85f612577e257468",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261003.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261003.tsv",
+      "sha256": "8706744866171e4384102218f65b1ae3ac6494e1fc00a229f41b554244a7a7ae",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261002.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261002.changes.json",
+      "sha256": "0d0ef52ae62c1f067e2f079d823ef7cdd80e9c43b8f1bb88d6dabfbd1b561f08",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261002.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261002.tsv",
+      "sha256": "75b54af6ef52a0608610c6be07098d0b160b555ae51e9e6436f50510092733e8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261003.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261003.changes.json",
+      "sha256": "38df52de49105caf7511b225ef6d28ab3bef117882b11c1f6c2587413ce48e15",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261001.raw.json",
+      "sha256": "895a7c6cb327ea3743c5e894a8a6a857c7aaea11e3219a4b13f506cbec38381a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261001.metadata.json",
+      "sha256": "75cbc98bf3f7f7a95ee89bcbf55e194cc7b0ef0545c9d70207cece0e84cd634e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261003.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261003.changes.json",
+      "sha256": "129b8229b035f50267fb86e2c9b048842168dcd348b394e16083f05617ddf5d0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261003.raw.json",
+      "sha256": "fdabebfdb9cb8869837cd7df3e979227510221fa367a7ecef35b2435e9bbe9e6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261002.raw.json",
+      "sha256": "abec92d4af12a68586373c25ebb17f8986fa5f8772594c514ab7a415f70e9669",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/MUR-20261003.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/MUR-20261003.changes.json",
+      "sha256": "e3066ab719476dcac76312471656c6a06f89d7aae4eeafb5ecacb3ca1f440304",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261001.metadata.json",
+      "sha256": "f0752e7d1333a84e7e5b69d6b24c00c4893d7f7ddbba5f0ce85a7950e1c86797",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/transfer-manifest.json",
+      "sha256": "c2ab67b725cbb26b6282cf0da1148cc0967c2a07bedd00c891ebfa8c8dcd368d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/USD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/USD-20261002.metadata.json",
+      "sha256": "e160377a3630a5ad32d49e5cd04fa9cbf7e0d8bd2318486f5d2092bb7037a40f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/AED-20261002.changes.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/AED-20261002.changes.json",
+      "sha256": "bf74ae44aa3a08297fcd46039abfd9b8f70b73280dc4b10ed05038b49c8f0594",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-001",
+      "local_path": "october-cloud-source/MUR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/source-evidence/batch-001/MUR-20261003.raw.json",
+      "sha256": "85949d897c41b6e5fa9a97339be2f664e72bf7f0956da57d7ed5703ee8b211ed",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/AUD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/AUD-20261001.metadata.json",
+      "sha256": "c9b5eb1cd75982ba99f4a03172beeb04ea654542b60b3f025297a5ce6dc23eb8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/BND-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/BND-20261001.raw.json",
+      "sha256": "e8ef59bac3f6871bfe7b836a602c5f38fa33da03dc51e23368e5d05f68fccb6e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/BND-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/BND-20261001.metadata.json",
+      "sha256": "ebac98f8c96c7c7f4d95845c7ad1a6da9dff17015b72ed0e477b38607e1e587c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/AUD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/AUD_2026-10-01_raw.tsv",
+      "sha256": "1cc78a7b81e6a6d8ff2103d3c1291383378419ac42a3c9b1e11f7db2b8be776f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/BRL-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/BRL-20261001.metadata.json",
+      "sha256": "3c3cae9c5fdd61405cfa498545abe75de2805e1b8a133158348cb6514cd1f3cc",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/BRL-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/BRL-20261001.raw.json",
+      "sha256": "f6f688ee83d2bc4585a29296584eb036e2b7b215b2b1e5807011b6128a179c8b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/BND_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/BND_2026-10-01_raw.tsv",
+      "sha256": "dcc0babe2c29d11edff4b4135930ef5f5bfd88a80c097b0c84f36f459b723514",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/BRL_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/BRL_2026-10-01_raw.tsv",
+      "sha256": "3ea2807c9d636f72a99f6e10e22a18e36a32f1fab1ab1f54d490edb43a421c52",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/transfer-manifest.json",
+      "sha256": "cf6bbb89e7039c8f0642ad4499db99bd8a93a380c0d290e7fd81fa69c15442d4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/AUD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/AUD-20261001.raw.json",
+      "sha256": "94b568a7244dda9f4b937aeb97a06133a1064b5d9b327174186528697e2ea95e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-002",
+      "local_path": "october-source-batch002/batch-AUD-BND-BRL-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-002/source-evidence/batch-AUD-BND-BRL-20261001.manifest.json",
+      "sha256": "b6bf7a02d12f5e3f3a5d9b3b81266e0f38e84712b374faec57da4c59a60014ab",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CHF-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CHF-20261001.raw.json",
+      "sha256": "f49ef33d34ab70e8b4ab4481757ccdff5bbc5ca426c7d0f128d4fad824c680c4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CAD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CAD-20261001.metadata.json",
+      "sha256": "38b3f1b21fbc9106b44c2993b2d4560901ae4b14208b18ae82a0045cfd7173d9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/batch-CAD-CHF-CZK-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/batch-CAD-CHF-CZK-20261001.manifest.json",
+      "sha256": "8d212220c9f2a34083fc9173a5c1511676cbef899e2d776530adfeb9ffdc3a1d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CHF_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CHF_2026-10-01_raw.tsv",
+      "sha256": "026963c4fb272a9ef9830a3c809b6e607ee0e368369d12c0a627df4587f3ed65",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CZK_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CZK_2026-10-01_raw.tsv",
+      "sha256": "cf20c6c105ae42a97ddb794201586a7f6caa95f3e47a774fb854efba119cbaf8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CZK-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CZK-20261001.metadata.json",
+      "sha256": "11eb22f00b2e74005ce0dc38bddeec41add826d9ef45651108fc543e1cf645cd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CZK-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CZK-20261001.raw.json",
+      "sha256": "8628b2a70d8c694eda85703629a6bb3f3e2818e93c88d6f39ba4b2576d9c61ea",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CAD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CAD-20261001.raw.json",
+      "sha256": "cbafe2e5771a603189221d91762d786ae16084de8596606577bc06e12014e27b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CAD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CAD_2026-10-01_raw.tsv",
+      "sha256": "0bb1f96a1bc13d576baee9297d68bd1d956c39adcdfe4b9c8337910c114ea0bb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/transfer-manifest.json",
+      "sha256": "376170f1032878a9c5f554c8465cee70561800b9fda869c0659d7e0db1f80998",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-003",
+      "local_path": "october-source-batch003/CHF-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-003/source-evidence/CHF-20261001.metadata.json",
+      "sha256": "4caac0bd67b8e8e2735f4abef45192e5efd8402c18361aef46461e8fe1f9a86e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/EUR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/EUR-20261001.raw.json",
+      "sha256": "ff1045f29df7bd41219fc01d05968e480a59fa5b536b2a81e4095d12127a7b8e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/DKK-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/DKK-20261001.metadata.json",
+      "sha256": "6044f44d9c53ae29bd9feefd94281098d5c04bbe1c69ba69d72586fb790ea5c2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/GBP-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/GBP-20261001.raw.json",
+      "sha256": "0e6ffbb5817af362a2c2cc15e7eb19d84cb5f1d3a69295f866f86c8b2a227493",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/GBP-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/GBP-20261001.metadata.json",
+      "sha256": "edd59c178d83393c361795d262c48f6f4bbde6aa926f3bdc7748817d8a5ecd93",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/batch-DKK-EUR-GBP-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/batch-DKK-EUR-GBP-20261001.manifest.json",
+      "sha256": "2d253a48f83a817f8f492ccd6f7c7fb3e59389d14a4f519a286f85364435a94c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/GBP_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/GBP_2026-10-01_raw.tsv",
+      "sha256": "966372a63386d2392eb6767c23bbc57021cc8f47fb0e6fd42d382d38fb413323",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/EUR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/EUR_2026-10-01_raw.tsv",
+      "sha256": "9aa1c02a38b089d7b4b1849487f70787ca55e0c7fa4701460dc10f8d2d6c3dce",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/DKK_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/DKK_2026-10-01_raw.tsv",
+      "sha256": "16218349175bb55453b349a86bf469dcb00be4ef5615966193c901dac505650a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/transfer-manifest.json",
+      "sha256": "8c69262e73108953c1c1e94113a6c4c71edad215a468f2e112bc0d8407faa3d3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/DKK-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/DKK-20261001.raw.json",
+      "sha256": "247d3d4257dd6a374382c3573e18104abae0a4a6a2d3a5229678a41c797d8311",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-004",
+      "local_path": "october-source-batch004/EUR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-004/source-evidence/EUR-20261001.metadata.json",
+      "sha256": "878114b371f725d18e25faa1a8b0e0954124febbf61e09941a5a8379af43cd51",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/HKD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/HKD-20261001.raw.json",
+      "sha256": "727e3e96d06d887c142f2689c29e1b33de02634436f453d28b40704bac6522c0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/IDR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/IDR-20261001.raw.json",
+      "sha256": "330f6d4aa6f0bd4704e39b971118d926f668235b0e739ec3f7b0f10d079c97f4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/HUF-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/HUF-20261001.metadata.json",
+      "sha256": "a1025219e9492a96b94dfb6791547fe4a0aae6e3a98b32fa329d2ffd6012a429",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/IDR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/IDR_2026-10-01_raw.tsv",
+      "sha256": "130f810f380f69f0e94d3e45a23887134bf857d8dab556719be228ef6e85923f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/HUF_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/HUF_2026-10-01_raw.tsv",
+      "sha256": "6adf83ce4eabe030daf114cd4731b296cf291b09b1b7c493f459a621ba37c072",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/HKD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/HKD-20261001.metadata.json",
+      "sha256": "ea6df915b62f4e9c299aa2759dcde5ac7623450ca8483459967a668ff6db54e3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/batch-HKD-HUF-IDR-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/batch-HKD-HUF-IDR-20261001.manifest.json",
+      "sha256": "c23fb0b0e56708af4d51375d93b96980ef2fb91e0ba1f87415f0a55c02663dd6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/transfer-manifest.json",
+      "sha256": "77c3b261099f774c9601a1b22ee59e166fc96d4f41e984130b36973ba851fcb3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/IDR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/IDR-20261001.metadata.json",
+      "sha256": "1f5bdbcb236ecec69582720ee9e4ba7f1bdbed3e21f49ecd9566d61dfff657a3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/HKD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/HKD_2026-10-01_raw.tsv",
+      "sha256": "ff1091aa0178fb001d9b0142bff79345667c4945bbaa8eb707fff786d438b2ab",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-005",
+      "local_path": "october-source-batch005/HUF-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-005/source-evidence/HUF-20261001.raw.json",
+      "sha256": "b2d5e7845a7a18798bcc1c7e4a57ce9f97fd462a2114dac57aecbe3b0362a77a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/batch-ILS-INR-JPY-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/batch-ILS-INR-JPY-20261001.manifest.json",
+      "sha256": "accc7d9e6481430b79d8421820ddeffd891cf973c45f26d37b9b7500e53a73bb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/INR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/INR_2026-10-01_raw.tsv",
+      "sha256": "0869af96fd5b8f6c8d592d7605188ff2019e08dc04767279571a58384fe06a0d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/ILS-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/ILS-20261001.raw.json",
+      "sha256": "67d343d6f80aa942fce5fb757cadc6935614eca613aa3267947eec7caac89e84",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/INR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/INR-20261001.metadata.json",
+      "sha256": "74035a0e638afb0e930e32b37239a788a33d2c78b318e5c8946a47109f692631",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/INR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/INR-20261001.raw.json",
+      "sha256": "2daac5b651fb2fba7bc7242990dd212838bed45442721f94a5269d11c7174817",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/ILS_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/ILS_2026-10-01_raw.tsv",
+      "sha256": "329d9d5c195a6836f6d99848ee703206338267110c70f9a2857acfcc3026cdd5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/JPY-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/JPY-20261001.raw.json",
+      "sha256": "f9309562aa569b1f1cd778b7ca3f9473af9f728e0f801675bc0e8a7872d37c43",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/JPY_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/JPY_2026-10-01_raw.tsv",
+      "sha256": "8551b6972c06841cea309cef67fd067441fc319b9135d5049c8c9488c6865ab6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/JPY-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/JPY-20261001.metadata.json",
+      "sha256": "ed026bbff17907303660dbd307c78c38771b4f268283b6046c94a327e990ba98",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/ILS-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/ILS-20261001.metadata.json",
+      "sha256": "3d2414c7376a31f542110eea8a14f20c694b7a546934ed179ae5af6cc6e84d07",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-006",
+      "local_path": "october-source-batch006/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-006/source-evidence/transfer-manifest.json",
+      "sha256": "920290dfb8c25e32313adb2ee8652e397e7661180af05597bfd5e8391b5aee89",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KWD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KWD-20261001.metadata.json",
+      "sha256": "193f06e8ce3cb34f6385703136f855c917229bb4fd9734241b1b66cfc29b2406",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KRW-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KRW-20261001.metadata.json",
+      "sha256": "b679e333f28e11cc955f9380f8a39fbbaff95f06eff9b88a6fe4e87188899b69",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KHR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KHR-20261001.metadata.json",
+      "sha256": "f633bd742a4543cce97aec253c4c1b5c084ec5d306c5ba3bd80c7b607be3aec5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KWD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KWD_2026-10-01_raw.tsv",
+      "sha256": "8ad10cde83bea1453ad82438e7a28e56c81f7120b85b63edebde009ed654576a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KWD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KWD-20261001.raw.json",
+      "sha256": "012bccbeebc9bfaa8d10cc425467eec86e998c3cfc43361a93e3cb8428f24c45",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/batch-KHR-KRW-KWD-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/batch-KHR-KRW-KWD-20261001.manifest.json",
+      "sha256": "2bc3fd5a96ee2976211a8e797fe90bb0a1d90c4aa3d95f702e44d2432926790e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KRW_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KRW_2026-10-01_raw.tsv",
+      "sha256": "3f50268246024d88535822eda689bd416daffa0293dea8b5a8cd667a48ed8d39",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/transfer-manifest.json",
+      "sha256": "ae4db5db9624b2c9a5f707dbb129ee28eaa51444b12aee150ea419a60ccd4e41",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KHR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KHR_2026-10-01_raw.tsv",
+      "sha256": "a8ae57d134f78f15f7fbc328689c374f4960aa09073d306c29059643d3a96128",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KHR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KHR-20261001.raw.json",
+      "sha256": "45c10ff3bae89cdb7675ce6b9d8fc27fdc5c36ee282cacd95d26b5ec417e4de4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-007",
+      "local_path": "october-source-batch007/KRW-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-007/source-evidence/KRW-20261001.raw.json",
+      "sha256": "cf0e4e9b01110a212ae80318979e62525dd6590598fbe6400a7cae868b8d24de",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/MOP-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/MOP-20261001.raw.json",
+      "sha256": "7d3fdc3b31511fcc9cba6a15bad6979edb5928a46bf9ddcc7e2efb41d25744aa",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/MNT-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/MNT-20261001.metadata.json",
+      "sha256": "8aa9f6354a6bbfcc2ed155798d38b6a904929f7aeb1b4c7c5489fc5c27fcae82",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/KZT-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/KZT-20261001.metadata.json",
+      "sha256": "751d552aae72f28b7fcb0155edceb1ed7b0d2ddf8a2de2f6340ef75e0e8e23e0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/MNT_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/MNT_2026-10-01_raw.tsv",
+      "sha256": "c6ac53dd7886a26732de58de003ed7a73a7b5fcf305c072248175bb0e16fc68d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/batch-KZT-MNT-MOP-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/batch-KZT-MNT-MOP-20261001.manifest.json",
+      "sha256": "d98863056cbf447ae0b06ecdb2a565909f86057e363482f80a5da5e158ec357d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/MOP-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/MOP-20261001.metadata.json",
+      "sha256": "f3cd88a3f8e48adbae1571696c55f23d0374541adc73a62e2286946c8973567b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/KZT_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/KZT_2026-10-01_raw.tsv",
+      "sha256": "b3d0d96dfba212dedf6110cc1afad558482f56377bb62d2e569ccdf77ecddb44",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/MNT-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/MNT-20261001.raw.json",
+      "sha256": "aeb28101927140574032d71dba578301231ef92d8c9f0806a3cd61402278db82",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/KZT-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/KZT-20261001.raw.json",
+      "sha256": "0c766452a1ea93360eea729174a32b966d35b6a7c9cb0231344e5a358de76308",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/transfer-manifest.json",
+      "sha256": "dab024827e48e4c27ad15a3c32cc003cf174cbc7e065569df965b55a63c01670",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-008",
+      "local_path": "october-source-batch008/MOP_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-008/source-evidence/MOP_2026-10-01_raw.tsv",
+      "sha256": "65fc20df4e6eb7f6056f2d5c83d398615c0a99b482199796fd92cc064f168207",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/batch-MUR-MXN-MYR-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/batch-MUR-MXN-MYR-20261001.manifest.json",
+      "sha256": "984bc6155a9a339d54f48316fcae884bde941ee0f20ba55f585d3c605eda7311",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MXN-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MXN-20261001.raw.json",
+      "sha256": "f3129e5dccbf58fb7447fa5a6c335ac45a50932dea2dafac308d2344837f26bc",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MYR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MYR_2026-10-01_raw.tsv",
+      "sha256": "fcbad794f26422a4a2dd492377aff5006d58ed38f79369306e59b3b6f31c74bc",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MUR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MUR-20261001.raw.json",
+      "sha256": "b96fe1ce38d983972cb1839aa9040fa85526349f9188e77db0505901fc80e010",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MXN_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MXN_2026-10-01_raw.tsv",
+      "sha256": "30d4f071bbdeb198fb8eca1f8ab23cabeae275ed7b513a98e655dc654cb1a4af",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MUR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MUR_2026-10-01_raw.tsv",
+      "sha256": "54c4d8a9d6b1ebff42b518ae1c3eea246eb4cfdeff2b8e094d719c7ccea2d854",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MYR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MYR-20261001.metadata.json",
+      "sha256": "44e30d01630f44e9b5248babd2f28d01a00c92494c7e97db320f2b195d014161",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MYR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MYR-20261001.raw.json",
+      "sha256": "e2eb8836996c60e72e49c5c05e3ebcaa41d72ab854de1cd377839b85e6dbc331",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MXN-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MXN-20261001.metadata.json",
+      "sha256": "c555e5a69dfa13cca0e1e1bd4c9d890e7c7261282df63cbaf64ec9c9d7cff9f9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/transfer-manifest.json",
+      "sha256": "a900044de2cb8b5b989fbeae20496ca491ed63fd01ef3a000f8dac0d85af7834",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-009",
+      "local_path": "october-source-batch009/MUR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-009/source-evidence/MUR-20261001.metadata.json",
+      "sha256": "4c6ad40bf5906ee3d26586b75c9516251789d06db00d4ff05501ddcd62fd317f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NOK-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NOK-20261001.raw.json",
+      "sha256": "25d81cffaa7e4f490d6a4212ba0af633389461ff03f640b1caec774251e98ca5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NZD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NZD_2026-10-01_raw.tsv",
+      "sha256": "d39087a3875871ab81a32235548e4b908a7fa2887fb905cb94708ad78aaabcea",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NPR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NPR-20261001.raw.json",
+      "sha256": "57bf74285b48b76eaa00395c36759cc52216f6dfa3cbfc8fbd7d6110e62758a2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NZD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NZD-20261001.raw.json",
+      "sha256": "aaaa0a57ad4b9fd2112f16fc3c01c0776aa306f6b739a0440505582c3e009840",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NPR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NPR_2026-10-01_raw.tsv",
+      "sha256": "10d009c233875214606e00eb707e6a3b33a2bfb2540bcbbc529ef89a802f4b76",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NZD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NZD-20261001.metadata.json",
+      "sha256": "91e56bac7cd5fd710939f11234651d5f6e03e41520c1f749893fcd2b9d673833",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/batch-NOK-NPR-NZD-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/batch-NOK-NPR-NZD-20261001.manifest.json",
+      "sha256": "d58c676e5aa384b32d7a879e6b8ec0e23455415161eba3c563d33c1ef790b7d3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NOK-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NOK-20261001.metadata.json",
+      "sha256": "a28c3dc764aff97b941e598ccca9f5ef049d3f5bf550c45e850cfa57316a3991",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NPR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NPR-20261001.metadata.json",
+      "sha256": "31e7afe76b1e31a562afb3a3e98e0afacebc5228bf6082d2c7ba876f9785cadd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/NOK_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/NOK_2026-10-01_raw.tsv",
+      "sha256": "1739df25ea627bce16d3e247ce5303bd64373bd7e0490c195a634ea00edda76c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-010",
+      "local_path": "october-source-batch010/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-010/source-evidence/transfer-manifest.json",
+      "sha256": "27b5b8b812f199d5c1876652a49036de24b5ee75d529c41e2c7202128c7cf4f1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/batch-PHP-PKR-PLN-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/batch-PHP-PKR-PLN-20261001.manifest.json",
+      "sha256": "be833124f3444036dd6d943cda949c6cf5718ca0d241afaaefb0ca5457ddb1a3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PHP_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PHP_2026-10-01_raw.tsv",
+      "sha256": "54dcd08e7b0c2cbc34eb88551eddf221b745ed30df67d429a06654d588c15986",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PLN-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PLN-20261001.metadata.json",
+      "sha256": "7fdbeaa8ddb5aacdf4e0820786143c1c21228847a487dd84eba40cc77ad054ab",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PLN-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PLN-20261001.raw.json",
+      "sha256": "f9399343270cdcc275081e2c224241bf46b2d358f7ee4c6ffce48f9f6fc2ba97",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PLN_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PLN_2026-10-01_raw.tsv",
+      "sha256": "196900aa4bca112065b2bc2b3464ffb01f9ac02d6463f0f870531ecaecfe5248",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PHP-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PHP-20261001.metadata.json",
+      "sha256": "cddb5cef7798dd16eba0d7bc6a48ae134a28b7b5b551071ddca609a9ac8c38fb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PKR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PKR-20261001.raw.json",
+      "sha256": "e20df7a5741ae6b536cf0f3329a8cec362734ad758cc34d77a1580e5502298e6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PKR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PKR-20261001.metadata.json",
+      "sha256": "aad29b4e22919ae4fecb1663803d2720d3dfb6e74e764b3e02a9e1b18d189195",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PKR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PKR_2026-10-01_raw.tsv",
+      "sha256": "65e62d97a371e96839177631726e831364659370a738886e778d8c43bb397301",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/transfer-manifest.json",
+      "sha256": "6681e104dcb4f08e3c6f8e2511ee1273025f68d14133dcaae258dd0aa38a62b8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-011",
+      "local_path": "october-source-batch011/PHP-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-011/source-evidence/PHP-20261001.raw.json",
+      "sha256": "f16e0c7c0cd11e0c3cdf527db43b8922c385e4f9bc96e55631710a6c480439d6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/QAR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/QAR-20261001.raw.json",
+      "sha256": "39f897a749db73a04600878c6ec65ebe59194adf6ae62c8bf9830da6563e2f49",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/batch-QAR-RON-RSD-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/batch-QAR-RON-RSD-20261001.manifest.json",
+      "sha256": "c470b319906757c689ccc7793834f4130774220aec6f65d88fe41e1e1701d13c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/RON_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/RON_2026-10-01_raw.tsv",
+      "sha256": "6f13cda86c60e35b9598a471d5e592022e9cc61c7b839184ff52cf8f617c9458",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/QAR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/QAR-20261001.metadata.json",
+      "sha256": "999ce5a98bc52925efbb591fa1bba8dde89bf7252f6336f1f92ded45a5033cd9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/RON-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/RON-20261001.raw.json",
+      "sha256": "0830958de9a189305f5c8121e9ad66cd4546f3f72b9fe4456b2afa2fcc74a246",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/RSD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/RSD-20261001.metadata.json",
+      "sha256": "167085bcb85cf51c5c432487aa34186fb14dcdf62aef1717fd0e306c6d05199f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/RSD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/RSD-20261001.raw.json",
+      "sha256": "a0d3fef0a86962ffab94deb1208a4416f0bb66f1d4cfc5818141e28ab2139383",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/RON-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/RON-20261001.metadata.json",
+      "sha256": "8b76e5ef2d1cb57b3ac1466b840b1e11f84a6b0ef82a8053f1e723c127750453",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/QAR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/QAR_2026-10-01_raw.tsv",
+      "sha256": "3c35e358fe593a9240a9a45a8462ea7ee1b750fdadb1c24d1743ae0c2e87b932",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/RSD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/RSD_2026-10-01_raw.tsv",
+      "sha256": "2d92b89f69a66aaf4ea44d5641d8ea9447b0ebca26b98149f08fe5d266f86c78",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-012",
+      "local_path": "october-source-batch012/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-012/source-evidence/transfer-manifest.json",
+      "sha256": "7f3617a5c90013106ca02d4f8e8453990f96e17be2a73c75b3fbf1c79fef8998",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/SEK-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/SEK-20261001.metadata.json",
+      "sha256": "94723a615591533d5320b0598f7defcba2d5f8e2b30a641bdd9854638b0a9ab9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/SAR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/SAR-20261001.raw.json",
+      "sha256": "2cb3e6f0346f6709e07b38a885e7cd0cc0b10a4c5a230e188b548a57142d8c2b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/batch-RUB-SAR-SEK-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/batch-RUB-SAR-SEK-20261001.manifest.json",
+      "sha256": "6cb408a41cd445dd2fb6fb512b2149ef8b765397f66542cfe43ce86f10f53e30",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/SEK_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/SEK_2026-10-01_raw.tsv",
+      "sha256": "3dae293f03c1b39b23b01b7793ed59afb669f9be4003b5e5d7c19e4a1752293b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/SAR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/SAR_2026-10-01_raw.tsv",
+      "sha256": "7715f297a68fbb08b3973f9785c1644b11c67a2b0ba408860c917c41c2e16640",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/RUB-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/RUB-20261001.raw.json",
+      "sha256": "95cc1cee857eb886d0098b794cf34a3e702caf1547934f5bd96e259d6eeb15c6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/RUB_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/RUB_2026-10-01_raw.tsv",
+      "sha256": "853f6d7565a5e135455efa5decffacc8421de6eff7596a71fe601eaec596df4d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/SAR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/SAR-20261001.metadata.json",
+      "sha256": "7ad68ba5803e46ac1e1cac2d85827aca8a684642700dc7698a806773e085d5b7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/transfer-manifest.json",
+      "sha256": "d0b2324278910235a8a4d0f936efd9e544cfe683675bf49f539cdae12d24ad26",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/SEK-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/SEK-20261001.raw.json",
+      "sha256": "e62c35e9aee0939b3cf4a379551b09f4e1cfdda54c5f1bafa8a78994aebce6af",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-013",
+      "local_path": "october-source-batch013/RUB-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-013/source-evidence/RUB-20261001.metadata.json",
+      "sha256": "767909677a3f0925360f74ce180000b871d9531378cf43c84b8dada2653f56e8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/THB_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/THB_2026-10-01_raw.tsv",
+      "sha256": "b14010a84a37300b99393a1e0c0162551478aed2f94b1d5d8edd90a974779b4d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/THB-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/THB-20261001.raw.json",
+      "sha256": "dc3ce907a47bdee117066381d30b1a6599f9ecc98a6b5e18cbe6ac96e6690694",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/TRY-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/TRY-20261001.raw.json",
+      "sha256": "f27b35860f929a51d220a472b136c8c79b126d78f64aa6c62c276a1464e0013e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/THB-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/THB-20261001.metadata.json",
+      "sha256": "cdd392f43d3afa96b7c4e6efb98d2ba302a4c28cd46d08ab281c60b5df2e8c14",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/TRY-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/TRY-20261001.metadata.json",
+      "sha256": "704b6f88b59ab13e8e7684c9b64b33cb38ba1f5304d50c0b1a3ca5c152176b7f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/SGD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/SGD-20261001.metadata.json",
+      "sha256": "ef22abf4a0a756a355898dd0cd1f5ed62b41c8800fa416da0c460787c8255085",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/batch-SGD-THB-TRY-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/batch-SGD-THB-TRY-20261001.manifest.json",
+      "sha256": "34698c855944ba910a7c1d72a0e09d1533cd030051c81cd3ea40ff584ca53115",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/SGD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/SGD_2026-10-01_raw.tsv",
+      "sha256": "f8be3bb98bce44e9e4aca73688181090d3cc5f422e529959fec562e5f83172cd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/SGD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/SGD-20261001.raw.json",
+      "sha256": "29fee20cb9dfc8da5e5587654414cfb2a607569c22dfac25c303e669fb75e5c9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/TRY_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/TRY_2026-10-01_raw.tsv",
+      "sha256": "7f38b3f5e2667e15fa46c8b664957c4ee1f9bb783e29d95eead3a29dd76bee7e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-014",
+      "local_path": "october-source-batch014/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-014/source-evidence/transfer-manifest.json",
+      "sha256": "2b5d46b168277e2e809747d71ef2c3decdec89aa898d225ce0bb4c6850ca9078",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/VND-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/VND-20261001.metadata.json",
+      "sha256": "b4ee75f814760bb896f523be36d698bf684fd11c6e9bd9fc514c98a5754355e3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/TWD_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/TWD_2026-10-01_raw.tsv",
+      "sha256": "57d7f7cd712b2c3c0718971ba5b8bc296953672af1b241a54088a64b974ed066",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/TWD-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/TWD-20261001.raw.json",
+      "sha256": "479dd1acbde4f4fcd8c50698acea808ac05c3f2c9fca4991a053d432c90fb102",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/VND-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/VND-20261001.raw.json",
+      "sha256": "88e93851286b6762916f2eda3a17065f78a06c5d77683c12d6a9ded8cfe20959",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/ZAR-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/ZAR-20261001.raw.json",
+      "sha256": "70da82d630dfcbfe8bb7693ddb7f412bc148dea473d83cdfc900bc8143ffe346",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/ZAR_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/ZAR_2026-10-01_raw.tsv",
+      "sha256": "ee7f31300e4628c67e5f3729e3e663fe80c4b24c015cc96b8b82523b1d3ac72b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/TWD-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/TWD-20261001.metadata.json",
+      "sha256": "2049041424bad72f0e49b140f2e089ffad7c754e66d8d5e15e96998662e5f3b7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/batch-TWD-VND-ZAR-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/batch-TWD-VND-ZAR-20261001.manifest.json",
+      "sha256": "2b6f2c1e08de9879cc90b4cd7fd1e40094688b307a2aed09604bd0e0fabc1e86",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/transfer-manifest.json",
+      "sha256": "6a4595a150c94f9b7fe8da547ab94e6c84c441deaa93f4f8c407167b8a8a0e2d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/ZAR-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/ZAR-20261001.metadata.json",
+      "sha256": "741c7bf68e7f24742615a9ca76b63aa1a6d9d54f3f3d371ff09880e7baf1c8f2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-015",
+      "local_path": "october-source-batch015/VND_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-015/source-evidence/VND_2026-10-01_raw.tsv",
+      "sha256": "a073545045153a8d32a98c62e3e85a9b60a040536aea175736f61d32ec64034d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-016",
+      "local_path": "october-source-batch016/ZMW_2026-10-01_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-016/source-evidence/ZMW_2026-10-01_raw.tsv",
+      "sha256": "d4f71d8a7bd40961bb5b23083ccaae556ba97c18a0000ebbc9d9fdbe2cc847ab",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-016",
+      "local_path": "october-source-batch016/ZMW-20261001.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-016/source-evidence/ZMW-20261001.raw.json",
+      "sha256": "8c5b3e7300dcd158eef49325f49df4c77ef6ef99fbba9cafe416b23af97fa0d5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-016",
+      "local_path": "october-source-batch016/ZMW-20261001.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-016/source-evidence/ZMW-20261001.metadata.json",
+      "sha256": "d7fe1871a3a6d0cf98ea65ea8e36a013e036b3ee639b0a1350ba75e473e90716",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-016",
+      "local_path": "october-source-batch016/batch-ZMW-20261001.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-016/source-evidence/batch-ZMW-20261001.manifest.json",
+      "sha256": "de83d2936480c0c3531516d3077a04a0864997c8fbc64e12f30970eeaf0a722a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-016",
+      "local_path": "october-source-batch016/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-016/source-evidence/transfer-manifest.json",
+      "sha256": "092de0fe94ef40dd461e81d481f3c64aa84ee94400d986c0b8973632b1ede264",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/BRL-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/BRL-20261002.raw.json",
+      "sha256": "284edae9d47bb3e71dfd7f98ecc50d5dc4d8d75716b2226bf305e59093eb42b0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/BND-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/BND-20261002.metadata.json",
+      "sha256": "501888b5a473c591ebf4b4880840133c07a6e2d9e50b0d6077bae26842a78d91",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/AUD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/AUD-20261002.metadata.json",
+      "sha256": "cc8b105677c7f5d27296bbf4696d8f3910a38cf6b38b6c39325be555048f5dd7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/AUD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/AUD_2026-10-02_raw.tsv",
+      "sha256": "232f40f35f518bc3ab0c7930a8840bd81eaa2dc37ce00c1d145ddcf3c3db2394",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/AUD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/AUD-20261002.raw.json",
+      "sha256": "2f202e4fed8516cbae2ffdca7fb2fd8bffa37e61e7c8be882998eaef56a0d609",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/BRL-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/BRL-20261002.metadata.json",
+      "sha256": "fd8a3ee8a214c947371e86e0f5b2150d34b345869431ca9f893bfbc45bc2c1e7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/BND_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/BND_2026-10-02_raw.tsv",
+      "sha256": "cbe2d60f3f3ea20abfbc7a710e3ec13a629230eefc8030b7e98a887ef0365384",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/BND-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/BND-20261002.raw.json",
+      "sha256": "8ae96b1630d50df0b7cd253f7b481bb94a4f5896ce99930f37fac9cf7a39ba97",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/BRL_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/BRL_2026-10-02_raw.tsv",
+      "sha256": "3e6a91665fe5cb9de2e7e0fdf6d909a81a1676f0d821b666778faaf1b254ac31",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/batch-AUD-BND-BRL-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/batch-AUD-BND-BRL-20261002.manifest.json",
+      "sha256": "c22cd4056e5025388f2cf1525d129731b14593d4cda77433725e25ee05125dda",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-017",
+      "local_path": "october-source-batch017/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-017/source-evidence/transfer-manifest.json",
+      "sha256": "6c9ac7b9322148faa1fd9aa41b9141fcc90f74ace48eaf7e295b2570d81dde9c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CZK-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CZK-20261002.raw.json",
+      "sha256": "e23428ccd2355ec4c6d63bf8035d656e81679da3983c8d70f0020ce086ade44a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CZK_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CZK_2026-10-02_raw.tsv",
+      "sha256": "568ed0ff6e7800081d8e424b87f186527ecf9557a6a94244f598ecc6d5cd0576",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CHF_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CHF_2026-10-02_raw.tsv",
+      "sha256": "d89602b2ffc4cc40023a8a10c9e74b7c0383af49d427331c8f4214826091a9d1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CAD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CAD-20261002.raw.json",
+      "sha256": "c97639ec663814dcf22c221dec8c38cd448a307982d73d0658172f625e9d572d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CAD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CAD-20261002.metadata.json",
+      "sha256": "687a81cd0dd199ab7eccaef1b3c00ced94d9d781784c2f8d03d4ba53e4dd8b2c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/batch-CAD-CHF-CZK-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/batch-CAD-CHF-CZK-20261002.manifest.json",
+      "sha256": "571fc2a4c305d80d6f429f5483609cf470f7787cb728df37d60daad21ae5d086",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CHF-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CHF-20261002.raw.json",
+      "sha256": "29860aeb318ad19da0d0337bbf2b6bd2f1f79771a700891e33dd3355376bb870",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CZK-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CZK-20261002.metadata.json",
+      "sha256": "a6135373cf4534d60fa70339f6aa8530a3614c161f14c5d6b5170a427ac366fe",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CAD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CAD_2026-10-02_raw.tsv",
+      "sha256": "2da4edc289808c5428ee5bacc6814232c7deef4b48267102e23513c760e92af7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/CHF-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/CHF-20261002.metadata.json",
+      "sha256": "988f6e756f59bb53c16734746e946e8cb8957d9f35bb455d56d227b5c415c9b9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-018",
+      "local_path": "october-source-batch018/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-018/source-evidence/transfer-manifest.json",
+      "sha256": "59daa4d49033bcd560980e55dc38920568d13a55a8c04b00a6ba8c796fe918d5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/DKK-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/DKK-20261002.metadata.json",
+      "sha256": "329bdbfeb31aa3713de53ea13cd84e8f2c2da6997b76ee0583e69e1980cc3b58",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/DKK-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/DKK-20261002.raw.json",
+      "sha256": "a7adc5b216989bcf775123a55f444a1b247007917b77a7c8c5db77fd7ed16822",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/EUR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/EUR_2026-10-02_raw.tsv",
+      "sha256": "6fa9780a635330ba55d55b946e17c5239ffee2f5ec4f0ac7a3dacb5545b6a27e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/DKK_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/DKK_2026-10-02_raw.tsv",
+      "sha256": "ffae9abc00a06994d30f6166092557b8ea5aa89f465762295cb38b68b2e843b2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/batch-DKK-EUR-GBP-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/batch-DKK-EUR-GBP-20261002.manifest.json",
+      "sha256": "2731a0575c12c0cc3aa69a84d00e391ede5b58558b2f928a81436b6235268e07",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/EUR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/EUR-20261002.raw.json",
+      "sha256": "8d1fd5c1b5bf03cc80800b4b93475ccacaba9f3b6773a1ca06be920074f135c0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/GBP-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/GBP-20261002.metadata.json",
+      "sha256": "710271cf5dc6bbca9d245531457948c166cb3667c58f631eed03f7a265a4bf94",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/GBP_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/GBP_2026-10-02_raw.tsv",
+      "sha256": "3af096de9e921eb13c28d80eda7d772029617ac79146c8d68b23ffdd8216f49e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/EUR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/EUR-20261002.metadata.json",
+      "sha256": "67d0e216e601a2860c2474e97e169bdf6d94219055b2cba44d01c890924b67b3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/transfer-manifest.json",
+      "sha256": "e72528160929d602ce7c28670fab0a4ddefeac3a249e6e25605658407688e0f1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-019",
+      "local_path": "october-source-batch019/GBP-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-019/source-evidence/GBP-20261002.raw.json",
+      "sha256": "b7df4ab6f90d918d6da8b05cc312a5410b271198948cc0f353dd2dc5ec1f0eea",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/HUF_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/HUF_2026-10-02_raw.tsv",
+      "sha256": "75a8fa1b6597a1c0587689356e976016bf6ed4eed86ddef88a4433fa916a730e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/HUF-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/HUF-20261002.metadata.json",
+      "sha256": "496c173c35dbb79059535185f864639a599ae2e9bf4de0ecf58981eab6d00089",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/HKD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/HKD-20261002.metadata.json",
+      "sha256": "b3f148aff6110e3c9d06918f49b4740a58fb62ad360363921bd128a4817ffa80",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/HUF-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/HUF-20261002.raw.json",
+      "sha256": "6c98412aed7c521e764865a8b2d85e89de07bc227b728227be320774716e5603",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/IDR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/IDR_2026-10-02_raw.tsv",
+      "sha256": "c7eafb7b694dfad313016a48b6e8495318a4497c7e61494f96d5c49eee512379",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/HKD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/HKD-20261002.raw.json",
+      "sha256": "ef5d8c9332419b4b962022559c5befa5976f32d90f2dc307551677185f7ebaee",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/IDR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/IDR-20261002.raw.json",
+      "sha256": "aff351661a3fbf7879e110ee2da6ccc42e53276654ac52d8b56b1a89576462ad",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/batch-HKD-HUF-IDR-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/batch-HKD-HUF-IDR-20261002.manifest.json",
+      "sha256": "383f55cc8491ce81c92b3af806023efbfc764cd77d37a8d47a2f0beca5de3953",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/HKD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/HKD_2026-10-02_raw.tsv",
+      "sha256": "97630f158759f2985e1d94dd2a61667acfa1a09ee463e2d0efaef522fb626e5e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/IDR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/IDR-20261002.metadata.json",
+      "sha256": "baa86b5002bbe0456caabe32773c138049ddab49b2cbc17b459226c2b41a2500",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-020",
+      "local_path": "october-source-batch020/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-020/source-evidence/transfer-manifest.json",
+      "sha256": "d98afb69e9a820bf42c06a60c576a89fb09105a50f8dcd7cd120f0c76892af65",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/batch-ILS-INR-JPY-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/batch-ILS-INR-JPY-20261002.manifest.json",
+      "sha256": "5b28ce6bba6ac70a228f9bedfe0a345ce07089840a757d11b6c6f6cbcc40fc81",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/INR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/INR_2026-10-02_raw.tsv",
+      "sha256": "482d54f6b1242ad3c3ed066f8fe5ecfdf6c1f752eb792bc66b7c3b2c409276e4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/INR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/INR-20261002.raw.json",
+      "sha256": "fb7b8ee8c73af5ae72acfea24130bd2e202ac0ee5e3844e059badd8885e7f0db",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/JPY-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/JPY-20261002.raw.json",
+      "sha256": "9af8cc424b532b4237df60e11a48757c88cd4b3d62c18d60fe5454a4ec503422",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/INR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/INR-20261002.metadata.json",
+      "sha256": "4b9b56059d0a987b0f82f16aa387a5e584d5773e4a66d3b1d778ae6a2e00d579",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/JPY-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/JPY-20261002.metadata.json",
+      "sha256": "bc8c626fc109f3d7033f570d425cdad41c16782da10b763941e31ab9a5844379",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/ILS-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/ILS-20261002.raw.json",
+      "sha256": "5b644df06203c9b2142855cd986040b66df25d9e65523fc1002372f4522ed984",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/JPY_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/JPY_2026-10-02_raw.tsv",
+      "sha256": "76b92641b1b090a3fa1b65fd9ac3bd627ea9098d024787b4797922eaa1bb72be",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/ILS_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/ILS_2026-10-02_raw.tsv",
+      "sha256": "abe417d9a37d402bfeb53ba76f29b9ba740225ba7a55ea8a58c97895daf5f92a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/transfer-manifest.json",
+      "sha256": "25c8d067c3b24c27101e62e15a645e216d54c5e045a96570473b89448c21aa22",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-021",
+      "local_path": "october-source-batch021/ILS-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-021/source-evidence/ILS-20261002.metadata.json",
+      "sha256": "a1341e85b9535886865927635d3af70ef3359b3db1d1d3218287f5fa4285ffab",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KRW-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KRW-20261002.metadata.json",
+      "sha256": "4f5d088ec6d038177756df600002ef0fca238f0a2a04e98dcdc058cf9e3f7c6e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KWD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KWD-20261002.metadata.json",
+      "sha256": "5d84f99e13a29cde761568d5c58ae26c012933f50e28201c32c7871804dc9c37",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KWD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KWD_2026-10-02_raw.tsv",
+      "sha256": "0647d11534bc51c47c8ab9f07abda72c40d96eed067d50ced003254959e12720",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KRW-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KRW-20261002.raw.json",
+      "sha256": "59728bbb6b7c283f2e456c95f625975de94fbd361a9f68f67008b474091f94cf",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KHR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KHR-20261002.raw.json",
+      "sha256": "42da09f8070b772713691bd0ab231b9e9dc4a3fbbc6317338aa4292bc64e3c52",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KHR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KHR-20261002.metadata.json",
+      "sha256": "2b94510b584d0ff9b3d08594c1d9be732efc17f5e1221857ea9274e3741bdeb4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/batch-KHR-KRW-KWD-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/batch-KHR-KRW-KWD-20261002.manifest.json",
+      "sha256": "42e0bd2c193036ea0f5522d69f7b1763141113e3a1dde364dfe14b1504bcc4b9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KHR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KHR_2026-10-02_raw.tsv",
+      "sha256": "732044de84fd942687d4b76efc4699b44cbc06ae330ff6cbe842a207b983fc99",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KRW_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KRW_2026-10-02_raw.tsv",
+      "sha256": "f9fb3974f3f68dc9a365261b9189859c372ba38a7c10edf13d09b76356535686",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/KWD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/KWD-20261002.raw.json",
+      "sha256": "78875782ef5c2efdc34d9b35476978ffe47d9e9281b2b1330e46b0d7b3e5db07",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-022",
+      "local_path": "october-source-batch022/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-022/source-evidence/transfer-manifest.json",
+      "sha256": "7b68d6abb8809205c09037e5462ba0034e4b1b85afc5a66c52654c2274e6cdef",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/MNT_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/MNT_2026-10-02_raw.tsv",
+      "sha256": "d994f532bcfa4481ee0942ff1e8dd919068ed89046e63bf2c95ba763f75f3dd7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/MNT-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/MNT-20261002.metadata.json",
+      "sha256": "2f80af9bc9d313501f62f655dc01107cc74195181bb14caf7fe3801264d6b854",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/batch-KZT-MNT-MOP-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/batch-KZT-MNT-MOP-20261002.manifest.json",
+      "sha256": "644e5db26171647f634de023d4f75b434fe4dbd568942f9c441df45d4ba50b8c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/MNT-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/MNT-20261002.raw.json",
+      "sha256": "0174bcee3de1f02655977bc91e6b43242a13bdc2186271c267aaeaf858d79b3e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/KZT-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/KZT-20261002.raw.json",
+      "sha256": "3ab12f8b55ff8b389207d050e2c59479bd67ad876903745b6415db1cea084283",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/KZT-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/KZT-20261002.metadata.json",
+      "sha256": "9926ff8bb3253c2c90768f215719580f78abe222117fbf69dfe519564df27cd8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/MOP_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/MOP_2026-10-02_raw.tsv",
+      "sha256": "17a2049defdaeb409152eed67b8881ddb6c9363dc5aa3f21f344c5ddd4ec45e1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/MOP-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/MOP-20261002.raw.json",
+      "sha256": "13b6b87220c31b6f250bfbe91636f41020d95e2db56e40fd8d58227bf8ae0a4c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/MOP-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/MOP-20261002.metadata.json",
+      "sha256": "1e6ec5eb35c90c9a223ca8728b83603c06aff1a0529f709567a10cf1a07ac80c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/KZT_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/KZT_2026-10-02_raw.tsv",
+      "sha256": "4ea9680136ff09050fd987097f87c7bd8e76a25fed6411fa304a475f818f02eb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-023",
+      "local_path": "october-source-batch023/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-023/source-evidence/transfer-manifest.json",
+      "sha256": "7e83b3c47c6032de5bed9d48224c6dd871966b014bc10d62d30c1c653aae89e8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MYR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MYR-20261002.raw.json",
+      "sha256": "ace121121178aaad09a600a0540c5747f256b930d1ec1df154b3efeb45e2b9b6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/batch-MUR-MXN-MYR-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/batch-MUR-MXN-MYR-20261002.manifest.json",
+      "sha256": "9281bedc48a998e3ae087fc0e4de42688f8338de96db28463cfac9dbfe17685a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MXN_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MXN_2026-10-02_raw.tsv",
+      "sha256": "bac0d663c72f8e5b76eb42b39a44c94f818e6fc40a2bd7be434c9c686295b872",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MUR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MUR_2026-10-02_raw.tsv",
+      "sha256": "4e0fb5b29b0f9534b613088a0c3c843d0a7bc202cd0753fa09b1f5226a75602d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MYR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MYR_2026-10-02_raw.tsv",
+      "sha256": "180b43a4f0cfa8fbb1af1394ae2f5a1d7296c657ce31681ef633b171ecbbb1e9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MYR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MYR-20261002.metadata.json",
+      "sha256": "0dbc31b55837c6df9d057354f8ce9e5491e0415e52f7882e3524fdf302b0cfd1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MXN-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MXN-20261002.raw.json",
+      "sha256": "ffa6afdd0cdbbba84927dd725906041531a5dae86103336627d11ecb910fcdf9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MUR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MUR-20261002.metadata.json",
+      "sha256": "d6850bd7821054ea37c37c665ad071faf06365bbfe33931de71b989b9279ef56",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/transfer-manifest.json",
+      "sha256": "24bd243af3a954e59c461e6531475749ee7b9127a2219294f2b128be76b4df56",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MUR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MUR-20261002.raw.json",
+      "sha256": "eb8153904a9af59640b1a46e385a464325c5006ca8e6a4d79efa511d6042a65d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-024",
+      "local_path": "october-source-batch024/MXN-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-024/source-evidence/MXN-20261002.metadata.json",
+      "sha256": "ad6b122c9d5187c215c822e4c82ff89eb0689b8d8d0f07a9108e1ab870fbc0d6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NZD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NZD_2026-10-02_raw.tsv",
+      "sha256": "fc5d38792847bf60cd8d1015f95b903f5363014e46fee1e7e0c3a26f95923d7d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NZD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NZD-20261002.metadata.json",
+      "sha256": "54e551041f8c460e5852d21b5313f3c500b99ab76eba1c0359177707e4e238a7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NPR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NPR-20261002.raw.json",
+      "sha256": "23abbabbf79a390963f4d81fa0f04c7b0c47f50849f71ec30de8d4cdcfa1fba8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NOK-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NOK-20261002.raw.json",
+      "sha256": "2cdfa4854996e13ac6f1c88891b5557aff3d3c7ca7b729906b9a7afbf5e15bc5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NOK_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NOK_2026-10-02_raw.tsv",
+      "sha256": "90e85625498aadd12041a1e78cdb585fe52970e289cf3975bf53ea441b1c17d9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NZD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NZD-20261002.raw.json",
+      "sha256": "6d92a3c1bab35f138e6716eb2f7ec78efda362e62cf8f6ff7c56a74f0cfd339f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NOK-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NOK-20261002.metadata.json",
+      "sha256": "0096a32dfd4cd164214166e5952c9553244ae81f8f08f289ec76ebb8ea679ca8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/transfer-manifest.json",
+      "sha256": "2944d5bcd867f41a6eeae0c668f8c37d9355dee5fdd4b83632f2805d6a286a34",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NPR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NPR_2026-10-02_raw.tsv",
+      "sha256": "b37286502da7791b09e35ec2d98f2e950a112fb08cfbeade054494d2d439fea3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/NPR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/NPR-20261002.metadata.json",
+      "sha256": "edd8673375053ab41674444a62346fcc88d33a29240b5262cf3dbaedab517e6f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-025",
+      "local_path": "october-source-batch025/batch-NOK-NPR-NZD-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-025/source-evidence/batch-NOK-NPR-NZD-20261002.manifest.json",
+      "sha256": "d381f96ec97bdeb9aaa92332f69aa87fe4f5e7cbcf4531752a29740c4ec5400c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PLN-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PLN-20261002.metadata.json",
+      "sha256": "b618ea25c975885f5b9674657888f8f7cf94ba4e6b7e38dd96da1c85bfbf32c4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PKR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PKR-20261002.raw.json",
+      "sha256": "647262cb2a8620a1c83a5e5b4da7c4995587689aab7a7916516b74079a379a77",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/batch-PHP-PKR-PLN-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/batch-PHP-PKR-PLN-20261002.manifest.json",
+      "sha256": "6c066bd25c0ed0dda7603c157646152fcc35109f0ed76d3092aed5ba36eac1b7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PHP_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PHP_2026-10-02_raw.tsv",
+      "sha256": "917aa90ed2ff0221ab6dc773f9afc4f3973941548daecfda0de99640f5a2d01a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PHP-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PHP-20261002.raw.json",
+      "sha256": "b78cc1653f9c064c2e4038e82e4b9c2a59350ac858c5147d0b2adba696c430dc",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PKR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PKR-20261002.metadata.json",
+      "sha256": "e902c68a85917a88adf2072ba211688b9e799f51c139387261ae2facd62a4932",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PKR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PKR_2026-10-02_raw.tsv",
+      "sha256": "172e1854c5ec4adf3e0cdb33e54d13317006edba453fbf2dbc38eb558c0c81f3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PHP-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PHP-20261002.metadata.json",
+      "sha256": "7410cb0f89dba419a369a3a8a35e51174a1a45fe7cae83b9d9bf022808d0a43f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PLN_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PLN_2026-10-02_raw.tsv",
+      "sha256": "0b518fa8b671b183b09d41ae95329e2532b9fd6257b3866120d19acc1bcf483f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/transfer-manifest.json",
+      "sha256": "9a921ec1b80ff2a86da0cde673ee3ab4ade724e41ba8f35f0de10fcad11e298b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-026",
+      "local_path": "october-source-batch026/PLN-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-026/source-evidence/PLN-20261002.raw.json",
+      "sha256": "87840bcd2235626aeb97f8b76b4f1211a4c61e7f61c1c54a8678cbfbeb1656c0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/batch-QAR-RON-RSD-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/batch-QAR-RON-RSD-20261002.manifest.json",
+      "sha256": "2ba3ea0ac7ea8c6954cf079257e48cdf111b1ba2713c7b1cdf5fedde580343e1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/RSD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/RSD-20261002.raw.json",
+      "sha256": "c1ea66a071ce481cff5f95dc79e1d5aae329fec98d04b4b4891a741019f3c771",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/RSD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/RSD-20261002.metadata.json",
+      "sha256": "896f13331e4003d463860d8180eb8529e6dc8914225270529b8541009c4f9e7e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/RON_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/RON_2026-10-02_raw.tsv",
+      "sha256": "b665d3f44b5fd0b02b7461dfb59dfa1d5451c4bcae86a6fc53e176ee3a5affaf",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/QAR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/QAR-20261002.metadata.json",
+      "sha256": "569e42365ee3c71a28f3a1b88b79f6cf273c3709789d89c6ab8961b44a40cf85",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/RSD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/RSD_2026-10-02_raw.tsv",
+      "sha256": "5e5d5e9f842a9150953aa717f52003982af60a207973d0bc265487c3a608d484",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/QAR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/QAR_2026-10-02_raw.tsv",
+      "sha256": "72f6879bb29098dec6965a8c4b7f59ef5e694e366bab6d1d8210acc2df4ef549",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/RON-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/RON-20261002.metadata.json",
+      "sha256": "d6e695bd19880cf3de3d1bb6b6b58792a2aa7aad1156bd13170b796a2871f583",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/QAR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/QAR-20261002.raw.json",
+      "sha256": "796ac6034392a107328d26d3118a065fd202c78696e9743a1092f6d630134523",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/RON-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/RON-20261002.raw.json",
+      "sha256": "3820d8ffb9a224afee1fb86612ae47b34b296d9556f9a6625f29de33f962a063",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-027",
+      "local_path": "october-source-batch027/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-027/source-evidence/transfer-manifest.json",
+      "sha256": "7b9780076cd4797b7db722b41eec22aefc019b81d64c0c58ec875456911cc7bb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/batch-RUB-SAR-SEK-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/batch-RUB-SAR-SEK-20261002.manifest.json",
+      "sha256": "7a7646e8ee8ba9db686a5a3e12646f5c4101d0b870d7a855ae9eafa6f89f81b8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/SEK-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/SEK-20261002.metadata.json",
+      "sha256": "eb07f42899d60e0d51ef3fd61a0f2bd6eb1d4b882404545ef95f527479ff4168",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/SAR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/SAR_2026-10-02_raw.tsv",
+      "sha256": "d77edbc990d2ffd41142ed0088ec87bfd982b14b17e9fde43dab61b156485bc0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/RUB-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/RUB-20261002.raw.json",
+      "sha256": "d35edf747531d88d8158e4860bf3ad0282200c33752643233508ffb0e274aa43",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/SEK_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/SEK_2026-10-02_raw.tsv",
+      "sha256": "6f1b75f79f9743a7f7038a193c47ad47124afad29c753573fe7a578c122636d0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/SEK-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/SEK-20261002.raw.json",
+      "sha256": "79dcd91257f66640c6883a08bb4de4e34b1d45fb57a02c2883d60a06db2cac1a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/SAR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/SAR-20261002.metadata.json",
+      "sha256": "943361f8c17b9e6b33317126c01dd1981ee0e3f407baeb4a67bd1133f752c544",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/SAR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/SAR-20261002.raw.json",
+      "sha256": "52d2df3109ba9e64778adb98ddb122847463a88850682a9be700ea3e47ad0482",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/RUB_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/RUB_2026-10-02_raw.tsv",
+      "sha256": "1b052d6ad195078dad8d2f1518d6c89b30c94e84237a35d9f5c6bf9acf7d52c7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/RUB-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/RUB-20261002.metadata.json",
+      "sha256": "03078519ef7bacb0dcb09e47d728d2ef7373f345cb3196b21a386593d75b7b55",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-028",
+      "local_path": "october-source-batch028/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-028/source-evidence/transfer-manifest.json",
+      "sha256": "b37cde7f15f50e29be4735d83583c79d44cdd0f9ce4d055625af9f9afd4b0d9d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/SGD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/SGD-20261002.raw.json",
+      "sha256": "238b92bba9c64adaef988f0062e071f4e65c041c5940094a9a5056a141e33c0d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/THB_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/THB_2026-10-02_raw.tsv",
+      "sha256": "6e5f8cffa64377e2768cb32f14ed72aea0763a70c2512b1d644a0ec660530c5e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/THB-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/THB-20261002.metadata.json",
+      "sha256": "98cc3a34392302e7c0f5de0ac0aaf7dfd167fbfc78b27e130eccad93a97d22a4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/TRY-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/TRY-20261002.raw.json",
+      "sha256": "54f748853577e3b67f54f0b72065ac63dce5ee463d6c268a7a7ed7fb986db41b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/THB-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/THB-20261002.raw.json",
+      "sha256": "d05eb7a05521ed43cbe5214cba382971f1a8c3c66f42edea9ca79072ff3ad01b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/batch-SGD-THB-TRY-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/batch-SGD-THB-TRY-20261002.manifest.json",
+      "sha256": "8ea956f030bd97f887e9950f79209c5883e277ec2bbf2d430739d8e80cfcbdec",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/TRY-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/TRY-20261002.metadata.json",
+      "sha256": "223944e3a739b6ab169abb0e1cdc24ae100d2690fac238536f50195d626d271f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/SGD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/SGD-20261002.metadata.json",
+      "sha256": "9f9dbe5d820fd813b3a79e7051155a427c3de22775253f8cc70a27da054dfca7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/TRY_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/TRY_2026-10-02_raw.tsv",
+      "sha256": "481cd533405d59cc38ac430d09d3c3f955cac42be61e373ee22f051109506161",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/transfer-manifest.json",
+      "sha256": "31a5346aa8430b87e81bdad1147ca5bdeeb66b0b85e12352a7dd797ef3401708",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-029",
+      "local_path": "october-source-batch029/SGD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-029/source-evidence/SGD_2026-10-02_raw.tsv",
+      "sha256": "3c68fe8419ffbb9aead5d4dc8f6a1699c458d282a1fea25574ab9d61b75d6816",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/VND-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/VND-20261002.metadata.json",
+      "sha256": "589f85b319169bf55978a3d124a22b8701874fe7630c123ba6c3a43be5ac8275",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/TWD_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/TWD_2026-10-02_raw.tsv",
+      "sha256": "66fa71783a4e17f667d266a678a803bb0f14c79ce7185a7654f48664e3ea2542",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/VND-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/VND-20261002.raw.json",
+      "sha256": "651c845a4faa57616d284db45f636abcc4f05c92d5e7644ba81fd52358e7245a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/batch-TWD-VND-ZAR-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/batch-TWD-VND-ZAR-20261002.manifest.json",
+      "sha256": "4304d8af4baa6d97e1c6b30ddd109ff9815c76c15d981aeeaa3ae567a99fbfe1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/VND_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/VND_2026-10-02_raw.tsv",
+      "sha256": "127b0b8147434fa918b06ba7f92e735574280fcf3e6dee420573a335b9902457",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/TWD-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/TWD-20261002.raw.json",
+      "sha256": "cc5151a36b0c95cbb2b53bffc054910e364f1440018a271b4b8f908bec486055",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/TWD-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/TWD-20261002.metadata.json",
+      "sha256": "76bba6ad68b34a8b1ee48892d9b7712c3cfff060f676a7827148f9662b5163ee",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/ZAR_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/ZAR_2026-10-02_raw.tsv",
+      "sha256": "3c991ea62bbec9042f768eaaebf1a7a634fb8eb439799b60d731543da1127975",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/ZAR-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/ZAR-20261002.metadata.json",
+      "sha256": "2d0d31cc900d20abe4ae8fb2a495d7c8fdae7136dd7887db12121a24fd8c3f6f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/transfer-manifest.json",
+      "sha256": "42e5a69a8416355a45d3e8aa15f28c4ffead2c2ef84421b0099fd7aed2414298",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-030",
+      "local_path": "october-source-batch030/ZAR-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-030/source-evidence/ZAR-20261002.raw.json",
+      "sha256": "7fc76da57a9b28798802721d4c9d6f0a733d6ccb8a1c8b9e63ef2f6e35b86c04",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-031",
+      "local_path": "october-source-batch031/ZMW-20261002.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-031/source-evidence/ZMW-20261002.raw.json",
+      "sha256": "4fdb06d4cdffdb660d95d72957526e0bd1036393e9bd09c17e0fd38a07015a7d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-031",
+      "local_path": "october-source-batch031/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-031/source-evidence/transfer-manifest.json",
+      "sha256": "26c0922f38c0884cb5518289df3ca1b226fee2b880ca6492e1a94af5cee1e9db",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-031",
+      "local_path": "october-source-batch031/batch-ZMW-20261002.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-031/source-evidence/batch-ZMW-20261002.manifest.json",
+      "sha256": "9e64e2a8bf0e3712cb9529d919d3ccb284e49476c840d3eb373c2bbd36219888",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-031",
+      "local_path": "october-source-batch031/ZMW-20261002.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-031/source-evidence/ZMW-20261002.metadata.json",
+      "sha256": "300ed949b7675efa849768107fffedb7160df57cbbc5709ca03a23b45c3e6517",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-031",
+      "local_path": "october-source-batch031/ZMW_2026-10-02_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-031/source-evidence/ZMW_2026-10-02_raw.tsv",
+      "sha256": "ddf6adee4bc3a729801032438579103c98e6340646d6c858b6de4a1ae997d316",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/AUD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/AUD_2026-10-03_raw.tsv",
+      "sha256": "3bd94789ee44fbc86955305f3c81fcd3525f9722ecac87ed0ce2e4da042f2351",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/BRL-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/BRL-20261003.raw.json",
+      "sha256": "49d06e13b5ecbf699669f8d8eb79c83b35aa108fc14b9e399e66bbf5caf9700f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/batch-AUD-BND-BRL-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/batch-AUD-BND-BRL-20261003.manifest.json",
+      "sha256": "81402fced962d0a0f84df6eac0c0053675be1fc3763195afed1d0cf69c8f8600",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/AUD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/AUD-20261003.raw.json",
+      "sha256": "019e0f8f48e9e20216394b6fd151951fdee661a9d20a1515b427d68a5d3536ce",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/BRL-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/BRL-20261003.metadata.json",
+      "sha256": "7448e9ad68196d23f0475241464ce4cffb2255f01e0caf191a303d64e2f26ce9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/BRL_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/BRL_2026-10-03_raw.tsv",
+      "sha256": "81f3ddf73ebce63f28d0de14ef193cf63e7b36e5b4f3a161f1b0aafd142b0c30",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/BND-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/BND-20261003.raw.json",
+      "sha256": "c5181a1c545895e4d79ec7273adbb0ce99a393d2da6a5696ed9f3b838e25e506",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/BND_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/BND_2026-10-03_raw.tsv",
+      "sha256": "13e948d99aa6253611c43dd57b62e13300340233f88a94609468779a98f43430",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/AUD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/AUD-20261003.metadata.json",
+      "sha256": "04e08016a00a0b7b2207768a50fe9b04e1e01b2415ae2b5783c28d5950974466",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/transfer-manifest.json",
+      "sha256": "af4cde7a9c32d003ac18e0130630dc1a7dc1e56a63fd607df2028f3ff42c402f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-032",
+      "local_path": "october-source-batch032/BND-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-032/source-evidence/BND-20261003.metadata.json",
+      "sha256": "36854b3188bfb002ef93bfd106b54a2f9eafa457a222de954dfa0a805d143183",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CHF_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CHF_2026-10-03_raw.tsv",
+      "sha256": "ba381a18c2d618e3cdd4be2cc356c8599e17d1635d9819d9bd97154a0c19c091",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CZK_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CZK_2026-10-03_raw.tsv",
+      "sha256": "247755422504fee841dcde68e8c1c1eb569e6cab4b5b8d2efb35b3ca19664186",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CZK-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CZK-20261003.raw.json",
+      "sha256": "bd8b31a8ece4dace258feae9d5dab339fb1d0e58f96e2e4fb1944865fa6a2d03",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CHF-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CHF-20261003.metadata.json",
+      "sha256": "88a4f048db30d94b778a4fe9b527933959cff2a607eb3bf981de5e5e6a8213d3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CZK-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CZK-20261003.metadata.json",
+      "sha256": "6a0b49a80a357d7e90aa8c00b8e6aca3342afd3d0d0e48eda0d06447a3b9107d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CAD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CAD-20261003.raw.json",
+      "sha256": "b82e4839648bae02bd68c1afbceab097c1b71a431104f56ff389cdbcdd7e4104",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CAD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CAD_2026-10-03_raw.tsv",
+      "sha256": "282c539c66514479445e422699b47361d724ecca325782bbc4339508fd8ec3fa",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/batch-CAD-CHF-CZK-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/batch-CAD-CHF-CZK-20261003.manifest.json",
+      "sha256": "42dea96c9d65c1eff5be4c4eadb0cbded4a4506329b014173308bd516a7fddf9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CHF-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CHF-20261003.raw.json",
+      "sha256": "705e31cfb8864adab8b73b91c8d0a7300fab8190feabb55ae1c0a814eadb9eae",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/CAD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/CAD-20261003.metadata.json",
+      "sha256": "7fbb2b16149013e55ffa3ac9d7840c0d78eb78c8528f422139a104b9b3bb5a9a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-033",
+      "local_path": "october-source-batch033/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-033/source-evidence/transfer-manifest.json",
+      "sha256": "29558b5273dbde407da90fe840baf48b2dce7e408d9a16e24564ab0bb96708a6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/EUR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/EUR-20261003.metadata.json",
+      "sha256": "def23d422fb880fa3000afcf555ae7619b538c274677f90be61626d1c488ea93",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/batch-DKK-EUR-GBP-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/batch-DKK-EUR-GBP-20261003.manifest.json",
+      "sha256": "dfd3280290b85af1768f78bf8e23a539136b9f6a0a5aba473db3a8206f21a50c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/GBP-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/GBP-20261003.metadata.json",
+      "sha256": "5340d115ce9e92d18307ec05d01901fb89b04b1a3a3558808e9ed6e6dc550543",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/DKK-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/DKK-20261003.raw.json",
+      "sha256": "a96ba859fd9c700a52cece2fb2eb9cd11a13f34b25eceacdb667d5457b08fdaf",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/EUR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/EUR-20261003.raw.json",
+      "sha256": "a3a64799c7d969caedfeb72a5afcd91f8c5e50f2d3a1885d9dc35f5a0954ef80",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/EUR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/EUR_2026-10-03_raw.tsv",
+      "sha256": "a43918cce0f128477bf6e37b277ac80a6a1cf46e799d88663ed3031d5a6461f2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/DKK_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/DKK_2026-10-03_raw.tsv",
+      "sha256": "9fb0b92fca90a6fcec6deb6798a6a00691ecc19257756ede1e993ab6e5613581",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/transfer-manifest.json",
+      "sha256": "9db665045edb2564598177a3132ef650db000371cb63f33677383bb6455e2ac2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/DKK-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/DKK-20261003.metadata.json",
+      "sha256": "540e46bbebefacb68b8144f569b19dd06911be37790614d02ad1e1f1594dde90",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/GBP_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/GBP_2026-10-03_raw.tsv",
+      "sha256": "708a1a4265b65b2afa8e5c8bb6b910b373ecde56187e1734fb9a9406c143ee21",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-034",
+      "local_path": "october-source-batch034/GBP-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-034/source-evidence/GBP-20261003.raw.json",
+      "sha256": "c28e4fd827057f195a0f920141605f98c7334dee4b4d81ca89a3d4bed87aafbe",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/IDR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/IDR-20261003.metadata.json",
+      "sha256": "a93c93462eddc7f7d1f42f1e6763608c00a9502e170046bd4eda82a4d32fb9ff",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/HUF_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/HUF_2026-10-03_raw.tsv",
+      "sha256": "c28e2b349214d703ff5d8bce8449b964c978ab128d18587386cda231a0cbafb9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/batch-HKD-HUF-IDR-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/batch-HKD-HUF-IDR-20261003.manifest.json",
+      "sha256": "1877a878800483294a10a642a835ad0abdae009d291d3d4cddb7ce68aa51d3d7",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/HUF-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/HUF-20261003.raw.json",
+      "sha256": "d4aa05c4a1ea29998a2ed39b0be828d5c206e1a2f282d172a1e9537de7c2db5c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/IDR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/IDR_2026-10-03_raw.tsv",
+      "sha256": "c643fabc94321dab2ef0888b2c20a380ae6ea78ca705a80144f6f96e377a1efd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/HKD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/HKD_2026-10-03_raw.tsv",
+      "sha256": "09447b23ad286a7410f10134e8fc503318238df2aeb86377225518ab7a0b5615",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/HKD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/HKD-20261003.raw.json",
+      "sha256": "45c4b70e35dd61d42b784fa944d87e316f8f3cfe81f7a81eeddc403032f499f4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/IDR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/IDR-20261003.raw.json",
+      "sha256": "bce92a760af968de80486978c31826f452d8fd5a76a22c5a4dd75311d3e1d61b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/HKD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/HKD-20261003.metadata.json",
+      "sha256": "63149ddf74f3459e04752a885319640233db4453668958a339c2e8f78a515a38",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/transfer-manifest.json",
+      "sha256": "212f201eed2a2daba7b0b8c15c770d3c31f12dc5e146ee0c0e9aa56c8dec9893",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-035",
+      "local_path": "october-source-batch035/HUF-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-035/source-evidence/HUF-20261003.metadata.json",
+      "sha256": "247e3248367db64853b80f4887d31450b46ff69f7bcfef3bd819037159c558ab",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/ILS-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/ILS-20261003.metadata.json",
+      "sha256": "583d0a3799f0bd49dc0da36b377c3708f287ade7dd16f52464db5e75b4ba4404",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/INR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/INR_2026-10-03_raw.tsv",
+      "sha256": "54710836608d93a4d7d6a814b2d0d70ad90565143eb81116985090956b63c3dd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/INR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/INR-20261003.raw.json",
+      "sha256": "9d4d661398ce6a429aca8981acf24211f984454251c47a076904abd45c00c9f0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/JPY-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/JPY-20261003.raw.json",
+      "sha256": "cd6829e82a18f71e096f63aa78fcf809beca6477f8630814a491b9b8d63d2ce0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/JPY-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/JPY-20261003.metadata.json",
+      "sha256": "54467cee54ad0f1b49ffc1812b3f3ecc48f6a4c481f89a944fb862272a109dc9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/INR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/INR-20261003.metadata.json",
+      "sha256": "361460e513f8c5f5ae3eb94dbfdb27d7822e2513e4836cbf0f61a4ccd93bbda6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/ILS-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/ILS-20261003.raw.json",
+      "sha256": "a54d67f768c11bbd356d68e7919763c323deb20174d5c3e0ea58a1317dc068ca",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/batch-ILS-INR-JPY-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/batch-ILS-INR-JPY-20261003.manifest.json",
+      "sha256": "d8d841aaa6f98cf61b8445cdaeacec4192cdf431a3033962399c604b0344a4f4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/transfer-manifest.json",
+      "sha256": "8a684b819717a6cdf8d0676e88655dce723d159f3f6d3b2c6b8688c92d345568",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/ILS_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/ILS_2026-10-03_raw.tsv",
+      "sha256": "5bdb4de46f02c51ce34a25d2e94b66bf70676d26b33795d47b6fa10f83480f1e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-036",
+      "local_path": "october-source-batch036/JPY_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-036/source-evidence/JPY_2026-10-03_raw.tsv",
+      "sha256": "016fb2774cd381d31300abfc6d51c96caea11ee8fe49d9426d8a35ca26bb2530",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KWD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KWD_2026-10-03_raw.tsv",
+      "sha256": "d1f8f5d88f3e2c13c6021eac87f81c400180160df1fec08ee5f7525bc1ef05dc",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KRW-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KRW-20261003.raw.json",
+      "sha256": "de763c0f72cf960ea13427c02ad73f5d268907c3d8e6f8457269a942fb1813d3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KHR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KHR-20261003.raw.json",
+      "sha256": "b906f2bd040893df29a88e0ff4759b4a44ce7e3aaa2fb4fca7fb44bd9429ffa4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/batch-KHR-KRW-KWD-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/batch-KHR-KRW-KWD-20261003.manifest.json",
+      "sha256": "abb08664b4fd17fa16a14423397e5ee4dc1981876d611c225b6b0764b76f4bbc",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KHR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KHR_2026-10-03_raw.tsv",
+      "sha256": "21580b19648ce07475abfd2b74d2b2be954e044c8ddc87c68cc731cbae810de1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KRW_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KRW_2026-10-03_raw.tsv",
+      "sha256": "7c6e2bdffd29b96889bd0c94e451dd591817cadbabef7e01d241f19c0fc6bd04",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KHR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KHR-20261003.metadata.json",
+      "sha256": "f63a402718a3b22fc82f0dffd7b3f66a3e00dbc819f8d3a694f56ad95a86fb76",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KWD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KWD-20261003.raw.json",
+      "sha256": "f8a9a84416d475d202ff771a3354e11288093e4433424c590b6eb3d4fbc9e367",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KWD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KWD-20261003.metadata.json",
+      "sha256": "fb6649c5f6393277a2c87f3881df69655c9b888e8ab7b5946fabeebedccdf6e8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/transfer-manifest.json",
+      "sha256": "5a97b3da3b608d32fcdea138dac2306c5d1ccd1c680a316592a563399d07201a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-037",
+      "local_path": "october-source-batch037/KRW-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-037/source-evidence/KRW-20261003.metadata.json",
+      "sha256": "cc66c050e114e36235cb4d2a6d93106877cdc48d199283751195c9577746400b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/MNT_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/MNT_2026-10-03_raw.tsv",
+      "sha256": "21b62717c1e953c3ed1f86cf64b6553139a9edc047ed79fe159a138dcc051104",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/MOP-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/MOP-20261003.metadata.json",
+      "sha256": "345389507c4710441cad9873bbe4673a9be48a3a2a8c5da2c63a77479e9e7941",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/MNT-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/MNT-20261003.raw.json",
+      "sha256": "53c096de26a10c529e477b9805b224e6850c2224e416c749a894f2252efd1a9a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/KZT-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/KZT-20261003.raw.json",
+      "sha256": "824e7db67829a978fe3bc5bc97a7c68ced00b892df4926f65fd520af23ad4b23",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/MOP_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/MOP_2026-10-03_raw.tsv",
+      "sha256": "9267481978019d79ddddc33011b87d44f5b2baaf1492b23ec1342a235d3f8693",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/KZT-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/KZT-20261003.metadata.json",
+      "sha256": "9a8b8626119423b152514dfef193b9d3df7061339b05ad6b41ce5cf2049813cb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/batch-KZT-MNT-MOP-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/batch-KZT-MNT-MOP-20261003.manifest.json",
+      "sha256": "2ebce0dfc15658fc58cce99336d6bd9a716d0af6b062910e8f1d80aac63095da",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/MOP-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/MOP-20261003.raw.json",
+      "sha256": "d261c9cd195c5a9343de5f0ae70f9595498ebac58ceb4bba2dff006ffc64333e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/MNT-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/MNT-20261003.metadata.json",
+      "sha256": "aca3378a779daaa639c43b71d4bfb8a314a348ce464e63bbab983be12e438bf1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/transfer-manifest.json",
+      "sha256": "b810f6ad4e1fcae6a8bc11bdcf00353437f430d1c32b20fbeb8f844695fa381c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-038",
+      "local_path": "october-source-batch038/KZT_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-038/source-evidence/KZT_2026-10-03_raw.tsv",
+      "sha256": "b386cf3eb0cdfabf9a422c0890b5253552ca0247a1f19b96e3f3a6812ce44b75",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/MXN_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/MXN_2026-10-03_raw.tsv",
+      "sha256": "d8362cff81356945816b4f5699f59adca02c75e3da4e754f7e602667513e4491",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/NOK-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/NOK-20261003.metadata.json",
+      "sha256": "1e8907fa77fe8be9b3079a4a667a540279678499a1773186683fba8780096ef3",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/MXN-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/MXN-20261003.metadata.json",
+      "sha256": "2607bd9c3fbff6f719a5b0ed010d05049658f70cf04777bbf56aea11ac3763af",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/MYR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/MYR-20261003.raw.json",
+      "sha256": "947f238737c243ce3d6f657e9c6a25be054263f31ed714afc9bb316bc3aef1fd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/MYR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/MYR-20261003.metadata.json",
+      "sha256": "512fc59c92d7bc41e09fc95a633f6696c18016ddc0350b9b4d14d006da312607",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/MYR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/MYR_2026-10-03_raw.tsv",
+      "sha256": "20b966ff0a7800fc1aca4a5a5e9b2881c0222407de4ffee502f745ac14bcec3a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/NOK_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/NOK_2026-10-03_raw.tsv",
+      "sha256": "91a70034e074b5f2cd9858b496cab4a71a8cda585af0a8457d238ea0b96f147a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/NOK-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/NOK-20261003.raw.json",
+      "sha256": "148dfa3a0e9201002beb4f979de158185ff56a52af1c7f1cc8d176d2a8774804",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/MXN-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/MXN-20261003.raw.json",
+      "sha256": "6a4cf3341ac8370853eb96707ca26a263a8c418e43f06450055a0bb25fb6490d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/batch-MXN-MYR-NOK-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/batch-MXN-MYR-NOK-20261003.manifest.json",
+      "sha256": "3aaf5f6a87b2df56055046a545c5e6438cc77d665190b50bf99a86caa25c6769",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-039",
+      "local_path": "october-source-batch039/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-039/source-evidence/transfer-manifest.json",
+      "sha256": "087c177511c02e3df52a197aa8fee24d16643d55e9054e9565d961b76d55d530",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/NPR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/NPR-20261003.metadata.json",
+      "sha256": "e11cf859fde9fd8d94f4a2ee348f0a4b6109af5a683eb68cff103c2d818649b0",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/PHP-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/PHP-20261003.raw.json",
+      "sha256": "a6a565acf9158bcae817a88bdfe4654874b98bd9407a2747123ce35eaf947d49",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/PHP-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/PHP-20261003.metadata.json",
+      "sha256": "8a64ee870066d38181b87a97800ba720dce5b7e701968a6650f478a215a5d47c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/PHP_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/PHP_2026-10-03_raw.tsv",
+      "sha256": "84c02743e3a592b7a694c6569e2f01eb3d582995666da36ea21e2a7178712add",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/batch-NPR-NZD-PHP-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/batch-NPR-NZD-PHP-20261003.manifest.json",
+      "sha256": "f7e2c4a757cf58fb4e4bd6b77d828d156d0f250fb8bfaceb78681ba95e073554",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/NZD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/NZD-20261003.metadata.json",
+      "sha256": "f5599bbba61a72f1d34c06cd20dda3d00c772931bd10f3e98300b2d3131e256d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/NZD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/NZD_2026-10-03_raw.tsv",
+      "sha256": "d00c75e3f8dd6f418f339193964c7f7500d05ad5155272a1908e705ba2e012d4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/NPR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/NPR-20261003.raw.json",
+      "sha256": "17e1bff6865b7307b298d2cc95db573b1ec2a2b009c4c0c38d5801a45d75edde",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/NPR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/NPR_2026-10-03_raw.tsv",
+      "sha256": "c258c5d721df5a39a3a2ed8f98c1166dd69a05fc452d967a7e25c2dcc20ee2da",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/NZD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/NZD-20261003.raw.json",
+      "sha256": "8379175ab824668e1601560ff49ed0b162027e505d6bab378331e095adac4638",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-040",
+      "local_path": "october-source-batch040/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-040/source-evidence/transfer-manifest.json",
+      "sha256": "eccd06fc086fba0c725e1800faeaca5748f41c7d7fd0479e5affb0b1fdc859e1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/PKR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/PKR-20261003.raw.json",
+      "sha256": "0c4c93064bd76ad8bdb9ae69768767fc025d5fe58feccfc0487c6781512a5089",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/PKR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/PKR-20261003.metadata.json",
+      "sha256": "187ba38d40ae1958a4ff5a90bd498f06c86d0b049c50a5a3a1a2e00db0af5f97",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/QAR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/QAR-20261003.metadata.json",
+      "sha256": "bcc6577baf6ac44017179133e14a0723947223cbaab97e5306a8269192156d20",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/PKR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/PKR_2026-10-03_raw.tsv",
+      "sha256": "8e53efad6407e70295ffa6ede7752db7e02ac6bec8274279fc518d9bceb9deb2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/QAR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/QAR_2026-10-03_raw.tsv",
+      "sha256": "305c57871accf737d631bb2a7551dad7d112875994f8be5ad06a84343ae8da2d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/QAR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/QAR-20261003.raw.json",
+      "sha256": "1b22f422fe309ff8fb846c2858b96c0f49484e14b9b6d867ba9e7d2fa37f062a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/PLN-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/PLN-20261003.metadata.json",
+      "sha256": "c94edc287b38cc4ff9d824f9d62969da2af577849b1a158d2d611069fe2f15fb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/transfer-manifest.json",
+      "sha256": "77053b21695646d579b8a8d8c3c9a2d1b9ce86ad6c13526a5c11a747b403148d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/batch-PKR-PLN-QAR-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/batch-PKR-PLN-QAR-20261003.manifest.json",
+      "sha256": "d78d876abc32c4f2b1341729bf47f15273182f90eee7a1b9b2a749f73a844d8d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/PLN_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/PLN_2026-10-03_raw.tsv",
+      "sha256": "a896f10cbee9a16ca60af1a7faa6b309ec71c05b2dc29373196adf061550c8e1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-041",
+      "local_path": "october-source-batch041/PLN-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-041/source-evidence/PLN-20261003.raw.json",
+      "sha256": "cc030bebff1cc5e120b69b6cbfa83b1838abfa1773631a053e5c48d1500dde0b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RUB-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RUB-20261003.raw.json",
+      "sha256": "75d58dc4b1b52518fddd78a11cd8daf7e5e1b6d0face2ef6c3a243911854fd04",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RSD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RSD-20261003.raw.json",
+      "sha256": "08026c0305a16f7c1abe2d454200d0ef3b8f927baaf2de278676e7e27059fce1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RUB-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RUB-20261003.metadata.json",
+      "sha256": "10cbe5e3c566c7050a5f69fa5b95248daaecd31c01da6f7c25c7b049917c80f6",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/batch-RON-RSD-RUB-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/batch-RON-RSD-RUB-20261003.manifest.json",
+      "sha256": "ea6e6119744a05d9f81c802ebdd4017c962a3a552fa1cc972ccebd2668d45d67",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RON_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RON_2026-10-03_raw.tsv",
+      "sha256": "dda5473a203a2bca04e178deb1080a479aab7052a964db2c3a675e0c9111e351",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RON-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RON-20261003.metadata.json",
+      "sha256": "7233bcf788ad56f7f266fa006af3cee8862844837f5cd51e2abd2d0fd7694db4",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RSD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RSD_2026-10-03_raw.tsv",
+      "sha256": "0d5fb3e398fa9ff12b71ceb4fb417e5655017a88d3d8db30b34051cf05e7cacd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RSD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RSD-20261003.metadata.json",
+      "sha256": "7c80d79c151875364998b5796434b54c2c243ee5a81314a0151ec67e433d907b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RON-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RON-20261003.raw.json",
+      "sha256": "dfbb3916b397c6dcc57e73b3bec3190b214ea7cad5ad2085a0ddac1943d3a76a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/transfer-manifest.json",
+      "sha256": "c22de44f40d7348d9b5f12d7389d267eefb3d06c58871e356da21d9edfb4097d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-042",
+      "local_path": "october-source-batch042/RUB_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-042/source-evidence/RUB_2026-10-03_raw.tsv",
+      "sha256": "c1dd6469e06f2f697633a6f4de5a639a0b64b2d68acd7df1f51e7163ad2ebb6b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SGD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SGD-20261003.raw.json",
+      "sha256": "e5f8a892325225d9613ed7c7df8d0093384d1e1e672e89c57442d97ecb7e0dcf",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SEK_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SEK_2026-10-03_raw.tsv",
+      "sha256": "96afbcd800800dbeeefcc4997279924c34de4924ead7e7636d8b6a0759d80be5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SAR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SAR_2026-10-03_raw.tsv",
+      "sha256": "728141713353abfb21baa1adef4a65157d24210c45b058c5e718ca9c36aab9bd",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SAR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SAR-20261003.metadata.json",
+      "sha256": "17dca5da7dc61f2f9f46b8cfaa310be79b39e16bdb8274f31b59cd1ace3e9013",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SEK-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SEK-20261003.raw.json",
+      "sha256": "833e790061848a235b4701ce67332f0111336f84fbcfecd904c2e674eda0a66c",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SGD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SGD-20261003.metadata.json",
+      "sha256": "91280203cc560285c9f63aaa88ba5a23137e37ab2d567f9cdd72805b8af1c63a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SAR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SAR-20261003.raw.json",
+      "sha256": "d91c1451d4bec1b2c4281e312abad6402a0fcc66e073b3554627bccd643959ae",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SEK-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SEK-20261003.metadata.json",
+      "sha256": "2ef1ac05e96e4d54e15745d062d4e34ef554c6f192fb4ff030ecc2316d063eb5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/batch-SAR-SEK-SGD-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/batch-SAR-SEK-SGD-20261003.manifest.json",
+      "sha256": "691f8c1ff59e54bd7d51970082b608f68db2f4a823a61aab8918ec2d492e14de",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/SGD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/SGD_2026-10-03_raw.tsv",
+      "sha256": "2d6b28684fcad7bd52d391319ced0e7b3f8e57075f70b9a8e083cfd2bc724783",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-043",
+      "local_path": "october-source-batch043/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-043/source-evidence/transfer-manifest.json",
+      "sha256": "0969918e885e0611394c394504115d0106a1fdecc9d67b15fb1e9b0872508678",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/batch-THB-TRY-TWD-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/batch-THB-TRY-TWD-20261003.manifest.json",
+      "sha256": "3d6783fc408701410e3526997d41db8c2e6d4e376ed4b76a104a5abdff879ea1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/TWD-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/TWD-20261003.metadata.json",
+      "sha256": "a43f8cbee77a74a2550b772c3cf6e9daa5c5315eb3a60a6754ad4d93573bf4d1",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/TRY-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/TRY-20261003.metadata.json",
+      "sha256": "aaedb0b2cb7ca8c5664d96b9aabc9eaf1af888d9ed117cebe5a1f5a10d85f85f",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/TWD_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/TWD_2026-10-03_raw.tsv",
+      "sha256": "d4043e23dcc97d720ebc6cd3c62c19d9395ac89c4e4be7847621c9cd9a553514",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/THB_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/THB_2026-10-03_raw.tsv",
+      "sha256": "c4708d44d13d2d40bf6abb03841f46cce248c3b8f4ac2dc485cce8f4ec2e84cb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/TRY-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/TRY-20261003.raw.json",
+      "sha256": "0e498ea4137c0988f7c49ef8c30baa4e46ac0d2bd5fe157b0ebe7b6c11486bcb",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/THB-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/THB-20261003.metadata.json",
+      "sha256": "480e46e16049750bbea85baf2dc933c60fe0462ba132f096e0713fa5d8537d7b",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/THB-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/THB-20261003.raw.json",
+      "sha256": "a5e1f129fdaed4793e66423dae6314ebcc271caa202f375bf5370bd6a145d7de",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/TWD-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/TWD-20261003.raw.json",
+      "sha256": "9909c9d766d9b6506e45feb688b4e00d6772df0e26da37ef5c09e81b8999c6ad",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/TRY_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/TRY_2026-10-03_raw.tsv",
+      "sha256": "8193a9d890ad17e70333a2839009265e836bb06646741a6e470c593eda595ae9",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-044",
+      "local_path": "october-source-batch044/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-044/source-evidence/transfer-manifest.json",
+      "sha256": "a8db171ee7cb9c53bd3aca8251c1539d9f83c87cd0d635d57c8061ddc005987a",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/ZMW-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/ZMW-20261003.raw.json",
+      "sha256": "ac487403a821531ca1998517a9235ec444d4ffdfe62295983a6fff5592f3f3d8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/ZMW-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/ZMW-20261003.metadata.json",
+      "sha256": "e2ee4a675359259d6a55bd0cfe0288dcc5aa6988387831dc7527ac87ff6d994e",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/ZAR-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/ZAR-20261003.metadata.json",
+      "sha256": "7acf1b989966281e830b89fd1b730ad42588345f6d23a76ef1b3be592ac46d56",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/VND-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/VND-20261003.raw.json",
+      "sha256": "3a23add4e9a4bd88aeff37de87b5cbf4bbfc00f419abc77ce0c360cbae13fa50",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/VND_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/VND_2026-10-03_raw.tsv",
+      "sha256": "714dbb9c59ad9eebd2e4aafa800b1c5cf148caa16948548d73bf54469a6ee813",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/batch-VND-ZAR-ZMW-20261003.manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/batch-VND-ZAR-ZMW-20261003.manifest.json",
+      "sha256": "f4376156978339317d89991841ae8d000ca3309986553267b7b22c6c72417619",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/ZMW_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/ZMW_2026-10-03_raw.tsv",
+      "sha256": "3890df68985fe3f6533361177efd76054d4fe710e677faf8f2d846221c69dab8",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/VND-20261003.metadata.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/VND-20261003.metadata.json",
+      "sha256": "c2d9b227e4d8ef71b64e339b3dcc9c2be5a69ae77c65896ae871b33c4431865d",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/transfer-manifest.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/transfer-manifest.json",
+      "sha256": "9b45e082a9b6c23aaba5146c4cfa07efedd34be78310ba4d4520d6fb68da6cb5",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/ZAR_2026-10-03_raw.tsv",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/ZAR_2026-10-03_raw.tsv",
+      "sha256": "bcdd9f465d08628ad3fd29b97d704ca045daf6d644467d425b9cd90d302efbb2",
+      "git_byte_sha_match": true
+    },
+    {
+      "batch": "batch-045",
+      "local_path": "october-source-batch045/ZAR-20261003.raw.json",
+      "path": "docs/backfill-provenance/2026-10-03-october-history/batches/batch-045/source-evidence/ZAR-20261003.raw.json",
+      "sha256": "1d4540e0a1e0e38511f362e291a78467b47327732fa814ec98527cb0a10e49b3",
+      "git_byte_sha_match": true
+    }
+  ]
+}

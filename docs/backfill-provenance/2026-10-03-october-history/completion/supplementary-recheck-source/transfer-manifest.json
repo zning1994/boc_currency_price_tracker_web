@@ -1,0 +1,187 @@
+{
+  "format_version": 1,
+  "evidence_role": "supplemental_independent_requery",
+  "counts_as_new_unique_source": false,
+  "primary_source_currency_days": 135,
+  "primary_library_artifacts": 45,
+  "source_original_bytes_unchanged": true,
+  "files": [
+    {
+      "filename": "AED-20261003.raw.json",
+      "size_bytes": 840,
+      "sha256": "8ea060bf18534580e64bb7cfa4a3756a69e374c72ad2e89c03d49747b1c8d65d"
+    },
+    {
+      "filename": "AED-20261003.metadata.json",
+      "size_bytes": 2044,
+      "sha256": "45fc6a45809a4cce4ecf82f51357e33835e8c2d4891b7a307264a9aa0a3576ba"
+    },
+    {
+      "filename": "AED_2026-10-03_raw.tsv",
+      "size_bytes": 639,
+      "sha256": "1ad0e8a75cb8a2df01227ce9285c40bced2216ad8abe2b15e224bb8318e1e571"
+    },
+    {
+      "filename": "MUR-20261003.raw.json",
+      "size_bytes": 664,
+      "sha256": "2c79d2300500562ae065e14127c521e81b157107c35786637583a8aeb0301583"
+    },
+    {
+      "filename": "MUR-20261003.metadata.json",
+      "size_bytes": 2044,
+      "sha256": "4bfd93bafa9fc7227b0867f9a6124f9f21d45c379dd3a9ffb3f8c82d5926ba45"
+    },
+    {
+      "filename": "MUR_2026-10-03_raw.tsv",
+      "size_bytes": 477,
+      "sha256": "c03b895ed308475d51e83d8d25df43390b780cb8e026d89ea1a9b9dec830aa0f"
+    },
+    {
+      "filename": "USD-20261003.raw.json",
+      "size_bytes": 748,
+      "sha256": "ebaf72cb655179a9a3ad438ba2dd3d6d9c9045210f9f352c5cbfdeea3873d5cf"
+    },
+    {
+      "filename": "USD-20261003.metadata.json",
+      "size_bytes": 2167,
+      "sha256": "abab4f57bc609e9611040d970aeab0b1e5c8ceecfcae6fe01aa96dea346033c1"
+    },
+    {
+      "filename": "USD_2026-10-03_raw.tsv",
+      "size_bytes": 559,
+      "sha256": "cde1ae136ac0a221ab122bce9754ce2986ba64d00197fdc39b23c1dbcfd3c5ac"
+    },
+    {
+      "filename": "batch-AED-MUR-USD-20261003.manifest.json",
+      "size_bytes": 6501,
+      "sha256": "abb34ffa32a7ce38b1b21abd78cffa5aee40e2787414e5997ef667af79ef3536"
+    },
+    {
+      "filename": "independent-requery-comparison.json",
+      "size_bytes": 2136,
+      "sha256": "59139701b1328b3cb811ba2ce37106a889e3d6e0395f37fdd7eba73f0dee1eb1"
+    },
+    {
+      "filename": "page-comparison-validation.json",
+      "size_bytes": 4999,
+      "sha256": "597420be62ef7374e0527827dc7a066c611f05ac5fa6f4b1062897c6f8505ec1"
+    }
+  ],
+  "validation": {
+    "verified_at_utc": "2026-10-03T13:57:05.792581+00:00",
+    "scope": "Supplemental independent observation evidence for the existing three October 3 source currency-days. Not new unique source coverage; remains intraday per-source observation.",
+    "records": [
+      {
+        "code": "AED",
+        "date": "2026-10-03",
+        "all_pages_exact_match": true,
+        "original_file": "AED-20261003.raw.json",
+        "original_sha256": "fdabebfdb9cb8869837cd7df3e979227510221fa367a7ecef35b2435e9bbe9e6",
+        "original_capture_at_utc": "2026-10-03T11:01:01.715Z",
+        "requery_file": "rechecks/20261003T1345Z/AED-20261003.raw.json",
+        "requery_sha256": "8ea060bf18534580e64bb7cfa4a3756a69e374c72ad2e89c03d49747b1c8d65d",
+        "requery_capture_at_utc": "2026-10-03T13:46:14.567Z",
+        "rows": 7,
+        "newest": "2026/10/03 10:30:00",
+        "oldest": "2026/10/03 00:00:05",
+        "new_quotes_observed": 0,
+        "is_intraday_snapshot": true,
+        "distinct_rows": 4,
+        "same_second_conflicts": 0,
+        "raw_tsv_sha256": "1ad0e8a75cb8a2df01227ce9285c40bced2216ad8abe2b15e224bb8318e1e571",
+        "raw_tsv_roundtrip_identical": true,
+        "browser_full_and_page_hashes_verified": true,
+        "page_comparisons": [
+          {
+            "page": 1,
+            "original_page_sha256": "08a21e42a545bb78b5b7122d5ec36180ff952812315b2c15ac620aaae10f1493",
+            "requery_page_sha256": "08a21e42a545bb78b5b7122d5ec36180ff952812315b2c15ac620aaae10f1493",
+            "rows": 7,
+            "seven_cell_strings_and_row_order_identical": true
+          }
+        ]
+      },
+      {
+        "code": "MUR",
+        "date": "2026-10-03",
+        "all_pages_exact_match": true,
+        "original_file": "MUR-20261003.raw.json",
+        "original_sha256": "85949d897c41b6e5fa9a97339be2f664e72bf7f0956da57d7ed5703ee8b211ed",
+        "original_capture_at_utc": "2026-10-03T10:55:25.110Z",
+        "requery_file": "rechecks/20261003T1345Z/MUR-20261003.raw.json",
+        "requery_sha256": "2c79d2300500562ae065e14127c521e81b157107c35786637583a8aeb0301583",
+        "requery_capture_at_utc": "2026-10-03T13:46:55.654Z",
+        "rows": 6,
+        "newest": "2026/10/03 10:30:00",
+        "oldest": "2026/10/03 00:00:05",
+        "new_quotes_observed": 0,
+        "is_intraday_snapshot": true,
+        "distinct_rows": 4,
+        "same_second_conflicts": 0,
+        "raw_tsv_sha256": "c03b895ed308475d51e83d8d25df43390b780cb8e026d89ea1a9b9dec830aa0f",
+        "raw_tsv_roundtrip_identical": true,
+        "browser_full_and_page_hashes_verified": true,
+        "page_comparisons": [
+          {
+            "page": 1,
+            "original_page_sha256": "d862177b65de9bca686d50686ce78010dd28fa5d84787bf6ad965416d82239c1",
+            "requery_page_sha256": "d862177b65de9bca686d50686ce78010dd28fa5d84787bf6ad965416d82239c1",
+            "rows": 6,
+            "seven_cell_strings_and_row_order_identical": true
+          }
+        ]
+      },
+      {
+        "code": "USD",
+        "date": "2026-10-03",
+        "all_pages_exact_match": true,
+        "original_file": "USD-20261003.raw.json",
+        "original_sha256": "7add894a2c4d65f82b16d76b81d9eacf8e405a691f8be64a4fafdf9e295ddaf5",
+        "original_capture_at_utc": "2026-10-03T11:01:01.679Z",
+        "requery_file": "rechecks/20261003T1345Z/USD-20261003.raw.json",
+        "requery_sha256": "ebaf72cb655179a9a3ad438ba2dd3d6d9c9045210f9f352c5cbfdeea3873d5cf",
+        "requery_capture_at_utc": "2026-10-03T13:45:31.607Z",
+        "rows": 7,
+        "newest": "2026/10/03 10:30:00",
+        "oldest": "2026/10/03 00:00:05",
+        "new_quotes_observed": 0,
+        "is_intraday_snapshot": true,
+        "distinct_rows": 4,
+        "same_second_conflicts": 0,
+        "raw_tsv_sha256": "cde1ae136ac0a221ab122bce9754ce2986ba64d00197fdc39b23c1dbcfd3c5ac",
+        "raw_tsv_roundtrip_identical": true,
+        "browser_full_and_page_hashes_verified": true,
+        "page_comparisons": [
+          {
+            "page": 1,
+            "original_page_sha256": "3d707f3adecf527a8ccec32a7d50c22fc0058a64abd3bf6fbd1122706e476080",
+            "requery_page_sha256": "3d707f3adecf527a8ccec32a7d50c22fc0058a64abd3bf6fbd1122706e476080",
+            "rows": 7,
+            "seven_cell_strings_and_row_order_identical": true
+          }
+        ]
+      }
+    ],
+    "totals": {
+      "sources_observed": 3,
+      "new_unique_source_currency_days": 0,
+      "pages": 3,
+      "raw_rows": 20,
+      "distinct_rows": 12,
+      "same_second_conflicts": 0,
+      "new_quotes_observed": 0
+    },
+    "original_evidence": {
+      "library_file_id": "libfile_5fc7dcec98608191b142d5bb89f9012e",
+      "file_id": "file_00000000933c82088c7111263cfc47db",
+      "file_name": "BOC_October_2026-10-01_to_03_readonly_sample_evidence.zip",
+      "current_version_number": 0,
+      "file_size_bytes": 24750,
+      "sha256": "66aae2c75854606833fa01e1f570cbea4f1199c97fa584f20abae3c8992cbad5"
+    },
+    "original_primary_receipts_sha256": {
+      "boc-transfer-receipts.json": "33081bea23614bfac8d5c04e51607645abf65a0f64ed3867b7803008b63563bd",
+      "boc-october-backfill-receipts.json": "0c7b591bf5c9ae224a6bfc7192e9ebe6068f809e08d5859c4df935557c939419"
+    }
+  }
+}

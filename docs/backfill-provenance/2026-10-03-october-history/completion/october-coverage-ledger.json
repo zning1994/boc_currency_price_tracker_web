@@ -1,0 +1,958 @@
+{
+  "main_sha": "c583691c42d5a4b6eb38233fdfbe16001fbb9b48",
+  "source_coverage": 135,
+  "remaining": 0,
+  "pairs": [
+    {
+      "code": "AED",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 57
+    },
+    {
+      "code": "AED",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 80
+    },
+    {
+      "code": "AED",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "MUR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 6,
+      "stored_rows": 1
+    },
+    {
+      "code": "USD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 3
+    },
+    {
+      "code": "USD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 1
+    },
+    {
+      "code": "USD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "AUD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 124
+    },
+    {
+      "code": "BND",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 112
+    },
+    {
+      "code": "BRL",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 158,
+      "stored_rows": 74
+    },
+    {
+      "code": "CAD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 129
+    },
+    {
+      "code": "CHF",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 129
+    },
+    {
+      "code": "CZK",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 158,
+      "stored_rows": 92
+    },
+    {
+      "code": "DKK",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 126
+    },
+    {
+      "code": "EUR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 132
+    },
+    {
+      "code": "GBP",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 136
+    },
+    {
+      "code": "HKD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 12
+    },
+    {
+      "code": "HUF",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 141
+    },
+    {
+      "code": "IDR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 4
+    },
+    {
+      "code": "ILS",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 142
+    },
+    {
+      "code": "INR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 36
+    },
+    {
+      "code": "JPY",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 138
+    },
+    {
+      "code": "KHR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 7
+    },
+    {
+      "code": "KRW",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 109
+    },
+    {
+      "code": "KWD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 107
+    },
+    {
+      "code": "KZT",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 6
+    },
+    {
+      "code": "MNT",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 6
+    },
+    {
+      "code": "MOP",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 12
+    },
+    {
+      "code": "MUR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 2
+    },
+    {
+      "code": "MXN",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 127
+    },
+    {
+      "code": "MYR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 20
+    },
+    {
+      "code": "NOK",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 123
+    },
+    {
+      "code": "NPR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 27
+    },
+    {
+      "code": "NZD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 121
+    },
+    {
+      "code": "PHP",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 16
+    },
+    {
+      "code": "PKR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 6
+    },
+    {
+      "code": "PLN",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 141
+    },
+    {
+      "code": "QAR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 2
+    },
+    {
+      "code": "RON",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 137
+    },
+    {
+      "code": "RSD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 133
+    },
+    {
+      "code": "RUB",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 32
+    },
+    {
+      "code": "SAR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 7
+    },
+    {
+      "code": "SEK",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 122
+    },
+    {
+      "code": "SGD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 123
+    },
+    {
+      "code": "THB",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 65
+    },
+    {
+      "code": "TRY",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 43
+    },
+    {
+      "code": "TWD",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 54
+    },
+    {
+      "code": "VND",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 1
+    },
+    {
+      "code": "ZAR",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 112
+    },
+    {
+      "code": "ZMW",
+      "date": "20261001",
+      "source_cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "stored_rows": 23
+    },
+    {
+      "code": "AUD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 128
+    },
+    {
+      "code": "BND",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 127
+    },
+    {
+      "code": "BRL",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 51
+    },
+    {
+      "code": "CAD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 139
+    },
+    {
+      "code": "CHF",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 155
+    },
+    {
+      "code": "CZK",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 101
+    },
+    {
+      "code": "DKK",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 147
+    },
+    {
+      "code": "EUR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 145
+    },
+    {
+      "code": "GBP",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 155
+    },
+    {
+      "code": "HKD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 23
+    },
+    {
+      "code": "HUF",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 169
+    },
+    {
+      "code": "IDR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 6
+    },
+    {
+      "code": "ILS",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 156
+    },
+    {
+      "code": "INR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 2
+    },
+    {
+      "code": "JPY",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 153
+    },
+    {
+      "code": "KHR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 8
+    },
+    {
+      "code": "KRW",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "stored_rows": 144
+    },
+    {
+      "code": "KWD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 107
+    },
+    {
+      "code": "KZT",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 9
+    },
+    {
+      "code": "MNT",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 5
+    },
+    {
+      "code": "MOP",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 23
+    },
+    {
+      "code": "MUR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 3
+    },
+    {
+      "code": "MXN",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 125
+    },
+    {
+      "code": "MYR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 26
+    },
+    {
+      "code": "NOK",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 146
+    },
+    {
+      "code": "NPR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 1
+    },
+    {
+      "code": "NZD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 146
+    },
+    {
+      "code": "PHP",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 21
+    },
+    {
+      "code": "PKR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 3
+    },
+    {
+      "code": "PLN",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 153
+    },
+    {
+      "code": "QAR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 1
+    },
+    {
+      "code": "RON",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 154
+    },
+    {
+      "code": "RSD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 150
+    },
+    {
+      "code": "RUB",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 26
+    },
+    {
+      "code": "SAR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 3
+    },
+    {
+      "code": "SEK",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 141
+    },
+    {
+      "code": "SGD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 130
+    },
+    {
+      "code": "THB",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 76
+    },
+    {
+      "code": "TRY",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 52
+    },
+    {
+      "code": "TWD",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 82
+    },
+    {
+      "code": "VND",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 1
+    },
+    {
+      "code": "ZAR",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 137
+    },
+    {
+      "code": "ZMW",
+      "date": "20261002",
+      "source_cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "stored_rows": 29
+    },
+    {
+      "code": "AUD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "BND",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "BRL",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "CAD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "CHF",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "CZK",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "DKK",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "EUR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "GBP",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "HKD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "HUF",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "IDR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "ILS",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "INR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "JPY",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "KHR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "KRW",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "KWD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "KZT",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "MNT",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "MOP",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "MXN",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "MYR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "NOK",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "NPR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "NZD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "PHP",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "PKR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "PLN",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "QAR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "RON",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 6,
+      "stored_rows": 2
+    },
+    {
+      "code": "RSD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "RUB",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "SAR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "SEK",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "SGD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "THB",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "TRY",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "TWD",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "VND",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 1
+    },
+    {
+      "code": "ZAR",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "stored_rows": 2
+    },
+    {
+      "code": "ZMW",
+      "date": "20261003",
+      "source_cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 6,
+      "stored_rows": 2
+    }
+  ],
+  "remaining_by_day": {
+    "20261001": 0,
+    "20261002": 0,
+    "20261003": 0
+  },
+  "october_3_status": "observation snapshots, not completed day"
+}
