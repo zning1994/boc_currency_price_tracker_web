@@ -1,0 +1,35 @@
+{
+  "reports": [
+    {
+      "code": "VND",
+      "raw_sha256": "f917bd8cda0c8922aa99d446fb0fc94c4701016b3bf2e1ed83fedf661828b781",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 12,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "ZAR",
+      "raw_sha256": "a43736240b378b77788a08705eef927f05d2b832edf2f7d95fa470be837c05d0",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 150,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "aac9b6f22ae02952b1e7613f97b3941d0d785df81155611e788da73cb010ba37",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "12b8ae9b52dd5ac3208335f45329a03b24266cc23644e8fd8a7763629f2053c2"
+}

@@ -1,0 +1,152 @@
+{
+  "format_version": 1,
+  "batch": "BOC-VND-ZAR-20260928",
+  "created_at_utc": "2026-10-03T07:53:30.046973+00:00",
+  "files": [
+    {
+      "filename": "VND-20260928.raw.json",
+      "size_bytes": 17424,
+      "sha256": "f917bd8cda0c8922aa99d446fb0fc94c4701016b3bf2e1ed83fedf661828b781"
+    },
+    {
+      "filename": "VND-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "81f5f6d03d9a4cc1eb2157117bef1321bcf25c3a29bae3111708f6cc1cb4738a"
+    },
+    {
+      "filename": "VND_2026-09-28_raw.tsv",
+      "size_bytes": 13707,
+      "sha256": "c7d9455e6375303795781bc1f6b6c5143fda316b7e495d563835352dfd2b61a1"
+    },
+    {
+      "filename": "ZAR-20260928.conflict-review.json",
+      "size_bytes": 3226,
+      "sha256": "8f3c2d330026141bef9afbbc90edcc20394c6f4dabd84c885eb9916b26f148c5"
+    },
+    {
+      "filename": "ZAR-20260928.review.raw.json",
+      "size_bytes": 19799,
+      "sha256": "aac9b6f22ae02952b1e7613f97b3941d0d785df81155611e788da73cb010ba37"
+    },
+    {
+      "filename": "ZAR_2026-09-28_review_raw.tsv",
+      "size_bytes": 16079,
+      "sha256": "b52f11b3cbc6f03f234c95163c995e260b99b0833ea87c88bcf03c7929f710b0"
+    },
+    {
+      "filename": "ZAR-20260928.raw.json",
+      "size_bytes": 19799,
+      "sha256": "a43736240b378b77788a08705eef927f05d2b832edf2f7d95fa470be837c05d0"
+    },
+    {
+      "filename": "ZAR-20260928.metadata.json",
+      "size_bytes": 4217,
+      "sha256": "54140705887c0fc5674d8ac612e8ac1585257d4e01a60ee341491dad902f1f28"
+    },
+    {
+      "filename": "ZAR_2026-09-28_raw.tsv",
+      "size_bytes": 16079,
+      "sha256": "b52f11b3cbc6f03f234c95163c995e260b99b0833ea87c88bcf03c7929f710b0"
+    },
+    {
+      "filename": "batch-VND-ZAR-20260928.manifest.json",
+      "size_bytes": 7963,
+      "sha256": "fc39731e4439e1fcc32f7e778ca1caa872cc02b3b8aeee824a307870630dec8c"
+    },
+    {
+      "filename": "batch-VND-ZAR-20260928.review-browser.json",
+      "size_bytes": 295,
+      "sha256": "76569d84a50959c08ec86f10ae1f5f93f7d9cf6a2d204364a6494e807eecf73b"
+    }
+  ],
+  "validation": [
+    {
+      "code": "VND",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "ZAR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "ZAR-20260928.raw.json",
+        "original_full_sha256": "a43736240b378b77788a08705eef927f05d2b832edf2f7d95fa470be837c05d0",
+        "review_raw_json": "ZAR-20260928.review.raw.json",
+        "review_full_sha256": "aac9b6f22ae02952b1e7613f97b3941d0d785df81155611e788da73cb010ba37",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "40.87",
+              "40.87",
+              "41.34",
+              "41.34",
+              "41.19"
+            ],
+            [
+              "40.86",
+              "40.86",
+              "41.33",
+              "41.33",
+              "41.19"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "南非兰特",
+              "40.86",
+              "40.86",
+              "41.33",
+              "41.33",
+              "41.19",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "南非兰特",
+              "40.87",
+              "40.87",
+              "41.34",
+              "41.34",
+              "41.19",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "ZAR-20260928.conflict-review.json",
+        "evidence_sha256": "8f3c2d330026141bef9afbbc90edcc20394c6f4dabd84c885eb9916b26f148c5",
+        "browser_record": {
+          "start": "2026-10-03T07:52:11.022Z",
+          "end": "2026-10-03T07:52:23.333Z",
+          "full_json_sha256": "aac9b6f22ae02952b1e7613f97b3941d0d785df81155611e788da73cb010ba37",
+          "browser_page_sha256_list_sha256": "0091a0f480d129d9c2a194d7014cb855234c4e7d4b2432f3091e1155acbed04f",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
