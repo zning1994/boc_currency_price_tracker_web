@@ -1,0 +1,53 @@
+{
+  "batch": "batch-033",
+  "base_head": "c4f24f3dd19a788de2ed493a2baf138507fb5669",
+  "source_dir": "october-source-batch033",
+  "source_coverage": 99,
+  "remaining": 36,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "CAD",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "d71dcb3c3a87e4dd5868c6e7fd5204e234d14ba9cc1b906bc8f6bd2192e31f56",
+      "source_sha256": "b82e4839648bae02bd68c1afbceab097c1b71a431104f56ff389cdbcdd7e4104",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "CHF",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "5210f027c5c08382bf8200f222c0a73ea9eae4e846e909ac9f9af7b515e69cad",
+      "source_sha256": "705e31cfb8864adab8b73b91c8d0a7300fab8190feabb55ae1c0a814eadb9eae",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "CZK",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "e7186deddc3d46b6430679699a3dd58c15401a0f5b74b0254a9a13d34027325a",
+      "source_sha256": "bd8b31a8ece4dace258feae9d5dab339fb1d0e58f96e2e4fb1944865fa6a2d03",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
