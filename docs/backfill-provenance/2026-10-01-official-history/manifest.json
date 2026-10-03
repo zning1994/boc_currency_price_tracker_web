@@ -13277,6 +13277,37 @@
       "archive_sha256": "a44ada60850dfde8e105034e8a2cb55b2bdf13d2e07f9c7cc7bc587b6c8401a8"
     },
     {
+      "code": "KHR",
+      "date": "2026-09-30",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "bebdf8234b8bc02c5aad78234a4a228d80a32298d3e2d03e17aeb6a2bfc4b1b6",
+      "captured_at_utc": "2026-10-03T09:08:38.959Z",
+      "total_pages": 12,
+      "actual_pages": 12,
+      "raw_rows": 224,
+      "unique_timestamps": 221,
+      "first_publish_date": "2026.09.30 00:00:05",
+      "last_publish_date": "2026.09.30 23:56:09",
+      "stored_rows_after_price_dedup": 14,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        4
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KHR/20260930.json",
+      "capture_path": "raw/KHR-20260930.raw.json",
+      "archive_sha256": "e7aa83edfc2c57a4b5f3ae944a661811453d4135af6c1a122b5f88bf0453f8f6"
+    },
+    {
       "code": "KRW",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -14035,6 +14066,37 @@
       "archive_sha256": "63a64700281c04eadb0ceb8673a24a2516f5b265546484c0d45e6f2a842e96a9"
     },
     {
+      "code": "KRW",
+      "date": "2026-09-30",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "2c12eafd3951445c7294b474a0386c5c2b87ac20538e876793a3fcac6352ba6b",
+      "captured_at_utc": "2026-10-03T09:08:49.523Z",
+      "total_pages": 12,
+      "actual_pages": 12,
+      "raw_rows": 224,
+      "unique_timestamps": 221,
+      "first_publish_date": "2026.09.30 00:00:05",
+      "last_publish_date": "2026.09.30 23:56:09",
+      "stored_rows_after_price_dedup": 162,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        4
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260930.json",
+      "capture_path": "raw/KRW-20260930.raw.json",
+      "archive_sha256": "c8079db198055dde2e9c9435a97894456b6c537a187d2396f6dacb5ca6b03923"
+    },
+    {
       "code": "KWD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -14784,6 +14846,37 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260929.json",
       "capture_path": "raw/KWD-20260929.raw.json",
       "archive_sha256": "26030f89fafbec5e32b5e3523bea8b4617b56b2a78a61d32249f537ca865d121"
+    },
+    {
+      "code": "KWD",
+      "date": "2026-09-30",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "82a7dde291141f4621ca84a8d0d178341950ed016eb7395abcd4e84c44e0b28e",
+      "captured_at_utc": "2026-10-03T09:09:00.284Z",
+      "total_pages": 12,
+      "actual_pages": 12,
+      "raw_rows": 224,
+      "unique_timestamps": 221,
+      "first_publish_date": "2026.09.30 00:00:05",
+      "last_publish_date": "2026.09.30 23:56:09",
+      "stored_rows_after_price_dedup": 174,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        4
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260930.json",
+      "capture_path": "raw/KWD-20260930.raw.json",
+      "archive_sha256": "1d59bcf1e2f8c5099ec270bbebe687846dcafc43858d6aae33b7625c2fa37fe4"
     },
     {
       "code": "MNT",
@@ -30532,7 +30625,7 @@
       "archive_sha256": "5a51384ab4d215ccc48a21a0f6461b0443b38abe17272290cf499820afee2d4c"
     }
   ],
-  "completed_pairs": 1057,
+  "completed_pairs": 1060,
   "planned_pairs": 1080,
-  "remaining_pairs": 23
+  "remaining_pairs": 20
 }
