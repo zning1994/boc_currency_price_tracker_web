@@ -1,0 +1,340 @@
+{
+  "format_version": 1,
+  "batch": "BOC-MYR-NOK-NPR-20260928",
+  "created_at_utc": "2026-10-03T07:25:01.821026+00:00",
+  "files": [
+    {
+      "filename": "MYR-20260928.conflict-review.json",
+      "size_bytes": 3207,
+      "sha256": "0037e49f2d3d2d2a55d0362ef4696a8392198d4bc6d88b59bc93e0ab08fee6a0"
+    },
+    {
+      "filename": "MYR-20260928.review.raw.json",
+      "size_bytes": 17131,
+      "sha256": "926b8b28e15c81db0491610189eca562eb447285f209a931ed9ec6765b5ecbab"
+    },
+    {
+      "filename": "MYR_2026-09-28_review_raw.tsv",
+      "size_bytes": 13414,
+      "sha256": "42745598be3ba72592201c10877cd881c01b6d11623b669273719b669fc69d32"
+    },
+    {
+      "filename": "MYR-20260928.raw.json",
+      "size_bytes": 17131,
+      "sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1"
+    },
+    {
+      "filename": "MYR-20260928.metadata.json",
+      "size_bytes": 4075,
+      "sha256": "8ff948734a697b158ee97d5e4037912ca1f26f13012e0925ba3277a467e0941d"
+    },
+    {
+      "filename": "MYR_2026-09-28_raw.tsv",
+      "size_bytes": 13414,
+      "sha256": "42745598be3ba72592201c10877cd881c01b6d11623b669273719b669fc69d32"
+    },
+    {
+      "filename": "NOK-20260928.conflict-review.json",
+      "size_bytes": 3224,
+      "sha256": "2b798ea92ee7640b9820a91585ec716abd029be2c59473940810a9341731efb2"
+    },
+    {
+      "filename": "NOK-20260928.review.raw.json",
+      "size_bytes": 19791,
+      "sha256": "d3fa395fd8f3a6d74b4f6a449b9bb70d44b9f253681612f490563d07268e0a4f"
+    },
+    {
+      "filename": "NOK_2026-09-28_review_raw.tsv",
+      "size_bytes": 16071,
+      "sha256": "ff61515a92f805496649baa00aceac391936250219e140c80027d1d7a800806b"
+    },
+    {
+      "filename": "NOK-20260928.raw.json",
+      "size_bytes": 19791,
+      "sha256": "55b7831f205c68ae13b819850949c66cd438b50a344df66eb1b5d5a4cae5d7b0"
+    },
+    {
+      "filename": "NOK-20260928.metadata.json",
+      "size_bytes": 4215,
+      "sha256": "22a509f5aad73095f2dad549f9230894c424ffa53778d1d1dbd3a07d9a05cab4"
+    },
+    {
+      "filename": "NOK_2026-09-28_raw.tsv",
+      "size_bytes": 16071,
+      "sha256": "ff61515a92f805496649baa00aceac391936250219e140c80027d1d7a800806b"
+    },
+    {
+      "filename": "NPR-20260928.conflict-review.json",
+      "size_bytes": 3212,
+      "sha256": "2e869399375631cc3f1de601d6e9954ed50a5e5c5436c20f5ad59d4268d01ce7"
+    },
+    {
+      "filename": "NPR-20260928.review.raw.json",
+      "size_bytes": 18823,
+      "sha256": "dfe0e5240ad62f41c61b7355d5814148ec6bc9530f81bf09054d037f15eaf2e5"
+    },
+    {
+      "filename": "NPR_2026-09-28_review_raw.tsv",
+      "size_bytes": 15100,
+      "sha256": "b8d9ed1e3cb8392517167ef12812f71c9e0dab62d548911819a14e1c3c6cea55"
+    },
+    {
+      "filename": "NPR-20260928.raw.json",
+      "size_bytes": 18823,
+      "sha256": "def1931ff0fef10c8efcf6e1a6c9e5192f8adaa9695e5e0a8d272f3e58ee70d0"
+    },
+    {
+      "filename": "NPR-20260928.metadata.json",
+      "size_bytes": 4203,
+      "sha256": "a286f9c2e5bf0ac9fb7ec99ad77750e19606624b81ac06e853a46b1154bd66cb"
+    },
+    {
+      "filename": "NPR_2026-09-28_raw.tsv",
+      "size_bytes": 15100,
+      "sha256": "b8d9ed1e3cb8392517167ef12812f71c9e0dab62d548911819a14e1c3c6cea55"
+    },
+    {
+      "filename": "batch-MYR-NOK-NPR-20260928.manifest.json",
+      "size_bytes": 13261,
+      "sha256": "3c573138147d361349b3326c6ec0889822046778a80e9ed599475ff82265239d"
+    },
+    {
+      "filename": "batch-MYR-NOK-NPR-20260928.review-browser.json",
+      "size_bytes": 881,
+      "sha256": "f61c0a0fe520adb14e6e6422eeb1894ca856317a036816725584f5bc732b588f"
+    }
+  ],
+  "validation": [
+    {
+      "code": "MYR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "MYR-20260928.raw.json",
+        "original_full_sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1",
+        "review_raw_json": "MYR-20260928.review.raw.json",
+        "review_full_sha256": "926b8b28e15c81db0491610189eca562eb447285f209a931ed9ec6765b5ecbab",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "164",
+              "",
+              "165.49",
+              "",
+              "165.2"
+            ],
+            [
+              "163.99",
+              "",
+              "165.48",
+              "",
+              "165.2"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "林吉特",
+              "163.99",
+              "",
+              "165.48",
+              "",
+              "165.2",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "林吉特",
+              "164",
+              "",
+              "165.49",
+              "",
+              "165.2",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "MYR-20260928.conflict-review.json",
+        "evidence_sha256": "0037e49f2d3d2d2a55d0362ef4696a8392198d4bc6d88b59bc93e0ab08fee6a0",
+        "browser_record": {
+          "start": "2026-10-03T07:21:29.265Z",
+          "end": "2026-10-03T07:21:50.603Z",
+          "full_json_sha256": "926b8b28e15c81db0491610189eca562eb447285f209a931ed9ec6765b5ecbab",
+          "browser_page_sha256_list_sha256": "912ad1300f393b39cd305078e899d204604179f2ddc0ddc28612f45a251488f2",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "NOK",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "NOK-20260928.raw.json",
+        "original_full_sha256": "55b7831f205c68ae13b819850949c66cd438b50a344df66eb1b5d5a4cae5d7b0",
+        "review_raw_json": "NOK-20260928.review.raw.json",
+        "review_full_sha256": "d3fa395fd8f3a6d74b4f6a449b9bb70d44b9f253681612f490563d07268e0a4f",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "70.3",
+              "70.3",
+              "70.86",
+              "70.86",
+              "70.63"
+            ],
+            [
+              "70.29",
+              "70.29",
+              "70.85",
+              "70.85",
+              "70.63"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "挪威克朗",
+              "70.29",
+              "70.29",
+              "70.85",
+              "70.85",
+              "70.63",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "挪威克朗",
+              "70.3",
+              "70.3",
+              "70.86",
+              "70.86",
+              "70.63",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "NOK-20260928.conflict-review.json",
+        "evidence_sha256": "2b798ea92ee7640b9820a91585ec716abd029be2c59473940810a9341731efb2",
+        "browser_record": {
+          "start": "2026-10-03T07:21:29.277Z",
+          "end": "2026-10-03T07:22:02.895Z",
+          "full_json_sha256": "d3fa395fd8f3a6d74b4f6a449b9bb70d44b9f253681612f490563d07268e0a4f",
+          "browser_page_sha256_list_sha256": "8ffce6ba3e039bd918af1741595f657abaac9ee265e492aac84cf99229fb9928",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "NPR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "NPR-20260928.raw.json",
+        "original_full_sha256": "def1931ff0fef10c8efcf6e1a6c9e5192f8adaa9695e5e0a8d272f3e58ee70d0",
+        "review_raw_json": "NPR-20260928.review.raw.json",
+        "review_full_sha256": "dfe0e5240ad62f41c61b7355d5814148ec6bc9530f81bf09054d037f15eaf2e5",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "3.5742",
+              "",
+              "5.0809",
+              "4.3833"
+            ],
+            [
+              "",
+              "3.5743",
+              "",
+              "5.0811",
+              "4.3833"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "尼泊尔卢比",
+              "",
+              "3.5742",
+              "",
+              "5.0809",
+              "4.3833",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "尼泊尔卢比",
+              "",
+              "3.5743",
+              "",
+              "5.0811",
+              "4.3833",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "NPR-20260928.conflict-review.json",
+        "evidence_sha256": "2e869399375631cc3f1de601d6e9954ed50a5e5c5436c20f5ad59d4268d01ce7",
+        "browser_record": {
+          "start": "2026-10-03T07:21:29.294Z",
+          "end": "2026-10-03T07:22:15.188Z",
+          "full_json_sha256": "dfe0e5240ad62f41c61b7355d5814148ec6bc9530f81bf09054d037f15eaf2e5",
+          "browser_page_sha256_list_sha256": "b638e9f77aa66e66c9512fde60372ee69abcd668c93562afb2adb9ad1b0c7a34",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}

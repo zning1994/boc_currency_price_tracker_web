@@ -1,0 +1,128 @@
+{
+  "code": "NOK",
+  "raw_json": "NOK-20260928.raw.json",
+  "bytes": 19791,
+  "sha256": "55b7831f205c68ae13b819850949c66cd438b50a344df66eb1b5d5a4cae5d7b0",
+  "raw_tsv": "NOK_2026-09-28_raw.tsv",
+  "tsv_sha256": "ff61515a92f805496649baa00aceac391936250219e140c80027d1d7a800806b",
+  "capture_window_utc": [
+    "2026-10-03T07:19:42.479Z",
+    "2026-10-03T07:20:06.087Z"
+  ],
+  "captured_at_utc": "2026-10-03T07:20:06.087Z",
+  "pages": 13,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    6
+  ],
+  "raw_rows": 246,
+  "distinct_rows": 243,
+  "same_second_conflicts": {
+    "2026/09/28 10:10:54": [
+      [
+        "70.3",
+        "70.3",
+        "70.86",
+        "70.86",
+        "70.63"
+      ],
+      [
+        "70.29",
+        "70.29",
+        "70.85",
+        "70.85",
+        "70.63"
+      ]
+    ]
+  },
+  "original_browser_json_sha256": "55b7831f205c68ae13b819850949c66cd438b50a344df66eb1b5d5a4cae5d7b0",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "0f1679715e54cc4135426ae674021bdf9014d4df36f995d18b0572547b498893"
+    },
+    {
+      "page": 2,
+      "sha256": "124378c68ff10b55d446e55af42daf36c83edbac6bc59a1f5765c8ffb3a68cd8"
+    },
+    {
+      "page": 3,
+      "sha256": "09e3bfceaee7b01e5a8cd48447ac2badfe89ec7a267455704ecf4bb54e86318b"
+    },
+    {
+      "page": 4,
+      "sha256": "ce7dc2cd04cd2498f1688f6df394b5c150e802ca6725d91b93aa267dae404e50"
+    },
+    {
+      "page": 5,
+      "sha256": "3df8ab9808a1978c4dd16a406ccf292e566cda3ee7383115a9531966ed83f677"
+    },
+    {
+      "page": 6,
+      "sha256": "260feb5bf50d6f499af978aecd184805dbf3f73bc544ab88435c42a8b3bc3c39"
+    },
+    {
+      "page": 7,
+      "sha256": "c9816ad46df80fb832b209f8f2263740ad1cb5fffeef37ef3f4c610405edbf52"
+    },
+    {
+      "page": 8,
+      "sha256": "d2400ac99d25c0ced86aa1aa1b467d539ce738b5ecc25bd93df6c9e323e101be"
+    },
+    {
+      "page": 9,
+      "sha256": "543feae650e86475c867b8299f57f243603fd5541e0e607ad52ddf2bdb80d3cf"
+    },
+    {
+      "page": 10,
+      "sha256": "0865554944bb8c9eb808b3671d4e73fc8ef2ea3be1eda9c1c6e2158e98264fd2"
+    },
+    {
+      "page": 11,
+      "sha256": "32f59fe11f7c3f39419ecc9448d25bda565075d893efc560a5b42d9ed92f4707"
+    },
+    {
+      "page": 12,
+      "sha256": "8cfc848c3348909983503f28e33759a10aa1bcd4a24495b19c6810c1ae1c94a4"
+    },
+    {
+      "page": 13,
+      "sha256": "0f67e5e11b09436ab1d5f349b00c67410c58689f0ec8ebd8e7d955721c996eda"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "MYR-20260928.raw.json",
+    "sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "8ffce6ba3e039bd918af1741595f657abaac9ee265e492aac84cf99229fb9928",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true,
+  "same_second_conflict_review": {
+    "status": "source_confirmed_both_quotes_retained",
+    "independent_full_requery_exact_match": true,
+    "evidence_json": "NOK-20260928.conflict-review.json",
+    "evidence_sha256": "2b798ea92ee7640b9820a91585ec716abd029be2c59473940810a9341731efb2",
+    "review_raw_json": "NOK-20260928.review.raw.json",
+    "review_sha256": "d3fa395fd8f3a6d74b4f6a449b9bb70d44b9f253681612f490563d07268e0a4f",
+    "review_raw_tsv": "NOK_2026-09-28_review_raw.tsv",
+    "review_tsv_sha256": "ff61515a92f805496649baa00aceac391936250219e140c80027d1d7a800806b",
+    "capture_window_utc": [
+      "2026-10-03T07:21:29.277Z",
+      "2026-10-03T07:22:02.895Z"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "MYR",
+      "raw_sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 118,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "926b8b28e15c81db0491610189eca562eb447285f209a931ed9ec6765b5ecbab",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "NOK",
+      "raw_sha256": "55b7831f205c68ae13b819850949c66cd438b50a344df66eb1b5d5a4cae5d7b0",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 163,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "d3fa395fd8f3a6d74b4f6a449b9bb70d44b9f253681612f490563d07268e0a4f",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "NPR",
+      "raw_sha256": "def1931ff0fef10c8efcf6e1a6c9e5192f8adaa9695e5e0a8d272f3e58ee70d0",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 143,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "dfe0e5240ad62f41c61b7355d5814148ec6bc9530f81bf09054d037f15eaf2e5",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "f475d509cb4d43d3ddf93f5ab6c203cc32123de71226edc44be2e2a4f3606693"
+}

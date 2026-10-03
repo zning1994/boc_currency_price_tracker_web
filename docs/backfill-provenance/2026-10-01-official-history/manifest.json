@@ -16939,6 +16939,45 @@
       "archive_sha256": "b9d59bf84a27a07afcf2afdd76ca10e19220c97488c27b1a29752effd138474e"
     },
     {
+      "code": "MYR",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "c2499dd9ab4cecdec8f252db7700ac04adcffe425eef5e288a6ed4aeeb42b4d1",
+      "captured_at_utc": "2026-10-03T07:19:53.979Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 118,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "926b8b28e15c81db0491610189eca562eb447285f209a931ed9ec6765b5ecbab",
+      "independent_review_path": "raw/MYR-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260928.json",
+      "capture_path": "raw/MYR-20260928.raw.json",
+      "archive_sha256": "90c1e382cd40a67d4fe14eccf863a500de4ff3851de7c4e4c5c2ec9285acfd4a"
+    },
+    {
       "code": "NOK",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -17619,6 +17658,45 @@
       "archive_sha256": "1f76dd476763d4cb688b7a328eb8fef592b8674f9bd32bc142d2703a9a4b5a8f"
     },
     {
+      "code": "NOK",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "55b7831f205c68ae13b819850949c66cd438b50a344df66eb1b5d5a4cae5d7b0",
+      "captured_at_utc": "2026-10-03T07:20:06.087Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 163,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "d3fa395fd8f3a6d74b4f6a449b9bb70d44b9f253681612f490563d07268e0a4f",
+      "independent_review_path": "raw/NOK-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260928.json",
+      "capture_path": "raw/NOK-20260928.raw.json",
+      "archive_sha256": "7db54d94488053dc1c1876aa1836fb88d28df686cea2c326b0729189386869c7"
+    },
+    {
       "code": "NPR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -18297,6 +18375,45 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260927.json",
       "capture_path": "raw/NPR-20260927.raw.json",
       "archive_sha256": "b0300f62561fce25ff66ef132847c2ec4f0f5eafadd599232344be232b639c3d"
+    },
+    {
+      "code": "NPR",
+      "date": "2026-09-28",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "def1931ff0fef10c8efcf6e1a6c9e5192f8adaa9695e5e0a8d272f3e58ee70d0",
+      "captured_at_utc": "2026-10-03T07:20:18.376Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "first_publish_date": "2026.09.28 00:00:05",
+      "last_publish_date": "2026.09.28 23:55:58",
+      "stored_rows_after_price_dedup": 143,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        6
+      ],
+      "different_price_timestamp_count": 1,
+      "different_price_timestamps": [
+        "2026.09.28 10:10:54"
+      ],
+      "independent_review_sha256": "dfe0e5240ad62f41c61b7355d5814148ec6bc9530f81bf09054d037f15eaf2e5",
+      "independent_review_path": "raw/NPR-20260928.review.json",
+      "same_second_policy": "Keep every distinct five-price tuple in stable official source order; remove identical timestamp/price duplicates. Other continuous price-run compression unchanged.",
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260928.json",
+      "capture_path": "raw/NPR-20260928.raw.json",
+      "archive_sha256": "3f6c8707454ca9c6c964ab697eeb5d6f1cc88898ba994f3f45b352a259f61aa3"
     },
     {
       "code": "NZD",
@@ -28601,7 +28718,7 @@
       "archive_sha256": "bfee740af24aacb76f1cfc37e275eb41055ac3719a47d452d7b15f4e0aded24f"
     }
   ],
-  "completed_pairs": 999,
+  "completed_pairs": 1002,
   "planned_pairs": 1080,
-  "remaining_pairs": 81
+  "remaining_pairs": 78
 }
