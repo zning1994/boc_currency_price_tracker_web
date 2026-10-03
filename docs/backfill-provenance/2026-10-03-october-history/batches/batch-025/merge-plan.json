@@ -1,0 +1,65 @@
+{
+  "batch": "batch-025",
+  "base_head": "db4214c36c177cd63ae36895fa772c6908ee0445",
+  "source_dir": "october-source-batch025",
+  "source_coverage": 77,
+  "remaining": 58,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "NOK",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "7951fc62b9290bf91af5c7d858cea7e6d773bcd4f7610a12599a50a21dfd7b03",
+      "source_sha256": "2cdfa4854996e13ac6f1c88891b5557aff3d3c7ca7b729906b9a7afbf5e15bc5",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 73,
+      "result_rows": 146,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "NOK",
+          "spot_exchange_buying_price": 69.39,
+          "cash_buying_price": 69.39,
+          "spot_selling_price": 69.95,
+          "cash_selling_price": 69.95,
+          "bank_of_china_conversion_price": 69.97,
+          "publish_date": "2026.10.02 20:37:20",
+          "publish_at_utc": "2026-10-02T12:37:20Z",
+          "publish_at_local": "2026-10-02T20:37:20+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "NPR",
+      "day": "20261002",
+      "changed": false,
+      "result_sha256": "c85458fd1edb95ac418f7439e17dc49ae4e4f10e235ad87d6b3c87597b2e94d8",
+      "source_sha256": "23abbabbf79a390963f4d81fa0f04c7b0c47f50849f71ec30de8d4cdcfa1fba8",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "NZD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "7dd4c732131ee1946a2f8597c3a5471a3c241d37cb4f9661b513a6b39a126e5c",
+      "source_sha256": "6d92a3c1bab35f138e6716eb2f7ec78efda362e62cf8f6ff7c56a74f0cfd339f",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 69,
+      "result_rows": 146,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}

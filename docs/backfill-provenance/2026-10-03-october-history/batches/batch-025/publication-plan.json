@@ -1,0 +1,17 @@
+{
+  "base_main_sha": "db4214c36c177cd63ae36895fa772c6908ee0445",
+  "batch": "batch-025",
+  "source_coverage": 77,
+  "remaining": 58,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/NOK/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/NZD/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
