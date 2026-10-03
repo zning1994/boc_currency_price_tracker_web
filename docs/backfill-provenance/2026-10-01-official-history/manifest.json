@@ -29470,6 +29470,38 @@
       "archive_sha256": "37dea0de917d5b8360b29c83510dfb8f404863a7d31cd6ea4b47c279d944cde3"
     },
     {
+      "code": "VND",
+      "date": "2026-09-29",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "a03e6833c77c4de931335fac42f3c3f2bffac3c3f0e8ef4ebd3af8b781f38bd1",
+      "captured_at_utc": "2026-10-03T08:52:14.603Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 254,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.29 00:00:05",
+      "last_publish_date": "2026.09.29 23:46:03",
+      "stored_rows_after_price_dedup": 2,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        14
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260929.json",
+      "capture_path": "raw/VND-20260929.raw.json",
+      "archive_sha256": "76e85753f0f253366ae121f9a6fde19c9199cbb78b4e26b3233c08aa61dee35c"
+    },
+    {
       "code": "ZAR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -30187,9 +30219,41 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260928.json",
       "capture_path": "raw/ZAR-20260928.raw.json",
       "archive_sha256": "6c760b8b38cea1a5e219fa6d675bb813dc5432c14b454dcbbd6a0a729737b473"
+    },
+    {
+      "code": "ZAR",
+      "date": "2026-09-29",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "4c700b330da55bec0a68e6da5c22826276f7d61217f5132fa6d7589c69a43561",
+      "captured_at_utc": "2026-10-03T08:52:42.688Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 254,
+      "unique_timestamps": 251,
+      "first_publish_date": "2026.09.29 00:00:05",
+      "last_publish_date": "2026.09.29 23:46:03",
+      "stored_rows_after_price_dedup": 182,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        14
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260929.json",
+      "capture_path": "raw/ZAR-20260929.raw.json",
+      "archive_sha256": "5a51384ab4d215ccc48a21a0f6461b0443b38abe17272290cf499820afee2d4c"
     }
   ],
-  "completed_pairs": 1046,
+  "completed_pairs": 1048,
   "planned_pairs": 1080,
-  "remaining_pairs": 34
+  "remaining_pairs": 32
 }

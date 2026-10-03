@@ -1,0 +1,51 @@
+{
+  "transport": "official Library full line reads, decoded JSON chunk strings concatenated without separators",
+  "transport_text_bytes": 107732,
+  "transport_text_sha256": "d89cfc5aa215aab2108f6af9915e4e7cf766c47092b48fff857b7140b35d3bd3",
+  "files": [
+    {
+      "filename": "VND-20260929.raw.json",
+      "size_bytes": 17976,
+      "sha256": "a03e6833c77c4de931335fac42f3c3f2bffac3c3f0e8ef4ebd3af8b781f38bd1",
+      "chunks": 33
+    },
+    {
+      "filename": "VND-20260929.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "70b1c0bc9f9ee0a0108753bd8728fa56055c7fcc3ba942fedbd1a0fcb3421a53",
+      "chunks": 7
+    },
+    {
+      "filename": "VND_2026-09-29_raw.tsv",
+      "size_bytes": 14155,
+      "sha256": "55c26a605550569186ea481ba23753a2202dfd7d3293efc48bee1cefcb5236b6",
+      "chunks": 25
+    },
+    {
+      "filename": "ZAR-20260929.raw.json",
+      "size_bytes": 20393,
+      "sha256": "4c700b330da55bec0a68e6da5c22826276f7d61217f5132fa6d7589c69a43561",
+      "chunks": 36
+    },
+    {
+      "filename": "ZAR-20260929.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "77c3dcfad55f7a1a1af757a5f032746f7e52aa8c7e9ab6cbb8341cf869474746",
+      "chunks": 7
+    },
+    {
+      "filename": "ZAR_2026-09-29_raw.tsv",
+      "size_bytes": 16569,
+      "sha256": "9696b267a572388939923ea2715b827ea8e4d2eb910f148d03a1d57d48ecdee6",
+      "chunks": 29
+    },
+    {
+      "filename": "batch-VND-ZAR-20260929.manifest.json",
+      "size_bytes": 6977,
+      "sha256": "0968cc0d91516f77cc116c8bbe54db3a8b96242a38a500e65e22198eb29dd67c",
+      "chunks": 14
+    }
+  ],
+  "original_file_count": 10,
+  "all_member_bytes_sha256_match": true
+}
