@@ -1,6 +1,6 @@
-# Partial official-history backfill
+# Completed official-history backfill
 
-1080/1080 approved original-40-currency pairs validated; 0 pending for 2026-09-04 through 2026-09-30. This is a partial checkpoint.
+1080/1080 approved original-40-currency pairs validated and published for 2026-09-04 through 2026-09-30; 0 pending. All 27 dates contain the original 40 currencies.
 
 |Currency|Date|Pages|Raw rows|Unique timestamps|Archived price runs|
 |---|---|---|---|---|---|
@@ -1091,4 +1091,6 @@ Source: https://www.boc.cn/sourcedb/whpjSearch/index.html . Raw captures preserv
 
 Offline validation checks complete sequential pages, 20 rows on non-final pages, currency/date/price/timestamp consistency, descending chronology, and independent full-page review for differing quotes at a timestamp. Historical same-second differing five-price tuples are preserved in stable official source order; identical timestamp/price repeats are removed. Other continuous five-price-run compression is unchanged; realtime scraper code is untouched. Eight regression tests cover valid captures, malformed capture rejection, and idempotent missing-only import that refuses differing existing files and preserves current-day data. All archive hashes match the manifest; git diff --check passes. No production configuration changes. The data repository has no PR functional CI trigger.
 
-Progress stages: 1080 captured, 1080 validated, 1078 independently verified on production CDN. Captured-only items are not complete.
+Progress stages: 1080 captured, 1080 validated, 1080 independently verified on production CDN. Captured-only items are not complete.
+
+Final history audit: 198881 original rows across 10475 complete returned query pages produce 99574 archived rows. All 1080 CDN files were freshly fetched from 2026-10-03T09:34:21.015898+00:00 through 2026-10-03T09:34:53.372230+00:00; every response was HTTP200 and matched the manifest SHA-256. See `production-full-verification-1080.json` and `final-local-history-audit-1080.json`. Final 8 local and 3 public regression tests passed. The unrelated realtime Fetch workflow remains blocked by duplicate AED/AUD/BND rows in the official English snapshot; full-CI-green checkpoint remains 787. No realtime scraper or workflow changes were made.

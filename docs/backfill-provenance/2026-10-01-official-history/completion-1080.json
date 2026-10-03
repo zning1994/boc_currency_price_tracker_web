@@ -1,0 +1,32 @@
+{
+  "verified_at_utc": "2026-10-03T09:33:38.951133+00:00",
+  "main_sha": "6a1b58918961c21b73907cc4193fff6a8b9036a0",
+  "coverage": "original 40 currencies x 27 dates exactly",
+  "completed_pairs": 1080,
+  "remaining_pairs": 0,
+  "raw_rows": 198881,
+  "pages": 10475,
+  "archived_rows": 99574,
+  "raw_capture_archive_and_independent_review_verified": true,
+  "queue_all_published": true,
+  "no_existing_history_realtime_or_workflow_overwrite_since_verified790": true,
+  "preservation_baseline": "1efed4ed31081d09d1ffea1070087c76af4b403d",
+  "history_status": "complete",
+  "archive_data_commit": "6a1b58918961c21b73907cc4193fff6a8b9036a0",
+  "fresh_cdn_audit_started_at_utc": "2026-10-03T09:34:21.015898+00:00",
+  "fresh_cdn_audit_completed_at_utc": "2026-10-03T09:34:53.372230+00:00",
+  "fresh_cdn_files_verified": 1080,
+  "tests": {
+    "local": 8,
+    "public": 3,
+    "result": "PASS"
+  },
+  "pages_archive_run_id": 37113346683,
+  "pages_archive_result": "success",
+  "realtime_fetch_result": "failure",
+  "ci_green_checkpoint": 787,
+  "latest_official_source_observation_utc": "2026-10-03T09:23:27.946973+00:00",
+  "source_error": "snapshot page 1 duplicate currency codes: AED, AUD, BND",
+  "recovered1048_original_files": 7,
+  "recovered1048_transport_text_sha256": "d89cfc5aa215aab2108f6af9915e4e7cf766c47092b48fff857b7140b35d3bd3"
+}

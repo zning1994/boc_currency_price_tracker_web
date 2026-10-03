@@ -12991,24 +12991,24 @@
       "name": "越南盾",
       "date": "2026-09-30",
       "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260930.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/VND-20260930.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "ZAR",
       "name": "南非兰特",
       "date": "2026-09-30",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260930.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/ZAR-20260930.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     }
   ],
   "progress": {
@@ -13021,7 +13021,7 @@
     "remaining": {
       "captured": 864,
       "validated": 864,
-      "published": 862,
+      "published": 864,
       "pending": 0
     }
   },
