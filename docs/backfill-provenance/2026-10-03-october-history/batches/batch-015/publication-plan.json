@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "79419b33b39fcb49a2af11fc11783af0abca9494",
+  "batch": "batch-015",
+  "source_coverage": 49,
+  "remaining": 86,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/TWD/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/VND/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/ZAR/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

@@ -1,0 +1,77 @@
+{
+  "batch": "batch-015",
+  "base_head": "79419b33b39fcb49a2af11fc11783af0abca9494",
+  "source_dir": "october-source-batch015",
+  "source_coverage": 49,
+  "remaining": 86,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "TWD",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "a1a8969f3b7c62b1a99341a7777e868c06a9f9a28b31ae9a39ac3c21b36b21d3",
+      "source_sha256": "479dd1acbde4f4fcd8c50698acea808ac05c3f2c9fca4991a053d432c90fb102",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 23,
+      "result_rows": 54,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "TWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 20.15,
+          "spot_selling_price": null,
+          "cash_selling_price": 22.08,
+          "bank_of_china_conversion_price": 21.05,
+          "publish_date": "2026.10.01 19:51:14",
+          "publish_at_utc": "2026-10-01T11:51:14Z",
+          "publish_at_local": "2026-10-01T19:51:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "VND",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "e9f9ae404e32c66a0d844cd4201c6509f76cebb686d752223eaab3149f0c5788",
+      "source_sha256": "88e93851286b6762916f2eda3a17065f78a06c5d77683c12d6a9ded8cfe20959",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "VND",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 0.0245,
+          "spot_selling_price": null,
+          "cash_selling_price": 0.0271,
+          "bank_of_china_conversion_price": 0.0258,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "ZAR",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "db3f432e03c44def230f3ac7b6453f0fb85b1bb80ecd4f76376159ca5378e817",
+      "source_sha256": "70da82d630dfcbfe8bb7693ddb7f412bc148dea473d83cdfc900bc8143ffe346",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 39,
+      "result_rows": 112,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
