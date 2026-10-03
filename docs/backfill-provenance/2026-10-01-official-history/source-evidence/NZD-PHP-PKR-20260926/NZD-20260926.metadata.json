@@ -1,0 +1,37 @@
+{
+  "code": "NZD",
+  "raw_json": "NZD-20260926.raw.json",
+  "bytes": 880,
+  "sha256": "22dfafb67c9d416025b77d2c48c50864b5d6715538a8c9b17c341b1d38be9028",
+  "raw_tsv": "NZD_2026-09-26_raw.tsv",
+  "tsv_sha256": "71c4907b690b63094f70fe767355e3fa7e22e7d31da976bdc2fb4b72b5fd68f9",
+  "capture_window_utc": [
+    "2026-10-03T06:12:03.456Z",
+    "2026-10-03T06:12:03.456Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:12:03.456Z",
+  "pages": 1,
+  "page_counts": [
+    8
+  ],
+  "raw_rows": 8,
+  "distinct_rows": 5,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "22dfafb67c9d416025b77d2c48c50864b5d6715538a8c9b17c341b1d38be9028",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "f5a00e39130ed7db515190d8b63df7745efcc4fca70006c769d98a6cc5a9bb89"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260926.raw.json",
+    "sha256": "0ae4d2d23f0134d90565bec0a253e254ccea6bcc6c9818cf2cd21905fdb5425a"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "a9122bcd019a1c116a1a9efe98df7a6aff3291c9240062299fdc069014d5c479",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}

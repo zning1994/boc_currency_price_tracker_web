@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-NZD-PHP-PKR-20260926",
+  "created_at_utc": "2026-10-03T06:12:59.767981+00:00",
+  "files": [
+    {
+      "filename": "NZD-20260926.raw.json",
+      "size_bytes": 880,
+      "sha256": "22dfafb67c9d416025b77d2c48c50864b5d6715538a8c9b17c341b1d38be9028"
+    },
+    {
+      "filename": "NZD-20260926.metadata.json",
+      "size_bytes": 1828,
+      "sha256": "9a356e955f4d3d95e388d999dae11aebe2cdb6860e90b69f43ec4c19c5f4cece"
+    },
+    {
+      "filename": "NZD_2026-09-26_raw.tsv",
+      "size_bytes": 671,
+      "sha256": "71c4907b690b63094f70fe767355e3fa7e22e7d31da976bdc2fb4b72b5fd68f9"
+    },
+    {
+      "filename": "PHP-20260926.raw.json",
+      "size_bytes": 859,
+      "sha256": "300415abc25bab981fa25aaedabce0beb27cefdf0365c0518ab95c026b56f782"
+    },
+    {
+      "filename": "PHP-20260926.metadata.json",
+      "size_bytes": 1828,
+      "sha256": "69bda6eb8c098fa16abe2312496cfe396079ea62453ca6ee4169521ed4746028"
+    },
+    {
+      "filename": "PHP_2026-09-26_raw.tsv",
+      "size_bytes": 647,
+      "sha256": "3bec6723b7930d2fb1037ffc54c6db03d432365f7488905c4371a92cd01096f9"
+    },
+    {
+      "filename": "PKR-20260926.raw.json",
+      "size_bytes": 838,
+      "sha256": "6ef4c89c8894b5655d3773397fe57057c544cbc9ca358029a9e239c95d991a1e"
+    },
+    {
+      "filename": "PKR-20260926.metadata.json",
+      "size_bytes": 1828,
+      "sha256": "25914c9ee6c408f01b6e3accd88ac4f26eb447c4cf65f56af2f5d32ce879e680"
+    },
+    {
+      "filename": "PKR_2026-09-26_raw.tsv",
+      "size_bytes": 623,
+      "sha256": "17c7394dd40a6d97eb0d92ba0cf9b8d1b7f8da2cd1695fd9366278a37805f16f"
+    },
+    {
+      "filename": "batch-NZD-PHP-PKR-20260926.manifest.json",
+      "size_bytes": 5712,
+      "sha256": "af8f535903665831e7abe7141fae419fc96af15bf47fc85f168de8f9c8d590a3"
+    }
+  ],
+  "validation": [
+    {
+      "code": "NZD",
+      "raw_rows": 8,
+      "distinct_rows": 5,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "PHP",
+      "raw_rows": 8,
+      "distinct_rows": 5,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "PKR",
+      "raw_rows": 8,
+      "distinct_rows": 5,
+      "pages": 1,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
