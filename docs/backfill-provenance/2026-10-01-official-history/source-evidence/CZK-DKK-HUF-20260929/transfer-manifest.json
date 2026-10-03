@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-CZK-DKK-HUF-20260929",
+  "created_at_utc": "2026-10-03T08:05:00.872904+00:00",
+  "files": [
+    {
+      "filename": "CZK-20260929.raw.json",
+      "size_bytes": 17883,
+      "sha256": "ddc2390fa8d6d57ffef06e501d5d0a57cd40ecdb807f0127b839b6c233bca422"
+    },
+    {
+      "filename": "CZK-20260929.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "bb2ae4da94cfa332bdfd385ec76c203f186a691c17de4674fdf3157df1d2367d"
+    },
+    {
+      "filename": "CZK_2026-09-29_raw.tsv",
+      "size_bytes": 14059,
+      "sha256": "878e89d21bdc2c2b0facf3954526f177dc12c5d1f9502b1c884e10227fb1a3d8"
+    },
+    {
+      "filename": "DKK-20260929.raw.json",
+      "size_bytes": 21659,
+      "sha256": "a41c24f1833d4e09a4ea50caf38aa2ef1f1efc876dd7da77090c37df1b86d30e"
+    },
+    {
+      "filename": "DKK-20260929.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "0460385b582de53e705e8e1210e50c07e189bc274efa2a4fb292340c55b64309"
+    },
+    {
+      "filename": "DKK_2026-09-29_raw.tsv",
+      "size_bytes": 17835,
+      "sha256": "7bff19523e097b87afbac3ea144daa58aeb4780168b7a7181bae4a604fdcff2b"
+    },
+    {
+      "filename": "HUF-20260929.raw.json",
+      "size_bytes": 22294,
+      "sha256": "b889c2a757a370c22923b8bab1c5235e471c5e1cadde554d0ae681b3232959ad"
+    },
+    {
+      "filename": "HUF-20260929.metadata.json",
+      "size_bytes": 3169,
+      "sha256": "aa91061397c010aef48799753c9bbbcb53604202812e666b5cccc7337abe1256"
+    },
+    {
+      "filename": "HUF_2026-09-29_raw.tsv",
+      "size_bytes": 18493,
+      "sha256": "3388c6f3b23ce864bd2b29378cae2d01dbcf35fb716257a219cc16aee3bc65cc"
+    },
+    {
+      "filename": "batch-CZK-DKK-HUF-20260929.manifest.json",
+      "size_bytes": 10335,
+      "sha256": "74d7c102991b239c8076199908f76ba2ab4041c76469555e0849fd894239b2b1"
+    }
+  ],
+  "validation": [
+    {
+      "code": "CZK",
+      "raw_rows": 254,
+      "distinct_rows": 251,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "DKK",
+      "raw_rows": 254,
+      "distinct_rows": 251,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "HUF",
+      "raw_rows": 252,
+      "distinct_rows": 249,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
