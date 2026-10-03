@@ -1,0 +1,25 @@
+{
+  "batch": "batch-031",
+  "base_head": "579417e5c02d01c6f625ce9d6c735d016e900ce2",
+  "source_dir": "october-source-batch031",
+  "source_coverage": 93,
+  "remaining": 42,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "ZMW",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "8e6bbdc79b95e8786a7f12a902ea87c817e833c9755bf65d5c786c26b85ab25c",
+      "source_sha256": "4fdb06d4cdffdb660d95d72957526e0bd1036393e9bd09c17e0fd38a07015a7d",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 14,
+      "result_rows": 29,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}

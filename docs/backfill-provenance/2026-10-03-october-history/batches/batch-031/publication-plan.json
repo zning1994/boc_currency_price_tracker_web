@@ -1,0 +1,16 @@
+{
+  "base_main_sha": "579417e5c02d01c6f625ce9d6c735d016e900ce2",
+  "batch": "batch-031",
+  "source_coverage": 93,
+  "remaining": 42,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/ZMW/20261002.json"
+  ],
+  "verified_pairs": 1,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

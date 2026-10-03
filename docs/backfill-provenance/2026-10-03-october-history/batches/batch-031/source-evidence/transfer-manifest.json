@@ -1,0 +1,47 @@
+{
+  "format_version": 1,
+  "scope": "Authorized October 1-3 manual history backfill source evidence; October 3 is an intraday observation snapshot, not a completed full day. Separate from September completed history.",
+  "batch": "BOC-ZMW-20261002",
+  "created_at_utc": "2026-10-03T13:08:03.478739+00:00",
+  "files": [
+    {
+      "filename": "ZMW-20261002.raw.json",
+      "size_bytes": 13791,
+      "sha256": "4fdb06d4cdffdb660d95d72957526e0bd1036393e9bd09c17e0fd38a07015a7d"
+    },
+    {
+      "filename": "ZMW-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "300ed949b7675efa849768107fffedb7160df57cbbc5709ca03a23b45c3e6517"
+    },
+    {
+      "filename": "ZMW_2026-10-02_raw.tsv",
+      "size_bytes": 11022,
+      "sha256": "ddf6adee4bc3a729801032438579103c98e6340646d6c858b6de4a1ae997d316"
+    },
+    {
+      "filename": "batch-ZMW-20261002.manifest.json",
+      "size_bytes": 3163,
+      "sha256": "9e64e2a8bf0e3712cb9529d919d3ccb284e49476c840d3eb373c2bbd36219888"
+    }
+  ],
+  "validation": [
+    {
+      "date": "2026-10-02",
+      "code": "ZMW",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T13:07:41.480Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
