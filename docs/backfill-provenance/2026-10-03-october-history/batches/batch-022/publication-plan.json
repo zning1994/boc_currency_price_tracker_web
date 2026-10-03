@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "a29c69d06ac39f7306ea0b024294d27eb67a7d5d",
+  "batch": "batch-022",
+  "source_coverage": 68,
+  "remaining": 67,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/KHR/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/KRW/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/KWD/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

@@ -1,0 +1,133 @@
+{
+  "batch": "batch-022",
+  "base_head": "a29c69d06ac39f7306ea0b024294d27eb67a7d5d",
+  "source_dir": "october-source-batch022",
+  "source_coverage": 68,
+  "remaining": 67,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "KHR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "9cd6f54e66f33281d6e97321344d9646e94745b6d1dd82ae7fea3360a88eabf5",
+      "source_sha256": "42da09f8070b772713691bd0ab231b9e9dc4a3fbbc6317338aa4292bc64e3c52",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 6,
+      "result_rows": 8,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "KHR",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 0.1469,
+          "spot_selling_price": null,
+          "cash_selling_price": 0.1836,
+          "bank_of_china_conversion_price": 0.1654,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        },
+        {
+          "currency_name": "KHR",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 0.1468,
+          "spot_selling_price": null,
+          "cash_selling_price": 0.1835,
+          "bank_of_china_conversion_price": 0.1654,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "KRW",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "1edcbf9f7ee15c0de6acc35ceb856193424dfde86da468c54b97f7d51a4aa23c",
+      "source_sha256": "59728bbb6b7c283f2e456c95f625975de94fbd361a9f68f67008b474091f94cf",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 72,
+      "result_rows": 144,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "KRW",
+          "spot_exchange_buying_price": 0.4929,
+          "cash_buying_price": 0.4929,
+          "spot_selling_price": 0.5032,
+          "cash_selling_price": 0.5032,
+          "bank_of_china_conversion_price": 0.4958,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "KWD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "5b24660a0b0e4c620c0e3375a69e94aacf079816cbbfd5172367b71396d2416d",
+      "source_sha256": "78875782ef5c2efdc34d9b35476978ffe47d9e9281b2b1330e46b0d7b3e5db07",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 64,
+      "result_rows": 107,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "KWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 1932.92,
+          "spot_selling_price": null,
+          "cash_selling_price": 2410.72,
+          "bank_of_china_conversion_price": 2172.8,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        },
+        {
+          "currency_name": "KWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 1932.29,
+          "spot_selling_price": null,
+          "cash_selling_price": 2409.93,
+          "bank_of_china_conversion_price": 2172.8,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        },
+        {
+          "currency_name": "KWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 1932.16,
+          "spot_selling_price": null,
+          "cash_selling_price": 2409.78,
+          "bank_of_china_conversion_price": 2172.8,
+          "publish_date": "2026.10.02 20:31:12",
+          "publish_at_utc": "2026-10-02T12:31:12Z",
+          "publish_at_local": "2026-10-02T20:31:12+08:00"
+        },
+        {
+          "currency_name": "KWD",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 1932.1,
+          "spot_selling_price": null,
+          "cash_selling_price": 2409.7,
+          "bank_of_china_conversion_price": 2172.8,
+          "publish_date": "2026.10.02 20:37:20",
+          "publish_at_utc": "2026-10-02T12:37:20Z",
+          "publish_at_local": "2026-10-02T20:37:20+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}
