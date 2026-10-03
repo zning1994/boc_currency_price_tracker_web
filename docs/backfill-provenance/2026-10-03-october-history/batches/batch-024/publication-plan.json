@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "e138ecc4de9f93d7c6262c778a74eb3ad107a59f",
+  "batch": "batch-024",
+  "source_coverage": 74,
+  "remaining": 61,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/MUR/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/MXN/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/MYR/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

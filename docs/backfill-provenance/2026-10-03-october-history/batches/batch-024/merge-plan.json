@@ -1,0 +1,88 @@
+{
+  "batch": "batch-024",
+  "base_head": "e138ecc4de9f93d7c6262c778a74eb3ad107a59f",
+  "source_dir": "october-source-batch024",
+  "source_coverage": 74,
+  "remaining": 61,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "MUR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "31cfd12b707d9f8e99085638c6a3e30189d52192cc06209f2fb704af87e2d80a",
+      "source_sha256": "eb8153904a9af59640b1a46e385a464325c5006ca8e6a4d79efa511d6042a65d",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 2,
+      "result_rows": 3,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "MUR",
+          "spot_exchange_buying_price": 11.67,
+          "cash_buying_price": null,
+          "spot_selling_price": 14.55,
+          "cash_selling_price": null,
+          "bank_of_china_conversion_price": 13.25,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "MXN",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "e7a8df113736ace5c471dcff93be1199353e1008773b6f9fdf4edd25c0f03a53",
+      "source_sha256": "ffa6afdd0cdbbba84927dd725906041531a5dae86103336627d11ecb910fcdf9",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 71,
+      "result_rows": 125,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "MYR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "15b897002c1c38c4aa0040020e99d184f4a06faffecfc1c9bbe21f7863b88fad",
+      "source_sha256": "ace121121178aaad09a600a0540c5747f256b930d1ec1df154b3efeb45e2b9b6",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 7,
+      "result_rows": 26,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "MYR",
+          "spot_exchange_buying_price": 163.66,
+          "cash_buying_price": null,
+          "spot_selling_price": 165.13,
+          "cash_selling_price": null,
+          "bank_of_china_conversion_price": 164.83,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        },
+        {
+          "currency_name": "MYR",
+          "spot_exchange_buying_price": 163.68,
+          "cash_buying_price": null,
+          "spot_selling_price": 165.15,
+          "cash_selling_price": null,
+          "bank_of_china_conversion_price": 164.83,
+          "publish_date": "2026.10.02 14:56:18",
+          "publish_at_utc": "2026-10-02T06:56:18Z",
+          "publish_at_local": "2026-10-02T14:56:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}
