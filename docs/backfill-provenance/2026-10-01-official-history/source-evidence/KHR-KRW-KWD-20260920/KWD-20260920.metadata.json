@@ -1,0 +1,34 @@
+{
+  "code": "KWD",
+  "raw_json": "/workspace/shared/boc-cloud-test/KWD-20260920.raw.json",
+  "bytes": 781,
+  "sha256": "63b11b83c98fa59e682636dc0710932b1b85a45f2dc795f66ddeb5e56d843f24",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/KWD_2026-09-20_raw.tsv",
+  "tsv_sha256": "cc40200917d2830ca74d4f30dc3e18a3672857dcfa45cab66103d809b236bd73",
+  "capture_window_utc": [
+    "2026-10-03T01:26:02.452Z",
+    "2026-10-03T01:26:02.452Z"
+  ],
+  "captured_at_utc": "2026-10-03T01:26:02.452Z",
+  "pages": 1,
+  "page_counts": [
+    7
+  ],
+  "raw_rows": 7,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "63b11b83c98fa59e682636dc0710932b1b85a45f2dc795f66ddeb5e56d843f24",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "0b03e99b29b8bd0d1b0b14c30797b403a6989d065c05fc273cee80376838c323"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260920.raw.json",
+    "sha256": "504ebea85593c5eb3f92cc35801eb705353b7886cc1d6ac3dca3ef633fc35b96"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+}
