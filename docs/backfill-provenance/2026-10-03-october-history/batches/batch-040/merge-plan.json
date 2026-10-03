@@ -1,0 +1,53 @@
+{
+  "batch": "batch-040",
+  "base_head": "d7f2c30083c31432525c3c79ff693bca5d9119c9",
+  "source_dir": "october-source-batch040",
+  "source_coverage": 120,
+  "remaining": 15,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "NPR",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "9bb670d26d17715de22efb42d7a15fdb62688db9f93174dd9b630f43514d07cc",
+      "source_sha256": "17e1bff6865b7307b298d2cc95db573b1ec2a2b009c4c0c38d5801a45d75edde",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "NZD",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "e884135e6a9bf04aa04b879f43d36bd066a3ab42edb748f2df59c60a4a8fa322",
+      "source_sha256": "8379175ab824668e1601560ff49ed0b162027e505d6bab378331e095adac4638",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "PHP",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "58aaef08a695a52fee4e03a880f9d8998b50ee1cdc50e021155186781687a22d",
+      "source_sha256": "a6a565acf9158bcae817a88bdfe4654874b98bd9407a2747123ce35eaf947d49",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
