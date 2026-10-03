@@ -1,0 +1,29 @@
+{
+  "reports": [
+    {
+      "code": "VND",
+      "raw_sha256": "8036e715f3ec31e2a1a5f542e39dc33a4824941e0fc0791a1f1e4ca72c4c4149",
+      "pages": 16,
+      "raw_rows": 318,
+      "stored_rows": 1,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "ZAR",
+      "raw_sha256": "155a751f76e9c474b794432e83262e005d98cab3ee75804fbdc8565ab913c73d",
+      "pages": 16,
+      "raw_rows": 318,
+      "stored_rows": 184,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "b0bc2afc2fe341e8a1c4a0ddf2946e09594e964a47b92b02ad0c0268d9a0a5fb"
+}
