@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "4b0d5cb6a91fe576b439fc18857839b159793986",
+  "batch": "batch-014",
+  "source_coverage": 46,
+  "remaining": 89,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/SGD/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/THB/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/TRY/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

@@ -1,0 +1,76 @@
+{
+  "batch": "batch-014",
+  "base_head": "4b0d5cb6a91fe576b439fc18857839b159793986",
+  "source_dir": "october-source-batch014",
+  "source_coverage": 46,
+  "remaining": 89,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "SGD",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "e456f9e057b3cb867f96c58f68589b53a9e46844b3826d07c570f09d3a75edda",
+      "source_sha256": "29fee20cb9dfc8da5e5587654414cfb2a607569c22dfac25c303e669fb75e5c9",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 40,
+      "result_rows": 123,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "THB",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "515bb14607fe184b2aef6467a92c1b8d2f2f88ce5dabba75d2b7d4e05db86a9c",
+      "source_sha256": "dc3ce907a47bdee117066381d30b1a6599f9ecc98a6b5e18cbe6ac96e6690694",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 21,
+      "result_rows": 65,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "THB",
+          "spot_exchange_buying_price": 19.86,
+          "cash_buying_price": 19.86,
+          "spot_selling_price": 20.02,
+          "cash_selling_price": 20.02,
+          "bank_of_china_conversion_price": 20.0,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        },
+        {
+          "currency_name": "THB",
+          "spot_exchange_buying_price": 19.88,
+          "cash_buying_price": 19.88,
+          "spot_selling_price": 20.04,
+          "cash_selling_price": 20.04,
+          "bank_of_china_conversion_price": 20.0,
+          "publish_date": "2026.10.01 22:34:51",
+          "publish_at_utc": "2026-10-01T14:34:51Z",
+          "publish_at_local": "2026-10-01T22:34:51+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "TRY",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "dfafbe9be9c8599549d5d659fc5793241f40ac85ab5341165b5d6e68636a8e42",
+      "source_sha256": "f27b35860f929a51d220a472b136c8c79b126d78f64aa6c62c276a1464e0013e",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 10,
+      "result_rows": 43,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}

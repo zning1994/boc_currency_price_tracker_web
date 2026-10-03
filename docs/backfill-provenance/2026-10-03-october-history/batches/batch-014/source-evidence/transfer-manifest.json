@@ -1,0 +1,105 @@
+{
+  "format_version": 1,
+  "scope": "Authorized October 1-3 manual history backfill source evidence; October 3 is an intraday observation snapshot, not a completed full day. Separate from September completed history.",
+  "batch": "BOC-SGD-THB-TRY-20261001",
+  "created_at_utc": "2026-10-03T12:05:34.481737+00:00",
+  "files": [
+    {
+      "filename": "SGD-20261001.raw.json",
+      "size_bytes": 13640,
+      "sha256": "29fee20cb9dfc8da5e5587654414cfb2a607569c22dfac25c303e669fb75e5c9"
+    },
+    {
+      "filename": "SGD-20261001.metadata.json",
+      "size_bytes": 2874,
+      "sha256": "ef22abf4a0a756a355898dd0cd1f5ed62b41c8800fa416da0c460787c8255085"
+    },
+    {
+      "filename": "SGD_2026-10-01_raw.tsv",
+      "size_bytes": 11177,
+      "sha256": "f8be3bb98bce44e9e4aca73688181090d3cc5f422e529959fec562e5f83172cd"
+    },
+    {
+      "filename": "THB-20261001.raw.json",
+      "size_bytes": 11822,
+      "sha256": "dc3ce907a47bdee117066381d30b1a6599f9ecc98a6b5e18cbe6ac96e6690694"
+    },
+    {
+      "filename": "THB-20261001.metadata.json",
+      "size_bytes": 2874,
+      "sha256": "cdd392f43d3afa96b7c4e6efb98d2ba302a4c28cd46d08ab281c60b5df2e8c14"
+    },
+    {
+      "filename": "THB_2026-10-01_raw.tsv",
+      "size_bytes": 9362,
+      "sha256": "b14010a84a37300b99393a1e0c0162551478aed2f94b1d5d8edd90a974779b4d"
+    },
+    {
+      "filename": "TRY-20261001.raw.json",
+      "size_bytes": 13389,
+      "sha256": "f27b35860f929a51d220a472b136c8c79b126d78f64aa6c62c276a1464e0013e"
+    },
+    {
+      "filename": "TRY-20261001.metadata.json",
+      "size_bytes": 2874,
+      "sha256": "704b6f88b59ab13e8e7684c9b64b33cb38ba1f5304d50c0b1a3ca5c152176b7f"
+    },
+    {
+      "filename": "TRY_2026-10-01_raw.tsv",
+      "size_bytes": 10923,
+      "sha256": "7f38b3f5e2667e15fa46c8b664957c4ee1f9bb783e29d95eead3a29dd76bee7e"
+    },
+    {
+      "filename": "batch-SGD-THB-TRY-20261001.manifest.json",
+      "size_bytes": 9090,
+      "sha256": "34698c855944ba910a7c1d72a0e09d1533cd030051c81cd3ea40ff584ca53115"
+    }
+  ],
+  "validation": [
+    {
+      "date": "2026-10-01",
+      "code": "SGD",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:03:59.976Z",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "pages": 8,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-01",
+      "code": "THB",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:04:06.524Z",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "pages": 8,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-01",
+      "code": "TRY",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:04:13.270Z",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "pages": 8,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
