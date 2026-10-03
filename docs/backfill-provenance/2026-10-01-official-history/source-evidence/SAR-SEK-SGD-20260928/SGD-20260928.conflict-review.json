@@ -1,0 +1,96 @@
+{
+  "start": "2026-10-03T07:39:56.920Z",
+  "end": "2026-10-03T07:40:33.359Z",
+  "full_json_sha256": "cc6e27552d7f491580fdaa9d6549bb1974071a8a5ac8c10e027a95da3da51d99",
+  "browser_page_sha256_list_sha256": "6124a44f1f0261e18eaa588ec477db53db493a7746682d4569eb55493bb3be39",
+  "full_pages_exact_match": true,
+  "code": "SGD",
+  "date": "2026-09-28",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "method": "Independent normal UI requery and full-page recapture, all seven strings and ordered page boundaries directly compared in browser. Equal source pages losslessly restored from original only after exact browser comparison; review full JSON SHA independently verified.",
+  "original_raw_json": "SGD-20260928.raw.json",
+  "original_sha256": "5a2e86e4c18cc73e44389e73d697d1565ad4002771000aa56074b59da431c95b",
+  "review_raw_json": "SGD-20260928.review.raw.json",
+  "review_raw_tsv": "SGD_2026-09-28_review_raw.tsv",
+  "review_tsv_sha256": "6d470cc9cc69c6273f056bbff3da21c56f2dc6d7bb0ba5f8ba64b986d66f4fd1",
+  "pages": 13,
+  "raw_rows": 246,
+  "distinct_rows": 243,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "3295f8143d5725ee0396c000185a8cf0675e0c3fb5a712bd7e00f9d304d9ff1e"
+    },
+    {
+      "page": 2,
+      "sha256": "e6baacaf5358289d8096e67c1dd778bd66543ff289e27379238ab488def0f8bc"
+    },
+    {
+      "page": 3,
+      "sha256": "5dd390e0ade5c6c86a01a2394b259d40daec4d95a9ac4b2915ce636935bf5e4f"
+    },
+    {
+      "page": 4,
+      "sha256": "0e9fe96b7568eda9b6f0caa6a86a8eb7019d70855f756d575b6b447ee6728689"
+    },
+    {
+      "page": 5,
+      "sha256": "68667e1a7a96a1cdea6b08696c554d0afb385db233686aa2e44f4758903ac920"
+    },
+    {
+      "page": 6,
+      "sha256": "1689dec06c254e66e8ae719c661cc10aef50a4c2146e24475729fb11e1cad5f4"
+    },
+    {
+      "page": 7,
+      "sha256": "12403cda520e09ddd5bb8e05025e7c84997c3d04d6a52826fb938a9954bb93dc"
+    },
+    {
+      "page": 8,
+      "sha256": "838279c18c66b4fa4643fe4bebfcd9b4f7bfa11fda80806e98c89c80fd60bcfb"
+    },
+    {
+      "page": 9,
+      "sha256": "8371f15e07e69d94a19ceaf2eaa76979b04d3c4db5820de75558e0e21d10238c"
+    },
+    {
+      "page": 10,
+      "sha256": "4cab06adaa0de0735f4f6b2325197647cbe23864b87b8420fb7bb54095f2178e"
+    },
+    {
+      "page": 11,
+      "sha256": "f17b32385243b781b467fbf5189f10fb7ac4225b23d5d41a758dc8891455a42c"
+    },
+    {
+      "page": 12,
+      "sha256": "f37a262b91064d531b901232292d008355a66578e68ae15ae856696c65a059e9"
+    },
+    {
+      "page": 13,
+      "sha256": "8dea4ccdc7499664377ac2bc31708c9601f79a728fca695c3df49a283affd99e"
+    }
+  ],
+  "same_second_conflicts": {
+    "2026/09/28 10:10:54": [
+      [
+        "523.48",
+        "523.48",
+        "527.42",
+        "527.42",
+        "526.2"
+      ],
+      [
+        "523.45",
+        "523.45",
+        "527.39",
+        "527.39",
+        "526.2"
+      ]
+    ]
+  },
+  "resolution": "Source-confirmed multiple five-price rows at the same second. Both retained without averaging, choosing or deduplicating nonidentical quotes.",
+  "original_and_review_full_pages_equal": true,
+  "review_original_browser_full_json_sha256_match": true,
+  "review_original_browser_all_page_sha256_match": true,
+  "review_tsv_roundtrip_matches_raw_rows": true
+}

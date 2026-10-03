@@ -1,0 +1,340 @@
+{
+  "format_version": 1,
+  "batch": "BOC-SAR-SEK-SGD-20260928",
+  "created_at_utc": "2026-10-03T07:42:59.864167+00:00",
+  "files": [
+    {
+      "filename": "SAR-20260928.conflict-review.json",
+      "size_bytes": 3234,
+      "sha256": "5398f7c29e7b5b50a67152ad76de2c0d6e1caebf19b365d6d9ff390a714025b9"
+    },
+    {
+      "filename": "SAR-20260928.review.raw.json",
+      "size_bytes": 21516,
+      "sha256": "78a421c9f8fb139b89863e7fed1ae5aab56cb21021c3b473ff489dc9346d38bb"
+    },
+    {
+      "filename": "SAR_2026-09-28_review_raw.tsv",
+      "size_bytes": 17793,
+      "sha256": "1ff33d3f4a3f500afcaf14a83ecb8695deeee8354167e8f3e407481ed5ccb1da"
+    },
+    {
+      "filename": "SAR-20260928.raw.json",
+      "size_bytes": 21516,
+      "sha256": "ac5b30e70ea6e035e8658f339805f8b2bf9aecaa0d464a01c0ccd33da2156592"
+    },
+    {
+      "filename": "SAR-20260928.metadata.json",
+      "size_bytes": 4225,
+      "sha256": "fa877a90c1fdde1b088df5a64389ba6d7aff77178b4389fb83d308209bba6395"
+    },
+    {
+      "filename": "SAR_2026-09-28_raw.tsv",
+      "size_bytes": 17793,
+      "sha256": "1ff33d3f4a3f500afcaf14a83ecb8695deeee8354167e8f3e407481ed5ccb1da"
+    },
+    {
+      "filename": "SEK-20260928.conflict-review.json",
+      "size_bytes": 3224,
+      "sha256": "b318b1b40b6da29e07d3c2ad941ec4e80666dc746d181431b229da622cfc9e79"
+    },
+    {
+      "filename": "SEK-20260928.review.raw.json",
+      "size_bytes": 19547,
+      "sha256": "46276cbaefee1379467a6a19fce4c5eedf493d942c8a6cf5f68a9350aa61c3c5"
+    },
+    {
+      "filename": "SEK_2026-09-28_review_raw.tsv",
+      "size_bytes": 15827,
+      "sha256": "342448d7b24253583481c4970157f4d16818082bc0a1ca25352fc42e9d71889f"
+    },
+    {
+      "filename": "SEK-20260928.raw.json",
+      "size_bytes": 19547,
+      "sha256": "fec602cbb8333955ebc310c443112d3137d2d2cd8ca8d14d55edb1d53e9e4ae1"
+    },
+    {
+      "filename": "SEK-20260928.metadata.json",
+      "size_bytes": 4215,
+      "sha256": "56eedff9dd13848c42614f7e4ea479a3e794f4888cba6cffca3824f469401701"
+    },
+    {
+      "filename": "SEK_2026-09-28_raw.tsv",
+      "size_bytes": 15827,
+      "sha256": "342448d7b24253583481c4970157f4d16818082bc0a1ca25352fc42e9d71889f"
+    },
+    {
+      "filename": "SGD-20260928.conflict-review.json",
+      "size_bytes": 3234,
+      "sha256": "44aced47963cf9d2ad7737e58c1c18e1e866e84a5c3bf6b7a8999ee7f420e3f2"
+    },
+    {
+      "filename": "SGD-20260928.review.raw.json",
+      "size_bytes": 20779,
+      "sha256": "cc6e27552d7f491580fdaa9d6549bb1974071a8a5ac8c10e027a95da3da51d99"
+    },
+    {
+      "filename": "SGD_2026-09-28_review_raw.tsv",
+      "size_bytes": 17059,
+      "sha256": "6d470cc9cc69c6273f056bbff3da21c56f2dc6d7bb0ba5f8ba64b986d66f4fd1"
+    },
+    {
+      "filename": "SGD-20260928.raw.json",
+      "size_bytes": 20779,
+      "sha256": "5a2e86e4c18cc73e44389e73d697d1565ad4002771000aa56074b59da431c95b"
+    },
+    {
+      "filename": "SGD-20260928.metadata.json",
+      "size_bytes": 4225,
+      "sha256": "01f9adc75d45a321627b8a7587eb55954fbc5b929e29c433ae579912f1e914e7"
+    },
+    {
+      "filename": "SGD_2026-09-28_raw.tsv",
+      "size_bytes": 17059,
+      "sha256": "6d470cc9cc69c6273f056bbff3da21c56f2dc6d7bb0ba5f8ba64b986d66f4fd1"
+    },
+    {
+      "filename": "batch-SAR-SEK-SGD-20260928.manifest.json",
+      "size_bytes": 13439,
+      "sha256": "4753fb5ebde71df0efe33b1d4790722335f3fbc06115a7d9213ecfed4ed44910"
+    },
+    {
+      "filename": "batch-SAR-SEK-SGD-20260928.review-browser.json",
+      "size_bytes": 881,
+      "sha256": "101b96fe792b87cfbeed56b283e7ce294b078108bfb18c25da2a9f677fec54b3"
+    }
+  ],
+  "validation": [
+    {
+      "code": "SAR",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "SAR-20260928.raw.json",
+        "original_full_sha256": "ac5b30e70ea6e035e8658f339805f8b2bf9aecaa0d464a01c0ccd33da2156592",
+        "review_raw_json": "SAR-20260928.review.raw.json",
+        "review_full_sha256": "78a421c9f8fb139b89863e7fed1ae5aab56cb21021c3b473ff489dc9346d38bb",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "177.62",
+              "177.62",
+              "180.12",
+              "180.12",
+              "179.1"
+            ],
+            [
+              "177.61",
+              "177.61",
+              "180.11",
+              "180.11",
+              "179.1"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "沙特里亚尔",
+              "177.61",
+              "177.61",
+              "180.11",
+              "180.11",
+              "179.1",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "沙特里亚尔",
+              "177.62",
+              "177.62",
+              "180.12",
+              "180.12",
+              "179.1",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "SAR-20260928.conflict-review.json",
+        "evidence_sha256": "5398f7c29e7b5b50a67152ad76de2c0d6e1caebf19b365d6d9ff390a714025b9",
+        "browser_record": {
+          "start": "2026-10-03T07:39:56.897Z",
+          "end": "2026-10-03T07:40:08.986Z",
+          "full_json_sha256": "78a421c9f8fb139b89863e7fed1ae5aab56cb21021c3b473ff489dc9346d38bb",
+          "browser_page_sha256_list_sha256": "cfbc1ededad72abe543fe444454522d1b969b56e1e3908debfa848b5078ad251",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "SEK",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "SEK-20260928.raw.json",
+        "original_full_sha256": "fec602cbb8333955ebc310c443112d3137d2d2cd8ca8d14d55edb1d53e9e4ae1",
+        "review_raw_json": "SEK-20260928.review.raw.json",
+        "review_full_sha256": "46276cbaefee1379467a6a19fce4c5eedf493d942c8a6cf5f68a9350aa61c3c5",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "67.38",
+              "67.38",
+              "67.92",
+              "67.92",
+              "67.7"
+            ],
+            [
+              "67.39",
+              "67.39",
+              "67.93",
+              "67.93",
+              "67.7"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "瑞典克朗",
+              "67.38",
+              "67.38",
+              "67.92",
+              "67.92",
+              "67.7",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "瑞典克朗",
+              "67.39",
+              "67.39",
+              "67.93",
+              "67.93",
+              "67.7",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "SEK-20260928.conflict-review.json",
+        "evidence_sha256": "b318b1b40b6da29e07d3c2ad941ec4e80666dc746d181431b229da622cfc9e79",
+        "browser_record": {
+          "start": "2026-10-03T07:39:56.910Z",
+          "end": "2026-10-03T07:40:21.286Z",
+          "full_json_sha256": "46276cbaefee1379467a6a19fce4c5eedf493d942c8a6cf5f68a9350aa61c3c5",
+          "browser_page_sha256_list_sha256": "0d5fa0e653d3982469b709895e08558aa64a95a7cbfe8382806cbcf25eccb91b",
+          "full_pages_exact_match": true
+        }
+      }
+    },
+    {
+      "code": "SGD",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "SGD-20260928.raw.json",
+        "original_full_sha256": "5a2e86e4c18cc73e44389e73d697d1565ad4002771000aa56074b59da431c95b",
+        "review_raw_json": "SGD-20260928.review.raw.json",
+        "review_full_sha256": "cc6e27552d7f491580fdaa9d6549bb1974071a8a5ac8c10e027a95da3da51d99",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "523.48",
+              "523.48",
+              "527.42",
+              "527.42",
+              "526.2"
+            ],
+            [
+              "523.45",
+              "523.45",
+              "527.39",
+              "527.39",
+              "526.2"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "新加坡元",
+              "523.45",
+              "523.45",
+              "527.39",
+              "527.39",
+              "526.2",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "新加坡元",
+              "523.48",
+              "523.48",
+              "527.42",
+              "527.42",
+              "526.2",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "SGD-20260928.conflict-review.json",
+        "evidence_sha256": "44aced47963cf9d2ad7737e58c1c18e1e866e84a5c3bf6b7a8999ee7f420e3f2",
+        "browser_record": {
+          "start": "2026-10-03T07:39:56.920Z",
+          "end": "2026-10-03T07:40:33.359Z",
+          "full_json_sha256": "cc6e27552d7f491580fdaa9d6549bb1974071a8a5ac8c10e027a95da3da51d99",
+          "browser_page_sha256_list_sha256": "6124a44f1f0261e18eaa588ec477db53db493a7746682d4569eb55493bb3be39",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}

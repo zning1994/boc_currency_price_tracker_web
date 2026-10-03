@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "SAR",
+      "raw_sha256": "ac5b30e70ea6e035e8658f339805f8b2bf9aecaa0d464a01c0ccd33da2156592",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 108,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "78a421c9f8fb139b89863e7fed1ae5aab56cb21021c3b473ff489dc9346d38bb",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "SEK",
+      "raw_sha256": "fec602cbb8333955ebc310c443112d3137d2d2cd8ca8d14d55edb1d53e9e4ae1",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 170,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "46276cbaefee1379467a6a19fce4c5eedf493d942c8a6cf5f68a9350aa61c3c5",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "SGD",
+      "raw_sha256": "5a2e86e4c18cc73e44389e73d697d1565ad4002771000aa56074b59da431c95b",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 202,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "cc6e27552d7f491580fdaa9d6549bb1974071a8a5ac8c10e027a95da3da51d99",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "3d883f322fcafe66f433091fe832b14b3b0e9e484664f2820ff0f0ee026b2ded"
+}
