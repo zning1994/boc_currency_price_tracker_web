@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-MNT-MOP-MXN-20260930",
+  "created_at_utc": "2026-10-03T09:12:10.537475+00:00",
+  "files": [
+    {
+      "filename": "MNT-20260930.raw.json",
+      "size_bytes": 20598,
+      "sha256": "839bf17b2ec4a559ba37ccd1e39ba861ec3b6354ede69dc07f1905821e722836"
+    },
+    {
+      "filename": "MNT-20260930.metadata.json",
+      "size_bytes": 3169,
+      "sha256": "8c1729105b5a714a26b37f079bb0fd43964084cb8c4e17ac0291a5fd05357422"
+    },
+    {
+      "filename": "MNT_2026-09-30_raw.tsv",
+      "size_bytes": 17179,
+      "sha256": "4fdb87e022db5ae494768330beef02a108ea21edd01565ca7c353ecb91a5a03d"
+    },
+    {
+      "filename": "MOP-20260930.raw.json",
+      "size_bytes": 17042,
+      "sha256": "a2c9d3bc233c182e8008620e979977e77ba305f2854df58be43c64e32097cd49"
+    },
+    {
+      "filename": "MOP-20260930.metadata.json",
+      "size_bytes": 3169,
+      "sha256": "901a8fa9eaacb83fe6579522ed3f8eab704d6e1cf8999a7f5b04a9998576eed4"
+    },
+    {
+      "filename": "MOP_2026-09-30_raw.tsv",
+      "size_bytes": 13632,
+      "sha256": "9399521729b198de2fe1d471815cbe2789bf495dbdb6123b46aa083851965f03"
+    },
+    {
+      "filename": "MXN-20260930.raw.json",
+      "size_bytes": 18721,
+      "sha256": "82fd6b88b36ca1b19b82ef6cfbacfada2c44ea5690021f6295375eddd0364016"
+    },
+    {
+      "filename": "MXN-20260930.metadata.json",
+      "size_bytes": 3169,
+      "sha256": "515a1b2add840cc83d65d9e8b9142faef66860d16d760b2a2673dd7427d06b4f"
+    },
+    {
+      "filename": "MXN_2026-09-30_raw.tsv",
+      "size_bytes": 15305,
+      "sha256": "9144684ac2cfe9da1c7fab48409d25f3592149819908f2ff2338fdd2ee325681"
+    },
+    {
+      "filename": "batch-MNT-MOP-MXN-20260930.manifest.json",
+      "size_bytes": 10065,
+      "sha256": "ec4f5e5eb1b0cd206a208bf39928e31c42b7c417bbb5d6a6722652b2a693370e"
+    }
+  ],
+  "validation": [
+    {
+      "code": "MNT",
+      "raw_rows": 224,
+      "distinct_rows": 221,
+      "pages": 12,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "MOP",
+      "raw_rows": 224,
+      "distinct_rows": 221,
+      "pages": 12,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "MXN",
+      "raw_rows": 224,
+      "distinct_rows": 221,
+      "pages": 12,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
