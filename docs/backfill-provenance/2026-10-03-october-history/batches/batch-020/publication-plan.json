@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "d6ebcec1615be5e0b109a8fdbab1c1bcd0617dca",
+  "batch": "batch-020",
+  "source_coverage": 62,
+  "remaining": 73,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/HKD/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/HUF/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/IDR/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

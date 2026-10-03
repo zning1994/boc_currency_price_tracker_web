@@ -1,0 +1,88 @@
+{
+  "batch": "batch-020",
+  "base_head": "d6ebcec1615be5e0b109a8fdbab1c1bcd0617dca",
+  "source_dir": "october-source-batch020",
+  "source_coverage": 62,
+  "remaining": 73,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "HKD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "21cb93ca0998283554e2a53569608bfdbeba9a07ae87b2003d435b04a07ea55b",
+      "source_sha256": "ef5d8c9332419b4b962022559c5befa5976f32d90f2dc307551677185f7ebaee",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 13,
+      "result_rows": 23,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "HKD",
+          "spot_exchange_buying_price": 85.34,
+          "cash_buying_price": 85.34,
+          "spot_selling_price": 85.68,
+          "cash_selling_price": 85.68,
+          "bank_of_china_conversion_price": 85.84,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        },
+        {
+          "currency_name": "HKD",
+          "spot_exchange_buying_price": 85.34,
+          "cash_buying_price": 85.34,
+          "spot_selling_price": 85.68,
+          "cash_selling_price": 85.68,
+          "bank_of_china_conversion_price": 85.84,
+          "publish_date": "2026.10.02 20:31:12",
+          "publish_at_utc": "2026-10-02T12:31:12Z",
+          "publish_at_local": "2026-10-02T20:31:12+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "HUF",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "7b02c48c906034585c7c164bdaa8692a018042306a74f59658703e9ec4d8add6",
+      "source_sha256": "6c98412aed7c521e764865a8b2d85e89de07bc227b728227be320774716e5603",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 86,
+      "result_rows": 169,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "IDR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "b6b11ce939666968fd8a205d3a4b493a2afacab80f81bc897ba554c15612244c",
+      "source_sha256": "aff351661a3fbf7879e110ee2da6ccc42e53276654ac52d8b56b1a89576462ad",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 2,
+      "result_rows": 6,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "IDR",
+          "spot_exchange_buying_price": 0.0371,
+          "cash_buying_price": 0.0371,
+          "spot_selling_price": 0.038,
+          "cash_selling_price": 0.038,
+          "bank_of_china_conversion_price": 0.0373,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}
