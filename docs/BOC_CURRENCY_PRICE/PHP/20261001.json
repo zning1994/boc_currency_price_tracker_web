@@ -1,57 +1,178 @@
 [
-    {
-        "currency_name": "PHP",
-        "spot_exchange_buying_price": 10.56,
-        "cash_buying_price": 10.56,
-        "spot_selling_price": 10.78,
-        "cash_selling_price": 10.78,
-        "bank_of_china_conversion_price": 10.72,
-        "publish_date": "2026.10.01 19:06:14",
-        "publish_at_utc": "2026-10-01T11:06:14Z",
-        "publish_at_local": "2026-10-01T19:06:14+08:00"
-    },
-    {
-        "currency_name": "PHP",
-        "spot_exchange_buying_price": 10.57,
-        "cash_buying_price": 10.57,
-        "spot_selling_price": 10.79,
-        "cash_selling_price": 10.79,
-        "bank_of_china_conversion_price": 10.72,
-        "publish_date": "2026.10.01 19:51:14",
-        "publish_at_utc": "2026-10-01T11:51:14Z",
-        "publish_at_local": "2026-10-01T19:51:14+08:00"
-    },
-    {
-        "currency_name": "PHP",
-        "spot_exchange_buying_price": 10.58,
-        "cash_buying_price": 10.58,
-        "spot_selling_price": 10.8,
-        "cash_selling_price": 10.8,
-        "bank_of_china_conversion_price": 10.72,
-        "publish_date": "2026.10.01 22:34:51",
-        "publish_at_utc": "2026-10-01T14:34:51Z",
-        "publish_at_local": "2026-10-01T22:34:51+08:00"
-    },
-    {
-        "currency_name": "PHP",
-        "spot_exchange_buying_price": 10.57,
-        "cash_buying_price": 10.57,
-        "spot_selling_price": 10.79,
-        "cash_selling_price": 10.79,
-        "bank_of_china_conversion_price": 10.72,
-        "publish_date": "2026.10.01 22:36:14",
-        "publish_at_utc": "2026-10-01T14:36:14Z",
-        "publish_at_local": "2026-10-01T22:36:14+08:00"
-    },
-    {
-        "currency_name": "PHP",
-        "spot_exchange_buying_price": 10.58,
-        "cash_buying_price": 10.58,
-        "spot_selling_price": 10.8,
-        "cash_selling_price": 10.8,
-        "bank_of_china_conversion_price": 10.72,
-        "publish_date": "2026.10.01 22:39:27",
-        "publish_at_utc": "2026-10-01T14:39:27Z",
-        "publish_at_local": "2026-10-01T22:39:27+08:00"
-    }
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 00:00:05",
+    "spot_exchange_buying_price": 10.58,
+    "cash_buying_price": 10.58,
+    "spot_selling_price": 10.8,
+    "cash_selling_price": 10.8,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-09-30T16:00:05Z",
+    "publish_at_local": "2026-10-01T00:00:05+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 06:40:23",
+    "spot_exchange_buying_price": 10.59,
+    "cash_buying_price": 10.59,
+    "spot_selling_price": 10.81,
+    "cash_selling_price": 10.81,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-09-30T22:40:23Z",
+    "publish_at_local": "2026-10-01T06:40:23+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 09:19:33",
+    "spot_exchange_buying_price": 10.58,
+    "cash_buying_price": 10.58,
+    "spot_selling_price": 10.8,
+    "cash_selling_price": 10.8,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T01:19:33Z",
+    "publish_at_local": "2026-10-01T09:19:33+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 15:41:00",
+    "spot_exchange_buying_price": 10.56,
+    "cash_buying_price": 10.56,
+    "spot_selling_price": 10.78,
+    "cash_selling_price": 10.78,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T07:41:00Z",
+    "publish_at_local": "2026-10-01T15:41:00+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 17:04:36",
+    "spot_exchange_buying_price": 10.55,
+    "cash_buying_price": 10.55,
+    "spot_selling_price": 10.77,
+    "cash_selling_price": 10.77,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T09:04:36Z",
+    "publish_at_local": "2026-10-01T17:04:36+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 17:06:13",
+    "spot_exchange_buying_price": 10.56,
+    "cash_buying_price": 10.56,
+    "spot_selling_price": 10.78,
+    "cash_selling_price": 10.78,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T09:06:13Z",
+    "publish_at_local": "2026-10-01T17:06:13+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 18:03:32",
+    "spot_exchange_buying_price": 10.55,
+    "cash_buying_price": 10.55,
+    "spot_selling_price": 10.77,
+    "cash_selling_price": 10.77,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T10:03:32Z",
+    "publish_at_local": "2026-10-01T18:03:32+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 18:08:22",
+    "spot_exchange_buying_price": 10.56,
+    "cash_buying_price": 10.56,
+    "spot_selling_price": 10.78,
+    "cash_selling_price": 10.78,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T10:08:22Z",
+    "publish_at_local": "2026-10-01T18:08:22+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 18:11:13",
+    "spot_exchange_buying_price": 10.55,
+    "cash_buying_price": 10.55,
+    "spot_selling_price": 10.77,
+    "cash_selling_price": 10.77,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T10:11:13Z",
+    "publish_at_local": "2026-10-01T18:11:13+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 18:21:13",
+    "spot_exchange_buying_price": 10.56,
+    "cash_buying_price": 10.56,
+    "spot_selling_price": 10.78,
+    "cash_selling_price": 10.78,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T10:21:13Z",
+    "publish_at_local": "2026-10-01T18:21:13+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 19:31:14",
+    "spot_exchange_buying_price": 10.57,
+    "cash_buying_price": 10.57,
+    "spot_selling_price": 10.79,
+    "cash_selling_price": 10.79,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T11:31:14Z",
+    "publish_at_local": "2026-10-01T19:31:14+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 19:46:14",
+    "spot_exchange_buying_price": 10.56,
+    "cash_buying_price": 10.56,
+    "spot_selling_price": 10.78,
+    "cash_selling_price": 10.78,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T11:46:14Z",
+    "publish_at_local": "2026-10-01T19:46:14+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 19:51:14",
+    "spot_exchange_buying_price": 10.57,
+    "cash_buying_price": 10.57,
+    "spot_selling_price": 10.79,
+    "cash_selling_price": 10.79,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T11:51:14Z",
+    "publish_at_local": "2026-10-01T19:51:14+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 22:34:51",
+    "spot_exchange_buying_price": 10.58,
+    "cash_buying_price": 10.58,
+    "spot_selling_price": 10.8,
+    "cash_selling_price": 10.8,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T14:34:51Z",
+    "publish_at_local": "2026-10-01T22:34:51+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 22:36:14",
+    "spot_exchange_buying_price": 10.57,
+    "cash_buying_price": 10.57,
+    "spot_selling_price": 10.79,
+    "cash_selling_price": 10.79,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T14:36:14Z",
+    "publish_at_local": "2026-10-01T22:36:14+08:00"
+  },
+  {
+    "currency_name": "PHP",
+    "publish_date": "2026.10.01 22:39:27",
+    "spot_exchange_buying_price": 10.58,
+    "cash_buying_price": 10.58,
+    "spot_selling_price": 10.8,
+    "cash_selling_price": 10.8,
+    "bank_of_china_conversion_price": 10.72,
+    "publish_at_utc": "2026-10-01T14:39:27Z",
+    "publish_at_local": "2026-10-01T22:39:27+08:00"
+  }
 ]
