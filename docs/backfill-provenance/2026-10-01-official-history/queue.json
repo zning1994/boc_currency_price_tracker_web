@@ -8659,36 +8659,36 @@
       "name": "卡塔尔里亚尔",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260919.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/QAR-20260919.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RSD",
       "name": "塞尔维亚第纳尔",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260919.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/RSD-20260919.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "RUB",
       "name": "卢布",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RUB/20260919.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/RUB-20260919.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "SAR",
@@ -8731,11 +8731,11 @@
       "name": "泰国铢",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260919.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/THB-20260919.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -8743,11 +8743,11 @@
       "name": "土耳其里拉",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TRY/20260919.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/TRY-20260919.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -8755,11 +8755,11 @@
       "name": "新台币",
       "date": "2026-09-19",
       "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260919.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/TWD-20260919.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 504,
-      "validated": 504,
-      "published": 501,
-      "pending": 360
+      "captured": 507,
+      "validated": 507,
+      "published": 504,
+      "pending": 357
     }
   },
   "priority_codes": [

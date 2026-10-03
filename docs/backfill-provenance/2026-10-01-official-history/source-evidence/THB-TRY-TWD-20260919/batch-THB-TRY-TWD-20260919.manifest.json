@@ -1,0 +1,134 @@
+[
+  {
+    "code": "THB",
+    "raw_json": "/workspace/shared/boc-cloud-test/THB-20260919.raw.json",
+    "bytes": 3637,
+    "sha256": "d00305bbe1ec58ebdf842683dd67b1d6edae5cbb9c05740502fbf732b38f1887",
+    "raw_tsv": "/workspace/shared/boc-cloud-test/THB_2026-09-19_raw.tsv",
+    "tsv_sha256": "bfab57d21de78388d3d65ed31c104088694ca99f7354f51e904334cf71699c15",
+    "capture_window_utc": [
+      "2026-10-03T01:12:41.629Z",
+      "2026-10-03T01:12:43.744Z"
+    ],
+    "captured_at_utc": "2026-10-03T01:12:43.744Z",
+    "pages": 3,
+    "page_counts": [
+      20,
+      20,
+      5
+    ],
+    "raw_rows": 45,
+    "distinct_rows": 42,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "d00305bbe1ec58ebdf842683dd67b1d6edae5cbb9c05740502fbf732b38f1887",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "083158474f8c053fd68629dd9aced5e778804cd024b7460c8a9a478f28f0c3bf"
+      },
+      {
+        "page": 2,
+        "sha256": "92820748da972c1f2e0c50f21138077de876afef99241fe88197e1d1e3125bcc"
+      },
+      {
+        "page": 3,
+        "sha256": "eeb44e2789f65f0363a37763a67a4c555d1b739f6a69688658ba8c6c5981a7de"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "BND-20260919.raw.json",
+      "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+  },
+  {
+    "code": "TRY",
+    "raw_json": "/workspace/shared/boc-cloud-test/TRY-20260919.raw.json",
+    "bytes": 3923,
+    "sha256": "c3904842ba46179c519bab16cb616b05283eca3e34f4cd6d8a9a12590e7ac104",
+    "raw_tsv": "/workspace/shared/boc-cloud-test/TRY_2026-09-19_raw.tsv",
+    "tsv_sha256": "3ad8b45489247531c858585957151d37a14a06878a10c231826480acaeccd941",
+    "capture_window_utc": [
+      "2026-10-03T01:12:41.640Z",
+      "2026-10-03T01:12:43.472Z"
+    ],
+    "captured_at_utc": "2026-10-03T01:12:43.472Z",
+    "pages": 3,
+    "page_counts": [
+      20,
+      20,
+      5
+    ],
+    "raw_rows": 45,
+    "distinct_rows": 42,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "c3904842ba46179c519bab16cb616b05283eca3e34f4cd6d8a9a12590e7ac104",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "4d82e28a151ef71e579a03761bcd6df36f44215a9ea80cca7283120b3a2b2d10"
+      },
+      {
+        "page": 2,
+        "sha256": "d3580b0dbfd15689bc403b1d58bc42fbc8e8c8ff15b4add73ae0f0e0c37cba3c"
+      },
+      {
+        "page": 3,
+        "sha256": "ff587477a160678ba959b44374623d4596c45c11db5cda41706e91a686bc8b5d"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "BND-20260919.raw.json",
+      "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+  },
+  {
+    "code": "TWD",
+    "raw_json": "/workspace/shared/boc-cloud-test/TWD-20260919.raw.json",
+    "bytes": 3214,
+    "sha256": "bf72f3372208cef136f05c15dffd2179e320bca0dd95e7208e5fac5f491a9e9f",
+    "raw_tsv": "/workspace/shared/boc-cloud-test/TWD_2026-09-19_raw.tsv",
+    "tsv_sha256": "51b80257471e78747cd4f77090d15a414679a65e523a6477fa7fd432790c4b6f",
+    "capture_window_utc": [
+      "2026-10-03T01:12:41.653Z",
+      "2026-10-03T01:12:43.744Z"
+    ],
+    "captured_at_utc": "2026-10-03T01:12:43.744Z",
+    "pages": 3,
+    "page_counts": [
+      20,
+      20,
+      5
+    ],
+    "raw_rows": 45,
+    "distinct_rows": 42,
+    "same_second_conflicts": {},
+    "original_browser_json_sha256": "bf72f3372208cef136f05c15dffd2179e320bca0dd95e7208e5fac5f491a9e9f",
+    "original_browser_full_json_sha256_match": true,
+    "page_sha256": [
+      {
+        "page": 1,
+        "sha256": "fd7e570aae8ee7cc809ecc8e7d0096f0d447935f4f3d58cdcb80eba743bd1cff"
+      },
+      {
+        "page": 2,
+        "sha256": "6bdfcf667c1a61e7806233e6efab179a5698352d0a1fdf8ef709fb612745a222"
+      },
+      {
+        "page": 3,
+        "sha256": "de7560db6e1907821db6593c26a655b2fd1b4e1323aa81d9981c0ec84c20ab75"
+      }
+    ],
+    "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+    "reference_for_lossless_storage": {
+      "filename": "BND-20260919.raw.json",
+      "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+    },
+    "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+  }
+]

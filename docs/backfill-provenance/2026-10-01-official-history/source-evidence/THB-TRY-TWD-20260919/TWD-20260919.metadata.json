@@ -1,0 +1,44 @@
+{
+  "code": "TWD",
+  "raw_json": "/workspace/shared/boc-cloud-test/TWD-20260919.raw.json",
+  "bytes": 3214,
+  "sha256": "bf72f3372208cef136f05c15dffd2179e320bca0dd95e7208e5fac5f491a9e9f",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/TWD_2026-09-19_raw.tsv",
+  "tsv_sha256": "51b80257471e78747cd4f77090d15a414679a65e523a6477fa7fd432790c4b6f",
+  "capture_window_utc": [
+    "2026-10-03T01:12:41.653Z",
+    "2026-10-03T01:12:43.744Z"
+  ],
+  "captured_at_utc": "2026-10-03T01:12:43.744Z",
+  "pages": 3,
+  "page_counts": [
+    20,
+    20,
+    5
+  ],
+  "raw_rows": 45,
+  "distinct_rows": 42,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "bf72f3372208cef136f05c15dffd2179e320bca0dd95e7208e5fac5f491a9e9f",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "fd7e570aae8ee7cc809ecc8e7d0096f0d447935f4f3d58cdcb80eba743bd1cff"
+    },
+    {
+      "page": 2,
+      "sha256": "6bdfcf667c1a61e7806233e6efab179a5698352d0a1fdf8ef709fb612745a222"
+    },
+    {
+      "page": 3,
+      "sha256": "de7560db6e1907821db6593c26a655b2fd1b4e1323aa81d9981c0ec84c20ab75"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260919.raw.json",
+    "sha256": "cd4ceb2accf00aa32c99930b55c696ea24c0bf6e4fc7b1e886ac0a23f8f581ad"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+}
