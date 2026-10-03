@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "batch": "BOC-MYR-NOK-NPR-20260925",
+  "created_at_utc": "2026-10-03T05:36:39.156617+00:00",
+  "files": [
+    {
+      "filename": "MYR-20260925.raw.json",
+      "size_bytes": 18156,
+      "sha256": "64f1907c6e427f54a3742bb5ffa603e24ab4332888d31ad5c2945db710c4d19e"
+    },
+    {
+      "filename": "MYR-20260925.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "f3fcc8267d1fbe4b21b72f68ea5770927c98926dc7b239aa2e368f1b6379116b"
+    },
+    {
+      "filename": "MYR_2026-09-25_raw.tsv",
+      "size_bytes": 14296,
+      "sha256": "653385d4a7f02a8aba4f2088d9519ef141902fe13c513806cef8f955d31d33f7"
+    },
+    {
+      "filename": "NOK-20260925.raw.json",
+      "size_bytes": 20668,
+      "sha256": "d4ed6de373040859e7b67785e3c682659301cafb0587b5b5d9e54fb4348a3369"
+    },
+    {
+      "filename": "NOK-20260925.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "a8ce188feca133d957a3e9d31c80016f9007f7ff800c64ba78267711a19bb061"
+    },
+    {
+      "filename": "NOK_2026-09-25_raw.tsv",
+      "size_bytes": 16805,
+      "sha256": "1916626dd6c4f485cf44f35b221e0aabdc98de8e7c75262b8dfa3b6f54146bb9"
+    },
+    {
+      "filename": "NPR-20260925.raw.json",
+      "size_bytes": 19689,
+      "sha256": "4ab4a742cfd80a0d9c22f0eb85db59376595f2a42638eb9d0df6e3e369e5060d"
+    },
+    {
+      "filename": "NPR-20260925.metadata.json",
+      "size_bytes": 3292,
+      "sha256": "b31d6f9bc1f363cd2097dfc1926eebc5fefb3108c6b39e360ce9c51869274ebc"
+    },
+    {
+      "filename": "NPR_2026-09-25_raw.tsv",
+      "size_bytes": 15823,
+      "sha256": "a7b7399962549191f9c8b9e5aae175820465d63c92de3c66e84525cc4e86d8ca"
+    },
+    {
+      "filename": "batch-MYR-NOK-NPR-20260925.manifest.json",
+      "size_bytes": 10464,
+      "sha256": "9101e40d2b77bd843420efb516907000753789a95a72f2e1248f02b8b2bf6c6e"
+    }
+  ],
+  "validation": [
+    {
+      "code": "MYR",
+      "raw_rows": 257,
+      "distinct_rows": 254,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "NOK",
+      "raw_rows": 257,
+      "distinct_rows": 254,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "NPR",
+      "raw_rows": 257,
+      "distinct_rows": 254,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata and manifests. No other currency files, temporary transcription or credentials."
+}
