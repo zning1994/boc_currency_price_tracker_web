@@ -10927,47 +10927,47 @@
       "name": "新西兰元",
       "date": "2026-09-25",
       "archive_path": "docs/BOC_CURRENCY_PRICE/NZD/20260925.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/NZD-20260925.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "PHP",
       "name": "菲律宾比索",
       "date": "2026-09-25",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PHP/20260925.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/PHP-20260925.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "PKR",
       "name": "巴基斯坦卢比",
       "date": "2026-09-25",
       "archive_path": "docs/BOC_CURRENCY_PRICE/PKR/20260925.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/PKR-20260925.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "QAR",
       "name": "卡塔尔里亚尔",
       "date": "2026-09-25",
       "archive_path": "docs/BOC_CURRENCY_PRICE/QAR/20260925.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/QAR-20260925.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -10975,11 +10975,11 @@
       "name": "塞尔维亚第纳尔",
       "date": "2026-09-25",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RSD/20260925.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/RSD-20260925.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -10987,11 +10987,11 @@
       "name": "卢布",
       "date": "2026-09-25",
       "archive_path": "docs/BOC_CURRENCY_PRICE/RUB/20260925.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/RUB-20260925.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 693,
-      "validated": 693,
-      "published": 690,
-      "pending": 171
+      "captured": 696,
+      "validated": 696,
+      "published": 693,
+      "pending": 168
     }
   },
   "priority_codes": [
