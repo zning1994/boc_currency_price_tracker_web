@@ -1,0 +1,50 @@
+{
+  "reports": [
+    {
+      "code": "THB",
+      "raw_sha256": "8428b005896bdc2ff4100377b03ec9b76631d1935a5da48f5651905a14f41002",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 76,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "TRY",
+      "raw_sha256": "d591ddc50680c529aa92723235c34276315444d834fd5ebd81cc6b8ae8a7adb6",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 242,
+      "stored_rows": 74,
+      "different_price_timestamp_count": 0,
+      "independent_review_sha256": null,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "TWD",
+      "raw_sha256": "c75786c07c66a868d59a90c3039a721f987a0f6e2993dd26a28cfcf934ae9946",
+      "pages": 13,
+      "raw_rows": 246,
+      "unique_timestamps": 242,
+      "distinct_rows": 243,
+      "stored_rows": 106,
+      "different_price_timestamp_count": 1,
+      "independent_review_sha256": "c4419ccdd55728ec555a138941c81f58ae1be8a8454a89a1800a4e17babae775",
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "0055d3c7b30867b059e26cdea6fa4430d16030d60656a263cef6c7e2702a8ece"
+}

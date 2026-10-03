@@ -1,0 +1,176 @@
+{
+  "format_version": 1,
+  "batch": "BOC-THB-TRY-TWD-20260928",
+  "created_at_utc": "2026-10-03T07:48:24.896632+00:00",
+  "files": [
+    {
+      "filename": "THB-20260928.raw.json",
+      "size_bytes": 18824,
+      "sha256": "8428b005896bdc2ff4100377b03ec9b76631d1935a5da48f5651905a14f41002"
+    },
+    {
+      "filename": "THB-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "cc4731d2f503979b18e6acfcc76ece52f7200d442ff02010c3da981028086b42"
+    },
+    {
+      "filename": "THB_2026-09-28_raw.tsv",
+      "size_bytes": 15107,
+      "sha256": "54e3f317d892f242624ed91f7a776208abee41bda856ee0a010295f59b19179d"
+    },
+    {
+      "filename": "TRY-20260928.raw.json",
+      "size_bytes": 20628,
+      "sha256": "d591ddc50680c529aa92723235c34276315444d834fd5ebd81cc6b8ae8a7adb6"
+    },
+    {
+      "filename": "TRY-20260928.metadata.json",
+      "size_bytes": 3291,
+      "sha256": "c67ce9e80797bfc729accca4bf342be43d977b54c0b58987adc33372cbe3a251"
+    },
+    {
+      "filename": "TRY_2026-09-28_raw.tsv",
+      "size_bytes": 16905,
+      "sha256": "14ff5c8706efbf3b672db82944765881b211d7eaa291d54bd9467ebb65f600ad"
+    },
+    {
+      "filename": "TWD-20260928.conflict-review.json",
+      "size_bytes": 3206,
+      "sha256": "1add49e15ec61f6b4735235399bc3a16c4e1d3d44dd44e2a9acc9e761f04cf42"
+    },
+    {
+      "filename": "TWD-20260928.review.raw.json",
+      "size_bytes": 16626,
+      "sha256": "c4419ccdd55728ec555a138941c81f58ae1be8a8454a89a1800a4e17babae775"
+    },
+    {
+      "filename": "TWD_2026-09-28_review_raw.tsv",
+      "size_bytes": 12909,
+      "sha256": "1515715bb72aae2d32ef57480b4b62111fe9d5125a75168fcaed794629428a79"
+    },
+    {
+      "filename": "TWD-20260928.raw.json",
+      "size_bytes": 16626,
+      "sha256": "c75786c07c66a868d59a90c3039a721f987a0f6e2993dd26a28cfcf934ae9946"
+    },
+    {
+      "filename": "TWD-20260928.metadata.json",
+      "size_bytes": 4197,
+      "sha256": "260b173ad7d9e94d092aa9797e294674b8a5fc329d9a536997a481bfaa3d982a"
+    },
+    {
+      "filename": "TWD_2026-09-28_raw.tsv",
+      "size_bytes": 12909,
+      "sha256": "1515715bb72aae2d32ef57480b4b62111fe9d5125a75168fcaed794629428a79"
+    },
+    {
+      "filename": "batch-THB-TRY-TWD-20260928.manifest.json",
+      "size_bytes": 11429,
+      "sha256": "e0b51936e748d9669bb1677d73f5ff609eb742c0e94ea1f2a0b1db8697c84b5c"
+    },
+    {
+      "filename": "batch-THB-TRY-TWD-20260928.review-browser.json",
+      "size_bytes": 295,
+      "sha256": "375d9b252f7f941edb8d79bc5f3f5ba37960b91d53a506464118d003111b4515"
+    }
+  ],
+  "validation": [
+    {
+      "code": "THB",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "TRY",
+      "raw_rows": 246,
+      "distinct_rows": 242,
+      "pages": 13,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "TWD",
+      "raw_rows": 246,
+      "distinct_rows": 243,
+      "pages": 13,
+      "same_second_conflicts": 1,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true,
+      "same_second_conflict_review": {
+        "status": "source_confirmed_both_quotes_retained",
+        "original_raw_json": "TWD-20260928.raw.json",
+        "original_full_sha256": "c75786c07c66a868d59a90c3039a721f987a0f6e2993dd26a28cfcf934ae9946",
+        "review_raw_json": "TWD-20260928.review.raw.json",
+        "review_full_sha256": "c4419ccdd55728ec555a138941c81f58ae1be8a8454a89a1800a4e17babae775",
+        "independent_full_requery_exact_match": true,
+        "same_second_conflicts": {
+          "2026/09/28 10:10:54": [
+            [
+              "",
+              "20.23",
+              "",
+              "22.17",
+              "21.14"
+            ],
+            [
+              "",
+              "20.25",
+              "",
+              "22.19",
+              "21.14"
+            ]
+          ]
+        },
+        "locations": [
+          {
+            "page": 11,
+            "row_1_based": 17,
+            "original_row": [
+              "新台币",
+              "",
+              "20.25",
+              "",
+              "22.19",
+              "21.14",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 17
+          },
+          {
+            "page": 11,
+            "row_1_based": 18,
+            "original_row": [
+              "新台币",
+              "",
+              "20.23",
+              "",
+              "22.17",
+              "21.14",
+              "2026/09/28 10:10:54"
+            ],
+            "review_page": 11,
+            "review_row_1_based": 18
+          }
+        ],
+        "evidence_json": "TWD-20260928.conflict-review.json",
+        "evidence_sha256": "1add49e15ec61f6b4735235399bc3a16c4e1d3d44dd44e2a9acc9e761f04cf42",
+        "browser_record": {
+          "start": "2026-10-03T07:46:42.220Z",
+          "end": "2026-10-03T07:46:54.514Z",
+          "full_json_sha256": "c4419ccdd55728ec555a138941c81f58ae1be8a8454a89a1800a4e17babae775",
+          "browser_page_sha256_list_sha256": "6bc1b7cf82b84c61814dd35b2c81613640e08d4ba05e4b688a4b405680269b39",
+          "full_pages_exact_match": true
+        }
+      }
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
