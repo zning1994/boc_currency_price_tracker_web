@@ -1,0 +1,77 @@
+{
+  "batch": "batch-006",
+  "base_head": "fb98698aae039a265bcb41b8b267a21e421b143b",
+  "source_dir": "october-source-batch006",
+  "source_coverage": 22,
+  "remaining": 113,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "ILS",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "eac458561191e1954a6185d35806dcf7b65b9cb3eda6f5413775755655bc1ce9",
+      "source_sha256": "67d343d6f80aa942fce5fb757cadc6935614eca613aa3267947eec7caac89e84",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 47,
+      "result_rows": 142,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "ILS",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 195.82,
+          "spot_selling_price": null,
+          "cash_selling_price": 239.34,
+          "bank_of_china_conversion_price": 218.65,
+          "publish_date": "2026.10.01 22:34:51",
+          "publish_at_utc": "2026-10-01T14:34:51Z",
+          "publish_at_local": "2026-10-01T22:34:51+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "INR",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "4417baaa9c154f19f1c1dae19b734c49eeb8857f6f2595743d5f324ee04ddf85",
+      "source_sha256": "2daac5b651fb2fba7bc7242990dd212838bed45442721f94a5269d11c7174817",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 1,
+      "result_rows": 36,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "INR",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 6.6011,
+          "spot_selling_price": null,
+          "cash_selling_price": 7.3601,
+          "bank_of_china_conversion_price": 6.9876,
+          "publish_date": "2026.10.01 19:06:14",
+          "publish_at_utc": "2026-10-01T11:06:14Z",
+          "publish_at_local": "2026-10-01T19:06:14+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "JPY",
+      "day": "20261001",
+      "changed": true,
+      "result_sha256": "1eda04cebea2594a38cc5fb13bcd8c555a21fd95e7037255e69cffdb695e04ad",
+      "source_sha256": "f9309562aa569b1f1cd778b7ca3f9473af9f728e0f801675bc0e8a7872d37c43",
+      "cutoff": "2026.10.01 22:56:15",
+      "source_raw_rows": 159,
+      "existing_rows": 47,
+      "result_rows": 138,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}

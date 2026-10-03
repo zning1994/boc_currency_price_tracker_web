@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "fb98698aae039a265bcb41b8b267a21e421b143b",
+  "batch": "batch-006",
+  "source_coverage": 22,
+  "remaining": 113,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/ILS/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/INR/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/JPY/20261001.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

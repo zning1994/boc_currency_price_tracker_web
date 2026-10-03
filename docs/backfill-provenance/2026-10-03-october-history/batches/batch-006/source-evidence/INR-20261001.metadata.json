@@ -1,0 +1,77 @@
+{
+  "code": "INR",
+  "date": "2026-10-01",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "is_intraday_snapshot": false,
+  "newest": "2026/10/01 22:56:15",
+  "oldest": "2026/10/01 00:00:05",
+  "raw_json": "INR-20261001.raw.json",
+  "bytes": 11787,
+  "sha256": "2daac5b651fb2fba7bc7242990dd212838bed45442721f94a5269d11c7174817",
+  "raw_tsv": "INR_2026-10-01_raw.tsv",
+  "tsv_sha256": "0869af96fd5b8f6c8d592d7605188ff2019e08dc04767279571a58384fe06a0d",
+  "capture_window_utc": [
+    "2026-10-03T11:38:22.774Z",
+    "2026-10-03T11:38:29.304Z"
+  ],
+  "captured_at_utc": "2026-10-03T11:38:29.304Z",
+  "pages": 8,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    19
+  ],
+  "raw_rows": 159,
+  "distinct_rows": 156,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "2daac5b651fb2fba7bc7242990dd212838bed45442721f94a5269d11c7174817",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "144b2ea6e425b183d433c9e7ff0563ef1e9aa2ab2ef26fd39400d872b6f60c86"
+    },
+    {
+      "page": 2,
+      "sha256": "8d5ce61066ada1aa6a119ea5328022f36aad89b088bc83b0c46b70a1c4909d75"
+    },
+    {
+      "page": 3,
+      "sha256": "4cda43eabdbce84a9e7a9093e1dd0329753ae9a26077a41839f2bbae6675c69c"
+    },
+    {
+      "page": 4,
+      "sha256": "7a546c9890db5852a8c89bec2915958220d15376faa683cee1acf71026805d04"
+    },
+    {
+      "page": 5,
+      "sha256": "fb5f881080e4ff94664171fd3699ad889b448a5bf8b96bb6c8fb5c633bf3fed5"
+    },
+    {
+      "page": 6,
+      "sha256": "6bc4cd102d88737da287b980adc81abb86e0bb1201449c1d3087d5ebc63baef9"
+    },
+    {
+      "page": 7,
+      "sha256": "1c8c6db00a61889181742fd44dfbb89d3102c9d04b1d04acdd0d5697fe502171"
+    },
+    {
+      "page": 8,
+      "sha256": "08fcf30bf69a63feeedc88dd2715e7261bdcd40eb11d53e0a54622cac7f3497a"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "AUD-20261001.raw.json",
+    "sha256": "94b568a7244dda9f4b937aeb97a06133a1064b5d9b327174186528697e2ea95e"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "1654a10cad51ff58a7db2636d9339e304bf8bb01aca3d7ef62d2fc679bd33e10",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
