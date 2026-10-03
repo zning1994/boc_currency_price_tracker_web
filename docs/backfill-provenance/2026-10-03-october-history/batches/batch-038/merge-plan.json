@@ -1,0 +1,53 @@
+{
+  "batch": "batch-038",
+  "base_head": "20056164250486fd2e4b551d96ce544298d232c2",
+  "source_dir": "october-source-batch038",
+  "source_coverage": 114,
+  "remaining": 21,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "KZT",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "f3b98e8374ebf69e3af2c873f7024b39d436f2d2b51b659311648d3761b9d9b8",
+      "source_sha256": "824e7db67829a978fe3bc5bc97a7c68ced00b892df4926f65fd520af23ad4b23",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 2,
+      "result_rows": 2,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "MNT",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "f37e05353098e8dc7d73fba75bb4a79e788b9e245bc9e64d4c004e6d11a924e8",
+      "source_sha256": "53c096de26a10c529e477b9805b224e6850c2224e416c749a894f2252efd1a9a",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "MOP",
+      "day": "20261003",
+      "changed": false,
+      "result_sha256": "df34303b378c4f63d28c1fdba846e31ff7c7a0bd15d74e3d8670b69f7ae87ad6",
+      "source_sha256": "d261c9cd195c5a9343de5f0ae70f9595498ebac58ceb4bba2dff006ffc64333e",
+      "cutoff": "2026.10.03 10:30:00",
+      "source_raw_rows": 7,
+      "existing_rows": 1,
+      "result_rows": 1,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
