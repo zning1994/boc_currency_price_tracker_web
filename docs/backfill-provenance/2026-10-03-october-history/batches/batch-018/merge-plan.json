@@ -1,0 +1,77 @@
+{
+  "batch": "batch-018",
+  "base_head": "18b98303ff108848ea0a6439f11464e33b90db63",
+  "source_dir": "october-source-batch018",
+  "source_coverage": 56,
+  "remaining": 79,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "CAD",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "361658d822d7f128c256aa1d5ef8c94bedf114a0b4d70fc1d00534b6c74f7711",
+      "source_sha256": "c97639ec663814dcf22c221dec8c38cd448a307982d73d0658172f625e9d572d",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 72,
+      "result_rows": 139,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "CHF",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "6f976e89ee44a63103b50d80a50963ce09c4c2df1f6c52996cb1825b12077a14",
+      "source_sha256": "29860aeb318ad19da0d0337bbf2b6bd2f1f79771a700891e33dd3355376bb870",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 78,
+      "result_rows": 155,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "CHF",
+          "spot_exchange_buying_price": 806.75,
+          "cash_buying_price": 806.75,
+          "spot_selling_price": 812.99,
+          "cash_selling_price": 812.99,
+          "bank_of_china_conversion_price": 806.08,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "CZK",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "132fb8618295b08303d9607c56481d0a9f49e99e2bb9ac49c9800c435d60ff21",
+      "source_sha256": "e23428ccd2355ec4c6d63bf8035d656e81679da3983c8d70f0020ce086ade44a",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 57,
+      "result_rows": 101,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "CZK",
+          "spot_exchange_buying_price": null,
+          "cash_buying_price": 27.47,
+          "spot_selling_price": null,
+          "cash_selling_price": 34.27,
+          "bank_of_china_conversion_price": 31.13,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}

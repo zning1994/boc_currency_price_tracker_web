@@ -1,0 +1,105 @@
+{
+  "format_version": 1,
+  "scope": "Authorized October 1-3 manual history backfill source evidence; October 3 is an intraday observation snapshot, not a completed full day. Separate from September completed history.",
+  "batch": "BOC-CAD-CHF-CZK-20261002",
+  "created_at_utc": "2026-10-03T12:23:54.925700+00:00",
+  "files": [
+    {
+      "filename": "CAD-20261002.raw.json",
+      "size_bytes": 15294,
+      "sha256": "c97639ec663814dcf22c221dec8c38cd448a307982d73d0658172f625e9d572d"
+    },
+    {
+      "filename": "CAD-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "687a81cd0dd199ab7eccaef1b3c00ced94d9d781784c2f8d03d4ba53e4dd8b2c"
+    },
+    {
+      "filename": "CAD_2026-10-02_raw.tsv",
+      "size_bytes": 12531,
+      "sha256": "2da4edc289808c5428ee5bacc6814232c7deef4b48267102e23513c760e92af7"
+    },
+    {
+      "filename": "CHF-20261002.raw.json",
+      "size_bytes": 15308,
+      "sha256": "29860aeb318ad19da0d0337bbf2b6bd2f1f79771a700891e33dd3355376bb870"
+    },
+    {
+      "filename": "CHF-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "988f6e756f59bb53c16734746e946e8cb8957d9f35bb455d56d227b5c415c9b9"
+    },
+    {
+      "filename": "CHF_2026-10-02_raw.tsv",
+      "size_bytes": 12545,
+      "sha256": "d89602b2ffc4cc40023a8a10c9e74b7c0383af49d427331c8f4214826091a9d1"
+    },
+    {
+      "filename": "CZK-20261002.raw.json",
+      "size_bytes": 12684,
+      "sha256": "e23428ccd2355ec4c6d63bf8035d656e81679da3983c8d70f0020ce086ade44a"
+    },
+    {
+      "filename": "CZK-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "a6135373cf4534d60fa70339f6aa8530a3614c161f14c5d6b5170a427ac366fe"
+    },
+    {
+      "filename": "CZK_2026-10-02_raw.tsv",
+      "size_bytes": 9921,
+      "sha256": "568ed0ff6e7800081d8e424b87f186527ecf9557a6a94244f598ecc6d5cd0576"
+    },
+    {
+      "filename": "batch-CAD-CHF-CZK-20261002.manifest.json",
+      "size_bytes": 9483,
+      "sha256": "571fc2a4c305d80d6f429f5483609cf470f7787cb728df37d60daad21ae5d086"
+    }
+  ],
+  "validation": [
+    {
+      "date": "2026-10-02",
+      "code": "CAD",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:21:42.148Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-02",
+      "code": "CHF",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:22:35.708Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-02",
+      "code": "CZK",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:23:26.110Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
