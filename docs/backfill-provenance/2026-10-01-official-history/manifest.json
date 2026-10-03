@@ -12096,6 +12096,26 @@
       "archive_sha256": "975d363dcd6f002378212d8a53a640d057ad88ae17264f72870b944f88e415ff"
     },
     {
+      "code": "KHR",
+      "date": "2026-09-26",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "c03335dc9ce617cc17a16935ea071a6d3f38fc9ecca544e74a46306b49450740",
+      "captured_at_utc": "2026-10-03T06:04:16.343Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 8,
+      "unique_timestamps": 5,
+      "first_publish_date": "2026.09.26 00:00:05",
+      "last_publish_date": "2026.09.26 10:30:00",
+      "stored_rows_after_price_dedup": 1,
+      "page_row_counts": [
+        8
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KHR/20260926.json",
+      "capture_path": "raw/KHR-20260926.raw.json",
+      "archive_sha256": "4aad86ef5de396a3820d17b1acc4fb0cee6c77337c71177752615bce1b0463a9"
+    },
+    {
       "code": "KRW",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -12743,6 +12763,26 @@
       "archive_sha256": "ba48f7f5f74d9263992558c7c048a64c029294d5b1a20e7f66dbdd3849223bff"
     },
     {
+      "code": "KRW",
+      "date": "2026-09-26",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "61d64f5f2e8856c424808322695d241319056ea3144465e1758e1ba019f00e7e",
+      "captured_at_utc": "2026-10-03T06:04:16.372Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 8,
+      "unique_timestamps": 5,
+      "first_publish_date": "2026.09.26 00:00:05",
+      "last_publish_date": "2026.09.26 10:30:00",
+      "stored_rows_after_price_dedup": 3,
+      "page_row_counts": [
+        8
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KRW/20260926.json",
+      "capture_path": "raw/KRW-20260926.raw.json",
+      "archive_sha256": "4a05939cdefa416147a389db202aa12cbd790579f8a1ae35709d3071634c0d24"
+    },
+    {
       "code": "KWD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -13381,6 +13421,26 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260925.json",
       "capture_path": "raw/KWD-20260925.raw.json",
       "archive_sha256": "002a1660bc3c5a31516badf632b025c28bea7746c7f5c9c994474597e5f68a14"
+    },
+    {
+      "code": "KWD",
+      "date": "2026-09-26",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "e28e17b89cf776cd4ee4915e0cab334a76d414d578d0dd4042886a1a85a4c0a5",
+      "captured_at_utc": "2026-10-03T06:04:16.399Z",
+      "total_pages": 1,
+      "actual_pages": 1,
+      "raw_rows": 8,
+      "unique_timestamps": 5,
+      "first_publish_date": "2026.09.26 00:00:05",
+      "last_publish_date": "2026.09.26 10:30:00",
+      "stored_rows_after_price_dedup": 3,
+      "page_row_counts": [
+        8
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/KWD/20260926.json",
+      "capture_path": "raw/KWD-20260926.raw.json",
+      "archive_sha256": "2688506370ab2199d07af02c49824ab5a96be346f107405bd48bccf98253a704"
     },
     {
       "code": "MNT",
@@ -26965,7 +27025,7 @@
       "archive_sha256": "98d789ca3fe0a8627c37e546dcc596d04951d67d70acc5b384857191a5713724"
     }
   ],
-  "completed_pairs": 929,
+  "completed_pairs": 932,
   "planned_pairs": 1080,
-  "remaining_pairs": 151
+  "remaining_pairs": 148
 }
