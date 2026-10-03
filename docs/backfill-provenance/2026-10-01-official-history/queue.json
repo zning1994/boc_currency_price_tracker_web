@@ -9631,36 +9631,36 @@
       "name": "印尼卢比",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/IDR/20260922.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/IDR-20260922.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "ILS",
       "name": "以色列谢克尔",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ILS/20260922.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/ILS-20260922.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "INR",
       "name": "印度卢比",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/INR/20260922.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/INR-20260922.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "KHR",
@@ -9703,11 +9703,11 @@
       "name": "蒙古图格里克",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MNT/20260922.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MNT-20260922.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -9715,11 +9715,11 @@
       "name": "澳门元",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MOP/20260922.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MOP-20260922.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -9727,11 +9727,11 @@
       "name": "墨西哥比索",
       "date": "2026-09-22",
       "archive_path": "docs/BOC_CURRENCY_PRICE/MXN/20260922.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/MXN-20260922.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 585,
-      "validated": 585,
-      "published": 582,
-      "pending": 279
+      "captured": 588,
+      "validated": 588,
+      "published": 585,
+      "pending": 276
     }
   },
   "priority_codes": [
