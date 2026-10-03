@@ -1,0 +1,2329 @@
+{
+  "zip_sha256": "66aae2c75854606833fa01e1f570cbea4f1199c97fa584f20abae3c8992cbad5",
+  "all30_member_sha_verified": true,
+  "all37_page_sha_verified": true,
+  "algorithm": "authoritative dedup_by_price_tuple; occurrence interval matching before next source price change",
+  "samples": [
+    {
+      "code": "AED",
+      "date": "20261001",
+      "official_raw": 159,
+      "official_compressed": 57,
+      "git_rows": 26,
+      "exact_sequence_matches": false,
+      "classification_counts": {
+        "missing_occurrence": 31,
+        "exact_start": 24,
+        "delayed_start": 2
+      },
+      "distinct_price_states_absent_in_git": [
+        [
+          181.31,
+          181.31,
+          183.87,
+          183.87,
+          182.92
+        ],
+        [
+          181.3,
+          181.3,
+          183.86,
+          183.86,
+          182.92
+        ],
+        [
+          181.35,
+          181.35,
+          183.91,
+          183.91,
+          182.92
+        ]
+      ],
+      "intervals": [
+        {
+          "start": "2026.10.01 00:00:05",
+          "end_exclusive": "2026.10.01 00:01:09",
+          "five_prices": [
+            181.31,
+            181.31,
+            183.87,
+            183.87,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 00:01:09",
+          "end_exclusive": "2026.10.01 00:07:31",
+          "five_prices": [
+            181.3,
+            181.3,
+            183.86,
+            183.86,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 00:07:31",
+          "end_exclusive": "2026.10.01 00:16:09",
+          "five_prices": [
+            181.31,
+            181.31,
+            183.87,
+            183.87,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 00:16:09",
+          "end_exclusive": "2026.10.01 02:49:02",
+          "five_prices": [
+            181.3,
+            181.3,
+            183.86,
+            183.86,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 02:49:02",
+          "end_exclusive": "2026.10.01 06:40:23",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 06:40:23",
+          "end_exclusive": "2026.10.01 09:55:05",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 09:55:05",
+          "end_exclusive": "2026.10.01 13:02:07",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 13:02:07",
+          "end_exclusive": "2026.10.01 16:05:40",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 16:05:40",
+          "end_exclusive": "2026.10.01 16:06:13",
+          "five_prices": [
+            181.35,
+            181.35,
+            183.91,
+            183.91,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 16:06:13",
+          "end_exclusive": "2026.10.01 16:12:11",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 16:12:11",
+          "end_exclusive": "2026.10.01 16:16:13",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 16:16:13",
+          "end_exclusive": "2026.10.01 16:39:02",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 16:39:02",
+          "end_exclusive": "2026.10.01 16:41:13",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 16:41:13",
+          "end_exclusive": "2026.10.01 17:06:13",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 17:06:13",
+          "end_exclusive": "2026.10.01 17:11:13",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 17:11:13",
+          "end_exclusive": "2026.10.01 17:50:54",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 17:50:54",
+          "end_exclusive": "2026.10.01 17:51:13",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 17:51:13",
+          "end_exclusive": "2026.10.01 18:14:30",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 18:14:30",
+          "end_exclusive": "2026.10.01 18:16:13",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 18:16:13",
+          "end_exclusive": "2026.10.01 18:26:13",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 18:26:13",
+          "end_exclusive": "2026.10.01 18:31:03",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 18:31:03",
+          "end_exclusive": "2026.10.01 18:46:13",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 18:46:13",
+          "end_exclusive": "2026.10.01 18:51:13",
+          "five_prices": [
+            181.35,
+            181.35,
+            183.91,
+            183.91,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 18:51:13",
+          "end_exclusive": "2026.10.01 18:56:13",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 18:56:13",
+          "end_exclusive": "2026.10.01 19:06:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 19:06:14",
+          "end_exclusive": "2026.10.01 19:21:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 19:06:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 19:21:14",
+          "end_exclusive": "2026.10.01 19:31:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 19:21:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 19:31:14",
+          "end_exclusive": "2026.10.01 19:41:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 19:41:14",
+          "end_exclusive": "2026.10.01 19:45:04",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 19:45:04",
+          "end_exclusive": "2026.10.01 20:31:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 19:51:14"
+          ],
+          "classification": "delayed_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 20:31:14",
+          "end_exclusive": "2026.10.01 20:36:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 20:31:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 20:36:14",
+          "end_exclusive": "2026.10.01 20:46:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 20:36:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 20:46:14",
+          "end_exclusive": "2026.10.01 20:51:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 20:46:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 20:51:14",
+          "end_exclusive": "2026.10.01 20:56:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 20:51:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 20:56:14",
+          "end_exclusive": "2026.10.01 21:06:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 20:56:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:06:14",
+          "end_exclusive": "2026.10.01 21:21:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:06:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:21:14",
+          "end_exclusive": "2026.10.01 21:26:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:21:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:26:14",
+          "end_exclusive": "2026.10.01 21:31:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:26:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:31:14",
+          "end_exclusive": "2026.10.01 21:36:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:31:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:36:14",
+          "end_exclusive": "2026.10.01 21:41:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:36:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:41:14",
+          "end_exclusive": "2026.10.01 21:46:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:41:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:46:14",
+          "end_exclusive": "2026.10.01 21:56:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:46:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 21:56:14",
+          "end_exclusive": "2026.10.01 22:01:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 21:56:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:01:14",
+          "end_exclusive": "2026.10.01 22:04:43",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:01:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:04:43",
+          "end_exclusive": "2026.10.01 22:08:43",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:04:43"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:08:43",
+          "end_exclusive": "2026.10.01 22:16:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:08:43"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:16:14",
+          "end_exclusive": "2026.10.01 22:26:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:16:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:26:14",
+          "end_exclusive": "2026.10.01 22:31:01",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:31:01",
+          "end_exclusive": "2026.10.01 22:31:14",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:31:14",
+          "end_exclusive": "2026.10.01 22:32:54",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:32:54",
+          "end_exclusive": "2026.10.01 22:33:00",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:33:00",
+          "end_exclusive": "2026.10.01 22:36:14",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:34:51"
+          ],
+          "classification": "delayed_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:36:14",
+          "end_exclusive": "2026.10.01 22:43:22",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:36:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:43:22",
+          "end_exclusive": "2026.10.01 22:46:14",
+          "five_prices": [
+            181.33,
+            181.33,
+            183.89,
+            183.89,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:43:22"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:46:14",
+          "end_exclusive": "2026.10.01 22:54:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:46:14"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:54:19",
+          "end_exclusive": "2026.10.01 22:56:15",
+          "five_prices": [
+            181.33,
+            181.33,
+            183.89,
+            183.89,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:54:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.01 22:56:15",
+          "end_exclusive": "9999",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.01 22:56:15"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    },
+    {
+      "code": "AED",
+      "date": "20261002",
+      "official_raw": 179,
+      "official_compressed": 80,
+      "git_rows": 40,
+      "exact_sequence_matches": false,
+      "classification_counts": {
+        "exact_start": 39,
+        "missing_occurrence": 40,
+        "delayed_start": 1
+      },
+      "distinct_price_states_absent_in_git": [],
+      "intervals": [
+        {
+          "start": "2026.10.02 00:00:05",
+          "end_exclusive": "2026.10.02 09:46:17",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 00:00:05"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 09:46:17",
+          "end_exclusive": "2026.10.02 09:51:17",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 09:46:17"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 09:51:17",
+          "end_exclusive": "2026.10.02 11:21:17",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 11:21:17",
+          "end_exclusive": "2026.10.02 11:26:17",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 11:26:17",
+          "end_exclusive": "2026.10.02 11:31:17",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 11:31:17",
+          "end_exclusive": "2026.10.02 11:36:17",
+          "five_prices": [
+            181.33,
+            181.33,
+            183.89,
+            183.89,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 11:36:17",
+          "end_exclusive": "2026.10.02 12:32:32",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 12:32:32",
+          "end_exclusive": "2026.10.02 12:56:28",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 12:56:28",
+          "end_exclusive": "2026.10.02 13:01:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:01:18",
+          "end_exclusive": "2026.10.02 13:06:18",
+          "five_prices": [
+            181.35,
+            181.35,
+            183.91,
+            183.91,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:06:18",
+          "end_exclusive": "2026.10.02 13:11:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:11:18",
+          "end_exclusive": "2026.10.02 13:41:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:41:18",
+          "end_exclusive": "2026.10.02 13:46:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:46:18",
+          "end_exclusive": "2026.10.02 13:51:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:51:18",
+          "end_exclusive": "2026.10.02 13:56:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 13:56:18",
+          "end_exclusive": "2026.10.02 14:01:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 14:01:18",
+          "end_exclusive": "2026.10.02 14:06:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 14:06:18",
+          "end_exclusive": "2026.10.02 14:31:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 14:06:18"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 14:31:18",
+          "end_exclusive": "2026.10.02 14:36:18",
+          "five_prices": [
+            181.35,
+            181.35,
+            183.91,
+            183.91,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 14:31:18"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 14:36:18",
+          "end_exclusive": "2026.10.02 14:56:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 14:36:18"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 14:56:18",
+          "end_exclusive": "2026.10.02 15:01:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 14:56:18"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:01:18",
+          "end_exclusive": "2026.10.02 15:06:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 15:01:18"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:06:18",
+          "end_exclusive": "2026.10.02 15:13:44",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 15:06:18"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:13:44",
+          "end_exclusive": "2026.10.02 15:21:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 15:13:44"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:21:18",
+          "end_exclusive": "2026.10.02 15:26:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:26:18",
+          "end_exclusive": "2026.10.02 15:51:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:51:18",
+          "end_exclusive": "2026.10.02 15:56:18",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 15:56:18",
+          "end_exclusive": "2026.10.02 16:01:18",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:01:18",
+          "end_exclusive": "2026.10.02 16:06:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:06:19",
+          "end_exclusive": "2026.10.02 16:12:52",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:12:52",
+          "end_exclusive": "2026.10.02 16:16:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:16:19",
+          "end_exclusive": "2026.10.02 16:21:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:21:19",
+          "end_exclusive": "2026.10.02 16:24:35",
+          "five_prices": [
+            181.33,
+            181.33,
+            183.89,
+            183.89,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:24:35",
+          "end_exclusive": "2026.10.02 16:31:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:31:19",
+          "end_exclusive": "2026.10.02 16:41:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:41:19",
+          "end_exclusive": "2026.10.02 16:46:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:46:19",
+          "end_exclusive": "2026.10.02 16:56:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 16:56:19",
+          "end_exclusive": "2026.10.02 17:06:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 17:06:19",
+          "end_exclusive": "2026.10.02 17:11:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 17:11:19",
+          "end_exclusive": "2026.10.02 17:21:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 17:21:19",
+          "end_exclusive": "2026.10.02 17:31:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 17:31:19",
+          "end_exclusive": "2026.10.02 17:36:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 17:36:19",
+          "end_exclusive": "2026.10.02 17:56:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 17:56:19",
+          "end_exclusive": "2026.10.02 18:01:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:01:19",
+          "end_exclusive": "2026.10.02 18:06:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:06:19",
+          "end_exclusive": "2026.10.02 18:16:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:16:19",
+          "end_exclusive": "2026.10.02 18:26:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:26:19",
+          "end_exclusive": "2026.10.02 18:36:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 18:31:19"
+          ],
+          "classification": "delayed_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:36:19",
+          "end_exclusive": "2026.10.02 18:41:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 18:36:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:41:19",
+          "end_exclusive": "2026.10.02 18:46:19",
+          "five_prices": [
+            181.33,
+            181.33,
+            183.89,
+            183.89,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 18:41:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:46:19",
+          "end_exclusive": "2026.10.02 18:51:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 18:46:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 18:51:19",
+          "end_exclusive": "2026.10.02 19:11:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 18:51:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:11:19",
+          "end_exclusive": "2026.10.02 19:21:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:11:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:21:19",
+          "end_exclusive": "2026.10.02 19:26:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:21:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:26:19",
+          "end_exclusive": "2026.10.02 19:31:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:26:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:31:19",
+          "end_exclusive": "2026.10.02 19:36:19",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:31:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:36:19",
+          "end_exclusive": "2026.10.02 19:46:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:36:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:46:19",
+          "end_exclusive": "2026.10.02 19:50:29",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:46:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:50:29",
+          "end_exclusive": "2026.10.02 19:51:19",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:50:29"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 19:51:19",
+          "end_exclusive": "2026.10.02 20:26:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 19:51:19"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:26:20",
+          "end_exclusive": "2026.10.02 20:30:45",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:26:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:30:45",
+          "end_exclusive": "2026.10.02 20:30:52",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:30:52",
+          "end_exclusive": "2026.10.02 20:31:12",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:31:12",
+          "end_exclusive": "2026.10.02 20:31:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:31:12"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:31:20",
+          "end_exclusive": "2026.10.02 20:33:22",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:31:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:33:22",
+          "end_exclusive": "2026.10.02 20:37:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:33:22"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:37:20",
+          "end_exclusive": "2026.10.02 20:38:02",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:37:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:38:02",
+          "end_exclusive": "2026.10.02 20:41:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:38:02"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:41:20",
+          "end_exclusive": "2026.10.02 20:42:55",
+          "five_prices": [
+            181.33,
+            181.33,
+            183.89,
+            183.89,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:41:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:42:55",
+          "end_exclusive": "2026.10.02 20:46:04",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:42:55"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:46:04",
+          "end_exclusive": "2026.10.02 20:46:20",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:46:04"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:46:20",
+          "end_exclusive": "2026.10.02 20:50:49",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:46:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:50:49",
+          "end_exclusive": "2026.10.02 20:51:20",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:50:49"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 20:51:20",
+          "end_exclusive": "2026.10.02 21:06:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 20:51:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 21:06:20",
+          "end_exclusive": "2026.10.02 21:10:09",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 21:06:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 21:10:09",
+          "end_exclusive": "2026.10.02 21:11:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 21:10:09"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 21:11:20",
+          "end_exclusive": "2026.10.02 21:21:20",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 21:11:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 21:21:20",
+          "end_exclusive": "2026.10.02 21:36:20",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 21:21:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 21:36:20",
+          "end_exclusive": "2026.10.02 21:49:23",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 21:36:20"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.02 21:49:23",
+          "end_exclusive": "9999",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.02 21:49:23"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    },
+    {
+      "code": "AED",
+      "date": "20261003",
+      "official_raw": 7,
+      "official_compressed": 2,
+      "git_rows": 2,
+      "exact_sequence_matches": true,
+      "classification_counts": {
+        "exact_start": 2
+      },
+      "distinct_price_states_absent_in_git": [],
+      "intervals": [
+        {
+          "start": "2026.10.03 00:00:05",
+          "end_exclusive": "2026.10.03 04:47:03",
+          "five_prices": [
+            181.34,
+            181.34,
+            183.9,
+            183.9,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.03 00:00:05"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        },
+        {
+          "start": "2026.10.03 04:47:03",
+          "end_exclusive": "9999",
+          "five_prices": [
+            181.32,
+            181.32,
+            183.88,
+            183.88,
+            182.92
+          ],
+          "stored_times": [
+            "2026.10.03 04:47:03"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    },
+    {
+      "code": "MUR",
+      "date": "20261003",
+      "official_raw": 6,
+      "official_compressed": 1,
+      "git_rows": 1,
+      "exact_sequence_matches": true,
+      "classification_counts": {
+        "exact_start": 1
+      },
+      "distinct_price_states_absent_in_git": [],
+      "intervals": [
+        {
+          "start": "2026.10.03 00:00:05",
+          "end_exclusive": "9999",
+          "five_prices": [
+            11.67,
+            null,
+            14.55,
+            null,
+            13.25
+          ],
+          "stored_times": [
+            "2026.10.03 00:00:05"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    },
+    {
+      "code": "USD",
+      "date": "20261001",
+      "official_raw": 159,
+      "official_compressed": 3,
+      "git_rows": 1,
+      "exact_sequence_matches": false,
+      "classification_counts": {
+        "missing_occurrence": 2,
+        "delayed_start": 1
+      },
+      "distinct_price_states_absent_in_git": [
+        [
+          669.78,
+          669.78,
+          672.59,
+          672.59,
+          673.51
+        ],
+        [
+          669.78,
+          669.78,
+          672.6,
+          672.6,
+          673.51
+        ]
+      ],
+      "intervals": [
+        {
+          "start": "2026.10.01 00:00:05",
+          "end_exclusive": "2026.10.01 00:46:09",
+          "five_prices": [
+            669.78,
+            669.78,
+            672.59,
+            672.59,
+            673.51
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 00:46:09",
+          "end_exclusive": "2026.10.01 02:49:02",
+          "five_prices": [
+            669.78,
+            669.78,
+            672.6,
+            672.6,
+            673.51
+          ],
+          "stored_times": [],
+          "classification": "missing_occurrence",
+          "price_state_anywhere_in_git": false
+        },
+        {
+          "start": "2026.10.01 02:49:02",
+          "end_exclusive": "9999",
+          "five_prices": [
+            669.87,
+            669.87,
+            672.69,
+            672.69,
+            673.51
+          ],
+          "stored_times": [
+            "2026.10.01 19:06:14"
+          ],
+          "classification": "delayed_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    },
+    {
+      "code": "USD",
+      "date": "20261002",
+      "official_raw": 179,
+      "official_compressed": 1,
+      "git_rows": 1,
+      "exact_sequence_matches": true,
+      "classification_counts": {
+        "exact_start": 1
+      },
+      "distinct_price_states_absent_in_git": [],
+      "intervals": [
+        {
+          "start": "2026.10.02 00:00:05",
+          "end_exclusive": "9999",
+          "five_prices": [
+            669.87,
+            669.87,
+            672.69,
+            672.69,
+            673.51
+          ],
+          "stored_times": [
+            "2026.10.02 00:00:05"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    },
+    {
+      "code": "USD",
+      "date": "20261003",
+      "official_raw": 7,
+      "official_compressed": 1,
+      "git_rows": 1,
+      "exact_sequence_matches": true,
+      "classification_counts": {
+        "exact_start": 1
+      },
+      "distinct_price_states_absent_in_git": [],
+      "intervals": [
+        {
+          "start": "2026.10.03 00:00:05",
+          "end_exclusive": "9999",
+          "five_prices": [
+            669.87,
+            669.87,
+            672.69,
+            672.69,
+            673.51
+          ],
+          "stored_times": [
+            "2026.10.03 00:00:05"
+          ],
+          "classification": "exact_start",
+          "price_state_anywhere_in_git": true
+        }
+      ],
+      "git_rows_not_in_official_raw": []
+    }
+  ]
+}

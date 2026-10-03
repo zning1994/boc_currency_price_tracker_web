@@ -1,0 +1,21 @@
+{
+  "base_main_sha": "ac8811eef05f765aba6f1220e55c44cc78a7aca3",
+  "source_coverage": 7,
+  "target_pairs": 135,
+  "remaining": 128,
+  "october_3_status": "observation snapshot, not full day",
+  "source_observed_to_utc": "2026-10-03T11:01:01.715Z",
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/AED/20261001.json",
+    "docs/BOC_CURRENCY_PRICE/AED/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/USD/20261001.json"
+  ],
+  "unchanged_verified_pairs": 4,
+  "tests": {
+    "merge_safety": 6,
+    "backfill_regression": 8,
+    "history_dedup_regression": 3
+  },
+  "backup_full135": "local october-backup/ac8811eef05f765aba6f1220e55c44cc78a7aca3",
+  "no_september_realtime_api_workflow_changes": true
+}

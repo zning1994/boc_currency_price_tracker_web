@@ -1,0 +1,24 @@
+{
+  "code": "USD",
+  "date": "2026-10-03",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "captured_at_utc": "2026-10-03T11:01:01.679Z",
+  "runs": {
+    "start": "2026-10-03T11:01:01.679Z",
+    "end": "2026-10-03T11:01:01.679Z"
+  },
+  "pages": [
+    7
+  ],
+  "raw_rows": 7,
+  "distinct_rows": 4,
+  "unique_five_prices": 1,
+  "same_second_conflicts": [],
+  "full_json_sha256": "7add894a2c4d65f82b16d76b81d9eacf8e405a691f8be64a4fafdf9e295ddaf5",
+  "page_sha256": [
+    "3d707f3adecf527a8ccec32a7d50c22fc0058a64abd3bf6fbd1122706e476080"
+  ],
+  "tsv_sha256": "8706744866171e4384102218f65b1ae3ac6494e1fc00a229f41b554244a7a7ae",
+  "newest": "2026/10/03 10:30:00",
+  "oldest": "2026/10/03 00:00:05"
+}

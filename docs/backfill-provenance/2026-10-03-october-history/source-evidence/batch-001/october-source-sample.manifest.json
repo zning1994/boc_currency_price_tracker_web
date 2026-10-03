@@ -1,0 +1,403 @@
+{
+  "scope": "Read-only official source sample audit; USD/AED Oct1/2/3 and MUR Oct3 only. No repository modifications or production backfill. Oct3 is an observation snapshot, not final full-day completeness.",
+  "source_url": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "method": "Normal visible date/currency queries and next-page controls in cloud ChromeCDP tabs10/11/12; CAPTCHA solved through visible sliders. All seven rendered cells retained, including blanks. Full browser JSON SHA and each page SHA independently reconstructed and validated using Python hashlib. No cookies, credentials, hidden state, direct official HTTP calls, or security bypass.",
+  "observed_from_utc": "2026-10-03T10:54:44.569Z",
+  "observed_to_utc": "2026-10-03T11:01:01.715Z",
+  "currency_days": 7,
+  "pages": 37,
+  "raw_rows": 696,
+  "distinct_rows_within_currency_days": 676,
+  "same_second_conflicts": 0,
+  "sources": [
+    {
+      "code": "AED",
+      "date": "2026-10-01",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T10:54:59.147Z",
+      "runs": {
+        "start": "2026-10-03T10:54:44.585Z",
+        "end": "2026-10-03T10:54:59.147Z"
+      },
+      "pages": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        19
+      ],
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "unique_five_prices": 6,
+      "same_second_conflicts": [],
+      "full_json_sha256": "3f98834f7d47fc29f8a5accf86be9c788ed0700ad451217dc6a07a367d8f0fd1",
+      "page_sha256": [
+        "46aff65ef6588d1e847df7f30b8e4c0f7c5156a2a0da9ce4d58e913e289a3d16",
+        "f0e4a584dc81180dce1ed5a2d5b331242ab9a2d127c3340719384bfe55de0e04",
+        "393977e7144b925640ec8cd0f4345a0907b045f504c5513812d968270df7ee79",
+        "7362696fff5caf1b0ef7bc4345657effd326ed8734fd55002b2f8dbc301f9fb8",
+        "f85cdb7f98410027c1c152b0f9bf0a5ccef3e2a8202db950613144133f002814",
+        "feb3f7d9c9aa2f9d5fa45be4a866186a729e296d570438520bd2f26992a2d58e",
+        "4d9a721578d09c695e02758e6a81b6566f73eaf1aa497b59638acd3fba689eeb",
+        "7d352392450c6891b5b167844f5cdbf949170de60ca94b943442906900add2e1"
+      ],
+      "tsv_sha256": "e1c7f4eb194a96621d25477efb9e1ed32cd43142819a8577db772b3c85b0afb4",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "sequential_price_states": 57,
+      "files": [
+        {
+          "name": "AED-20261001.raw.json",
+          "bytes": 14434,
+          "sha256": "3f98834f7d47fc29f8a5accf86be9c788ed0700ad451217dc6a07a367d8f0fd1"
+        },
+        {
+          "name": "AED-20261001.metadata.json",
+          "bytes": 1278,
+          "sha256": "75cbc98bf3f7f7a95ee89bcbf55e194cc7b0ef0545c9d70207cece0e84cd634e"
+        },
+        {
+          "name": "AED-20261001.tsv",
+          "bytes": 11642,
+          "sha256": "e1c7f4eb194a96621d25477efb9e1ed32cd43142819a8577db772b3c85b0afb4"
+        },
+        {
+          "name": "AED-20261001.changes.json",
+          "bytes": 8781,
+          "sha256": "8ba4512db333c5580f654db772679018a2b048960df93c24b465e4a9798bb10d"
+        }
+      ]
+    },
+    {
+      "code": "AED",
+      "date": "2026-10-02",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T10:57:24.391Z",
+      "runs": {
+        "start": "2026-10-03T10:57:08.245Z",
+        "end": "2026-10-03T10:57:24.391Z"
+      },
+      "pages": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        19
+      ],
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "unique_five_prices": 4,
+      "same_second_conflicts": [],
+      "full_json_sha256": "abec92d4af12a68586373c25ebb17f8986fa5f8772594c514ab7a415f70e9669",
+      "page_sha256": [
+        "06c4f6085cd9cdd8bc204f2cf3f01e10fb1c458c8dea2fbacc554eacc1548f03",
+        "b937a283fcd6e51b7b6a0c7e0e59311d974c8e6ad28803e72547b1fd14a7e559",
+        "94719a175f6fc521ad3cc9ed7a3b928cd94cb414d810011b45a27e862d329a97",
+        "615a043fa8b7ad04b5dee8459b71ce8e41871f8a1f0364b5c766d8cb9412a6fe",
+        "e277060f1b008b2524c8d929aba8a14b2687c812c993f53df3ec6a48eed4c1f4",
+        "a65cf025ad33549a0ba3515503d530ea9d9c639a90f3fec4d4c2cfdfde12edb3",
+        "9833ba64edd6bfa04deef152b24dd09a29565f5d9b4349895baa9d366d8933a0",
+        "4b7a05ae90279de49f4e76c0725b3ec9355506556fe18de90155f67fd8556f3c",
+        "e96d06179b27951b56d60592dcd1ed77e238b3569e6bc52b1018438418863df0"
+      ],
+      "tsv_sha256": "b3686ef1c29ddc290ceb48136d36a1dee834e3198bc36ed00f53b838aeb37605",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "sequential_price_states": 80,
+      "files": [
+        {
+          "name": "AED-20261002.raw.json",
+          "bytes": 16238,
+          "sha256": "abec92d4af12a68586373c25ebb17f8986fa5f8772594c514ab7a415f70e9669"
+        },
+        {
+          "name": "AED-20261002.metadata.json",
+          "bytes": 1358,
+          "sha256": "9653c2b8f667c8759d211fc4a90264876ba25406f0a5638ac2334c9b3a7b3db6"
+        },
+        {
+          "name": "AED-20261002.tsv",
+          "bytes": 13106,
+          "sha256": "b3686ef1c29ddc290ceb48136d36a1dee834e3198bc36ed00f53b838aeb37605"
+        },
+        {
+          "name": "AED-20261002.changes.json",
+          "bytes": 12324,
+          "sha256": "bf74ae44aa3a08297fcd46039abfd9b8f70b73280dc4b10ed05038b49c8f0594"
+        }
+      ]
+    },
+    {
+      "code": "AED",
+      "date": "2026-10-03",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T11:01:01.715Z",
+      "runs": {
+        "start": "2026-10-03T11:01:01.715Z",
+        "end": "2026-10-03T11:01:01.715Z"
+      },
+      "pages": [
+        7
+      ],
+      "raw_rows": 7,
+      "distinct_rows": 4,
+      "unique_five_prices": 2,
+      "same_second_conflicts": [],
+      "full_json_sha256": "fdabebfdb9cb8869837cd7df3e979227510221fa367a7ecef35b2435e9bbe9e6",
+      "page_sha256": [
+        "08a21e42a545bb78b5b7122d5ec36180ff952812315b2c15ac620aaae10f1493"
+      ],
+      "tsv_sha256": "0b11258f0b9f9f3e26b458d98e0254aeb754bc1e94103d813a315bb619b5cd14",
+      "newest": "2026/10/03 10:30:00",
+      "oldest": "2026/10/03 00:00:05",
+      "sequential_price_states": 2,
+      "files": [
+        {
+          "name": "AED-20261003.raw.json",
+          "bytes": 840,
+          "sha256": "fdabebfdb9cb8869837cd7df3e979227510221fa367a7ecef35b2435e9bbe9e6"
+        },
+        {
+          "name": "AED-20261003.metadata.json",
+          "bytes": 713,
+          "sha256": "0f88baf06b1f630b04a575e2179de5814e00503a4462020df9a3fffd75efdd11"
+        },
+        {
+          "name": "AED-20261003.tsv",
+          "bytes": 620,
+          "sha256": "0b11258f0b9f9f3e26b458d98e0254aeb754bc1e94103d813a315bb619b5cd14"
+        },
+        {
+          "name": "AED-20261003.changes.json",
+          "bytes": 310,
+          "sha256": "129b8229b035f50267fb86e2c9b048842168dcd348b394e16083f05617ddf5d0"
+        }
+      ]
+    },
+    {
+      "code": "MUR",
+      "date": "2026-10-03",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T10:55:25.110Z",
+      "runs": {
+        "start": "2026-10-03T10:55:25.110Z",
+        "end": "2026-10-03T10:55:25.110Z"
+      },
+      "pages": [
+        6
+      ],
+      "raw_rows": 6,
+      "distinct_rows": 4,
+      "unique_five_prices": 1,
+      "same_second_conflicts": [],
+      "full_json_sha256": "85949d897c41b6e5fa9a97339be2f664e72bf7f0956da57d7ed5703ee8b211ed",
+      "page_sha256": [
+        "d862177b65de9bca686d50686ce78010dd28fa5d84787bf6ad965416d82239c1"
+      ],
+      "tsv_sha256": "b240fa270f38f7328c9428ef7a1e3940442b1cf3be21be71241c74d09584d77f",
+      "newest": "2026/10/03 10:30:00",
+      "oldest": "2026/10/03 00:00:05",
+      "sequential_price_states": 1,
+      "files": [
+        {
+          "name": "MUR-20261003.raw.json",
+          "bytes": 664,
+          "sha256": "85949d897c41b6e5fa9a97339be2f664e72bf7f0956da57d7ed5703ee8b211ed"
+        },
+        {
+          "name": "MUR-20261003.metadata.json",
+          "bytes": 713,
+          "sha256": "d8cb255afd50a68fe4721a43d233ece816ed38fca997f89968069eb004213d8a"
+        },
+        {
+          "name": "MUR-20261003.tsv",
+          "bytes": 460,
+          "sha256": "b240fa270f38f7328c9428ef7a1e3940442b1cf3be21be71241c74d09584d77f"
+        },
+        {
+          "name": "MUR-20261003.changes.json",
+          "bytes": 142,
+          "sha256": "e3066ab719476dcac76312471656c6a06f89d7aae4eeafb5ecacb3ca1f440304"
+        }
+      ]
+    },
+    {
+      "code": "USD",
+      "date": "2026-10-01",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T10:54:51.871Z",
+      "runs": {
+        "start": "2026-10-03T10:54:44.569Z",
+        "end": "2026-10-03T10:54:51.871Z"
+      },
+      "pages": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        19
+      ],
+      "raw_rows": 159,
+      "distinct_rows": 156,
+      "unique_five_prices": 3,
+      "same_second_conflicts": [],
+      "full_json_sha256": "895a7c6cb327ea3743c5e894a8a6a857c7aaea11e3219a4b13f506cbec38381a",
+      "page_sha256": [
+        "48725687a63072b306fae4c23ef32ff5d548a760226d0b97e58abc8d02db75e0",
+        "7d00b04c5f28e169e556be3a3226f4d55334c8721f8e62fb7a24906fc3cb9a33",
+        "52b8a51f46b11622259369a60779de7aaea760fe30faaa818b0553e7ccdc2be9",
+        "987b4cb71c600249905891a6951b351c07f818f0f0f71de6d382021e50b74313",
+        "b816fb50f48593d950b9251052dcf787bab0dfe3840eb8bba87b527416f78f80",
+        "a696dffd7ad27471692b18c25192fc3882d86f1e9fe03511378e5216f7e8c1ad",
+        "74803d8169e9bb102e79b7ba43f431d6aa8a364e4a559726f66d636f33cee813",
+        "f38322b8d4125ec22017f21193861b825d42220c8e866c846fb7fcf1124f62db"
+      ],
+      "tsv_sha256": "c3f0d8915a1ee6f89fa606b459a92e6a147bab0460b32cba460fa114d036446c",
+      "newest": "2026/10/01 22:56:15",
+      "oldest": "2026/10/01 00:00:05",
+      "sequential_price_states": 3,
+      "files": [
+        {
+          "name": "USD-20261001.raw.json",
+          "bytes": 12694,
+          "sha256": "895a7c6cb327ea3743c5e894a8a6a857c7aaea11e3219a4b13f506cbec38381a"
+        },
+        {
+          "name": "USD-20261001.metadata.json",
+          "bytes": 1278,
+          "sha256": "f0752e7d1333a84e7e5b69d6b24c00c4893d7f7ddbba5f0ce85a7950e1c86797"
+        },
+        {
+          "name": "USD-20261001.tsv",
+          "bytes": 9914,
+          "sha256": "c3f0d8915a1ee6f89fa606b459a92e6a147bab0460b32cba460fa114d036446c"
+        },
+        {
+          "name": "USD-20261001.changes.json",
+          "bytes": 465,
+          "sha256": "03e3c20e384cbbda7c5f7284e675ee54665e085ad354749374a5be433e3e3d4c"
+        }
+      ]
+    },
+    {
+      "code": "USD",
+      "date": "2026-10-02",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T10:57:16.245Z",
+      "runs": {
+        "start": "2026-10-03T10:57:08.234Z",
+        "end": "2026-10-03T10:57:16.245Z"
+      },
+      "pages": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        19
+      ],
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "unique_five_prices": 1,
+      "same_second_conflicts": [],
+      "full_json_sha256": "54ebc9da58208f7deb63091d8bd988c5c63f6154d1f0a6cf869b768b41a7ce2d",
+      "page_sha256": [
+        "bba74f921669c2247dbbeb821bc078023d7db2784cd626fa3aa923b156cb5d79",
+        "4f7b75f93fa89033b023019ee3dd20608bdc083f22f2d77164f9e7757de308b0",
+        "33f1f7b704b7388fa6c06aa721a3d2d68a6ce5101279d3284767d5d9eac34c9f",
+        "49c4c2b18515a3dad15d29a4fa41393ecdc70d1bc203bde5f61fe579ce5bafbd",
+        "04ce62d8ed471fa5b15c015233fb5aa291a287ebe23eae12617567e92faf4533",
+        "59bd7bae1d14a5c920fbc43b0e68a4d91496e4082942daaccef698d2e88a4b45",
+        "96d05ace7136bb0a2117aa34c65b43ec6e4fa8d74268ddfd7356f66115ac618f",
+        "8bf4cf9e6c49d51c3e435cd5f76c5d28c2026a880b285a6924d94325adebdc79",
+        "83d0ceeefd7fac1e29b0392bbcaae4ff4670b4a733f2c32dcc23d6dbe21a4dcb"
+      ],
+      "tsv_sha256": "75b54af6ef52a0608610c6be07098d0b160b555ae51e9e6436f50510092733e8",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "sequential_price_states": 1,
+      "files": [
+        {
+          "name": "USD-20261002.raw.json",
+          "bytes": 14324,
+          "sha256": "54ebc9da58208f7deb63091d8bd988c5c63f6154d1f0a6cf869b768b41a7ce2d"
+        },
+        {
+          "name": "USD-20261002.metadata.json",
+          "bytes": 1358,
+          "sha256": "e160377a3630a5ad32d49e5cd04fa9cbf7e0d8bd2318486f5d2092bb7037a40f"
+        },
+        {
+          "name": "USD-20261002.tsv",
+          "bytes": 11204,
+          "sha256": "75b54af6ef52a0608610c6be07098d0b160b555ae51e9e6436f50510092733e8"
+        },
+        {
+          "name": "USD-20261002.changes.json",
+          "bytes": 157,
+          "sha256": "0d0ef52ae62c1f067e2f079d823ef7cdd80e9c43b8f1bb88d6dabfbd1b561f08"
+        }
+      ]
+    },
+    {
+      "code": "USD",
+      "date": "2026-10-03",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "captured_at_utc": "2026-10-03T11:01:01.679Z",
+      "runs": {
+        "start": "2026-10-03T11:01:01.679Z",
+        "end": "2026-10-03T11:01:01.679Z"
+      },
+      "pages": [
+        7
+      ],
+      "raw_rows": 7,
+      "distinct_rows": 4,
+      "unique_five_prices": 1,
+      "same_second_conflicts": [],
+      "full_json_sha256": "7add894a2c4d65f82b16d76b81d9eacf8e405a691f8be64a4fafdf9e295ddaf5",
+      "page_sha256": [
+        "3d707f3adecf527a8ccec32a7d50c22fc0058a64abd3bf6fbd1122706e476080"
+      ],
+      "tsv_sha256": "8706744866171e4384102218f65b1ae3ac6494e1fc00a229f41b554244a7a7ae",
+      "newest": "2026/10/03 10:30:00",
+      "oldest": "2026/10/03 00:00:05",
+      "sequential_price_states": 1,
+      "files": [
+        {
+          "name": "USD-20261003.raw.json",
+          "bytes": 748,
+          "sha256": "7add894a2c4d65f82b16d76b81d9eacf8e405a691f8be64a4fafdf9e295ddaf5"
+        },
+        {
+          "name": "USD-20261003.metadata.json",
+          "bytes": 713,
+          "sha256": "e5a51d765c2968391dea6dba55ebed69daac567c04815df667bee2a15ef96e81"
+        },
+        {
+          "name": "USD-20261003.tsv",
+          "bytes": 540,
+          "sha256": "8706744866171e4384102218f65b1ae3ac6494e1fc00a229f41b554244a7a7ae"
+        },
+        {
+          "name": "USD-20261003.changes.json",
+          "bytes": 157,
+          "sha256": "38df52de49105caf7511b225ef6d28ab3bef117882b11c1f6c2587413ce48e15"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "AED",
+  "date": "2026-10-01",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "captured_at_utc": "2026-10-03T10:54:59.147Z",
+  "runs": {
+    "start": "2026-10-03T10:54:44.585Z",
+    "end": "2026-10-03T10:54:59.147Z"
+  },
+  "pages": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    19
+  ],
+  "raw_rows": 159,
+  "distinct_rows": 156,
+  "unique_five_prices": 6,
+  "same_second_conflicts": [],
+  "full_json_sha256": "3f98834f7d47fc29f8a5accf86be9c788ed0700ad451217dc6a07a367d8f0fd1",
+  "page_sha256": [
+    "46aff65ef6588d1e847df7f30b8e4c0f7c5156a2a0da9ce4d58e913e289a3d16",
+    "f0e4a584dc81180dce1ed5a2d5b331242ab9a2d127c3340719384bfe55de0e04",
+    "393977e7144b925640ec8cd0f4345a0907b045f504c5513812d968270df7ee79",
+    "7362696fff5caf1b0ef7bc4345657effd326ed8734fd55002b2f8dbc301f9fb8",
+    "f85cdb7f98410027c1c152b0f9bf0a5ccef3e2a8202db950613144133f002814",
+    "feb3f7d9c9aa2f9d5fa45be4a866186a729e296d570438520bd2f26992a2d58e",
+    "4d9a721578d09c695e02758e6a81b6566f73eaf1aa497b59638acd3fba689eeb",
+    "7d352392450c6891b5b167844f5cdbf949170de60ca94b943442906900add2e1"
+  ],
+  "tsv_sha256": "e1c7f4eb194a96621d25477efb9e1ed32cd43142819a8577db772b3c85b0afb4",
+  "newest": "2026/10/01 22:56:15",
+  "oldest": "2026/10/01 00:00:05"
+}
