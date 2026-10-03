@@ -1,0 +1,65 @@
+{
+  "format_version": 1,
+  "batch": "BOC-VND-ZAR-20260930",
+  "created_at_utc": "2026-10-03T09:28:45.657572+00:00",
+  "files": [
+    {
+      "filename": "VND-20260930.raw.json",
+      "size_bytes": 15885,
+      "sha256": "ff36e332d667a1b8f434f021d6e87efd24db8b1f445f705afa291bca94c5c7e7"
+    },
+    {
+      "filename": "VND-20260930.metadata.json",
+      "size_bytes": 3169,
+      "sha256": "5a55b2591937d8e1db470dd3701cd9bd50b1affc53e50352e1ec30e239253387"
+    },
+    {
+      "filename": "VND_2026-09-30_raw.tsv",
+      "size_bytes": 12475,
+      "sha256": "c6f6f65dc6b5642e029331fc4e19c24cd17f5962ff28a8b6087261d62b32e42a"
+    },
+    {
+      "filename": "ZAR-20260930.raw.json",
+      "size_bytes": 17397,
+      "sha256": "ab1930f2fe6ae6ca0a565c479f582711f92f9fcc3c9b9e1e75e64fb9e3830edc"
+    },
+    {
+      "filename": "ZAR-20260930.metadata.json",
+      "size_bytes": 3169,
+      "sha256": "834c83bb3afa11d62ae9f9255bb8e84b8a91c5d836689d4da76255d8830a51c6"
+    },
+    {
+      "filename": "ZAR_2026-09-30_raw.tsv",
+      "size_bytes": 13984,
+      "sha256": "48176447450f2190ee9dcc96ee23597285a3baeabacf13e251145917b559022e"
+    },
+    {
+      "filename": "batch-VND-ZAR-20260930.manifest.json",
+      "size_bytes": 6711,
+      "sha256": "c5c704a3bef544caf2f96f323f58b683cff4d96f3fa2e25f2ceba5747b3e82fb"
+    }
+  ],
+  "validation": [
+    {
+      "code": "VND",
+      "raw_rows": 224,
+      "distinct_rows": 221,
+      "pages": 12,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "code": "ZAR",
+      "raw_rows": 224,
+      "distinct_rows": 221,
+      "pages": 12,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
