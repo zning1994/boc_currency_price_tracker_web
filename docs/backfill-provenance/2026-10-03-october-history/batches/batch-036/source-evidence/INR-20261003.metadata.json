@@ -1,0 +1,42 @@
+{
+  "code": "INR",
+  "date": "2026-10-03",
+  "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+  "is_intraday_snapshot": true,
+  "newest": "2026/10/03 10:30:00",
+  "oldest": "2026/10/03 00:00:05",
+  "raw_json": "INR-20261003.raw.json",
+  "bytes": 712,
+  "sha256": "9d4d661398ce6a429aca8981acf24211f984454251c47a076904abd45c00c9f0",
+  "raw_tsv": "INR_2026-10-03_raw.tsv",
+  "tsv_sha256": "54710836608d93a4d7d6a814b2d0d70ad90565143eb81116985090956b63c3dd",
+  "capture_window_utc": [
+    "2026-10-03T13:25:24.960Z",
+    "2026-10-03T13:25:24.960Z"
+  ],
+  "captured_at_utc": "2026-10-03T13:25:24.960Z",
+  "pages": 1,
+  "page_counts": [
+    7
+  ],
+  "raw_rows": 7,
+  "distinct_rows": 4,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "9d4d661398ce6a429aca8981acf24211f984454251c47a076904abd45c00c9f0",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "0a4b2113f94e7fb6b8e18e85a4bb2ba261757ef38ce58cf8b5ab746375d55d0f"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "AUD-20261003.raw.json",
+    "sha256": "019e0f8f48e9e20216394b6fd151951fdee661a9d20a1515b427d68a5d3536ce"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "9957c666ea5ea33176c67f1ad7d5128080130011a69b22b6078b03d3b1b8dc74",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
