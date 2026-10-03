@@ -19746,6 +19746,35 @@
       "archive_sha256": "5e91b5dfd22a8e79500d25dbfb4acfae816bbd898ec32a1c4130d2d5823f5497"
     },
     {
+      "code": "THB",
+      "date": "2026-09-21",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "91e5b0c9f7d0cc9461e9efed999dad021a368338b967084436c22415207612be",
+      "captured_at_utc": "2026-10-03T02:28:35.103Z",
+      "total_pages": 10,
+      "actual_pages": 10,
+      "raw_rows": 192,
+      "unique_timestamps": 188,
+      "first_publish_date": "2026.09.21 00:00:05",
+      "last_publish_date": "2026.09.21 23:55:17",
+      "stored_rows_after_price_dedup": 57,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        12
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/THB/20260921.json",
+      "capture_path": "raw/THB-20260921.raw.json",
+      "archive_sha256": "74f12acad3f9686fd27acec1c6002e1924819650078b17e2b5f97525bddd16fe"
+    },
+    {
       "code": "TRY",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -20226,6 +20255,35 @@
       "archive_sha256": "38fd52a78fa5d0eb33065e17c2a2d5d097db5f0eab27687cfa6ff367301ff003"
     },
     {
+      "code": "TRY",
+      "date": "2026-09-21",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "bf05f1d0efd9c83e06472595bd4396af4b01b6879329fcc9005eff10d007678b",
+      "captured_at_utc": "2026-10-03T02:28:43.873Z",
+      "total_pages": 10,
+      "actual_pages": 10,
+      "raw_rows": 192,
+      "unique_timestamps": 188,
+      "first_publish_date": "2026.09.21 00:00:05",
+      "last_publish_date": "2026.09.21 23:55:17",
+      "stored_rows_after_price_dedup": 8,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        12
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/TRY/20260921.json",
+      "capture_path": "raw/TRY-20260921.raw.json",
+      "archive_sha256": "1f0c08d0aea9b0159d90848fc7b12312bb607859c6c7e6dbdcd4238c3ff80388"
+    },
+    {
       "code": "TWD",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -20704,6 +20762,35 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260920.json",
       "capture_path": "raw/TWD-20260920.raw.json",
       "archive_sha256": "38e7425b750709925bbde417000470b206d6277732974c657076919e2520ec43"
+    },
+    {
+      "code": "TWD",
+      "date": "2026-09-21",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "a197575e7c672d92acca90cec1d05d9e0c30d3392993c3d4c555c5376803d6fa",
+      "captured_at_utc": "2026-10-03T02:28:53.094Z",
+      "total_pages": 10,
+      "actual_pages": 10,
+      "raw_rows": 192,
+      "unique_timestamps": 188,
+      "first_publish_date": "2026.09.21 00:00:05",
+      "last_publish_date": "2026.09.21 23:55:17",
+      "stored_rows_after_price_dedup": 71,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        12
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/TWD/20260921.json",
+      "capture_path": "raw/TWD-20260921.raw.json",
+      "archive_sha256": "7472a16b08240bc22f14bf05ed3007ef9be9019f6133a64cd25ee7495fbd5200"
     },
     {
       "code": "USD",
@@ -22448,7 +22535,7 @@
       "archive_sha256": "c5ec86d1a8670b5f6f85c856bc7f1d0d100ecdfd5275263016136397ce089633"
     }
   ],
-  "completed_pairs": 787,
+  "completed_pairs": 790,
   "planned_pairs": 1080,
-  "remaining_pairs": 293
+  "remaining_pairs": 290
 }
