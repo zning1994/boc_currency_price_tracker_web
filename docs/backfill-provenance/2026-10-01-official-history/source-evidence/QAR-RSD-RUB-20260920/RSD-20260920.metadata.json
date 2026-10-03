@@ -1,0 +1,34 @@
+{
+  "code": "RSD",
+  "raw_json": "/workspace/shared/boc-cloud-test/RSD-20260920.raw.json",
+  "bytes": 777,
+  "sha256": "46f47f8eb9711a9767065108666ed48aeecb71cb79a238907920339371627a8d",
+  "raw_tsv": "/workspace/shared/boc-cloud-test/RSD_2026-09-20_raw.tsv",
+  "tsv_sha256": "6f6639e0423d68d77ed94e1aad4c60a536a56d6aa84d913b386e527d9c73d88f",
+  "capture_window_utc": [
+    "2026-10-03T01:36:02.049Z",
+    "2026-10-03T01:36:02.049Z"
+  ],
+  "captured_at_utc": "2026-10-03T01:36:02.049Z",
+  "pages": 1,
+  "page_counts": [
+    7
+  ],
+  "raw_rows": 7,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "46f47f8eb9711a9767065108666ed48aeecb71cb79a238907920339371627a8d",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "ef361db7f3c5c60eec7721f29fe382ca0add442d81d390886749d20602839abf"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260920.raw.json",
+    "sha256": "504ebea85593c5eb3f92cc35801eb705353b7886cc1d6ac3dca3ef633fc35b96"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON."
+}
