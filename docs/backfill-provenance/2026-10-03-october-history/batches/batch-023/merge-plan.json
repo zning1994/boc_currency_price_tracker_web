@@ -1,0 +1,100 @@
+{
+  "batch": "batch-023",
+  "base_head": "2646439476a049acda3faf6c2ff7e23936ebff87",
+  "source_dir": "october-source-batch023",
+  "source_coverage": 71,
+  "remaining": 64,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "KZT",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "476ac7af8aeb101fc518e52395a0edba5dcee1bb5aa911b0b2f35c1d72a10f4c",
+      "source_sha256": "3ab12f8b55ff8b389207d050e2c59479bd67ad876903745b6415db1cea084283",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 7,
+      "result_rows": 9,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "KZT",
+          "spot_exchange_buying_price": 1.47,
+          "cash_buying_price": 1.47,
+          "spot_selling_price": 1.53,
+          "cash_selling_price": 1.53,
+          "bank_of_china_conversion_price": 1.53,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "MNT",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "9806818f11c4bd7ae3fe2b8eb48acc1599a3df45e75057250ff2f58c287ffdeb",
+      "source_sha256": "0174bcee3de1f02655977bc91e6b43242a13bdc2186271c267aaeaf858d79b3e",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 3,
+      "result_rows": 5,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "MNT",
+          "spot_exchange_buying_price": 0.1734,
+          "cash_buying_price": 0.1734,
+          "spot_selling_price": 0.1994,
+          "cash_selling_price": 0.1994,
+          "bank_of_china_conversion_price": 0.1864,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "MOP",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "0a94e332f795512e74f833ef519bbdfedb6f4667d42057ec56bf81d795697b6b",
+      "source_sha256": "13b6b87220c31b6f250bfbe91636f41020d95e2db56e40fd8d58227bf8ae0a4c",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 179,
+      "existing_rows": 13,
+      "result_rows": 23,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "MOP",
+          "spot_exchange_buying_price": 82.85,
+          "cash_buying_price": 82.85,
+          "spot_selling_price": 83.23,
+          "cash_selling_price": 83.23,
+          "bank_of_china_conversion_price": 83.3,
+          "publish_date": "2026.10.02 18:31:19",
+          "publish_at_utc": "2026-10-02T10:31:19Z",
+          "publish_at_local": "2026-10-02T18:31:19+08:00"
+        },
+        {
+          "currency_name": "MOP",
+          "spot_exchange_buying_price": 82.85,
+          "cash_buying_price": 82.85,
+          "spot_selling_price": 83.23,
+          "cash_selling_price": 83.23,
+          "bank_of_china_conversion_price": 83.3,
+          "publish_date": "2026.10.02 20:31:12",
+          "publish_at_utc": "2026-10-02T12:31:12Z",
+          "publish_at_local": "2026-10-02T20:31:12+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    }
+  ]
+}

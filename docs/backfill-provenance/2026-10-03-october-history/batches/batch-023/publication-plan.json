@@ -1,0 +1,18 @@
+{
+  "base_main_sha": "2646439476a049acda3faf6c2ff7e23936ebff87",
+  "batch": "batch-023",
+  "source_coverage": 71,
+  "remaining": 64,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/KZT/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/MNT/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/MOP/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}
