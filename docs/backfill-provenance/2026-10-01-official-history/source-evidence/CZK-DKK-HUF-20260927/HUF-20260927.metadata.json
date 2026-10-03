@@ -1,0 +1,37 @@
+{
+  "code": "HUF",
+  "raw_json": "HUF-20260927.raw.json",
+  "bytes": 715,
+  "sha256": "27f19283fe1ae3c800360bacfd71417ae1706ec8b43448e050b64b7a48beb551",
+  "raw_tsv": "HUF_2026-09-27_raw.tsv",
+  "tsv_sha256": "d0cb4a80c6b89ce40d71be6dd31e6222bd57c9d11e70ae7b928623fdfe5d58a1",
+  "capture_window_utc": [
+    "2026-10-03T06:36:16.325Z",
+    "2026-10-03T06:36:16.325Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:36:16.325Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "27f19283fe1ae3c800360bacfd71417ae1706ec8b43448e050b64b7a48beb551",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "25557fa7eabbfc9726b5e5f638acdc1760bf82d7a48c60e6d1b8f68db8beaffb"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": {
+    "filename": "BND-20260927.raw.json",
+    "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b"
+  },
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "001cc18b44e91ff93760d584d69173d6bf0b917be7e31eb87f61f11b18d84e9a",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
