@@ -1,0 +1,34 @@
+{
+  "code": "BND",
+  "raw_json": "BND-20260927.raw.json",
+  "bytes": 613,
+  "sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b",
+  "raw_tsv": "BND_2026-09-27_raw.tsv",
+  "tsv_sha256": "5b121c71181724b92bbe6982344a3d3d8ef11dc3762500ad5e9c4d598d076964",
+  "capture_window_utc": [
+    "2026-10-03T06:34:52.016Z",
+    "2026-10-03T06:34:52.016Z"
+  ],
+  "captured_at_utc": "2026-10-03T06:34:52.016Z",
+  "pages": 1,
+  "page_counts": [
+    6
+  ],
+  "raw_rows": 6,
+  "distinct_rows": 3,
+  "same_second_conflicts": {},
+  "original_browser_json_sha256": "a910e5d9cbf28f1bfaa61dde5c10d17737080001bddabd53ad50418eda95698b",
+  "original_browser_full_json_sha256_match": true,
+  "page_sha256": [
+    {
+      "page": 1,
+      "sha256": "c50d884ff9f672fed76414e1bd113ac3a5cc74cb8aa1ac0c82358ed37c4a0d9d"
+    }
+  ],
+  "timestamps": "All timestamps independently read from this currency UI. Reference reused only for lossless storage after exact per-row timestamp equality verified in browser, either full sequence or explicit reference ranges; otherwise actual timestamps explicitly exported. Final JSON is standalone. No source values inferred.",
+  "reference_for_lossless_storage": null,
+  "method": "Normal UI query and pagination, read-only DOM extraction via mcp__cua_repl in dot Chrome CDP browser. All rows, empty cells, decimal strings, page boundaries and duplicate rows retained. Pure-JavaScript SHA-256 over original browser JSON matches Python hashlib over restored full JSON.",
+  "original_browser_page_sha256_list_sha256": "79bc53e7e6481906d55120e91bc8a6ff1dafd689ac48c051fc5d8d6d949c2263",
+  "original_browser_all_page_sha256_match": true,
+  "tsv_roundtrip_matches_raw_rows": true
+}
