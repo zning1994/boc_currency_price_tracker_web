@@ -10303,35 +10303,35 @@
       "name": "越南盾",
       "date": "2026-09-23",
       "archive_path": "docs/BOC_CURRENCY_PRICE/VND/20260923.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/VND-20260923.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "ZAR",
       "name": "南非兰特",
       "date": "2026-09-23",
       "archive_path": "docs/BOC_CURRENCY_PRICE/ZAR/20260923.json",
-      "status": "validated",
+      "status": "published",
       "capture_path": "raw/ZAR-20260923.raw.json",
       "priority_group": "remaining",
       "captured": true,
       "validated": true,
-      "published": false
+      "published": true
     },
     {
       "code": "BND",
       "name": "文莱元",
       "date": "2026-09-24",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BND/20260924.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BND-20260924.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -10339,11 +10339,11 @@
       "name": "巴西雷亚尔",
       "date": "2026-09-24",
       "archive_path": "docs/BOC_CURRENCY_PRICE/BRL/20260924.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/BRL-20260924.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -10351,11 +10351,11 @@
       "name": "瑞士法郎",
       "date": "2026-09-24",
       "archive_path": "docs/BOC_CURRENCY_PRICE/CHF/20260924.json",
-      "status": "pending",
-      "capture_path": null,
+      "status": "validated",
+      "capture_path": "raw/CHF-20260924.raw.json",
       "priority_group": "remaining",
-      "captured": false,
-      "validated": false,
+      "captured": true,
+      "validated": true,
       "published": false
     },
     {
@@ -13019,10 +13019,10 @@
       "pending": 0
     },
     "remaining": {
-      "captured": 640,
-      "validated": 640,
-      "published": 638,
-      "pending": 224
+      "captured": 643,
+      "validated": 643,
+      "published": 640,
+      "pending": 221
     }
   },
   "priority_codes": [
