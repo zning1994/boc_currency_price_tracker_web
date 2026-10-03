@@ -1,0 +1,77 @@
+{
+  "batch": "batch-019",
+  "base_head": "c6e6703720eb8392b34402f888f88ae170eba819",
+  "source_dir": "october-source-batch019",
+  "source_coverage": 59,
+  "remaining": 76,
+  "backed_up_pairs": 135,
+  "full_member_page_tsv_verified": true,
+  "planned_pairs": [
+    {
+      "code": "DKK",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "48dede987c5379c750c76974647259ba9f5e738256ce78ea43c0adeab8f3a0f6",
+      "source_sha256": "a7adc5b216989bcf775123a55f444a1b247007917b77a7c8c5db77fd7ed16822",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 74,
+      "result_rows": 147,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "DKK",
+          "spot_exchange_buying_price": 100.66,
+          "cash_buying_price": 100.66,
+          "spot_selling_price": 101.46,
+          "cash_selling_price": 101.46,
+          "bank_of_china_conversion_price": 101.95,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "EUR",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "125ff0f6438f9a528d1ffad1449c7f638dd5673437ccd0fa2da26fc584d677e3",
+      "source_sha256": "8d1fd5c1b5bf03cc80800b4b93475ccacaba9f3b6773a1ca06be920074f135c0",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 73,
+      "result_rows": 145,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [
+        {
+          "currency_name": "EUR",
+          "spot_exchange_buying_price": 752.79,
+          "cash_buying_price": 752.79,
+          "spot_selling_price": 758.3,
+          "cash_selling_price": 758.3,
+          "bank_of_china_conversion_price": 762.15,
+          "publish_date": "2026.10.02 14:06:18",
+          "publish_at_utc": "2026-10-02T06:06:18Z",
+          "publish_at_local": "2026-10-02T14:06:18+08:00"
+        }
+      ],
+      "same_second_conflicts": []
+    },
+    {
+      "code": "GBP",
+      "day": "20261002",
+      "changed": true,
+      "result_sha256": "5560178dc415cbda342dc0f5869a9ecedd3c57b651770dd8a55b21992c4b5268",
+      "source_sha256": "b7df4ab6f90d918d6da8b05cc312a5410b271198948cc0f353dd2dc5ec1f0eea",
+      "cutoff": "2026.10.02 22:45:39",
+      "source_raw_rows": 178,
+      "existing_rows": 79,
+      "result_rows": 155,
+      "preserved_post_cutoff_raw_rows": 0,
+      "removed_existing_rows_after_price_compression": [],
+      "same_second_conflicts": []
+    }
+  ]
+}
