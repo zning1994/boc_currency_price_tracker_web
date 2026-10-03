@@ -1,0 +1,41 @@
+{
+  "reports": [
+    {
+      "code": "CZK",
+      "raw_sha256": "1bdeb801ab0df9eb6b0a9c08a037a8c8524a8a6948f204fdc15b5657d90a92c6",
+      "pages": 13,
+      "raw_rows": 257,
+      "stored_rows": 109,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "DKK",
+      "raw_sha256": "b6e00f0ee6a629f22422b7b94323b6bb2cd63c2c7415a4b1f5ab5b79993248fd",
+      "pages": 13,
+      "raw_rows": 257,
+      "stored_rows": 192,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "HUF",
+      "raw_sha256": "377f139fbc464f0a635d744e66c30b7b3e0527375554b8e4d29ae96c6bc35d3e",
+      "pages": 13,
+      "raw_rows": 255,
+      "stored_rows": 231,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "3ba4f3a3f8279d263e8ab1bb11193e619f8bf24d67e036b9d376dc2b40ef0f2f"
+}
