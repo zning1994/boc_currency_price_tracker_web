@@ -1,0 +1,41 @@
+{
+  "reports": [
+    {
+      "code": "SAR",
+      "raw_sha256": "e74af255df0b5ed2a4783aac3d0314014f9655a03ddbb6290975dc37d66a71f1",
+      "pages": 13,
+      "raw_rows": 247,
+      "stored_rows": 101,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "SEK",
+      "raw_sha256": "0e88d983de01a376a026921661916e20544c7277483aef1d2afcb87ee4dc1308",
+      "pages": 13,
+      "raw_rows": 247,
+      "stored_rows": 175,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    },
+    {
+      "code": "SGD",
+      "raw_sha256": "dc0e1fa6683a89e861c2912eec20c3688a2af5498d3d21c1159964d93ee087e6",
+      "pages": 13,
+      "raw_rows": 247,
+      "stored_rows": 204,
+      "browser_full_sha_matches": true,
+      "browser_all_page_sha_matches": true,
+      "browser_page_sha256_list_matches": true,
+      "tsv_roundtrip_byte_identical": true,
+      "captured_at_unchanged": true
+    }
+  ],
+  "batch_sha256": "b1d0d08e0c30c57a1252da927b38ecff1d019d1669bcc1e0196347f83c8c31c8"
+}
