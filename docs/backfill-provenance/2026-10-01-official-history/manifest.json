@@ -17458,6 +17458,38 @@
       "archive_sha256": "90c1e382cd40a67d4fe14eccf863a500de4ff3851de7c4e4c5c2ec9285acfd4a"
     },
     {
+      "code": "MYR",
+      "date": "2026-09-29",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "510490e4d7cf913ff3a11a53d3e77d64a70ad271e157e8dbc40761bc43dc3bfe",
+      "captured_at_utc": "2026-10-03T08:28:12.383Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 248,
+      "unique_timestamps": 245,
+      "first_publish_date": "2026.09.29 00:00:05",
+      "last_publish_date": "2026.09.29 23:46:03",
+      "stored_rows_after_price_dedup": 88,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        8
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/MYR/20260929.json",
+      "capture_path": "raw/MYR-20260929.raw.json",
+      "archive_sha256": "34c774d16b018cb4455fef05edc1deeff9efdd0809f182a54b101907e69852a5"
+    },
+    {
       "code": "NOK",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -18177,6 +18209,38 @@
       "archive_sha256": "7db54d94488053dc1c1876aa1836fb88d28df686cea2c326b0729189386869c7"
     },
     {
+      "code": "NOK",
+      "date": "2026-09-29",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "0df2f2ed534d411ed4c8e7c6d7302db44283c8ad0cb2c8577b34c3a90ef7e40e",
+      "captured_at_utc": "2026-10-03T08:28:24.703Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 250,
+      "unique_timestamps": 247,
+      "first_publish_date": "2026.09.29 00:00:05",
+      "last_publish_date": "2026.09.29 23:46:03",
+      "stored_rows_after_price_dedup": 178,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        10
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NOK/20260929.json",
+      "capture_path": "raw/NOK-20260929.raw.json",
+      "archive_sha256": "7185070cf0ccb199027469a59f4985e38fc95150909d049c2e78b42e965cbece"
+    },
+    {
       "code": "NPR",
       "date": "2026-09-04",
       "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
@@ -18894,6 +18958,38 @@
       "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260928.json",
       "capture_path": "raw/NPR-20260928.raw.json",
       "archive_sha256": "3f6c8707454ca9c6c964ab697eeb5d6f1cc88898ba994f3f45b352a259f61aa3"
+    },
+    {
+      "code": "NPR",
+      "date": "2026-09-29",
+      "source": "https://www.boc.cn/sourcedb/whpjSearch/index.html",
+      "capture_sha256": "4c5f9f551a8880c842edce7ef3cdcf663748827fdeb9b58105d42f6909bec2bd",
+      "captured_at_utc": "2026-10-03T08:28:36.186Z",
+      "total_pages": 13,
+      "actual_pages": 13,
+      "raw_rows": 250,
+      "unique_timestamps": 247,
+      "first_publish_date": "2026.09.29 00:00:05",
+      "last_publish_date": "2026.09.29 23:46:03",
+      "stored_rows_after_price_dedup": 114,
+      "page_row_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        10
+      ],
+      "archive_path": "docs/BOC_CURRENCY_PRICE/NPR/20260929.json",
+      "capture_path": "raw/NPR-20260929.raw.json",
+      "archive_sha256": "856e8eb83b5dad95d35fa03f279409e6d492de07dacc954d3ebffb879b08b0a9"
     },
     {
       "code": "NZD",
@@ -29709,7 +29805,7 @@
       "archive_sha256": "6c760b8b38cea1a5e219fa6d675bb813dc5432c14b454dcbbd6a0a729737b473"
     }
   ],
-  "completed_pairs": 1031,
+  "completed_pairs": 1034,
   "planned_pairs": 1080,
-  "remaining_pairs": 49
+  "remaining_pairs": 46
 }
