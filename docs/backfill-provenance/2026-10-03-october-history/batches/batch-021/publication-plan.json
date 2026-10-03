@@ -1,0 +1,17 @@
+{
+  "base_main_sha": "b138b183158109103bddb3da9d84220a6b3ffa08",
+  "batch": "batch-021",
+  "source_coverage": 65,
+  "remaining": 70,
+  "updated_paths": [
+    "docs/BOC_CURRENCY_PRICE/ILS/20261002.json",
+    "docs/BOC_CURRENCY_PRICE/JPY/20261002.json"
+  ],
+  "verified_pairs": 3,
+  "tests": {
+    "merge_safety": 6,
+    "backfill": 8,
+    "history_dedup": 3
+  },
+  "october_3_status": "observation snapshot, not completed day"
+}

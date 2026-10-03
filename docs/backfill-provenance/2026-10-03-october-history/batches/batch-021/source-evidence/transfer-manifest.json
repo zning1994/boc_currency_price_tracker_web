@@ -1,0 +1,105 @@
+{
+  "format_version": 1,
+  "scope": "Authorized October 1-3 manual history backfill source evidence; October 3 is an intraday observation snapshot, not a completed full day. Separate from September completed history.",
+  "batch": "BOC-ILS-INR-JPY-20261002",
+  "created_at_utc": "2026-10-03T12:34:50.583479+00:00",
+  "files": [
+    {
+      "filename": "ILS-20261002.raw.json",
+      "size_bytes": 14295,
+      "sha256": "5b644df06203c9b2142855cd986040b66df25d9e65523fc1002372f4522ed984"
+    },
+    {
+      "filename": "ILS-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "a1341e85b9535886865927635d3af70ef3359b3db1d1d3218287f5fa4285ffab"
+    },
+    {
+      "filename": "ILS_2026-10-02_raw.tsv",
+      "size_bytes": 11526,
+      "sha256": "abe417d9a37d402bfeb53ba76f29b9ba740225ba7a55ea8a58c97895daf5f92a"
+    },
+    {
+      "filename": "INR-20261002.raw.json",
+      "size_bytes": 13256,
+      "sha256": "fb7b8ee8c73af5ae72acfea24130bd2e202ac0ee5e3844e059badd8885e7f0db"
+    },
+    {
+      "filename": "INR-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "4b9b56059d0a987b0f82f16aa387a5e584d5773e4a66d3b1d778ae6a2e00d579"
+    },
+    {
+      "filename": "INR_2026-10-02_raw.tsv",
+      "size_bytes": 10493,
+      "sha256": "482d54f6b1242ad3c3ed066f8fe5ecfdf6c1f752eb792bc66b7c3b2c409276e4"
+    },
+    {
+      "filename": "JPY-20261002.raw.json",
+      "size_bytes": 14252,
+      "sha256": "9af8cc424b532b4237df60e11a48757c88cd4b3d62c18d60fe5454a4ec503422"
+    },
+    {
+      "filename": "JPY-20261002.metadata.json",
+      "size_bytes": 2995,
+      "sha256": "bc8c626fc109f3d7033f570d425cdad41c16782da10b763941e31ab9a5844379"
+    },
+    {
+      "filename": "JPY_2026-10-02_raw.tsv",
+      "size_bytes": 11495,
+      "sha256": "76b92641b1b090a3fa1b65fd9ac3bd627ea9098d024787b4797922eaa1bb72be"
+    },
+    {
+      "filename": "batch-ILS-INR-JPY-20261002.manifest.json",
+      "size_bytes": 9483,
+      "sha256": "5b28ce6bba6ac70a228f9bedfe0a345ce07089840a757d11b6c6f6cbcc40fc81"
+    }
+  ],
+  "validation": [
+    {
+      "date": "2026-10-02",
+      "code": "ILS",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:32:31.432Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-02",
+      "code": "INR",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:33:31.673Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    },
+    {
+      "date": "2026-10-02",
+      "code": "JPY",
+      "is_intraday_snapshot": false,
+      "captured_at_utc": "2026-10-03T12:34:20.943Z",
+      "newest": "2026/10/02 22:45:39",
+      "oldest": "2026/10/02 00:00:05",
+      "raw_rows": 179,
+      "distinct_rows": 176,
+      "pages": 9,
+      "same_second_conflicts": 0,
+      "schema_tsv_exact_match": true,
+      "browser_full_and_page_hashes_match": true
+    }
+  ],
+  "original_bytes_unchanged": true,
+  "browser_sha_evidence_location": "Embedded in each original metadata JSON and original batch manifest; independently recaptured conflict review originals included when conflicts exist",
+  "payload_scope": "Only this batch raw JSON, source TSV, metadata, manifests and independently recaptured conflict-review originals when required. No other currency files, temporary transcription or credentials."
+}
